@@ -1,4 +1,4 @@
-drop table datasets, description;
+drop table if exists datasets, description;
 
 CREATE TABLE description(
 	set_id serial not null unique,
