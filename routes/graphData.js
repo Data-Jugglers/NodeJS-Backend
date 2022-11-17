@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const graphData = require("../models/graphData_model");
+const graphData = require("../models/v1_data_model");
 
 // GET method to retrieve data by set_id
 // Returns Array that contains arrays of objects.
