@@ -2,46 +2,52 @@ const db = require("../config/db");
 const helper = require("../config/helper");
 
 // importing all the dataset's as JSON
-const V1Gm = require("../files_output/V1Gm.json");
-const V1Gy = require("../files_output/V1Gy.json");
-const V1Nm = require("../files_output/V1Nm.json");
-const V1Ny = require("../files_output/V1Ny.json");
-const V1Sm = require("../files_output/V1Sm.json");
-const V1Sy = require("../files_output/V1Sy.json");
-const V1Desc = require("../files_output/V1Desc.json");
+const V1Gm = require("../files_output/V1/V1Gm.json");
+const V1Gy = require("../files_output/V1/V1Gy.json");
+const V1Nm = require("../files_output/V1/V1Nm.json");
+const V1Ny = require("../files_output/V1/V1Ny.json");
+const V1Sm = require("../files_output/V1/V1Sm.json");
+const V1Sy = require("../files_output/V1/V1Sy.json");
+const SET_ID = [1, 2, 3, 4, 5, 6];
+const V1Desc = require("../files_output/V1/V1Desc.json");
 
-// get all the graph data by set_id sorted by date
-// (1= v1, global, months)
-// (2= v1, northern, months)
-const getGraphData = async (set_id) => {
-  const result = await db.query(
-    "selecT * from datasets where set_id=$1 order by measurement_date asc",
-    [set_id]
+// Gett all Graph data for v1. Array of object arrays.
+// index 0 = GlobalMonthly; index 1 = NorthernMonthly; ...; index 6 = SouthernYearly; index 7 = links+description
+const getV1Data = async () => {
+  let allResults = [];
+  for (let i = 0; i < SET_ID.length; i++) {
+    const result = await db.query(
+      "select * from datasets where set_id=$1 order by measurement_date asc",
+      [SET_ID[i]]
+    );
+    allResults.push(result.rows);
+  }
+  const description = await db.query(
+    "select * from description where set_id=$1",
+    [SET_ID[0]]
   );
-  return helper.emptyOrNot(result.rows);
+  allResults.push(description.rows);
+  return helper.emptyOrNot(allResults);
 };
 
 // function that loops through all JSON files for v1 and inputs them to the database
-const setV1Components = async (gm, gy, nm, ny, sm, sy) => {
-  const dataArray = [gm, nm, sm, gy, ny, sy];
+const setV1Components = async () => {
+  const dataArray = [V1Gm, V1Nm, V1Sm, V1Gy, V1Ny, V1Sy];
   for (let i = 0; i < dataArray.length; i++) {
     const element = dataArray[i];
     await db.query(
-      "insert into description (source_link, description_link, description) values($1,$2,$3)",
+      "insert into description (set_id, source_link, description_link, description) values($1,$2,$3,$4)",
       [
+        SET_ID[i],
         V1Desc.description.srcLink,
         V1Desc.description.desLink,
         V1Desc.description.des,
       ]
     );
-    const setId = await db.query(
-      "select set_id from description where source_link=$1",
-      [V1Desc.description.srcLink]
-    );
     element.data.map(async (set) => {
       await db.query(
         "insert into datasets (set_id, measurement_date, data) values ($1,$2,$3)",
-        [setId.rows[i].set_id, set.Time, set.degC]
+        [SET_ID[i], set.Time, set.degC]
       );
     });
   }
@@ -49,13 +55,13 @@ const setV1Components = async (gm, gy, nm, ny, sm, sy) => {
 
 // checks if the data was already inserted based on set_id
 // if not, calls the insert function
-const setV1 = async (set_id) => {
+const setV1 = async () => {
   const check = await db.query(
     "select * from datasets where set_id=$1 order by measurement_date asc",
-    [set_id]
+    [SET_ID[0]]
   );
   if (check.rows[0]) return "Already set";
-  return setV1Components(V1Gm, V1Gy, V1Nm, V1Ny, V1Sm, V1Sy);
+  return setV1Components();
 };
 
-module.exports = { getGraphData, setV1 };
+module.exports = { getV1Data, setV1 };
