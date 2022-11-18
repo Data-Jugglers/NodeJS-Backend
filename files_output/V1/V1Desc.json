@@ -2,6 +2,6 @@
   "description": {
     "srcLink": "https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html",
     "desLink": "https://www.metoffice.gov.uk/hadobs/hadcrut5/",
-    "des": "This is our description of the graph. You can toggle stuff. You can see three different data sets."
+    "des": "This graph shows the surface temperature anomalies in degree Celsius from January 1850 until present. Displayed are monthly and annual anomalies of the northern and southern hemisphere, as well as a global average which is derived from the first two."
   }
 }

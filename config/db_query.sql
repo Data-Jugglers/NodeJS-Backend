@@ -5,7 +5,7 @@ CREATE TABLE description(
 	primary key (set_id),
 	source_link varchar(256),
 	description_link varchar(256),
-	description varchar(256)
+	description varchar(1500)
 );
 CREATE TABLE datasets(
 	data_id serial not null unique,
