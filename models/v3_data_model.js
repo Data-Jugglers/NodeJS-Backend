@@ -4,7 +4,7 @@ const helper = require("../config/helper");
 // importing all the dataset's as JSON
 const V3y = require("../files_output/V3/V3y.json");
 const V3m = require("../files_output/V3/V3m.json");
-const SET_ID = [9, 10];
+const SET_ID = [8, 9];
 const V3Desc = require("../files_output/V3/V3Desc.json");
 
 // Gett all Graph data for v1. Array of object arrays.
