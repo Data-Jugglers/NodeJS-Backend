@@ -1,0 +1,7 @@
+{
+  "description": {
+    "srcLink": "https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html",
+    "desLink": "https://www.metoffice.gov.uk/hadobs/hadcrut5/",
+    "des": "This is our description of the graph. You can togggle stuff. You can see three different data sets."
+  }
+}
