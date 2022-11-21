@@ -1,7 +1,7 @@
 {
   "description": {
-    "srcLink": "https://www.metoffice.gov.uk/hadobs/hadcrut5/data/current/download.html",
-    "desLink": "https://www.metoffice.gov.uk/hadobs/hadcrut5/",
-    "des": "This is our description of the graph. You can togggle stuff. You can see three different data sets."
+    "srcLink": "https://gml.noaa.gov/ccgg/trends/data.html",
+    "desLink": "https://gml.noaa.gov/ccgg/about/co2_measurements.html",
+    "des": "This graph shows the Mauna LOA CO2 concentration measurements from March 1958 and onwards. Data is dispalyed in two formats i.e Global Yearly and Monthly"
   }
 }
