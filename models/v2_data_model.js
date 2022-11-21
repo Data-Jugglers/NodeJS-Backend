@@ -37,7 +37,7 @@ const setV2Components = async () => {
     const element = V2Data.data[i];
     await db.query(
       "insert into datasets (set_id, measurement_date, data) values ($1,$2,$3)",
-      [SET_ID, element.Year, element.T]
+      [SET_ID, element.Time, element.T]
     );
   }
 };
