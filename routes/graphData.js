@@ -3,6 +3,7 @@ const graphDataV1 = require("../models/v1_data_model");
 const graphDataV2 = require("../models/v2_data_model");
 const graphDataV5 = require("../models/v5_data_model");
 
+const graphDataV7 = require("../models/v7_data_model");
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
 // Response[0] = first dataset (GMonthly)  |  [1] = NM  |  [5] = SY  |  [6] = Links + Description
@@ -26,6 +27,14 @@ router.get("/v2", async (req, res, next) => {
 router.get("/v5", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV5.getV5Data());
+  } catch (error) {
+    next(error);
+  }
+});
+//v7
+router.get("/v7", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV7.getV7Data());
   } catch (error) {
     next(error);
   }
@@ -54,6 +63,13 @@ router.post("/v2", async (req, res, next) => {
 router.post("/v5", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV5.setV5());
+  } catch (error) {
+    next(error);
+  }
+});
+router.post("/v7", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV7.setV7());
   } catch (error) {
     next(error);
   }
