@@ -59,18 +59,18 @@ router.post("/v2", async (req, res, next) => {
     next(error);
   }
 });
-// v5
-router.post("/v5", async (req, res, next) => {
+// v3
+router.post("/v3", async (req, res, next) => {
   try {
-    res.status(200).json(await graphDataV5.setV5());
+    res.status(200).json(await graphDataV3.setV3());
   } catch (error) {
     next(error);
   }
 });
-
-router.post("/v3", async (req, res, next) => {
+// v5
+router.post("/v5", async (req, res, next) => {
   try {
-    res.status(200).json(await graphDataV3.setV3());
+    res.status(200).json(await graphDataV5.setV5());
   } catch (error) {
     next(error);
   }
