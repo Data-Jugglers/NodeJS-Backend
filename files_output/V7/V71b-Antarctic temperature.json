@@ -1,0 +1,3999 @@
+{
+    "data": [
+        {
+            "Time (yr BP)": 1000,
+            "Antarctic temperature change (\u00baC)": 0.108438582972947,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52277453091803
+        },
+        {
+            "Time (yr BP)": 2000,
+            "Antarctic temperature change (\u00baC)": 0.209664906352116,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52558022705089
+        },
+        {
+            "Time (yr BP)": 3000,
+            "Antarctic temperature change (\u00baC)": -0.0905961657189811,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51660603168278
+        },
+        {
+            "Time (yr BP)": 4000,
+            "Antarctic temperature change (\u00baC)": 0.188082964701135,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53674453199973
+        },
+        {
+            "Time (yr BP)": 5000,
+            "Antarctic temperature change (\u00baC)": 0.225929874691675,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53040744356695
+        },
+        {
+            "Time (yr BP)": 6000,
+            "Antarctic temperature change (\u00baC)": 0.442542432842237,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51551405374923
+        },
+        {
+            "Time (yr BP)": 7000,
+            "Antarctic temperature change (\u00baC)": -0.0231770063883453,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51827570248525
+        },
+        {
+            "Time (yr BP)": 8000,
+            "Antarctic temperature change (\u00baC)": -0.218377668875546,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53423995313121
+        },
+        {
+            "Time (yr BP)": 9000,
+            "Antarctic temperature change (\u00baC)": 0.283094296118062,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5225203961043
+        },
+        {
+            "Time (yr BP)": 10000,
+            "Antarctic temperature change (\u00baC)": 0.748918738284678,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51773157801216
+        },
+        {
+            "Time (yr BP)": 11000,
+            "Antarctic temperature change (\u00baC)": 0.670944056094706,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51082416955336
+        },
+        {
+            "Time (yr BP)": 12000,
+            "Antarctic temperature change (\u00baC)": -0.42326067650942,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64763289915562
+        },
+        {
+            "Time (yr BP)": 13000,
+            "Antarctic temperature change (\u00baC)": -2.75873358069951,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51332072526337
+        },
+        {
+            "Time (yr BP)": 14000,
+            "Antarctic temperature change (\u00baC)": -2.7273965342641,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5285394149202
+        },
+        {
+            "Time (yr BP)": 15000,
+            "Antarctic temperature change (\u00baC)": -2.86560391969162,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53779302985665
+        },
+        {
+            "Time (yr BP)": 16000,
+            "Antarctic temperature change (\u00baC)": -4.1876536536018,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5588010900988
+        },
+        {
+            "Time (yr BP)": 17000,
+            "Antarctic temperature change (\u00baC)": -6.60202570950104,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54230413065974
+        },
+        {
+            "Time (yr BP)": 18000,
+            "Antarctic temperature change (\u00baC)": -8.09660890775312,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52506442510618
+        },
+        {
+            "Time (yr BP)": 19000,
+            "Antarctic temperature change (\u00baC)": -8.51979224563061,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5205754148515
+        },
+        {
+            "Time (yr BP)": 20000,
+            "Antarctic temperature change (\u00baC)": -8.70139339499164,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50855843404418
+        },
+        {
+            "Time (yr BP)": 21000,
+            "Antarctic temperature change (\u00baC)": -9.01849516625449,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5134720400303
+        },
+        {
+            "Time (yr BP)": 22000,
+            "Antarctic temperature change (\u00baC)": -8.95104370192712,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50956648072126
+        },
+        {
+            "Time (yr BP)": 23000,
+            "Antarctic temperature change (\u00baC)": -8.75921363146599,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51867140523459
+        },
+        {
+            "Time (yr BP)": 24000,
+            "Antarctic temperature change (\u00baC)": -8.8037722983771,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53990038281335
+        },
+        {
+            "Time (yr BP)": 25000,
+            "Antarctic temperature change (\u00baC)": -9.161054467287,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51132933215253
+        },
+        {
+            "Time (yr BP)": 26000,
+            "Antarctic temperature change (\u00baC)": -9.21573826027549,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50881059965335
+        },
+        {
+            "Time (yr BP)": 27000,
+            "Antarctic temperature change (\u00baC)": -9.19740995308886,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53296877748855
+        },
+        {
+            "Time (yr BP)": 28000,
+            "Antarctic temperature change (\u00baC)": -8.34775052801626,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53413161799915
+        },
+        {
+            "Time (yr BP)": 29000,
+            "Antarctic temperature change (\u00baC)": -7.7232161328761,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51415483430416
+        },
+        {
+            "Time (yr BP)": 30000,
+            "Antarctic temperature change (\u00baC)": -8.44251692250587,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56058323517565
+        },
+        {
+            "Time (yr BP)": 31000,
+            "Antarctic temperature change (\u00baC)": -8.46931875491172,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51863111926878
+        },
+        {
+            "Time (yr BP)": 32000,
+            "Antarctic temperature change (\u00baC)": -7.7312058615009,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53946403161035
+        },
+        {
+            "Time (yr BP)": 33000,
+            "Antarctic temperature change (\u00baC)": -8.14851551700325,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5974458182508
+        },
+        {
+            "Time (yr BP)": 34000,
+            "Antarctic temperature change (\u00baC)": -8.0935200327445,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.527154641231
+        },
+        {
+            "Time (yr BP)": 35000,
+            "Antarctic temperature change (\u00baC)": -7.1311696414763,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51493722196293
+        },
+        {
+            "Time (yr BP)": 36000,
+            "Antarctic temperature change (\u00baC)": -7.54262567182914,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51532691159286
+        },
+        {
+            "Time (yr BP)": 37000,
+            "Antarctic temperature change (\u00baC)": -7.2202089278437,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52935458310752
+        },
+        {
+            "Time (yr BP)": 38000,
+            "Antarctic temperature change (\u00baC)": -5.87837703343761,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54011851039449
+        },
+        {
+            "Time (yr BP)": 39000,
+            "Antarctic temperature change (\u00baC)": -6.09624335702675,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55945700889357
+        },
+        {
+            "Time (yr BP)": 40000,
+            "Antarctic temperature change (\u00baC)": -7.41669268206477,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52618404206244
+        },
+        {
+            "Time (yr BP)": 41000,
+            "Antarctic temperature change (\u00baC)": -7.37523296210406,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54282902467366
+        },
+        {
+            "Time (yr BP)": 42000,
+            "Antarctic temperature change (\u00baC)": -7.56958812319547,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53136323453524
+        },
+        {
+            "Time (yr BP)": 43000,
+            "Antarctic temperature change (\u00baC)": -6.6785167229365,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52243413846185
+        },
+        {
+            "Time (yr BP)": 44000,
+            "Antarctic temperature change (\u00baC)": -7.1038927247112,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52357821719604
+        },
+        {
+            "Time (yr BP)": 45000,
+            "Antarctic temperature change (\u00baC)": -6.58820043183111,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55335067834025
+        },
+        {
+            "Time (yr BP)": 46000,
+            "Antarctic temperature change (\u00baC)": -5.1488947634457,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54225228331129
+        },
+        {
+            "Time (yr BP)": 47000,
+            "Antarctic temperature change (\u00baC)": -5.27024644153078,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53847020951398
+        },
+        {
+            "Time (yr BP)": 48000,
+            "Antarctic temperature change (\u00baC)": -6.35682343248539,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56075756719392
+        },
+        {
+            "Time (yr BP)": 49000,
+            "Antarctic temperature change (\u00baC)": -6.7356662728821,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51400894131695
+        },
+        {
+            "Time (yr BP)": 50000,
+            "Antarctic temperature change (\u00baC)": -6.64273283803725,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51113378352138
+        },
+        {
+            "Time (yr BP)": 51000,
+            "Antarctic temperature change (\u00baC)": -6.31776229924856,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51295994948522
+        },
+        {
+            "Time (yr BP)": 52000,
+            "Antarctic temperature change (\u00baC)": -5.67169810324343,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51409390003693
+        },
+        {
+            "Time (yr BP)": 53000,
+            "Antarctic temperature change (\u00baC)": -5.34057446291054,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53682464016285
+        },
+        {
+            "Time (yr BP)": 54000,
+            "Antarctic temperature change (\u00baC)": -5.51301654886763,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52222573581183
+        },
+        {
+            "Time (yr BP)": 55000,
+            "Antarctic temperature change (\u00baC)": -6.0419881681152,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5416417802376
+        },
+        {
+            "Time (yr BP)": 56000,
+            "Antarctic temperature change (\u00baC)": -6.68424670865156,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52505609937262
+        },
+        {
+            "Time (yr BP)": 57000,
+            "Antarctic temperature change (\u00baC)": -5.69542142333681,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55194877445045
+        },
+        {
+            "Time (yr BP)": 58000,
+            "Antarctic temperature change (\u00baC)": -5.2236455474288,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54753531877614
+        },
+        {
+            "Time (yr BP)": 59000,
+            "Antarctic temperature change (\u00baC)": -4.86869498594705,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50985824630812
+        },
+        {
+            "Time (yr BP)": 60000,
+            "Antarctic temperature change (\u00baC)": -5.54936988986566,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53076395061733
+        },
+        {
+            "Time (yr BP)": 61000,
+            "Antarctic temperature change (\u00baC)": -6.18288995912538,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51103186389195
+        },
+        {
+            "Time (yr BP)": 62000,
+            "Antarctic temperature change (\u00baC)": -6.88422066126127,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52358849505414
+        },
+        {
+            "Time (yr BP)": 63000,
+            "Antarctic temperature change (\u00baC)": -7.69221561771096,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51794650895585
+        },
+        {
+            "Time (yr BP)": 64000,
+            "Antarctic temperature change (\u00baC)": -7.17139304276616,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54512062101236
+        },
+        {
+            "Time (yr BP)": 65000,
+            "Antarctic temperature change (\u00baC)": -7.76664784099586,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50987303221423
+        },
+        {
+            "Time (yr BP)": 66000,
+            "Antarctic temperature change (\u00baC)": -8.10598723343954,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51227529370152
+        },
+        {
+            "Time (yr BP)": 67000,
+            "Antarctic temperature change (\u00baC)": -7.98935874960513,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51063311380579
+        },
+        {
+            "Time (yr BP)": 68000,
+            "Antarctic temperature change (\u00baC)": -8.08457437036583,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53437610060848
+        },
+        {
+            "Time (yr BP)": 69000,
+            "Antarctic temperature change (\u00baC)": -7.72480719736042,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53865469588581
+        },
+        {
+            "Time (yr BP)": 70000,
+            "Antarctic temperature change (\u00baC)": -6.80107800396516,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57194650444001
+        },
+        {
+            "Time (yr BP)": 71000,
+            "Antarctic temperature change (\u00baC)": -5.56538677144558,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5293996221327
+        },
+        {
+            "Time (yr BP)": 72000,
+            "Antarctic temperature change (\u00baC)": -6.06516410123359,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56211686588573
+        },
+        {
+            "Time (yr BP)": 73000,
+            "Antarctic temperature change (\u00baC)": -6.17255896277681,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57703963159981
+        },
+        {
+            "Time (yr BP)": 74000,
+            "Antarctic temperature change (\u00baC)": -4.94129813035292,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54499817947977
+        },
+        {
+            "Time (yr BP)": 75000,
+            "Antarctic temperature change (\u00baC)": -4.79341324025441,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54324543037628
+        },
+        {
+            "Time (yr BP)": 76000,
+            "Antarctic temperature change (\u00baC)": -5.86098937445892,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53368237351047
+        },
+        {
+            "Time (yr BP)": 77000,
+            "Antarctic temperature change (\u00baC)": -5.40383130601156,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52713441372176
+        },
+        {
+            "Time (yr BP)": 78000,
+            "Antarctic temperature change (\u00baC)": -5.19170086569553,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51415815606127
+        },
+        {
+            "Time (yr BP)": 79000,
+            "Antarctic temperature change (\u00baC)": -4.63754307555892,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52316215036678
+        },
+        {
+            "Time (yr BP)": 80000,
+            "Antarctic temperature change (\u00baC)": -3.82664286710492,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52562186099707
+        },
+        {
+            "Time (yr BP)": 81000,
+            "Antarctic temperature change (\u00baC)": -3.42651647410334,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51497622370102
+        },
+        {
+            "Time (yr BP)": 82000,
+            "Antarctic temperature change (\u00baC)": -2.9983415652916,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52293220441554
+        },
+        {
+            "Time (yr BP)": 83000,
+            "Antarctic temperature change (\u00baC)": -2.27732943763279,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52205947094429
+        },
+        {
+            "Time (yr BP)": 84000,
+            "Antarctic temperature change (\u00baC)": -2.71562128348716,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52896916890146
+        },
+        {
+            "Time (yr BP)": 85000,
+            "Antarctic temperature change (\u00baC)": -3.48043629886484,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52248112559195
+        },
+        {
+            "Time (yr BP)": 86000,
+            "Antarctic temperature change (\u00baC)": -4.3256620681305,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52145581449929
+        },
+        {
+            "Time (yr BP)": 87000,
+            "Antarctic temperature change (\u00baC)": -5.39127939923956,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57744509171493
+        },
+        {
+            "Time (yr BP)": 88000,
+            "Antarctic temperature change (\u00baC)": -5.68245533611312,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51946670340868
+        },
+        {
+            "Time (yr BP)": 89000,
+            "Antarctic temperature change (\u00baC)": -5.11298414506695,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52733538187103
+        },
+        {
+            "Time (yr BP)": 90000,
+            "Antarctic temperature change (\u00baC)": -4.86554561630124,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50903696611266
+        },
+        {
+            "Time (yr BP)": 91000,
+            "Antarctic temperature change (\u00baC)": -4.90755651301281,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50947632121282
+        },
+        {
+            "Time (yr BP)": 92000,
+            "Antarctic temperature change (\u00baC)": -4.54943526343401,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51715481733796
+        },
+        {
+            "Time (yr BP)": 93000,
+            "Antarctic temperature change (\u00baC)": -4.13321331927327,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51423359846868
+        },
+        {
+            "Time (yr BP)": 94000,
+            "Antarctic temperature change (\u00baC)": -3.53206002708244,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5107946962903
+        },
+        {
+            "Time (yr BP)": 95000,
+            "Antarctic temperature change (\u00baC)": -3.6318080574691,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51864115486914
+        },
+        {
+            "Time (yr BP)": 96000,
+            "Antarctic temperature change (\u00baC)": -3.84723739931348,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51642089950649
+        },
+        {
+            "Time (yr BP)": 97000,
+            "Antarctic temperature change (\u00baC)": -3.6747189149907,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51322634894539
+        },
+        {
+            "Time (yr BP)": 98000,
+            "Antarctic temperature change (\u00baC)": -3.64004777369185,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51240223130654
+        },
+        {
+            "Time (yr BP)": 99000,
+            "Antarctic temperature change (\u00baC)": -3.62901098260162,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50737085888776
+        },
+        {
+            "Time (yr BP)": 100000,
+            "Antarctic temperature change (\u00baC)": -3.64940121266793,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50514414479714
+        },
+        {
+            "Time (yr BP)": 101000,
+            "Antarctic temperature change (\u00baC)": -3.30444756222929,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53011067849501
+        },
+        {
+            "Time (yr BP)": 102000,
+            "Antarctic temperature change (\u00baC)": -3.25653419872934,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54905232853461
+        },
+        {
+            "Time (yr BP)": 103000,
+            "Antarctic temperature change (\u00baC)": -4.15648761037477,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.67779442982292
+        },
+        {
+            "Time (yr BP)": 104000,
+            "Antarctic temperature change (\u00baC)": -4.75279458230992,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55732112603289
+        },
+        {
+            "Time (yr BP)": 105000,
+            "Antarctic temperature change (\u00baC)": -4.30080285251186,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52925027016253
+        },
+        {
+            "Time (yr BP)": 106000,
+            "Antarctic temperature change (\u00baC)": -3.86953670895644,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54475769964161
+        },
+        {
+            "Time (yr BP)": 107000,
+            "Antarctic temperature change (\u00baC)": -4.01207674511282,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64403038266988
+        },
+        {
+            "Time (yr BP)": 108000,
+            "Antarctic temperature change (\u00baC)": -5.44463540572698,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.75850692287281
+        },
+        {
+            "Time (yr BP)": 109000,
+            "Antarctic temperature change (\u00baC)": -6.1479385075277,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53841684449943
+        },
+        {
+            "Time (yr BP)": 110000,
+            "Antarctic temperature change (\u00baC)": -5.7865164787458,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52232180521461
+        },
+        {
+            "Time (yr BP)": 111000,
+            "Antarctic temperature change (\u00baC)": -5.56099701908192,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50756740378596
+        },
+        {
+            "Time (yr BP)": 112000,
+            "Antarctic temperature change (\u00baC)": -5.36596268821764,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51472202969233
+        },
+        {
+            "Time (yr BP)": 113000,
+            "Antarctic temperature change (\u00baC)": -4.94527624378045,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5340959544807
+        },
+        {
+            "Time (yr BP)": 114000,
+            "Antarctic temperature change (\u00baC)": -4.32285008275193,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56733577224463
+        },
+        {
+            "Time (yr BP)": 115000,
+            "Antarctic temperature change (\u00baC)": -3.52567106190096,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57952046008074
+        },
+        {
+            "Time (yr BP)": 116000,
+            "Antarctic temperature change (\u00baC)": -2.63154276639449,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59740488175939
+        },
+        {
+            "Time (yr BP)": 117000,
+            "Antarctic temperature change (\u00baC)": -1.64020337282802,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62182474767934
+        },
+        {
+            "Time (yr BP)": 118000,
+            "Antarctic temperature change (\u00baC)": -0.589600357600237,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60688774744842
+        },
+        {
+            "Time (yr BP)": 119000,
+            "Antarctic temperature change (\u00baC)": 0.143092593061756,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53588700971327
+        },
+        {
+            "Time (yr BP)": 120000,
+            "Antarctic temperature change (\u00baC)": 0.414657073865384,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50776500098674
+        },
+        {
+            "Time (yr BP)": 121000,
+            "Antarctic temperature change (\u00baC)": 0.605322516969625,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51125072919979
+        },
+        {
+            "Time (yr BP)": 122000,
+            "Antarctic temperature change (\u00baC)": 0.864299475414751,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5183409117433
+        },
+        {
+            "Time (yr BP)": 123000,
+            "Antarctic temperature change (\u00baC)": 1.11255772714337,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51607530114303
+        },
+        {
+            "Time (yr BP)": 124000,
+            "Antarctic temperature change (\u00baC)": 1.28482861523196,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51588542095956
+        },
+        {
+            "Time (yr BP)": 125000,
+            "Antarctic temperature change (\u00baC)": 1.2479193593798,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51405436773928
+        },
+        {
+            "Time (yr BP)": 126000,
+            "Antarctic temperature change (\u00baC)": 1.15407566888616,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52511573528414
+        },
+        {
+            "Time (yr BP)": 127000,
+            "Antarctic temperature change (\u00baC)": 1.78745417303576,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6442513897462
+        },
+        {
+            "Time (yr BP)": 128000,
+            "Antarctic temperature change (\u00baC)": 2.8359908549777,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58282950986729
+        },
+        {
+            "Time (yr BP)": 129000,
+            "Antarctic temperature change (\u00baC)": 3.07396342438586,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.534582509299
+        },
+        {
+            "Time (yr BP)": 130000,
+            "Antarctic temperature change (\u00baC)": 2.29093402877907,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.75676550286178
+        },
+        {
+            "Time (yr BP)": 131000,
+            "Antarctic temperature change (\u00baC)": 0.858406675485475,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.28183882831576
+        },
+        {
+            "Time (yr BP)": 132000,
+            "Antarctic temperature change (\u00baC)": -0.78226568409802,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.4503150383928
+        },
+        {
+            "Time (yr BP)": 133000,
+            "Antarctic temperature change (\u00baC)": -2.5272952749095,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.45891707524392
+        },
+        {
+            "Time (yr BP)": 134000,
+            "Antarctic temperature change (\u00baC)": -4.26321177957566,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.44446389762644
+        },
+        {
+            "Time (yr BP)": 135000,
+            "Antarctic temperature change (\u00baC)": -5.91683641499481,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.3102422778266
+        },
+        {
+            "Time (yr BP)": 136000,
+            "Antarctic temperature change (\u00baC)": -7.24515412840708,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.98834320748478
+        },
+        {
+            "Time (yr BP)": 137000,
+            "Antarctic temperature change (\u00baC)": -8.09510901799153,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70001098767567
+        },
+        {
+            "Time (yr BP)": 138000,
+            "Antarctic temperature change (\u00baC)": -8.56438735220735,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56960595077186
+        },
+        {
+            "Time (yr BP)": 139000,
+            "Antarctic temperature change (\u00baC)": -8.75010806032649,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52823823562025
+        },
+        {
+            "Time (yr BP)": 140000,
+            "Antarctic temperature change (\u00baC)": -8.69399694221974,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52235538159796
+        },
+        {
+            "Time (yr BP)": 141000,
+            "Antarctic temperature change (\u00baC)": -8.53545878914454,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51906340910805
+        },
+        {
+            "Time (yr BP)": 142000,
+            "Antarctic temperature change (\u00baC)": -8.379383269786,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51783207579312
+        },
+        {
+            "Time (yr BP)": 143000,
+            "Antarctic temperature change (\u00baC)": -8.21914671016331,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52131051417861
+        },
+        {
+            "Time (yr BP)": 144000,
+            "Antarctic temperature change (\u00baC)": -8.0696757250703,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52048586377016
+        },
+        {
+            "Time (yr BP)": 145000,
+            "Antarctic temperature change (\u00baC)": -7.99194867316838,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51551085099226
+        },
+        {
+            "Time (yr BP)": 146000,
+            "Antarctic temperature change (\u00baC)": -7.97556965613612,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51453634695032
+        },
+        {
+            "Time (yr BP)": 147000,
+            "Antarctic temperature change (\u00baC)": -7.91254438294986,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52463241546661
+        },
+        {
+            "Time (yr BP)": 148000,
+            "Antarctic temperature change (\u00baC)": -7.72545771371227,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53868360665702
+        },
+        {
+            "Time (yr BP)": 149000,
+            "Antarctic temperature change (\u00baC)": -7.47742623620095,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53295762296552
+        },
+        {
+            "Time (yr BP)": 150000,
+            "Antarctic temperature change (\u00baC)": -7.27991377750857,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51825862497928
+        },
+        {
+            "Time (yr BP)": 151000,
+            "Antarctic temperature change (\u00baC)": -7.19620423084174,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51243767271214
+        },
+        {
+            "Time (yr BP)": 152000,
+            "Antarctic temperature change (\u00baC)": -7.27402303312444,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52193602821126
+        },
+        {
+            "Time (yr BP)": 153000,
+            "Antarctic temperature change (\u00baC)": -7.49885142378185,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53916048605682
+        },
+        {
+            "Time (yr BP)": 154000,
+            "Antarctic temperature change (\u00baC)": -7.81274738128252,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55962379462514
+        },
+        {
+            "Time (yr BP)": 155000,
+            "Antarctic temperature change (\u00baC)": -8.16057303369448,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56409762207988
+        },
+        {
+            "Time (yr BP)": 156000,
+            "Antarctic temperature change (\u00baC)": -8.36646122979211,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55296510420564
+        },
+        {
+            "Time (yr BP)": 157000,
+            "Antarctic temperature change (\u00baC)": -8.21119348727269,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62159232003441
+        },
+        {
+            "Time (yr BP)": 158000,
+            "Antarctic temperature change (\u00baC)": -7.68662101037529,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.73264077923817
+        },
+        {
+            "Time (yr BP)": 159000,
+            "Antarctic temperature change (\u00baC)": -7.16489856421719,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70435703842788
+        },
+        {
+            "Time (yr BP)": 160000,
+            "Antarctic temperature change (\u00baC)": -7.05455548276966,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62774749479123
+        },
+        {
+            "Time (yr BP)": 161000,
+            "Antarctic temperature change (\u00baC)": -7.10338918565267,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60468125263924
+        },
+        {
+            "Time (yr BP)": 162000,
+            "Antarctic temperature change (\u00baC)": -7.00828472475608,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61631414253816
+        },
+        {
+            "Time (yr BP)": 163000,
+            "Antarctic temperature change (\u00baC)": -7.10634577874503,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64134542085934
+        },
+        {
+            "Time (yr BP)": 164000,
+            "Antarctic temperature change (\u00baC)": -7.49098612801674,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6249414687894
+        },
+        {
+            "Time (yr BP)": 165000,
+            "Antarctic temperature change (\u00baC)": -7.71351601183084,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56444310378532
+        },
+        {
+            "Time (yr BP)": 166000,
+            "Antarctic temperature change (\u00baC)": -7.53817008435091,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59703453865176
+        },
+        {
+            "Time (yr BP)": 167000,
+            "Antarctic temperature change (\u00baC)": -7.06963062919951,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.65558287745427
+        },
+        {
+            "Time (yr BP)": 168000,
+            "Antarctic temperature change (\u00baC)": -6.6575965984367,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62364349826099
+        },
+        {
+            "Time (yr BP)": 169000,
+            "Antarctic temperature change (\u00baC)": -6.64736280295613,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59750967124078
+        },
+        {
+            "Time (yr BP)": 170000,
+            "Antarctic temperature change (\u00baC)": -6.84531382745875,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60033242038729
+        },
+        {
+            "Time (yr BP)": 171000,
+            "Antarctic temperature change (\u00baC)": -6.78724488907514,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62383126603438
+        },
+        {
+            "Time (yr BP)": 172000,
+            "Antarctic temperature change (\u00baC)": -6.5702051746434,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61995229270883
+        },
+        {
+            "Time (yr BP)": 173000,
+            "Antarctic temperature change (\u00baC)": -6.63814785286896,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59858699104162
+        },
+        {
+            "Time (yr BP)": 174000,
+            "Antarctic temperature change (\u00baC)": -6.88479542606022,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56865885630524
+        },
+        {
+            "Time (yr BP)": 175000,
+            "Antarctic temperature change (\u00baC)": -6.97724201189993,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57213732988832
+        },
+        {
+            "Time (yr BP)": 176000,
+            "Antarctic temperature change (\u00baC)": -6.77136592859946,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66559738372067
+        },
+        {
+            "Time (yr BP)": 177000,
+            "Antarctic temperature change (\u00baC)": -6.30498442635055,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.72784819706789
+        },
+        {
+            "Time (yr BP)": 178000,
+            "Antarctic temperature change (\u00baC)": -6.11693663991907,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.7303114086807
+        },
+        {
+            "Time (yr BP)": 179000,
+            "Antarctic temperature change (\u00baC)": -6.57541182078771,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.78677502474959
+        },
+        {
+            "Time (yr BP)": 180000,
+            "Antarctic temperature change (\u00baC)": -7.23710518684111,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69037656399604
+        },
+        {
+            "Time (yr BP)": 181000,
+            "Antarctic temperature change (\u00baC)": -7.63707814364698,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55865316230724
+        },
+        {
+            "Time (yr BP)": 182000,
+            "Antarctic temperature change (\u00baC)": -7.78644508992678,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51516623203333
+        },
+        {
+            "Time (yr BP)": 183000,
+            "Antarctic temperature change (\u00baC)": -7.79860987566592,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51311582457383
+        },
+        {
+            "Time (yr BP)": 184000,
+            "Antarctic temperature change (\u00baC)": -7.68143455440852,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54023227422231
+        },
+        {
+            "Time (yr BP)": 185000,
+            "Antarctic temperature change (\u00baC)": -7.35147760693702,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63020073231389
+        },
+        {
+            "Time (yr BP)": 186000,
+            "Antarctic temperature change (\u00baC)": -6.71930164089854,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.77002518165891
+        },
+        {
+            "Time (yr BP)": 187000,
+            "Antarctic temperature change (\u00baC)": -5.92892717256582,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.79505372618194
+        },
+        {
+            "Time (yr BP)": 188000,
+            "Antarctic temperature change (\u00baC)": -5.4440957043145,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6742629310224
+        },
+        {
+            "Time (yr BP)": 189000,
+            "Antarctic temperature change (\u00baC)": -5.51014027119186,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61346726060108
+        },
+        {
+            "Time (yr BP)": 190000,
+            "Antarctic temperature change (\u00baC)": -5.77769143175908,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60352998235186
+        },
+        {
+            "Time (yr BP)": 191000,
+            "Antarctic temperature change (\u00baC)": -5.7569802172066,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62864558242659
+        },
+        {
+            "Time (yr BP)": 192000,
+            "Antarctic temperature change (\u00baC)": -5.44972061394297,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62361376594158
+        },
+        {
+            "Time (yr BP)": 193000,
+            "Antarctic temperature change (\u00baC)": -5.23431705335032,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57585492568186
+        },
+        {
+            "Time (yr BP)": 194000,
+            "Antarctic temperature change (\u00baC)": -5.01902287247073,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61062089156589
+        },
+        {
+            "Time (yr BP)": 195000,
+            "Antarctic temperature change (\u00baC)": -4.4925900123833,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.71323100919612
+        },
+        {
+            "Time (yr BP)": 196000,
+            "Antarctic temperature change (\u00baC)": -3.72437467003608,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.76156760061521
+        },
+        {
+            "Time (yr BP)": 197000,
+            "Antarctic temperature change (\u00baC)": -2.90851178875524,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.75285456720913
+        },
+        {
+            "Time (yr BP)": 198000,
+            "Antarctic temperature change (\u00baC)": -2.15979755933474,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69441108522982
+        },
+        {
+            "Time (yr BP)": 199000,
+            "Antarctic temperature change (\u00baC)": -1.64799596773313,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59694699825629
+        },
+        {
+            "Time (yr BP)": 200000,
+            "Antarctic temperature change (\u00baC)": -1.55477729848276,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58071177072869
+        },
+        {
+            "Time (yr BP)": 201000,
+            "Antarctic temperature change (\u00baC)": -1.94851048837018,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.7346392868028
+        },
+        {
+            "Time (yr BP)": 202000,
+            "Antarctic temperature change (\u00baC)": -2.77445123308757,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.90918313505618
+        },
+        {
+            "Time (yr BP)": 203000,
+            "Antarctic temperature change (\u00baC)": -3.64432662419252,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.81601886803001
+        },
+        {
+            "Time (yr BP)": 204000,
+            "Antarctic temperature change (\u00baC)": -4.00280594223255,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62296341790283
+        },
+        {
+            "Time (yr BP)": 205000,
+            "Antarctic temperature change (\u00baC)": -3.81673486461774,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58301707241926
+        },
+        {
+            "Time (yr BP)": 206000,
+            "Antarctic temperature change (\u00baC)": -3.40621698812897,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59058191465728
+        },
+        {
+            "Time (yr BP)": 207000,
+            "Antarctic temperature change (\u00baC)": -2.96014025709844,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5906773262383
+        },
+        {
+            "Time (yr BP)": 208000,
+            "Antarctic temperature change (\u00baC)": -2.50831303555612,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59092238036665
+        },
+        {
+            "Time (yr BP)": 209000,
+            "Antarctic temperature change (\u00baC)": -2.05960148990899,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58286550054387
+        },
+        {
+            "Time (yr BP)": 210000,
+            "Antarctic temperature change (\u00baC)": -1.66229263380959,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56111663320062
+        },
+        {
+            "Time (yr BP)": 211000,
+            "Antarctic temperature change (\u00baC)": -1.35221332615789,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54104074320305
+        },
+        {
+            "Time (yr BP)": 212000,
+            "Antarctic temperature change (\u00baC)": -1.08887230645261,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53662766561244
+        },
+        {
+            "Time (yr BP)": 213000,
+            "Antarctic temperature change (\u00baC)": -0.824143232326882,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53944093697789
+        },
+        {
+            "Time (yr BP)": 214000,
+            "Antarctic temperature change (\u00baC)": -0.607123956637398,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54730008299459
+        },
+        {
+            "Time (yr BP)": 215000,
+            "Antarctic temperature change (\u00baC)": -0.646250049065174,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61269890818018
+        },
+        {
+            "Time (yr BP)": 216000,
+            "Antarctic temperature change (\u00baC)": -1.16311293712375,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.77945587430398
+        },
+        {
+            "Time (yr BP)": 217000,
+            "Antarctic temperature change (\u00baC)": -2.06694799933436,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.88458552447711
+        },
+        {
+            "Time (yr BP)": 218000,
+            "Antarctic temperature change (\u00baC)": -3.03951457653468,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.83383513629874
+        },
+        {
+            "Time (yr BP)": 219000,
+            "Antarctic temperature change (\u00baC)": -3.90277640115536,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.76527377352968
+        },
+        {
+            "Time (yr BP)": 220000,
+            "Antarctic temperature change (\u00baC)": -4.72014059942961,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.76813277745394
+        },
+        {
+            "Time (yr BP)": 221000,
+            "Antarctic temperature change (\u00baC)": -5.54389389250939,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.75875932387095
+        },
+        {
+            "Time (yr BP)": 222000,
+            "Antarctic temperature change (\u00baC)": -6.25734533697065,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.67325640321218
+        },
+        {
+            "Time (yr BP)": 223000,
+            "Antarctic temperature change (\u00baC)": -6.71438890528836,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58322697429839
+        },
+        {
+            "Time (yr BP)": 224000,
+            "Antarctic temperature change (\u00baC)": -6.7950110851434,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57554771613447
+        },
+        {
+            "Time (yr BP)": 225000,
+            "Antarctic temperature change (\u00baC)": -6.47810002242698,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6331038261864
+        },
+        {
+            "Time (yr BP)": 226000,
+            "Antarctic temperature change (\u00baC)": -6.11956307930416,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.629660732004
+        },
+        {
+            "Time (yr BP)": 227000,
+            "Antarctic temperature change (\u00baC)": -6.16304022876947,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62809779645756
+        },
+        {
+            "Time (yr BP)": 228000,
+            "Antarctic temperature change (\u00baC)": -6.43499011619902,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61419890665527
+        },
+        {
+            "Time (yr BP)": 229000,
+            "Antarctic temperature change (\u00baC)": -6.47285785401419,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59187933286495
+        },
+        {
+            "Time (yr BP)": 230000,
+            "Antarctic temperature change (\u00baC)": -6.37079187393071,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56999232011685
+        },
+        {
+            "Time (yr BP)": 231000,
+            "Antarctic temperature change (\u00baC)": -6.30902356966665,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55158434526094
+        },
+        {
+            "Time (yr BP)": 232000,
+            "Antarctic temperature change (\u00baC)": -6.08755670963895,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58726559022399
+        },
+        {
+            "Time (yr BP)": 233000,
+            "Antarctic temperature change (\u00baC)": -5.58356146788615,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6808264234417
+        },
+        {
+            "Time (yr BP)": 234000,
+            "Antarctic temperature change (\u00baC)": -4.85758396905084,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.74715768599186
+        },
+        {
+            "Time (yr BP)": 235000,
+            "Antarctic temperature change (\u00baC)": -4.07424256253026,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.73138341627838
+        },
+        {
+            "Time (yr BP)": 236000,
+            "Antarctic temperature change (\u00baC)": -3.34862264808044,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69542175372044
+        },
+        {
+            "Time (yr BP)": 237000,
+            "Antarctic temperature change (\u00baC)": -2.68877047689251,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6645081574052
+        },
+        {
+            "Time (yr BP)": 238000,
+            "Antarctic temperature change (\u00baC)": -2.09339023672051,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.65204929193511
+        },
+        {
+            "Time (yr BP)": 239000,
+            "Antarctic temperature change (\u00baC)": -1.44109137508125,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.75681554111785
+        },
+        {
+            "Time (yr BP)": 240000,
+            "Antarctic temperature change (\u00baC)": -0.522574010138076,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.94644743364029
+        },
+        {
+            "Time (yr BP)": 241000,
+            "Antarctic temperature change (\u00baC)": 0.580568192034203,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.96971664035033
+        },
+        {
+            "Time (yr BP)": 242000,
+            "Antarctic temperature change (\u00baC)": 1.35842476821536,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.80068566067502
+        },
+        {
+            "Time (yr BP)": 243000,
+            "Antarctic temperature change (\u00baC)": 1.24667905609447,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.93230108243427
+        },
+        {
+            "Time (yr BP)": 244000,
+            "Antarctic temperature change (\u00baC)": 0.10985837865285,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.40476359078815
+        },
+        {
+            "Time (yr BP)": 245000,
+            "Antarctic temperature change (\u00baC)": -1.66678934020199,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.62880178502046
+        },
+        {
+            "Time (yr BP)": 246000,
+            "Antarctic temperature change (\u00baC)": -3.37927183043474,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.33078549289515
+        },
+        {
+            "Time (yr BP)": 247000,
+            "Antarctic temperature change (\u00baC)": -4.42384952792126,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.83828981758209
+        },
+        {
+            "Time (yr BP)": 248000,
+            "Antarctic temperature change (\u00baC)": -4.89518995203152,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64562884264905
+        },
+        {
+            "Time (yr BP)": 249000,
+            "Antarctic temperature change (\u00baC)": -5.36143939718631,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6743935487273
+        },
+        {
+            "Time (yr BP)": 250000,
+            "Antarctic temperature change (\u00baC)": -5.90995714671844,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63558622468007
+        },
+        {
+            "Time (yr BP)": 251000,
+            "Antarctic temperature change (\u00baC)": -6.29702204998113,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55835880256349
+        },
+        {
+            "Time (yr BP)": 252000,
+            "Antarctic temperature change (\u00baC)": -6.52885139875436,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52712879081061
+        },
+        {
+            "Time (yr BP)": 253000,
+            "Antarctic temperature change (\u00baC)": -6.6610688730715,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5145206283232
+        },
+        {
+            "Time (yr BP)": 254000,
+            "Antarctic temperature change (\u00baC)": -6.73186603113691,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51318964800748
+        },
+        {
+            "Time (yr BP)": 255000,
+            "Antarctic temperature change (\u00baC)": -6.7407892173844,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52354039091204
+        },
+        {
+            "Time (yr BP)": 256000,
+            "Antarctic temperature change (\u00baC)": -6.5881393323428,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54969541246243
+        },
+        {
+            "Time (yr BP)": 257000,
+            "Antarctic temperature change (\u00baC)": -6.30716323832041,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56252087764396
+        },
+        {
+            "Time (yr BP)": 258000,
+            "Antarctic temperature change (\u00baC)": -6.11847280063953,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55663304989368
+        },
+        {
+            "Time (yr BP)": 259000,
+            "Antarctic temperature change (\u00baC)": -6.17905557258429,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55909156205788
+        },
+        {
+            "Time (yr BP)": 260000,
+            "Antarctic temperature change (\u00baC)": -6.36319084798164,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54947491598954
+        },
+        {
+            "Time (yr BP)": 261000,
+            "Antarctic temperature change (\u00baC)": -6.46645651477645,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54175729829342
+        },
+        {
+            "Time (yr BP)": 262000,
+            "Antarctic temperature change (\u00baC)": -6.40699019370435,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56645213216356
+        },
+        {
+            "Time (yr BP)": 263000,
+            "Antarctic temperature change (\u00baC)": -6.17861676120975,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59523782655417
+        },
+        {
+            "Time (yr BP)": 264000,
+            "Antarctic temperature change (\u00baC)": -6.07974602646612,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58761213247535
+        },
+        {
+            "Time (yr BP)": 265000,
+            "Antarctic temperature change (\u00baC)": -6.33634588646362,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59099688917699
+        },
+        {
+            "Time (yr BP)": 266000,
+            "Antarctic temperature change (\u00baC)": -6.76034057354679,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58208363610195
+        },
+        {
+            "Time (yr BP)": 267000,
+            "Antarctic temperature change (\u00baC)": -7.16309618190355,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56227520983193
+        },
+        {
+            "Time (yr BP)": 268000,
+            "Antarctic temperature change (\u00baC)": -7.4833398685793,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53800738440471
+        },
+        {
+            "Time (yr BP)": 269000,
+            "Antarctic temperature change (\u00baC)": -7.72802775083225,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52457925640196
+        },
+        {
+            "Time (yr BP)": 270000,
+            "Antarctic temperature change (\u00baC)": -7.95138299021903,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52319432597155
+        },
+        {
+            "Time (yr BP)": 271000,
+            "Antarctic temperature change (\u00baC)": -8.14820545571802,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51688394155252
+        },
+        {
+            "Time (yr BP)": 272000,
+            "Antarctic temperature change (\u00baC)": -8.25123098307977,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50687446444472
+        },
+        {
+            "Time (yr BP)": 273000,
+            "Antarctic temperature change (\u00baC)": -8.24129067825955,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50573128805634
+        },
+        {
+            "Time (yr BP)": 274000,
+            "Antarctic temperature change (\u00baC)": -8.13691906106281,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51386206736956
+        },
+        {
+            "Time (yr BP)": 275000,
+            "Antarctic temperature change (\u00baC)": -7.98054364895174,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5194353439785
+        },
+        {
+            "Time (yr BP)": 276000,
+            "Antarctic temperature change (\u00baC)": -7.87052462856141,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51699777671611
+        },
+        {
+            "Time (yr BP)": 277000,
+            "Antarctic temperature change (\u00baC)": -7.81092516541476,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51732726091357
+        },
+        {
+            "Time (yr BP)": 278000,
+            "Antarctic temperature change (\u00baC)": -7.71246512389392,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5268113600007
+        },
+        {
+            "Time (yr BP)": 279000,
+            "Antarctic temperature change (\u00baC)": -7.49870965547077,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56216970937388
+        },
+        {
+            "Time (yr BP)": 280000,
+            "Antarctic temperature change (\u00baC)": -7.11923132247974,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59693499661911
+        },
+        {
+            "Time (yr BP)": 281000,
+            "Antarctic temperature change (\u00baC)": -6.667414733659,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60006536728418
+        },
+        {
+            "Time (yr BP)": 282000,
+            "Antarctic temperature change (\u00baC)": -6.18597332010786,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61231975791848
+        },
+        {
+            "Time (yr BP)": 283000,
+            "Antarctic temperature change (\u00baC)": -5.67170755317962,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60994135092816
+        },
+        {
+            "Time (yr BP)": 284000,
+            "Antarctic temperature change (\u00baC)": -5.1969370737668,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58769327054791
+        },
+        {
+            "Time (yr BP)": 285000,
+            "Antarctic temperature change (\u00baC)": -4.77468748385113,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57441431964565
+        },
+        {
+            "Time (yr BP)": 286000,
+            "Antarctic temperature change (\u00baC)": -4.38051488633599,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56320079712617
+        },
+        {
+            "Time (yr BP)": 287000,
+            "Antarctic temperature change (\u00baC)": -4.03090730780907,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54546577478524
+        },
+        {
+            "Time (yr BP)": 288000,
+            "Antarctic temperature change (\u00baC)": -3.74716062629102,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53300102943038
+        },
+        {
+            "Time (yr BP)": 289000,
+            "Antarctic temperature change (\u00baC)": -3.54432821161722,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53857131062967
+        },
+        {
+            "Time (yr BP)": 290000,
+            "Antarctic temperature change (\u00baC)": -3.55728253694302,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58564944354477
+        },
+        {
+            "Time (yr BP)": 291000,
+            "Antarctic temperature change (\u00baC)": -3.95400455922473,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.67418458170731
+        },
+        {
+            "Time (yr BP)": 292000,
+            "Antarctic temperature change (\u00baC)": -4.61582935313608,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70870672020562
+        },
+        {
+            "Time (yr BP)": 293000,
+            "Antarctic temperature change (\u00baC)": -5.26877319045741,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66222037728853
+        },
+        {
+            "Time (yr BP)": 294000,
+            "Antarctic temperature change (\u00baC)": -5.67364441531663,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58883871553001
+        },
+        {
+            "Time (yr BP)": 295000,
+            "Antarctic temperature change (\u00baC)": -5.72978986910625,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58443446010377
+        },
+        {
+            "Time (yr BP)": 296000,
+            "Antarctic temperature change (\u00baC)": -5.71167043558986,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63515639374302
+        },
+        {
+            "Time (yr BP)": 297000,
+            "Antarctic temperature change (\u00baC)": -5.98065566717217,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.67504924940993
+        },
+        {
+            "Time (yr BP)": 298000,
+            "Antarctic temperature change (\u00baC)": -6.23899029494948,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62700608722578
+        },
+        {
+            "Time (yr BP)": 299000,
+            "Antarctic temperature change (\u00baC)": -6.08581616803828,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60673862586783
+        },
+        {
+            "Time (yr BP)": 300000,
+            "Antarctic temperature change (\u00baC)": -5.81342065299256,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58856738442691
+        },
+        {
+            "Time (yr BP)": 301000,
+            "Antarctic temperature change (\u00baC)": -5.77566463479888,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57592193751366
+        },
+        {
+            "Time (yr BP)": 302000,
+            "Antarctic temperature change (\u00baC)": -5.73165766020757,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58580127052882
+        },
+        {
+            "Time (yr BP)": 303000,
+            "Antarctic temperature change (\u00baC)": -5.38602650503952,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62531346559098
+        },
+        {
+            "Time (yr BP)": 304000,
+            "Antarctic temperature change (\u00baC)": -4.89931227694877,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63035753874519
+        },
+        {
+            "Time (yr BP)": 305000,
+            "Antarctic temperature change (\u00baC)": -4.63629313418494,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62595059402114
+        },
+        {
+            "Time (yr BP)": 306000,
+            "Antarctic temperature change (\u00baC)": -4.8325186582511,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66170216187214
+        },
+        {
+            "Time (yr BP)": 307000,
+            "Antarctic temperature change (\u00baC)": -5.17908856868987,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6208143307727
+        },
+        {
+            "Time (yr BP)": 308000,
+            "Antarctic temperature change (\u00baC)": -5.19809331554737,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57030262920455
+        },
+        {
+            "Time (yr BP)": 309000,
+            "Antarctic temperature change (\u00baC)": -4.96509011118215,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55159450313229
+        },
+        {
+            "Time (yr BP)": 310000,
+            "Antarctic temperature change (\u00baC)": -4.69220800326597,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54975054051016
+        },
+        {
+            "Time (yr BP)": 311000,
+            "Antarctic temperature change (\u00baC)": -4.34486066297602,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57494296845507
+        },
+        {
+            "Time (yr BP)": 312000,
+            "Antarctic temperature change (\u00baC)": -3.89601771287273,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59907913767041
+        },
+        {
+            "Time (yr BP)": 313000,
+            "Antarctic temperature change (\u00baC)": -3.43589643382375,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58782369845256
+        },
+        {
+            "Time (yr BP)": 314000,
+            "Antarctic temperature change (\u00baC)": -3.07213254567765,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57197756530362
+        },
+        {
+            "Time (yr BP)": 315000,
+            "Antarctic temperature change (\u00baC)": -2.82459656167147,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60138863597419
+        },
+        {
+            "Time (yr BP)": 316000,
+            "Antarctic temperature change (\u00baC)": -2.87375836630454,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70341212276247
+        },
+        {
+            "Time (yr BP)": 317000,
+            "Antarctic temperature change (\u00baC)": -3.46107200235714,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.83901002965515
+        },
+        {
+            "Time (yr BP)": 318000,
+            "Antarctic temperature change (\u00baC)": -4.27024028946634,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.78133285994363
+        },
+        {
+            "Time (yr BP)": 319000,
+            "Antarctic temperature change (\u00baC)": -4.67924985370014,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63779528122086
+        },
+        {
+            "Time (yr BP)": 320000,
+            "Antarctic temperature change (\u00baC)": -4.45677735328162,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64648886593762
+        },
+        {
+            "Time (yr BP)": 321000,
+            "Antarctic temperature change (\u00baC)": -3.85051281650164,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69352210146169
+        },
+        {
+            "Time (yr BP)": 322000,
+            "Antarctic temperature change (\u00baC)": -3.13416025493619,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.7078770424308
+        },
+        {
+            "Time (yr BP)": 323000,
+            "Antarctic temperature change (\u00baC)": -2.40809133172531,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69915242865978
+        },
+        {
+            "Time (yr BP)": 324000,
+            "Antarctic temperature change (\u00baC)": -1.72574308239603,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66768568430186
+        },
+        {
+            "Time (yr BP)": 325000,
+            "Antarctic temperature change (\u00baC)": -1.10930253682239,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63870815322197
+        },
+        {
+            "Time (yr BP)": 326000,
+            "Antarctic temperature change (\u00baC)": -0.556577303997859,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6095920128197
+        },
+        {
+            "Time (yr BP)": 327000,
+            "Antarctic temperature change (\u00baC)": -0.0917966969507953,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57413269035324
+        },
+        {
+            "Time (yr BP)": 328000,
+            "Antarctic temperature change (\u00baC)": 0.255054202829719,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54095919803933
+        },
+        {
+            "Time (yr BP)": 329000,
+            "Antarctic temperature change (\u00baC)": 0.495042187956973,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53174586339657
+        },
+        {
+            "Time (yr BP)": 330000,
+            "Antarctic temperature change (\u00baC)": 0.763281930467154,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61297374071152
+        },
+        {
+            "Time (yr BP)": 331000,
+            "Antarctic temperature change (\u00baC)": 1.35196746599866,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.87866184313843
+        },
+        {
+            "Time (yr BP)": 332000,
+            "Antarctic temperature change (\u00baC)": 2.40434770052889,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.08126360839474
+        },
+        {
+            "Time (yr BP)": 333000,
+            "Antarctic temperature change (\u00baC)": 3.37231919269995,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.92556197152622
+        },
+        {
+            "Time (yr BP)": 334000,
+            "Antarctic temperature change (\u00baC)": 3.41967420178388,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.9809056977252
+        },
+        {
+            "Time (yr BP)": 335000,
+            "Antarctic temperature change (\u00baC)": 2.29476641824974,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.45066865835406
+        },
+        {
+            "Time (yr BP)": 336000,
+            "Antarctic temperature change (\u00baC)": 0.471382939781069,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.64820987524249
+        },
+        {
+            "Time (yr BP)": 337000,
+            "Antarctic temperature change (\u00baC)": -1.40996861143244,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.50525906135962
+        },
+        {
+            "Time (yr BP)": 338000,
+            "Antarctic temperature change (\u00baC)": -3.09799647318855,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.33052647364728
+        },
+        {
+            "Time (yr BP)": 339000,
+            "Antarctic temperature change (\u00baC)": -4.63251681309774,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.23681038748874
+        },
+        {
+            "Time (yr BP)": 340000,
+            "Antarctic temperature change (\u00baC)": -6.07724208854706,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.17262385173533
+        },
+        {
+            "Time (yr BP)": 341000,
+            "Antarctic temperature change (\u00baC)": -7.30799448568078,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.96189511854594
+        },
+        {
+            "Time (yr BP)": 342000,
+            "Antarctic temperature change (\u00baC)": -8.00534599558451,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66743844054008
+        },
+        {
+            "Time (yr BP)": 343000,
+            "Antarctic temperature change (\u00baC)": -8.12944752594811,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54043571321023
+        },
+        {
+            "Time (yr BP)": 344000,
+            "Antarctic temperature change (\u00baC)": -7.99619046466413,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51862725502008
+        },
+        {
+            "Time (yr BP)": 345000,
+            "Antarctic temperature change (\u00baC)": -7.84170575695348,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51304729214937
+        },
+        {
+            "Time (yr BP)": 346000,
+            "Antarctic temperature change (\u00baC)": -7.68839302010171,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51734259619644
+        },
+        {
+            "Time (yr BP)": 347000,
+            "Antarctic temperature change (\u00baC)": -7.49383928501873,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53519363945998
+        },
+        {
+            "Time (yr BP)": 348000,
+            "Antarctic temperature change (\u00baC)": -7.21360123652117,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56481092487423
+        },
+        {
+            "Time (yr BP)": 349000,
+            "Antarctic temperature change (\u00baC)": -6.91491624805128,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56017001056415
+        },
+        {
+            "Time (yr BP)": 350000,
+            "Antarctic temperature change (\u00baC)": -6.78789904449694,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52750671786369
+        },
+        {
+            "Time (yr BP)": 351000,
+            "Antarctic temperature change (\u00baC)": -6.81384561065261,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50974769434766
+        },
+        {
+            "Time (yr BP)": 352000,
+            "Antarctic temperature change (\u00baC)": -6.84992416474038,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50517519962343
+        },
+        {
+            "Time (yr BP)": 353000,
+            "Antarctic temperature change (\u00baC)": -6.92156538321381,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51556289061962
+        },
+        {
+            "Time (yr BP)": 354000,
+            "Antarctic temperature change (\u00baC)": -7.12506526165221,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5399891573458
+        },
+        {
+            "Time (yr BP)": 355000,
+            "Antarctic temperature change (\u00baC)": -7.4290305339697,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54378528632479
+        },
+        {
+            "Time (yr BP)": 356000,
+            "Antarctic temperature change (\u00baC)": -7.68121547339152,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52127520431895
+        },
+        {
+            "Time (yr BP)": 357000,
+            "Antarctic temperature change (\u00baC)": -7.81733128698129,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50656958200967
+        },
+        {
+            "Time (yr BP)": 358000,
+            "Antarctic temperature change (\u00baC)": -7.85547690858541,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50457323584059
+        },
+        {
+            "Time (yr BP)": 359000,
+            "Antarctic temperature change (\u00baC)": -7.78765783544667,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51131624384963
+        },
+        {
+            "Time (yr BP)": 360000,
+            "Antarctic temperature change (\u00baC)": -7.62253631106707,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52255828599567
+        },
+        {
+            "Time (yr BP)": 361000,
+            "Antarctic temperature change (\u00baC)": -7.39021807566923,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53701145699989
+        },
+        {
+            "Time (yr BP)": 362000,
+            "Antarctic temperature change (\u00baC)": -7.10836350248645,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55370767039408
+        },
+        {
+            "Time (yr BP)": 363000,
+            "Antarctic temperature change (\u00baC)": -6.84004144845689,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54882334389004
+        },
+        {
+            "Time (yr BP)": 364000,
+            "Antarctic temperature change (\u00baC)": -6.68475220542724,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52551762941074
+        },
+        {
+            "Time (yr BP)": 365000,
+            "Antarctic temperature change (\u00baC)": -6.60398732386186,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51258673631343
+        },
+        {
+            "Time (yr BP)": 366000,
+            "Antarctic temperature change (\u00baC)": -6.52841940618383,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5082063361969
+        },
+        {
+            "Time (yr BP)": 367000,
+            "Antarctic temperature change (\u00baC)": -6.46746669790762,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50849173757997
+        },
+        {
+            "Time (yr BP)": 368000,
+            "Antarctic temperature change (\u00baC)": -6.42619484179726,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51995124913174
+        },
+        {
+            "Time (yr BP)": 369000,
+            "Antarctic temperature change (\u00baC)": -6.29095956521513,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55759118845731
+        },
+        {
+            "Time (yr BP)": 370000,
+            "Antarctic temperature change (\u00baC)": -5.93209131206691,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59992799809738
+        },
+        {
+            "Time (yr BP)": 371000,
+            "Antarctic temperature change (\u00baC)": -5.47651421546569,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59425657320471
+        },
+        {
+            "Time (yr BP)": 372000,
+            "Antarctic temperature change (\u00baC)": -5.15680043803943,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57935917139336
+        },
+        {
+            "Time (yr BP)": 373000,
+            "Antarctic temperature change (\u00baC)": -5.21730756122974,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63248255509308
+        },
+        {
+            "Time (yr BP)": 374000,
+            "Antarctic temperature change (\u00baC)": -5.71392772062407,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69285276577965
+        },
+        {
+            "Time (yr BP)": 375000,
+            "Antarctic temperature change (\u00baC)": -6.23328220137009,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62173977026671
+        },
+        {
+            "Time (yr BP)": 376000,
+            "Antarctic temperature change (\u00baC)": -6.34893520779054,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55939249241023
+        },
+        {
+            "Time (yr BP)": 377000,
+            "Antarctic temperature change (\u00baC)": -6.09216567551913,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56360944165101
+        },
+        {
+            "Time (yr BP)": 378000,
+            "Antarctic temperature change (\u00baC)": -5.70262150745637,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5757919118338
+        },
+        {
+            "Time (yr BP)": 379000,
+            "Antarctic temperature change (\u00baC)": -5.23940306395004,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61347640102968
+        },
+        {
+            "Time (yr BP)": 380000,
+            "Antarctic temperature change (\u00baC)": -4.67913580577044,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.65005332284916
+        },
+        {
+            "Time (yr BP)": 381000,
+            "Antarctic temperature change (\u00baC)": -4.17742533704227,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63104257793065
+        },
+        {
+            "Time (yr BP)": 382000,
+            "Antarctic temperature change (\u00baC)": -4.06384969281154,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62003505540442
+        },
+        {
+            "Time (yr BP)": 383000,
+            "Antarctic temperature change (\u00baC)": -4.34327956921768,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62456560059605
+        },
+        {
+            "Time (yr BP)": 384000,
+            "Antarctic temperature change (\u00baC)": -4.47039023079375,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61249042672907
+        },
+        {
+            "Time (yr BP)": 385000,
+            "Antarctic temperature change (\u00baC)": -4.12256432778771,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6728557271023
+        },
+        {
+            "Time (yr BP)": 386000,
+            "Antarctic temperature change (\u00baC)": -3.67907443452318,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69848165674316
+        },
+        {
+            "Time (yr BP)": 387000,
+            "Antarctic temperature change (\u00baC)": -3.78615033123194,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.79291669848435
+        },
+        {
+            "Time (yr BP)": 388000,
+            "Antarctic temperature change (\u00baC)": -4.49775131683497,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.84381028687224
+        },
+        {
+            "Time (yr BP)": 389000,
+            "Antarctic temperature change (\u00baC)": -5.12783666177104,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.67547381025903
+        },
+        {
+            "Time (yr BP)": 390000,
+            "Antarctic temperature change (\u00baC)": -5.231874514335,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56434855816317
+        },
+        {
+            "Time (yr BP)": 391000,
+            "Antarctic temperature change (\u00baC)": -5.01391868888584,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54448849664282
+        },
+        {
+            "Time (yr BP)": 392000,
+            "Antarctic temperature change (\u00baC)": -4.71651096030661,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55660313222608
+        },
+        {
+            "Time (yr BP)": 393000,
+            "Antarctic temperature change (\u00baC)": -4.30225904827699,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61432523882808
+        },
+        {
+            "Time (yr BP)": 394000,
+            "Antarctic temperature change (\u00baC)": -3.69215254262174,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.71968509799239
+        },
+        {
+            "Time (yr BP)": 395000,
+            "Antarctic temperature change (\u00baC)": -2.87491220830892,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.80943277665419
+        },
+        {
+            "Time (yr BP)": 396000,
+            "Antarctic temperature change (\u00baC)": -2.00482035674635,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.76907979035725
+        },
+        {
+            "Time (yr BP)": 397000,
+            "Antarctic temperature change (\u00baC)": -1.30565198283459,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.65357791167253
+        },
+        {
+            "Time (yr BP)": 398000,
+            "Antarctic temperature change (\u00baC)": -0.823958930335464,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5835057834809
+        },
+        {
+            "Time (yr BP)": 399000,
+            "Antarctic temperature change (\u00baC)": -0.42743815678934,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57812348861824
+        },
+        {
+            "Time (yr BP)": 400000,
+            "Antarctic temperature change (\u00baC)": 0.0121919053948002,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59924436593902
+        },
+        {
+            "Time (yr BP)": 401000,
+            "Antarctic temperature change (\u00baC)": 0.518012566939023,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61454839168306
+        },
+        {
+            "Time (yr BP)": 402000,
+            "Antarctic temperature change (\u00baC)": 1.03470056829461,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60332166462699
+        },
+        {
+            "Time (yr BP)": 403000,
+            "Antarctic temperature change (\u00baC)": 1.48507102606874,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57130106594211
+        },
+        {
+            "Time (yr BP)": 404000,
+            "Antarctic temperature change (\u00baC)": 1.82348374446782,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54030936515325
+        },
+        {
+            "Time (yr BP)": 405000,
+            "Antarctic temperature change (\u00baC)": 2.03980047006835,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52063566464879
+        },
+        {
+            "Time (yr BP)": 406000,
+            "Antarctic temperature change (\u00baC)": 2.11787178882191,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51084419696587
+        },
+        {
+            "Time (yr BP)": 407000,
+            "Antarctic temperature change (\u00baC)": 2.09573773604414,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50816249794535
+        },
+        {
+            "Time (yr BP)": 408000,
+            "Antarctic temperature change (\u00baC)": 2.05048366102567,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50737265675452
+        },
+        {
+            "Time (yr BP)": 409000,
+            "Antarctic temperature change (\u00baC)": 1.98031251305322,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51514726717687
+        },
+        {
+            "Time (yr BP)": 410000,
+            "Antarctic temperature change (\u00baC)": 1.78807067252281,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54586762876119
+        },
+        {
+            "Time (yr BP)": 411000,
+            "Antarctic temperature change (\u00baC)": 1.42202544773335,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58157221562433
+        },
+        {
+            "Time (yr BP)": 412000,
+            "Antarctic temperature change (\u00baC)": 0.995870067248074,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57382118094475
+        },
+        {
+            "Time (yr BP)": 413000,
+            "Antarctic temperature change (\u00baC)": 0.67795437816281,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53741189513386
+        },
+        {
+            "Time (yr BP)": 414000,
+            "Antarctic temperature change (\u00baC)": 0.5105814430801,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51670421270904
+        },
+        {
+            "Time (yr BP)": 415000,
+            "Antarctic temperature change (\u00baC)": 0.457922218451101,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.510788603226
+        },
+        {
+            "Time (yr BP)": 416000,
+            "Antarctic temperature change (\u00baC)": 0.483423230790673,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51235625011057
+        },
+        {
+            "Time (yr BP)": 417000,
+            "Antarctic temperature change (\u00baC)": 0.475106231534939,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52282305234232
+        },
+        {
+            "Time (yr BP)": 418000,
+            "Antarctic temperature change (\u00baC)": 0.305567624737519,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54143093025268
+        },
+        {
+            "Time (yr BP)": 419000,
+            "Antarctic temperature change (\u00baC)": 0.0275885837821334,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54514644810367
+        },
+        {
+            "Time (yr BP)": 420000,
+            "Antarctic temperature change (\u00baC)": -0.276471795338405,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56241424401536
+        },
+        {
+            "Time (yr BP)": 421000,
+            "Antarctic temperature change (\u00baC)": -0.677659495814457,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60343947490704
+        },
+        {
+            "Time (yr BP)": 422000,
+            "Antarctic temperature change (\u00baC)": -1.12377161908919,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60579497538782
+        },
+        {
+            "Time (yr BP)": 423000,
+            "Antarctic temperature change (\u00baC)": -1.35021094059517,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61977172502747
+        },
+        {
+            "Time (yr BP)": 424000,
+            "Antarctic temperature change (\u00baC)": -1.21627999808142,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70344760827648
+        },
+        {
+            "Time (yr BP)": 425000,
+            "Antarctic temperature change (\u00baC)": -1.16255222585879,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.78681424898681
+        },
+        {
+            "Time (yr BP)": 426000,
+            "Antarctic temperature change (\u00baC)": -1.76570757335457,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.97223555635916
+        },
+        {
+            "Time (yr BP)": 427000,
+            "Antarctic temperature change (\u00baC)": -2.94825927253371,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.16554212606687
+        },
+        {
+            "Time (yr BP)": 428000,
+            "Antarctic temperature change (\u00baC)": -4.36251225653514,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.19708331602178
+        },
+        {
+            "Time (yr BP)": 429000,
+            "Antarctic temperature change (\u00baC)": -5.6969751559099,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.04378774210886
+        },
+        {
+            "Time (yr BP)": 430000,
+            "Antarctic temperature change (\u00baC)": -6.76037999001771,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.83365806858881
+        },
+        {
+            "Time (yr BP)": 431000,
+            "Antarctic temperature change (\u00baC)": -7.45876079309079,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64145230846496
+        },
+        {
+            "Time (yr BP)": 432000,
+            "Antarctic temperature change (\u00baC)": -7.7821468204227,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53300962167209
+        },
+        {
+            "Time (yr BP)": 433000,
+            "Antarctic temperature change (\u00baC)": -7.87437252168179,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50654908136378
+        },
+        {
+            "Time (yr BP)": 434000,
+            "Antarctic temperature change (\u00baC)": -7.89059258001121,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50999167414253
+        },
+        {
+            "Time (yr BP)": 435000,
+            "Antarctic temperature change (\u00baC)": -7.95825908883954,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53464066206961
+        },
+        {
+            "Time (yr BP)": 436000,
+            "Antarctic temperature change (\u00baC)": -8.18551205765358,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56654774869374
+        },
+        {
+            "Time (yr BP)": 437000,
+            "Antarctic temperature change (\u00baC)": -8.43200709444942,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55120510831961
+        },
+        {
+            "Time (yr BP)": 438000,
+            "Antarctic temperature change (\u00baC)": -8.47002434568405,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52642925296276
+        },
+        {
+            "Time (yr BP)": 439000,
+            "Antarctic temperature change (\u00baC)": -8.37414126141908,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51536318747658
+        },
+        {
+            "Time (yr BP)": 440000,
+            "Antarctic temperature change (\u00baC)": -8.25436182175075,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51721865781298
+        },
+        {
+            "Time (yr BP)": 441000,
+            "Antarctic temperature change (\u00baC)": -8.04003193874549,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54266421858238
+        },
+        {
+            "Time (yr BP)": 442000,
+            "Antarctic temperature change (\u00baC)": -7.68342424025805,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57787544325434
+        },
+        {
+            "Time (yr BP)": 443000,
+            "Antarctic temperature change (\u00baC)": -7.25246827762394,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58674507128144
+        },
+        {
+            "Time (yr BP)": 444000,
+            "Antarctic temperature change (\u00baC)": -6.89501831479735,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55386258506009
+        },
+        {
+            "Time (yr BP)": 445000,
+            "Antarctic temperature change (\u00baC)": -6.66157882246018,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54194871176108
+        },
+        {
+            "Time (yr BP)": 446000,
+            "Antarctic temperature change (\u00baC)": -6.39042074855139,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58539917364505
+        },
+        {
+            "Time (yr BP)": 447000,
+            "Antarctic temperature change (\u00baC)": -6.07371842036436,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6035553996447
+        },
+        {
+            "Time (yr BP)": 448000,
+            "Antarctic temperature change (\u00baC)": -6.02143043715711,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58488500283305
+        },
+        {
+            "Time (yr BP)": 449000,
+            "Antarctic temperature change (\u00baC)": -6.2523677862595,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56341332633034
+        },
+        {
+            "Time (yr BP)": 450000,
+            "Antarctic temperature change (\u00baC)": -6.44355298265181,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53877529277325
+        },
+        {
+            "Time (yr BP)": 451000,
+            "Antarctic temperature change (\u00baC)": -6.44319352064263,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54313408254045
+        },
+        {
+            "Time (yr BP)": 452000,
+            "Antarctic temperature change (\u00baC)": -6.33652979156904,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5534598290587
+        },
+        {
+            "Time (yr BP)": 453000,
+            "Antarctic temperature change (\u00baC)": -6.19078867843661,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56366895835625
+        },
+        {
+            "Time (yr BP)": 454000,
+            "Antarctic temperature change (\u00baC)": -6.09468202750844,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57589623036684
+        },
+        {
+            "Time (yr BP)": 455000,
+            "Antarctic temperature change (\u00baC)": -6.33887395969642,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64580699833116
+        },
+        {
+            "Time (yr BP)": 456000,
+            "Antarctic temperature change (\u00baC)": -6.93191149528702,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69454140473805
+        },
+        {
+            "Time (yr BP)": 457000,
+            "Antarctic temperature change (\u00baC)": -7.49594593551339,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61321135348722
+        },
+        {
+            "Time (yr BP)": 458000,
+            "Antarctic temperature change (\u00baC)": -7.75162806165193,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52993054349378
+        },
+        {
+            "Time (yr BP)": 459000,
+            "Antarctic temperature change (\u00baC)": -7.7245722717996,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51763013326922
+        },
+        {
+            "Time (yr BP)": 460000,
+            "Antarctic temperature change (\u00baC)": -7.51268235633533,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54115011808735
+        },
+        {
+            "Time (yr BP)": 461000,
+            "Antarctic temperature change (\u00baC)": -7.17954502351295,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56641314449805
+        },
+        {
+            "Time (yr BP)": 462000,
+            "Antarctic temperature change (\u00baC)": -6.87824099958102,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55286021368139
+        },
+        {
+            "Time (yr BP)": 463000,
+            "Antarctic temperature change (\u00baC)": -6.84394208371454,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53975868704976
+        },
+        {
+            "Time (yr BP)": 464000,
+            "Antarctic temperature change (\u00baC)": -7.07922977929095,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54750447204148
+        },
+        {
+            "Time (yr BP)": 465000,
+            "Antarctic temperature change (\u00baC)": -7.34257605780989,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53116842173955
+        },
+        {
+            "Time (yr BP)": 466000,
+            "Antarctic temperature change (\u00baC)": -7.43796407465516,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51819056595421
+        },
+        {
+            "Time (yr BP)": 467000,
+            "Antarctic temperature change (\u00baC)": -7.34549656782221,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5512132996908
+        },
+        {
+            "Time (yr BP)": 468000,
+            "Antarctic temperature change (\u00baC)": -7.01698525941943,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64353597523547
+        },
+        {
+            "Time (yr BP)": 469000,
+            "Antarctic temperature change (\u00baC)": -6.41968432721732,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.73279723374927
+        },
+        {
+            "Time (yr BP)": 470000,
+            "Antarctic temperature change (\u00baC)": -5.65273811723916,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.80600615080932
+        },
+        {
+            "Time (yr BP)": 471000,
+            "Antarctic temperature change (\u00baC)": -4.86589242578898,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.79584704359463
+        },
+        {
+            "Time (yr BP)": 472000,
+            "Antarctic temperature change (\u00baC)": -4.53089839162203,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.73320014366237
+        },
+        {
+            "Time (yr BP)": 473000,
+            "Antarctic temperature change (\u00baC)": -4.91239698854348,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.77878755282454
+        },
+        {
+            "Time (yr BP)": 474000,
+            "Antarctic temperature change (\u00baC)": -5.37563762542609,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.73124865819779
+        },
+        {
+            "Time (yr BP)": 475000,
+            "Antarctic temperature change (\u00baC)": -5.18316197020041,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.76019690396701
+        },
+        {
+            "Time (yr BP)": 476000,
+            "Antarctic temperature change (\u00baC)": -4.53438928551637,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.74887483531296
+        },
+        {
+            "Time (yr BP)": 477000,
+            "Antarctic temperature change (\u00baC)": -4.17775128803086,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64692238376164
+        },
+        {
+            "Time (yr BP)": 478000,
+            "Antarctic temperature change (\u00baC)": -4.35745158335298,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62743257299822
+        },
+        {
+            "Time (yr BP)": 479000,
+            "Antarctic temperature change (\u00baC)": -4.57001057991595,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58502757455588
+        },
+        {
+            "Time (yr BP)": 480000,
+            "Antarctic temperature change (\u00baC)": -4.43177527839672,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56592164070315
+        },
+        {
+            "Time (yr BP)": 481000,
+            "Antarctic temperature change (\u00baC)": -4.08533541245187,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56779251263567
+        },
+        {
+            "Time (yr BP)": 482000,
+            "Antarctic temperature change (\u00baC)": -3.68117732430455,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57382102582912
+        },
+        {
+            "Time (yr BP)": 483000,
+            "Antarctic temperature change (\u00baC)": -3.27153572554848,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56545241566976
+        },
+        {
+            "Time (yr BP)": 484000,
+            "Antarctic temperature change (\u00baC)": -2.91812244576586,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54457123778385
+        },
+        {
+            "Time (yr BP)": 485000,
+            "Antarctic temperature change (\u00baC)": -2.63116357533944,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53721163741564
+        },
+        {
+            "Time (yr BP)": 486000,
+            "Antarctic temperature change (\u00baC)": -2.31751777336141,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56145694668792
+        },
+        {
+            "Time (yr BP)": 487000,
+            "Antarctic temperature change (\u00baC)": -1.91399829676296,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58435674924332
+        },
+        {
+            "Time (yr BP)": 488000,
+            "Antarctic temperature change (\u00baC)": -1.53550069208769,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56867061797209
+        },
+        {
+            "Time (yr BP)": 489000,
+            "Antarctic temperature change (\u00baC)": -1.36848561085086,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54334746845137
+        },
+        {
+            "Time (yr BP)": 490000,
+            "Antarctic temperature change (\u00baC)": -1.49291471674462,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55255877410716
+        },
+        {
+            "Time (yr BP)": 491000,
+            "Antarctic temperature change (\u00baC)": -1.82797019723365,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56802379447222
+        },
+        {
+            "Time (yr BP)": 492000,
+            "Antarctic temperature change (\u00baC)": -2.19393018066487,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55076794560076
+        },
+        {
+            "Time (yr BP)": 493000,
+            "Antarctic temperature change (\u00baC)": -2.47782895794578,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53017689274671
+        },
+        {
+            "Time (yr BP)": 494000,
+            "Antarctic temperature change (\u00baC)": -2.67489369778133,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51755417097258
+        },
+        {
+            "Time (yr BP)": 495000,
+            "Antarctic temperature change (\u00baC)": -2.77015205155543,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50695384647765
+        },
+        {
+            "Time (yr BP)": 496000,
+            "Antarctic temperature change (\u00baC)": -2.79689028624342,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50315054427718
+        },
+        {
+            "Time (yr BP)": 497000,
+            "Antarctic temperature change (\u00baC)": -2.82635549211191,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50323139385704
+        },
+        {
+            "Time (yr BP)": 498000,
+            "Antarctic temperature change (\u00baC)": -2.87592196198307,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50634337689509
+        },
+        {
+            "Time (yr BP)": 499000,
+            "Antarctic temperature change (\u00baC)": -2.97799916256163,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51639405154187
+        },
+        {
+            "Time (yr BP)": 500000,
+            "Antarctic temperature change (\u00baC)": -3.16064302242718,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52382143529176
+        },
+        {
+            "Time (yr BP)": 501000,
+            "Antarctic temperature change (\u00baC)": -3.3382941576108,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51650769025029
+        },
+        {
+            "Time (yr BP)": 502000,
+            "Antarctic temperature change (\u00baC)": -3.41364583243534,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50906803248283
+        },
+        {
+            "Time (yr BP)": 503000,
+            "Antarctic temperature change (\u00baC)": -3.42649832400852,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51349330129263
+        },
+        {
+            "Time (yr BP)": 504000,
+            "Antarctic temperature change (\u00baC)": -3.52640873990656,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54119598048691
+        },
+        {
+            "Time (yr BP)": 505000,
+            "Antarctic temperature change (\u00baC)": -3.77175293092807,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5630931863729
+        },
+        {
+            "Time (yr BP)": 506000,
+            "Antarctic temperature change (\u00baC)": -3.96802646510793,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54615010678202
+        },
+        {
+            "Time (yr BP)": 507000,
+            "Antarctic temperature change (\u00baC)": -4.07145904653887,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56006240842857
+        },
+        {
+            "Time (yr BP)": 508000,
+            "Antarctic temperature change (\u00baC)": -4.34501662891375,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6111057519734
+        },
+        {
+            "Time (yr BP)": 509000,
+            "Antarctic temperature change (\u00baC)": -4.73477692154223,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58867203734999
+        },
+        {
+            "Time (yr BP)": 510000,
+            "Antarctic temperature change (\u00baC)": -4.96802789692748,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52870595712933
+        },
+        {
+            "Time (yr BP)": 511000,
+            "Antarctic temperature change (\u00baC)": -5.0457787027087,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50808050554942
+        },
+        {
+            "Time (yr BP)": 512000,
+            "Antarctic temperature change (\u00baC)": -5.01404383418819,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51305172703721
+        },
+        {
+            "Time (yr BP)": 513000,
+            "Antarctic temperature change (\u00baC)": -4.84280186071441,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53446525713999
+        },
+        {
+            "Time (yr BP)": 514000,
+            "Antarctic temperature change (\u00baC)": -4.55003279264306,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5558554956697
+        },
+        {
+            "Time (yr BP)": 515000,
+            "Antarctic temperature change (\u00baC)": -4.20671416918887,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56163307276297
+        },
+        {
+            "Time (yr BP)": 516000,
+            "Antarctic temperature change (\u00baC)": -3.8801728760185,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55424981347873
+        },
+        {
+            "Time (yr BP)": 517000,
+            "Antarctic temperature change (\u00baC)": -3.58022596673291,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54931278818891
+        },
+        {
+            "Time (yr BP)": 518000,
+            "Antarctic temperature change (\u00baC)": -3.29642980518605,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53783467708135
+        },
+        {
+            "Time (yr BP)": 519000,
+            "Antarctic temperature change (\u00baC)": -3.10305219391382,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51758928005322
+        },
+        {
+            "Time (yr BP)": 520000,
+            "Antarctic temperature change (\u00baC)": -3.04317123556913,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51341270053312
+        },
+        {
+            "Time (yr BP)": 521000,
+            "Antarctic temperature change (\u00baC)": -3.1079476185199,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53696848283018
+        },
+        {
+            "Time (yr BP)": 522000,
+            "Antarctic temperature change (\u00baC)": -3.34165459662508,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57915773482645
+        },
+        {
+            "Time (yr BP)": 523000,
+            "Antarctic temperature change (\u00baC)": -3.66710947575942,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57241553966389
+        },
+        {
+            "Time (yr BP)": 524000,
+            "Antarctic temperature change (\u00baC)": -3.88728165854108,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53088929291571
+        },
+        {
+            "Time (yr BP)": 525000,
+            "Antarctic temperature change (\u00baC)": -4.00579874123227,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51423889426811
+        },
+        {
+            "Time (yr BP)": 526000,
+            "Antarctic temperature change (\u00baC)": -4.06193839495557,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51291326731174
+        },
+        {
+            "Time (yr BP)": 527000,
+            "Antarctic temperature change (\u00baC)": -4.004065372052,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52144730905018
+        },
+        {
+            "Time (yr BP)": 528000,
+            "Antarctic temperature change (\u00baC)": -3.93795415960643,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55105429400979
+        },
+        {
+            "Time (yr BP)": 529000,
+            "Antarctic temperature change (\u00baC)": -4.18007428947335,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66971271881521
+        },
+        {
+            "Time (yr BP)": 530000,
+            "Antarctic temperature change (\u00baC)": -4.88239575619571,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.81672271072477
+        },
+        {
+            "Time (yr BP)": 531000,
+            "Antarctic temperature change (\u00baC)": -5.75997626719129,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.78390278105018
+        },
+        {
+            "Time (yr BP)": 532000,
+            "Antarctic temperature change (\u00baC)": -6.41032661584956,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62950482596977
+        },
+        {
+            "Time (yr BP)": 533000,
+            "Antarctic temperature change (\u00baC)": -6.68167989726874,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53621815639048
+        },
+        {
+            "Time (yr BP)": 534000,
+            "Antarctic temperature change (\u00baC)": -6.64088579867883,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52206584816365
+        },
+        {
+            "Time (yr BP)": 535000,
+            "Antarctic temperature change (\u00baC)": -6.47937617950509,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51795758955482
+        },
+        {
+            "Time (yr BP)": 536000,
+            "Antarctic temperature change (\u00baC)": -6.38348512846746,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51315650429666
+        },
+        {
+            "Time (yr BP)": 537000,
+            "Antarctic temperature change (\u00baC)": -6.44065059020901,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53445195965986
+        },
+        {
+            "Time (yr BP)": 538000,
+            "Antarctic temperature change (\u00baC)": -6.6779172754084,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56181376506353
+        },
+        {
+            "Time (yr BP)": 539000,
+            "Antarctic temperature change (\u00baC)": -6.92878001678975,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54021308050228
+        },
+        {
+            "Time (yr BP)": 540000,
+            "Antarctic temperature change (\u00baC)": -6.99277607980826,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51346467393071
+        },
+        {
+            "Time (yr BP)": 541000,
+            "Antarctic temperature change (\u00baC)": -6.90557371933983,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50977731632355
+        },
+        {
+            "Time (yr BP)": 542000,
+            "Antarctic temperature change (\u00baC)": -6.80362099740045,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51073412891869
+        },
+        {
+            "Time (yr BP)": 543000,
+            "Antarctic temperature change (\u00baC)": -6.83983214038013,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52379638221471
+        },
+        {
+            "Time (yr BP)": 544000,
+            "Antarctic temperature change (\u00baC)": -7.06964674458751,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54497571495277
+        },
+        {
+            "Time (yr BP)": 545000,
+            "Antarctic temperature change (\u00baC)": -7.31949187401331,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53838063042843
+        },
+        {
+            "Time (yr BP)": 546000,
+            "Antarctic temperature change (\u00baC)": -7.32706085991857,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54560120740071
+        },
+        {
+            "Time (yr BP)": 547000,
+            "Antarctic temperature change (\u00baC)": -7.05472636799204,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56978500478401
+        },
+        {
+            "Time (yr BP)": 548000,
+            "Antarctic temperature change (\u00baC)": -6.70861769083176,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57092900354908
+        },
+        {
+            "Time (yr BP)": 549000,
+            "Antarctic temperature change (\u00baC)": -6.34358468325088,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60293571053453
+        },
+        {
+            "Time (yr BP)": 550000,
+            "Antarctic temperature change (\u00baC)": -5.96268893659629,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61185453129509
+        },
+        {
+            "Time (yr BP)": 551000,
+            "Antarctic temperature change (\u00baC)": -5.8234465124464,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5832619643011
+        },
+        {
+            "Time (yr BP)": 552000,
+            "Antarctic temperature change (\u00baC)": -5.82057029600976,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60049421762746
+        },
+        {
+            "Time (yr BP)": 553000,
+            "Antarctic temperature change (\u00baC)": -5.4632650648952,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.71845803965698
+        },
+        {
+            "Time (yr BP)": 554000,
+            "Antarctic temperature change (\u00baC)": -4.70589369480735,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.80379376808458
+        },
+        {
+            "Time (yr BP)": 555000,
+            "Antarctic temperature change (\u00baC)": -4.01653305842916,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.72751648181086
+        },
+        {
+            "Time (yr BP)": 556000,
+            "Antarctic temperature change (\u00baC)": -3.90055297374289,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.68001625774855
+        },
+        {
+            "Time (yr BP)": 557000,
+            "Antarctic temperature change (\u00baC)": -4.39253998922255,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.72997467126462
+        },
+        {
+            "Time (yr BP)": 558000,
+            "Antarctic temperature change (\u00baC)": -5.07335035108599,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.71089369457366
+        },
+        {
+            "Time (yr BP)": 559000,
+            "Antarctic temperature change (\u00baC)": -5.45470221960038,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64413417162542
+        },
+        {
+            "Time (yr BP)": 560000,
+            "Antarctic temperature change (\u00baC)": -5.24534315706347,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66988198528529
+        },
+        {
+            "Time (yr BP)": 561000,
+            "Antarctic temperature change (\u00baC)": -4.62357871675052,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.71002906129923
+        },
+        {
+            "Time (yr BP)": 562000,
+            "Antarctic temperature change (\u00baC)": -3.89540227914503,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.7086639325331
+        },
+        {
+            "Time (yr BP)": 563000,
+            "Antarctic temperature change (\u00baC)": -3.1837846645841,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.68609565421375
+        },
+        {
+            "Time (yr BP)": 564000,
+            "Antarctic temperature change (\u00baC)": -2.53934278981727,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64566290678962
+        },
+        {
+            "Time (yr BP)": 565000,
+            "Antarctic temperature change (\u00baC)": -2.00884785430857,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59531563036872
+        },
+        {
+            "Time (yr BP)": 566000,
+            "Antarctic temperature change (\u00baC)": -1.61612122878129,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55394478648673
+        },
+        {
+            "Time (yr BP)": 567000,
+            "Antarctic temperature change (\u00baC)": -1.34845601235615,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52957187265858
+        },
+        {
+            "Time (yr BP)": 568000,
+            "Antarctic temperature change (\u00baC)": -1.17997107442048,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51658318805333
+        },
+        {
+            "Time (yr BP)": 569000,
+            "Antarctic temperature change (\u00baC)": -1.07540105220805,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51002032641867
+        },
+        {
+            "Time (yr BP)": 570000,
+            "Antarctic temperature change (\u00baC)": -1.00823463198837,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50626530701322
+        },
+        {
+            "Time (yr BP)": 571000,
+            "Antarctic temperature change (\u00baC)": -0.976725275135656,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50533740435658
+        },
+        {
+            "Time (yr BP)": 572000,
+            "Antarctic temperature change (\u00baC)": -0.981893761410144,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50795660412053
+        },
+        {
+            "Time (yr BP)": 573000,
+            "Antarctic temperature change (\u00baC)": -0.982531106243914,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51090251074627
+        },
+        {
+            "Time (yr BP)": 574000,
+            "Antarctic temperature change (\u00baC)": -0.95141941332862,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51072178090696
+        },
+        {
+            "Time (yr BP)": 575000,
+            "Antarctic temperature change (\u00baC)": -0.947679886389648,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51006224981807
+        },
+        {
+            "Time (yr BP)": 576000,
+            "Antarctic temperature change (\u00baC)": -1.01325064463652,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51313540848003
+        },
+        {
+            "Time (yr BP)": 577000,
+            "Antarctic temperature change (\u00baC)": -1.03665346806808,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52504474985145
+        },
+        {
+            "Time (yr BP)": 578000,
+            "Antarctic temperature change (\u00baC)": -0.904921149114075,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55784195017343
+        },
+        {
+            "Time (yr BP)": 579000,
+            "Antarctic temperature change (\u00baC)": -0.861103209657933,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64894674083027
+        },
+        {
+            "Time (yr BP)": 580000,
+            "Antarctic temperature change (\u00baC)": -1.38398203449347,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.92025177560017
+        },
+        {
+            "Time (yr BP)": 581000,
+            "Antarctic temperature change (\u00baC)": -2.54601831824142,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.177281648091
+        },
+        {
+            "Time (yr BP)": 582000,
+            "Antarctic temperature change (\u00baC)": -3.96530105687337,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.19586920986808
+        },
+        {
+            "Time (yr BP)": 583000,
+            "Antarctic temperature change (\u00baC)": -5.1517075438078,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.95131159835105
+        },
+        {
+            "Time (yr BP)": 584000,
+            "Antarctic temperature change (\u00baC)": -5.67664321403814,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66954648736217
+        },
+        {
+            "Time (yr BP)": 585000,
+            "Antarctic temperature change (\u00baC)": -5.6675964410642,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56696462967896
+        },
+        {
+            "Time (yr BP)": 586000,
+            "Antarctic temperature change (\u00baC)": -5.61380332045539,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55761002297797
+        },
+        {
+            "Time (yr BP)": 587000,
+            "Antarctic temperature change (\u00baC)": -5.4939931971879,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63139935787383
+        },
+        {
+            "Time (yr BP)": 588000,
+            "Antarctic temperature change (\u00baC)": -4.97759940701305,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.76368251728234
+        },
+        {
+            "Time (yr BP)": 589000,
+            "Antarctic temperature change (\u00baC)": -4.26936020352494,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.75997925987188
+        },
+        {
+            "Time (yr BP)": 590000,
+            "Antarctic temperature change (\u00baC)": -4.00725473318581,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.71745036924213
+        },
+        {
+            "Time (yr BP)": 591000,
+            "Antarctic temperature change (\u00baC)": -4.35580255685274,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.72962806332119
+        },
+        {
+            "Time (yr BP)": 592000,
+            "Antarctic temperature change (\u00baC)": -4.6732294901641,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63286953097735
+        },
+        {
+            "Time (yr BP)": 593000,
+            "Antarctic temperature change (\u00baC)": -4.52270058635419,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5946595005681
+        },
+        {
+            "Time (yr BP)": 594000,
+            "Antarctic temperature change (\u00baC)": -4.20902534209167,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59778244425841
+        },
+        {
+            "Time (yr BP)": 595000,
+            "Antarctic temperature change (\u00baC)": -4.27159678473045,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.68485621530219
+        },
+        {
+            "Time (yr BP)": 596000,
+            "Antarctic temperature change (\u00baC)": -4.87677920697696,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.79143532372962
+        },
+        {
+            "Time (yr BP)": 597000,
+            "Antarctic temperature change (\u00baC)": -5.51232096971155,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.68855859662114
+        },
+        {
+            "Time (yr BP)": 598000,
+            "Antarctic temperature change (\u00baC)": -5.63819444435238,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58774823667029
+        },
+        {
+            "Time (yr BP)": 599000,
+            "Antarctic temperature change (\u00baC)": -5.34388666825226,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57481190513428
+        },
+        {
+            "Time (yr BP)": 600000,
+            "Antarctic temperature change (\u00baC)": -4.96376679456614,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56456502064833
+        },
+        {
+            "Time (yr BP)": 601000,
+            "Antarctic temperature change (\u00baC)": -4.5905009550456,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56531781537831
+        },
+        {
+            "Time (yr BP)": 602000,
+            "Antarctic temperature change (\u00baC)": -4.2434396492369,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54869324670731
+        },
+        {
+            "Time (yr BP)": 603000,
+            "Antarctic temperature change (\u00baC)": -3.96831833376258,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53178685685357
+        },
+        {
+            "Time (yr BP)": 604000,
+            "Antarctic temperature change (\u00baC)": -3.69727811269531,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53891898274188
+        },
+        {
+            "Time (yr BP)": 605000,
+            "Antarctic temperature change (\u00baC)": -3.37387287008197,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55241894035703
+        },
+        {
+            "Time (yr BP)": 606000,
+            "Antarctic temperature change (\u00baC)": -2.98574748087932,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5837075267923
+        },
+        {
+            "Time (yr BP)": 607000,
+            "Antarctic temperature change (\u00baC)": -2.47856787654324,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63447988957649
+        },
+        {
+            "Time (yr BP)": 608000,
+            "Antarctic temperature change (\u00baC)": -1.87648779799656,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6489188722769
+        },
+        {
+            "Time (yr BP)": 609000,
+            "Antarctic temperature change (\u00baC)": -1.32372012132023,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60362346363721
+        },
+        {
+            "Time (yr BP)": 610000,
+            "Antarctic temperature change (\u00baC)": -0.970412972701918,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54076567292427
+        },
+        {
+            "Time (yr BP)": 611000,
+            "Antarctic temperature change (\u00baC)": -0.82295539996234,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51179163655272
+        },
+        {
+            "Time (yr BP)": 612000,
+            "Antarctic temperature change (\u00baC)": -0.723251902179541,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.510414166048
+        },
+        {
+            "Time (yr BP)": 613000,
+            "Antarctic temperature change (\u00baC)": -0.594573765281991,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51075813758014
+        },
+        {
+            "Time (yr BP)": 614000,
+            "Antarctic temperature change (\u00baC)": -0.497067182869451,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50825949813705
+        },
+        {
+            "Time (yr BP)": 615000,
+            "Antarctic temperature change (\u00baC)": -0.510968924966225,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51756034510966
+        },
+        {
+            "Time (yr BP)": 616000,
+            "Antarctic temperature change (\u00baC)": -0.701774658948902,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54226860966207
+        },
+        {
+            "Time (yr BP)": 617000,
+            "Antarctic temperature change (\u00baC)": -0.996633395430977,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54464068232616
+        },
+        {
+            "Time (yr BP)": 618000,
+            "Antarctic temperature change (\u00baC)": -1.22683666134123,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52443160339167
+        },
+        {
+            "Time (yr BP)": 619000,
+            "Antarctic temperature change (\u00baC)": -1.35066762824213,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51344406421991
+        },
+        {
+            "Time (yr BP)": 620000,
+            "Antarctic temperature change (\u00baC)": -1.4144469544561,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51443168088199
+        },
+        {
+            "Time (yr BP)": 621000,
+            "Antarctic temperature change (\u00baC)": -1.52873852026054,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52651213929237
+        },
+        {
+            "Time (yr BP)": 622000,
+            "Antarctic temperature change (\u00baC)": -1.74343535952942,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52953654425175
+        },
+        {
+            "Time (yr BP)": 623000,
+            "Antarctic temperature change (\u00baC)": -1.92778747055537,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51578543190333
+        },
+        {
+            "Time (yr BP)": 624000,
+            "Antarctic temperature change (\u00baC)": -2.01826305200771,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52550939627771
+        },
+        {
+            "Time (yr BP)": 625000,
+            "Antarctic temperature change (\u00baC)": -2.21605456583571,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63814272976056
+        },
+        {
+            "Time (yr BP)": 626000,
+            "Antarctic temperature change (\u00baC)": -2.87125174362906,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.91271060971488
+        },
+        {
+            "Time (yr BP)": 627000,
+            "Antarctic temperature change (\u00baC)": -4.05325327599595,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.15327249246448
+        },
+        {
+            "Time (yr BP)": 628000,
+            "Antarctic temperature change (\u00baC)": -5.4578429556626,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 2.16528913950906
+        },
+        {
+            "Time (yr BP)": 629000,
+            "Antarctic temperature change (\u00baC)": -6.7009343278114,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.9505430081255
+        },
+        {
+            "Time (yr BP)": 630000,
+            "Antarctic temperature change (\u00baC)": -7.50937316145644,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6804737335821
+        },
+        {
+            "Time (yr BP)": 631000,
+            "Antarctic temperature change (\u00baC)": -7.85515105037078,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53968961483639
+        },
+        {
+            "Time (yr BP)": 632000,
+            "Antarctic temperature change (\u00baC)": -7.88941385453657,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51239976651232
+        },
+        {
+            "Time (yr BP)": 633000,
+            "Antarctic temperature change (\u00baC)": -7.82936838977878,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51302993028382
+        },
+        {
+            "Time (yr BP)": 634000,
+            "Antarctic temperature change (\u00baC)": -7.8714670673124,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51580930201527
+        },
+        {
+            "Time (yr BP)": 635000,
+            "Antarctic temperature change (\u00baC)": -7.97778971845986,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51268633604817
+        },
+        {
+            "Time (yr BP)": 636000,
+            "Antarctic temperature change (\u00baC)": -7.97691237578556,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51062831194826
+        },
+        {
+            "Time (yr BP)": 637000,
+            "Antarctic temperature change (\u00baC)": -7.88458284263821,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51002429552547
+        },
+        {
+            "Time (yr BP)": 638000,
+            "Antarctic temperature change (\u00baC)": -7.86130754838441,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50728469828004
+        },
+        {
+            "Time (yr BP)": 639000,
+            "Antarctic temperature change (\u00baC)": -7.94013158649062,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50658760335374
+        },
+        {
+            "Time (yr BP)": 640000,
+            "Antarctic temperature change (\u00baC)": -8.00165981350405,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50680379502087
+        },
+        {
+            "Time (yr BP)": 641000,
+            "Antarctic temperature change (\u00baC)": -7.9241491613087,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52240415704605
+        },
+        {
+            "Time (yr BP)": 642000,
+            "Antarctic temperature change (\u00baC)": -7.66957034612558,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54747143072015
+        },
+        {
+            "Time (yr BP)": 643000,
+            "Antarctic temperature change (\u00baC)": -7.33453395123501,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54601972175391
+        },
+        {
+            "Time (yr BP)": 644000,
+            "Antarctic temperature change (\u00baC)": -7.07350402217466,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52144787012825
+        },
+        {
+            "Time (yr BP)": 645000,
+            "Antarctic temperature change (\u00baC)": -6.95574995326536,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50497929354653
+        },
+        {
+            "Time (yr BP)": 646000,
+            "Antarctic temperature change (\u00baC)": -6.93607106572817,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50189879912409
+        },
+        {
+            "Time (yr BP)": 647000,
+            "Antarctic temperature change (\u00baC)": -6.90890053455508,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50641890647332
+        },
+        {
+            "Time (yr BP)": 648000,
+            "Antarctic temperature change (\u00baC)": -6.79093700326028,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51526724575182
+        },
+        {
+            "Time (yr BP)": 649000,
+            "Antarctic temperature change (\u00baC)": -6.63745324575071,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51397201733823
+        },
+        {
+            "Time (yr BP)": 650000,
+            "Antarctic temperature change (\u00baC)": -6.58563362176745,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50814513176734
+        },
+        {
+            "Time (yr BP)": 651000,
+            "Antarctic temperature change (\u00baC)": -6.65779189315287,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50979437310409
+        },
+        {
+            "Time (yr BP)": 652000,
+            "Antarctic temperature change (\u00baC)": -6.79754386546062,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51452582364783
+        },
+        {
+            "Time (yr BP)": 653000,
+            "Antarctic temperature change (\u00baC)": -6.91180343681831,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51697286616876
+        },
+        {
+            "Time (yr BP)": 654000,
+            "Antarctic temperature change (\u00baC)": -6.83723279840142,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53780668973895
+        },
+        {
+            "Time (yr BP)": 655000,
+            "Antarctic temperature change (\u00baC)": -6.55159368403109,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55955780997784
+        },
+        {
+            "Time (yr BP)": 656000,
+            "Antarctic temperature change (\u00baC)": -6.30646928890594,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54363088129693
+        },
+        {
+            "Time (yr BP)": 657000,
+            "Antarctic temperature change (\u00baC)": -6.36464731131779,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55118138186885
+        },
+        {
+            "Time (yr BP)": 658000,
+            "Antarctic temperature change (\u00baC)": -6.6983489896982,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57552793430443
+        },
+        {
+            "Time (yr BP)": 659000,
+            "Antarctic temperature change (\u00baC)": -7.09064024868923,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5624920388524
+        },
+        {
+            "Time (yr BP)": 660000,
+            "Antarctic temperature change (\u00baC)": -7.37566114945085,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53247237970827
+        },
+        {
+            "Time (yr BP)": 661000,
+            "Antarctic temperature change (\u00baC)": -7.48938049628235,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51784600180545
+        },
+        {
+            "Time (yr BP)": 662000,
+            "Antarctic temperature change (\u00baC)": -7.42429267583871,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51929746385365
+        },
+        {
+            "Time (yr BP)": 663000,
+            "Antarctic temperature change (\u00baC)": -7.34632777894213,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52504672070175
+        },
+        {
+            "Time (yr BP)": 664000,
+            "Antarctic temperature change (\u00baC)": -7.48379091163519,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54866216355318
+        },
+        {
+            "Time (yr BP)": 665000,
+            "Antarctic temperature change (\u00baC)": -7.7932313505205,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55080291133903
+        },
+        {
+            "Time (yr BP)": 666000,
+            "Antarctic temperature change (\u00baC)": -8.03176806478194,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52140410257179
+        },
+        {
+            "Time (yr BP)": 667000,
+            "Antarctic temperature change (\u00baC)": -8.07321679819314,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51712357657731
+        },
+        {
+            "Time (yr BP)": 668000,
+            "Antarctic temperature change (\u00baC)": -7.88277069536714,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56797595845373
+        },
+        {
+            "Time (yr BP)": 669000,
+            "Antarctic temperature change (\u00baC)": -7.45284435308738,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.62984640073154
+        },
+        {
+            "Time (yr BP)": 670000,
+            "Antarctic temperature change (\u00baC)": -7.027332932191,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59936839071131
+        },
+        {
+            "Time (yr BP)": 671000,
+            "Antarctic temperature change (\u00baC)": -6.93620056385626,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55245003456159
+        },
+        {
+            "Time (yr BP)": 672000,
+            "Antarctic temperature change (\u00baC)": -7.04520521044495,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53669200853608
+        },
+        {
+            "Time (yr BP)": 673000,
+            "Antarctic temperature change (\u00baC)": -6.96486795427983,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55489954835388
+        },
+        {
+            "Time (yr BP)": 674000,
+            "Antarctic temperature change (\u00baC)": -6.58527886748077,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6128183040733
+        },
+        {
+            "Time (yr BP)": 675000,
+            "Antarctic temperature change (\u00baC)": -6.06708035600933,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63276953355248
+        },
+        {
+            "Time (yr BP)": 676000,
+            "Antarctic temperature change (\u00baC)": -5.70848739203859,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60236057425923
+        },
+        {
+            "Time (yr BP)": 677000,
+            "Antarctic temperature change (\u00baC)": -5.5658807587319,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63405254630836
+        },
+        {
+            "Time (yr BP)": 678000,
+            "Antarctic temperature change (\u00baC)": -5.29809198597906,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70828414586808
+        },
+        {
+            "Time (yr BP)": 679000,
+            "Antarctic temperature change (\u00baC)": -5.07798293557507,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.71066623543995
+        },
+        {
+            "Time (yr BP)": 680000,
+            "Antarctic temperature change (\u00baC)": -5.3233037421763,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70498410607326
+        },
+        {
+            "Time (yr BP)": 681000,
+            "Antarctic temperature change (\u00baC)": -5.58057318616526,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.65904990274104
+        },
+        {
+            "Time (yr BP)": 682000,
+            "Antarctic temperature change (\u00baC)": -5.33517520946319,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.65632900866531
+        },
+        {
+            "Time (yr BP)": 683000,
+            "Antarctic temperature change (\u00baC)": -4.86112005597256,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60787226018568
+        },
+        {
+            "Time (yr BP)": 684000,
+            "Antarctic temperature change (\u00baC)": -4.48375912579744,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55703556292365
+        },
+        {
+            "Time (yr BP)": 685000,
+            "Antarctic temperature change (\u00baC)": -4.15237033639484,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55235637095072
+        },
+        {
+            "Time (yr BP)": 686000,
+            "Antarctic temperature change (\u00baC)": -3.78904785141817,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56400835219948
+        },
+        {
+            "Time (yr BP)": 687000,
+            "Antarctic temperature change (\u00baC)": -3.39469237924011,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5656931176312
+        },
+        {
+            "Time (yr BP)": 688000,
+            "Antarctic temperature change (\u00baC)": -3.05699649022509,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54155366567802
+        },
+        {
+            "Time (yr BP)": 689000,
+            "Antarctic temperature change (\u00baC)": -2.81376275341901,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52924668400234
+        },
+        {
+            "Time (yr BP)": 690000,
+            "Antarctic temperature change (\u00baC)": -2.56538896282079,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53720519876521
+        },
+        {
+            "Time (yr BP)": 691000,
+            "Antarctic temperature change (\u00baC)": -2.28198447201132,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54165106270119
+        },
+        {
+            "Time (yr BP)": 692000,
+            "Antarctic temperature change (\u00baC)": -1.9840987195276,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55138087903782
+        },
+        {
+            "Time (yr BP)": 693000,
+            "Antarctic temperature change (\u00baC)": -1.68617930046553,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54865702284105
+        },
+        {
+            "Time (yr BP)": 694000,
+            "Antarctic temperature change (\u00baC)": -1.5133027637614,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52250905370146
+        },
+        {
+            "Time (yr BP)": 695000,
+            "Antarctic temperature change (\u00baC)": -1.48209223552905,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50698670770672
+        },
+        {
+            "Time (yr BP)": 696000,
+            "Antarctic temperature change (\u00baC)": -1.48040161094811,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50333519053132
+        },
+        {
+            "Time (yr BP)": 697000,
+            "Antarctic temperature change (\u00baC)": -1.49568385297719,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50671730062422
+        },
+        {
+            "Time (yr BP)": 698000,
+            "Antarctic temperature change (\u00baC)": -1.59504793908582,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52110936991111
+        },
+        {
+            "Time (yr BP)": 699000,
+            "Antarctic temperature change (\u00baC)": -1.79360044248307,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53251833424332
+        },
+        {
+            "Time (yr BP)": 700000,
+            "Antarctic temperature change (\u00baC)": -1.92713867356236,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5252816630799
+        },
+        {
+            "Time (yr BP)": 701000,
+            "Antarctic temperature change (\u00baC)": -1.89136308443455,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52199564608376
+        },
+        {
+            "Time (yr BP)": 702000,
+            "Antarctic temperature change (\u00baC)": -1.87415939790792,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52216076453436
+        },
+        {
+            "Time (yr BP)": 703000,
+            "Antarctic temperature change (\u00baC)": -2.03100252486837,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53439272683615
+        },
+        {
+            "Time (yr BP)": 704000,
+            "Antarctic temperature change (\u00baC)": -2.32310423532982,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54912127535919
+        },
+        {
+            "Time (yr BP)": 705000,
+            "Antarctic temperature change (\u00baC)": -2.65886582967484,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54633238238073
+        },
+        {
+            "Time (yr BP)": 706000,
+            "Antarctic temperature change (\u00baC)": -2.93431814271766,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52669255340958
+        },
+        {
+            "Time (yr BP)": 707000,
+            "Antarctic temperature change (\u00baC)": -3.07797939595569,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51002301245487
+        },
+        {
+            "Time (yr BP)": 708000,
+            "Antarctic temperature change (\u00baC)": -3.13822168990126,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50709632123839
+        },
+        {
+            "Time (yr BP)": 709000,
+            "Antarctic temperature change (\u00baC)": -3.21892146771934,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50818801108104
+        },
+        {
+            "Time (yr BP)": 710000,
+            "Antarctic temperature change (\u00baC)": -3.3041587885598,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50468370344091
+        },
+        {
+            "Time (yr BP)": 711000,
+            "Antarctic temperature change (\u00baC)": -3.35563912402411,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50224020058359
+        },
+        {
+            "Time (yr BP)": 712000,
+            "Antarctic temperature change (\u00baC)": -3.38734220865323,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50358759673185
+        },
+        {
+            "Time (yr BP)": 713000,
+            "Antarctic temperature change (\u00baC)": -3.417766427691,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51483622831893
+        },
+        {
+            "Time (yr BP)": 714000,
+            "Antarctic temperature change (\u00baC)": -3.57321564655121,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5630182814834
+        },
+        {
+            "Time (yr BP)": 715000,
+            "Antarctic temperature change (\u00baC)": -3.99310788034669,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63375408984887
+        },
+        {
+            "Time (yr BP)": 716000,
+            "Antarctic temperature change (\u00baC)": -4.57640060334488,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64853172364475
+        },
+        {
+            "Time (yr BP)": 717000,
+            "Antarctic temperature change (\u00baC)": -5.16109501315506,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63014018014266
+        },
+        {
+            "Time (yr BP)": 718000,
+            "Antarctic temperature change (\u00baC)": -5.70799880133577,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61235880001368
+        },
+        {
+            "Time (yr BP)": 719000,
+            "Antarctic temperature change (\u00baC)": -6.22577368791692,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61169801614817
+        },
+        {
+            "Time (yr BP)": 720000,
+            "Antarctic temperature change (\u00baC)": -6.77132558201965,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64022167128674
+        },
+        {
+            "Time (yr BP)": 721000,
+            "Antarctic temperature change (\u00baC)": -7.28797837170803,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6334178776508
+        },
+        {
+            "Time (yr BP)": 722000,
+            "Antarctic temperature change (\u00baC)": -7.41976558773537,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66228297516714
+        },
+        {
+            "Time (yr BP)": 723000,
+            "Antarctic temperature change (\u00baC)": -6.87867676470641,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.84908068981188
+        },
+        {
+            "Time (yr BP)": 724000,
+            "Antarctic temperature change (\u00baC)": -5.92302775021725,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.89507640952468
+        },
+        {
+            "Time (yr BP)": 725000,
+            "Antarctic temperature change (\u00baC)": -5.18201801609778,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.7037612866284
+        },
+        {
+            "Time (yr BP)": 726000,
+            "Antarctic temperature change (\u00baC)": -5.01404116786641,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57360427629882
+        },
+        {
+            "Time (yr BP)": 727000,
+            "Antarctic temperature change (\u00baC)": -5.16770918357392,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5370234849509
+        },
+        {
+            "Time (yr BP)": 728000,
+            "Antarctic temperature change (\u00baC)": -5.22716657233706,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51809939013467
+        },
+        {
+            "Time (yr BP)": 729000,
+            "Antarctic temperature change (\u00baC)": -5.08370876303963,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52508328672606
+        },
+        {
+            "Time (yr BP)": 730000,
+            "Antarctic temperature change (\u00baC)": -4.82912696661573,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53591045381141
+        },
+        {
+            "Time (yr BP)": 731000,
+            "Antarctic temperature change (\u00baC)": -4.51676847633684,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56041220423753
+        },
+        {
+            "Time (yr BP)": 732000,
+            "Antarctic temperature change (\u00baC)": -4.10795621599012,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59268567296526
+        },
+        {
+            "Time (yr BP)": 733000,
+            "Antarctic temperature change (\u00baC)": -3.6953226516205,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56844500920261
+        },
+        {
+            "Time (yr BP)": 734000,
+            "Antarctic temperature change (\u00baC)": -3.47249174312887,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52235092495216
+        },
+        {
+            "Time (yr BP)": 735000,
+            "Antarctic temperature change (\u00baC)": -3.43256355653417,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51121171181361
+        },
+        {
+            "Time (yr BP)": 736000,
+            "Antarctic temperature change (\u00baC)": -3.52729561907269,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53261485436649
+        },
+        {
+            "Time (yr BP)": 737000,
+            "Antarctic temperature change (\u00baC)": -3.83304466565469,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59701434990975
+        },
+        {
+            "Time (yr BP)": 738000,
+            "Antarctic temperature change (\u00baC)": -4.40630408903063,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.72298889187694
+        },
+        {
+            "Time (yr BP)": 739000,
+            "Antarctic temperature change (\u00baC)": -5.26007717581737,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.86618573344071
+        },
+        {
+            "Time (yr BP)": 740000,
+            "Antarctic temperature change (\u00baC)": -6.24090383198778,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.85374740820824
+        },
+        {
+            "Time (yr BP)": 741000,
+            "Antarctic temperature change (\u00baC)": -7.02063555132893,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.68456705588669
+        },
+        {
+            "Time (yr BP)": 742000,
+            "Antarctic temperature change (\u00baC)": -7.49294853933633,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56710966303013
+        },
+        {
+            "Time (yr BP)": 743000,
+            "Antarctic temperature change (\u00baC)": -7.76989532003332,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52762026192501
+        },
+        {
+            "Time (yr BP)": 744000,
+            "Antarctic temperature change (\u00baC)": -7.86657373026854,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51182186560962
+        },
+        {
+            "Time (yr BP)": 745000,
+            "Antarctic temperature change (\u00baC)": -7.82493890071325,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50682156416778
+        },
+        {
+            "Time (yr BP)": 746000,
+            "Antarctic temperature change (\u00baC)": -7.79127737387133,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50295550599754
+        },
+        {
+            "Time (yr BP)": 747000,
+            "Antarctic temperature change (\u00baC)": -7.80643717743862,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50157972760442
+        },
+        {
+            "Time (yr BP)": 748000,
+            "Antarctic temperature change (\u00baC)": -7.80142788762392,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50253879067484
+        },
+        {
+            "Time (yr BP)": 749000,
+            "Antarctic temperature change (\u00baC)": -7.75165736442413,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50397948270144
+        },
+        {
+            "Time (yr BP)": 750000,
+            "Antarctic temperature change (\u00baC)": -7.72468354638732,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50352276749472
+        },
+        {
+            "Time (yr BP)": 751000,
+            "Antarctic temperature change (\u00baC)": -7.74201788869798,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50301008036998
+        },
+        {
+            "Time (yr BP)": 752000,
+            "Antarctic temperature change (\u00baC)": -7.71797108967817,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50589835826057
+        },
+        {
+            "Time (yr BP)": 753000,
+            "Antarctic temperature change (\u00baC)": -7.58611511622558,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52206293691958
+        },
+        {
+            "Time (yr BP)": 754000,
+            "Antarctic temperature change (\u00baC)": -7.30446413772597,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57547316971135
+        },
+        {
+            "Time (yr BP)": 755000,
+            "Antarctic temperature change (\u00baC)": -6.79305027374711,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.69014299985684
+        },
+        {
+            "Time (yr BP)": 756000,
+            "Antarctic temperature change (\u00baC)": -6.06441461162091,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.75551117028287
+        },
+        {
+            "Time (yr BP)": 757000,
+            "Antarctic temperature change (\u00baC)": -5.4683003253452,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.66117670975145
+        },
+        {
+            "Time (yr BP)": 758000,
+            "Antarctic temperature change (\u00baC)": -5.412729184888,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6105949543414
+        },
+        {
+            "Time (yr BP)": 759000,
+            "Antarctic temperature change (\u00baC)": -5.83848112606455,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.64225392673692
+        },
+        {
+            "Time (yr BP)": 760000,
+            "Antarctic temperature change (\u00baC)": -6.30054681542039,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60806293946814
+        },
+        {
+            "Time (yr BP)": 761000,
+            "Antarctic temperature change (\u00baC)": -6.34746712701794,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.61747424755102
+        },
+        {
+            "Time (yr BP)": 762000,
+            "Antarctic temperature change (\u00baC)": -5.8698024976877,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70401016529566
+        },
+        {
+            "Time (yr BP)": 763000,
+            "Antarctic temperature change (\u00baC)": -5.22009385978197,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.67027442007109
+        },
+        {
+            "Time (yr BP)": 764000,
+            "Antarctic temperature change (\u00baC)": -4.8692638407899,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.57789046432688
+        },
+        {
+            "Time (yr BP)": 765000,
+            "Antarctic temperature change (\u00baC)": -4.99599328507477,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58252296032443
+        },
+        {
+            "Time (yr BP)": 766000,
+            "Antarctic temperature change (\u00baC)": -5.35723069059036,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.58908686414047
+        },
+        {
+            "Time (yr BP)": 767000,
+            "Antarctic temperature change (\u00baC)": -5.47550531957466,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59220931848546
+        },
+        {
+            "Time (yr BP)": 768000,
+            "Antarctic temperature change (\u00baC)": -5.09369211220044,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.68232595790576
+        },
+        {
+            "Time (yr BP)": 769000,
+            "Antarctic temperature change (\u00baC)": -4.41099090864516,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.70841556479028
+        },
+        {
+            "Time (yr BP)": 770000,
+            "Antarctic temperature change (\u00baC)": -3.83557630381645,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6106952750491
+        },
+        {
+            "Time (yr BP)": 771000,
+            "Antarctic temperature change (\u00baC)": -3.60069488106303,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53089598085024
+        },
+        {
+            "Time (yr BP)": 772000,
+            "Antarctic temperature change (\u00baC)": -3.56301568483063,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52120840507236
+        },
+        {
+            "Time (yr BP)": 773000,
+            "Antarctic temperature change (\u00baC)": -3.4031531102234,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.55488678371926
+        },
+        {
+            "Time (yr BP)": 774000,
+            "Antarctic temperature change (\u00baC)": -3.00885304677817,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.59866111655491
+        },
+        {
+            "Time (yr BP)": 775000,
+            "Antarctic temperature change (\u00baC)": -2.51032715600224,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.60042378672738
+        },
+        {
+            "Time (yr BP)": 776000,
+            "Antarctic temperature change (\u00baC)": -2.07897925442347,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.56092792426702
+        },
+        {
+            "Time (yr BP)": 777000,
+            "Antarctic temperature change (\u00baC)": -1.77916174487427,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53032462976666
+        },
+        {
+            "Time (yr BP)": 778000,
+            "Antarctic temperature change (\u00baC)": -1.54503565188025,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52224407979474
+        },
+        {
+            "Time (yr BP)": 779000,
+            "Antarctic temperature change (\u00baC)": -1.36373709854044,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51265209460032
+        },
+        {
+            "Time (yr BP)": 780000,
+            "Antarctic temperature change (\u00baC)": -1.28170722100945,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50532428656139
+        },
+        {
+            "Time (yr BP)": 781000,
+            "Antarctic temperature change (\u00baC)": -1.23322066178256,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50793093194099
+        },
+        {
+            "Time (yr BP)": 782000,
+            "Antarctic temperature change (\u00baC)": -1.11479893324302,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.51539046120271
+        },
+        {
+            "Time (yr BP)": 783000,
+            "Antarctic temperature change (\u00baC)": -0.922206854253698,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.52500291966607
+        },
+        {
+            "Time (yr BP)": 784000,
+            "Antarctic temperature change (\u00baC)": -0.661004374813964,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53984955956244
+        },
+        {
+            "Time (yr BP)": 785000,
+            "Antarctic temperature change (\u00baC)": -0.358250191403228,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54325221920257
+        },
+        {
+            "Time (yr BP)": 786000,
+            "Antarctic temperature change (\u00baC)": -0.150691259494403,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.54844021214204
+        },
+        {
+            "Time (yr BP)": 787000,
+            "Antarctic temperature change (\u00baC)": -0.269183098346083,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.63620275608094
+        },
+        {
+            "Time (yr BP)": 788000,
+            "Antarctic temperature change (\u00baC)": -0.852416334361637,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.77039691626344
+        },
+        {
+            "Time (yr BP)": 789000,
+            "Antarctic temperature change (\u00baC)": -1.70473014853881,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.81086937817766
+        },
+        {
+            "Time (yr BP)": 790000,
+            "Antarctic temperature change (\u00baC)": -2.61599602590414,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.82350305849619
+        },
+        {
+            "Time (yr BP)": 791000,
+            "Antarctic temperature change (\u00baC)": -3.55549895596919,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.82972923082953
+        },
+        {
+            "Time (yr BP)": 792000,
+            "Antarctic temperature change (\u00baC)": -4.46080477918677,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.78356406596023
+        },
+        {
+            "Time (yr BP)": 793000,
+            "Antarctic temperature change (\u00baC)": -5.28523472077882,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.74937763987377
+        },
+        {
+            "Time (yr BP)": 794000,
+            "Antarctic temperature change (\u00baC)": -6.10027436885609,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.76381320989022
+        },
+        {
+            "Time (yr BP)": 795000,
+            "Antarctic temperature change (\u00baC)": -6.90675288272352,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.73010535643204
+        },
+        {
+            "Time (yr BP)": 796000,
+            "Antarctic temperature change (\u00baC)": -7.53999132698135,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.6213429834634
+        },
+        {
+            "Time (yr BP)": 797000,
+            "Antarctic temperature change (\u00baC)": -7.88946418206993,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.53531738585477
+        },
+        {
+            "Time (yr BP)": 798000,
+            "Antarctic temperature change (\u00baC)": -8.02940987725945,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.5079887844726
+        },
+        {
+            "Time (yr BP)": 799000,
+            "Antarctic temperature change (\u00baC)": -8.09984519338019,
+            "Antarctic temperature uncertainty (1 sd in \u00baC)": 1.50522071026138
+        }
+    ]
+}

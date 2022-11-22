@@ -1,0 +1,4029 @@
+{
+    "data": [
+        {
+            "Time (yr BP)": 1000,
+            "Carbon dioxide (ppm)": 283.2325031,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.11631574
+        },
+        {
+            "Time (yr BP)": 2000,
+            "Carbon dioxide (ppm)": 278.0458112,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.336202959
+        },
+        {
+            "Time (yr BP)": 3000,
+            "Carbon dioxide (ppm)": 275.4241056,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.449038465
+        },
+        {
+            "Time (yr BP)": 4000,
+            "Carbon dioxide (ppm)": 272.8180045,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.464890745
+        },
+        {
+            "Time (yr BP)": 5000,
+            "Carbon dioxide (ppm)": 269.1344717,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.633113033
+        },
+        {
+            "Time (yr BP)": 6000,
+            "Carbon dioxide (ppm)": 264.3329256,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.903912217
+        },
+        {
+            "Time (yr BP)": 7000,
+            "Carbon dioxide (ppm)": 260.7620629,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.629070438
+        },
+        {
+            "Time (yr BP)": 8000,
+            "Carbon dioxide (ppm)": 259.9483117,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.178291078
+        },
+        {
+            "Time (yr BP)": 9000,
+            "Carbon dioxide (ppm)": 261.4238921,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.507055335
+        },
+        {
+            "Time (yr BP)": 10000,
+            "Carbon dioxide (ppm)": 264.0636036,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.436266094
+        },
+        {
+            "Time (yr BP)": 11000,
+            "Carbon dioxide (ppm)": 264.333924,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.397368461
+        },
+        {
+            "Time (yr BP)": 12000,
+            "Carbon dioxide (ppm)": 253.7131204,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.779258727
+        },
+        {
+            "Time (yr BP)": 13000,
+            "Carbon dioxide (ppm)": 241.7050892,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.285290857
+        },
+        {
+            "Time (yr BP)": 14000,
+            "Carbon dioxide (ppm)": 237.9271011,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.886439834
+        },
+        {
+            "Time (yr BP)": 15000,
+            "Carbon dioxide (ppm)": 231.2741784,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.021096541
+        },
+        {
+            "Time (yr BP)": 16000,
+            "Carbon dioxide (ppm)": 220.3501512,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.768077555
+        },
+        {
+            "Time (yr BP)": 17000,
+            "Carbon dioxide (ppm)": 202.404668,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.09502317
+        },
+        {
+            "Time (yr BP)": 18000,
+            "Carbon dioxide (ppm)": 189.9793894,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.155370545
+        },
+        {
+            "Time (yr BP)": 19000,
+            "Carbon dioxide (ppm)": 190.1074283,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.746004605
+        },
+        {
+            "Time (yr BP)": 20000,
+            "Carbon dioxide (ppm)": 192.169303,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.779483737
+        },
+        {
+            "Time (yr BP)": 21000,
+            "Carbon dioxide (ppm)": 189.7931901,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.80758312
+        },
+        {
+            "Time (yr BP)": 22000,
+            "Carbon dioxide (ppm)": 188.0875268,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.653825136
+        },
+        {
+            "Time (yr BP)": 23000,
+            "Carbon dioxide (ppm)": 189.2418773,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.43525526
+        },
+        {
+            "Time (yr BP)": 24000,
+            "Carbon dioxide (ppm)": 186.4899324,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.83951603
+        },
+        {
+            "Time (yr BP)": 25000,
+            "Carbon dioxide (ppm)": 182.3195471,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.605590076
+        },
+        {
+            "Time (yr BP)": 26000,
+            "Carbon dioxide (ppm)": 184.8476733,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.351007652
+        },
+        {
+            "Time (yr BP)": 27000,
+            "Carbon dioxide (ppm)": 188.7631325,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.245863342
+        },
+        {
+            "Time (yr BP)": 28000,
+            "Carbon dioxide (ppm)": 190.63145,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.417898627
+        },
+        {
+            "Time (yr BP)": 29000,
+            "Carbon dioxide (ppm)": 191.6845971,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.495782238
+        },
+        {
+            "Time (yr BP)": 30000,
+            "Carbon dioxide (ppm)": 189.0434391,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.897953942
+        },
+        {
+            "Time (yr BP)": 31000,
+            "Carbon dioxide (ppm)": 188.1951137,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.056205921
+        },
+        {
+            "Time (yr BP)": 32000,
+            "Carbon dioxide (ppm)": 193.9327499,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.653383344
+        },
+        {
+            "Time (yr BP)": 33000,
+            "Carbon dioxide (ppm)": 196.3005445,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.423456545
+        },
+        {
+            "Time (yr BP)": 34000,
+            "Carbon dioxide (ppm)": 196.5437869,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.560672759
+        },
+        {
+            "Time (yr BP)": 35000,
+            "Carbon dioxide (ppm)": 201.022959,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.993110393
+        },
+        {
+            "Time (yr BP)": 36000,
+            "Carbon dioxide (ppm)": 201.9041835,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.564295891
+        },
+        {
+            "Time (yr BP)": 37000,
+            "Carbon dioxide (ppm)": 206.6676677,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.781729208
+        },
+        {
+            "Time (yr BP)": 38000,
+            "Carbon dioxide (ppm)": 209.8705759,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.273770569
+        },
+        {
+            "Time (yr BP)": 39000,
+            "Carbon dioxide (ppm)": 205.0445293,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.493211409
+        },
+        {
+            "Time (yr BP)": 40000,
+            "Carbon dioxide (ppm)": 197.8397251,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.900512528
+        },
+        {
+            "Time (yr BP)": 41000,
+            "Carbon dioxide (ppm)": 200.8908814,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.167240725
+        },
+        {
+            "Time (yr BP)": 42000,
+            "Carbon dioxide (ppm)": 202.3113073,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.727471106
+        },
+        {
+            "Time (yr BP)": 43000,
+            "Carbon dioxide (ppm)": 203.755657,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.426105951
+        },
+        {
+            "Time (yr BP)": 44000,
+            "Carbon dioxide (ppm)": 204.3948076,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.167272332
+        },
+        {
+            "Time (yr BP)": 45000,
+            "Carbon dioxide (ppm)": 210.885274,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.277817181
+        },
+        {
+            "Time (yr BP)": 46000,
+            "Carbon dioxide (ppm)": 217.9821513,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.843447478
+        },
+        {
+            "Time (yr BP)": 47000,
+            "Carbon dioxide (ppm)": 211.4478347,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.639234632
+        },
+        {
+            "Time (yr BP)": 48000,
+            "Carbon dioxide (ppm)": 204.9041342,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.86832452
+        },
+        {
+            "Time (yr BP)": 49000,
+            "Carbon dioxide (ppm)": 202.3093056,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.565475892
+        },
+        {
+            "Time (yr BP)": 50000,
+            "Carbon dioxide (ppm)": 204.8010855,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.612155261
+        },
+        {
+            "Time (yr BP)": 51000,
+            "Carbon dioxide (ppm)": 209.0480693,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.142584101
+        },
+        {
+            "Time (yr BP)": 52000,
+            "Carbon dioxide (ppm)": 216.0019123,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.660817373
+        },
+        {
+            "Time (yr BP)": 53000,
+            "Carbon dioxide (ppm)": 221.5066284,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.732808512
+        },
+        {
+            "Time (yr BP)": 54000,
+            "Carbon dioxide (ppm)": 219.8526536,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.050846029
+        },
+        {
+            "Time (yr BP)": 55000,
+            "Carbon dioxide (ppm)": 214.2065216,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.802711849
+        },
+        {
+            "Time (yr BP)": 56000,
+            "Carbon dioxide (ppm)": 210.8704457,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.105544473
+        },
+        {
+            "Time (yr BP)": 57000,
+            "Carbon dioxide (ppm)": 215.1594171,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.948971966
+        },
+        {
+            "Time (yr BP)": 58000,
+            "Carbon dioxide (ppm)": 222.3265238,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.409870652
+        },
+        {
+            "Time (yr BP)": 59000,
+            "Carbon dioxide (ppm)": 226.7309836,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.833913472
+        },
+        {
+            "Time (yr BP)": 60000,
+            "Carbon dioxide (ppm)": 218.7183419,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.126756273
+        },
+        {
+            "Time (yr BP)": 61000,
+            "Carbon dioxide (ppm)": 211.8669255,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.455142055
+        },
+        {
+            "Time (yr BP)": 62000,
+            "Carbon dioxide (ppm)": 206.7026764,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.614610533
+        },
+        {
+            "Time (yr BP)": 63000,
+            "Carbon dioxide (ppm)": 200.8946613,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.722475532
+        },
+        {
+            "Time (yr BP)": 64000,
+            "Carbon dioxide (ppm)": 199.1342938,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.692468062
+        },
+        {
+            "Time (yr BP)": 65000,
+            "Carbon dioxide (ppm)": 201.9515994,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.434429289
+        },
+        {
+            "Time (yr BP)": 66000,
+            "Carbon dioxide (ppm)": 202.3906083,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.915130214
+        },
+        {
+            "Time (yr BP)": 67000,
+            "Carbon dioxide (ppm)": 204.1776505,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.017329892
+        },
+        {
+            "Time (yr BP)": 68000,
+            "Carbon dioxide (ppm)": 202.2654138,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.559838218
+        },
+        {
+            "Time (yr BP)": 69000,
+            "Carbon dioxide (ppm)": 205.8512091,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.719978423
+        },
+        {
+            "Time (yr BP)": 70000,
+            "Carbon dioxide (ppm)": 215.6998871,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.798012552
+        },
+        {
+            "Time (yr BP)": 71000,
+            "Carbon dioxide (ppm)": 228.5811725,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.556329264
+        },
+        {
+            "Time (yr BP)": 72000,
+            "Carbon dioxide (ppm)": 236.3131163,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.447222891
+        },
+        {
+            "Time (yr BP)": 73000,
+            "Carbon dioxide (ppm)": 232.4122333,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.551194986
+        },
+        {
+            "Time (yr BP)": 74000,
+            "Carbon dioxide (ppm)": 234.0775942,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.086510189
+        },
+        {
+            "Time (yr BP)": 75000,
+            "Carbon dioxide (ppm)": 243.2147783,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.97282154
+        },
+        {
+            "Time (yr BP)": 76000,
+            "Carbon dioxide (ppm)": 244.6721279,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.365688555
+        },
+        {
+            "Time (yr BP)": 77000,
+            "Carbon dioxide (ppm)": 233.5884789,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.213087788
+        },
+        {
+            "Time (yr BP)": 78000,
+            "Carbon dioxide (ppm)": 225.9935395,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.62478517
+        },
+        {
+            "Time (yr BP)": 79000,
+            "Carbon dioxide (ppm)": 227.5725159,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.979360394
+        },
+        {
+            "Time (yr BP)": 80000,
+            "Carbon dioxide (ppm)": 232.1609449,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.864355896
+        },
+        {
+            "Time (yr BP)": 81000,
+            "Carbon dioxide (ppm)": 232.3623551,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.678037404
+        },
+        {
+            "Time (yr BP)": 82000,
+            "Carbon dioxide (ppm)": 237.3381995,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.793152884
+        },
+        {
+            "Time (yr BP)": 83000,
+            "Carbon dioxide (ppm)": 244.8169069,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.45494182
+        },
+        {
+            "Time (yr BP)": 84000,
+            "Carbon dioxide (ppm)": 246.8458913,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.812121918
+        },
+        {
+            "Time (yr BP)": 85000,
+            "Carbon dioxide (ppm)": 237.7639667,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.326340067
+        },
+        {
+            "Time (yr BP)": 86000,
+            "Carbon dioxide (ppm)": 228.4564452,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.400477078
+        },
+        {
+            "Time (yr BP)": 87000,
+            "Carbon dioxide (ppm)": 222.3637205,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.485816414
+        },
+        {
+            "Time (yr BP)": 88000,
+            "Carbon dioxide (ppm)": 220.9215568,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.224204262
+        },
+        {
+            "Time (yr BP)": 89000,
+            "Carbon dioxide (ppm)": 225.5928394,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.216156202
+        },
+        {
+            "Time (yr BP)": 90000,
+            "Carbon dioxide (ppm)": 229.2298811,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.219592211
+        },
+        {
+            "Time (yr BP)": 91000,
+            "Carbon dioxide (ppm)": 231.2283741,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.13924075
+        },
+        {
+            "Time (yr BP)": 92000,
+            "Carbon dioxide (ppm)": 232.779714,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.207994069
+        },
+        {
+            "Time (yr BP)": 93000,
+            "Carbon dioxide (ppm)": 234.251637,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.577600934
+        },
+        {
+            "Time (yr BP)": 94000,
+            "Carbon dioxide (ppm)": 238.527604,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.014058999
+        },
+        {
+            "Time (yr BP)": 95000,
+            "Carbon dioxide (ppm)": 242.8745184,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.258180588
+        },
+        {
+            "Time (yr BP)": 96000,
+            "Carbon dioxide (ppm)": 245.5452396,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.21846479
+        },
+        {
+            "Time (yr BP)": 97000,
+            "Carbon dioxide (ppm)": 243.4445242,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.58585491
+        },
+        {
+            "Time (yr BP)": 98000,
+            "Carbon dioxide (ppm)": 241.1707004,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.365831149
+        },
+        {
+            "Time (yr BP)": 99000,
+            "Carbon dioxide (ppm)": 243.059311,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.131748864
+        },
+        {
+            "Time (yr BP)": 100000,
+            "Carbon dioxide (ppm)": 245.4469701,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.533821562
+        },
+        {
+            "Time (yr BP)": 101000,
+            "Carbon dioxide (ppm)": 245.0946121,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.992305951
+        },
+        {
+            "Time (yr BP)": 102000,
+            "Carbon dioxide (ppm)": 240.9899198,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.284193696
+        },
+        {
+            "Time (yr BP)": 103000,
+            "Carbon dioxide (ppm)": 239.6988748,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.092365672
+        },
+        {
+            "Time (yr BP)": 104000,
+            "Carbon dioxide (ppm)": 242.5621381,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.056902624
+        },
+        {
+            "Time (yr BP)": 105000,
+            "Carbon dioxide (ppm)": 245.3672633,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.078446438
+        },
+        {
+            "Time (yr BP)": 106000,
+            "Carbon dioxide (ppm)": 247.1910545,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.018926683
+        },
+        {
+            "Time (yr BP)": 107000,
+            "Carbon dioxide (ppm)": 243.7588004,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.340062997
+        },
+        {
+            "Time (yr BP)": 108000,
+            "Carbon dioxide (ppm)": 239.1865575,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.688533311
+        },
+        {
+            "Time (yr BP)": 109000,
+            "Carbon dioxide (ppm)": 241.9663304,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.778047822
+        },
+        {
+            "Time (yr BP)": 110000,
+            "Carbon dioxide (ppm)": 244.943137,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.708959632
+        },
+        {
+            "Time (yr BP)": 111000,
+            "Carbon dioxide (ppm)": 249.9415128,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.442078298
+        },
+        {
+            "Time (yr BP)": 112000,
+            "Carbon dioxide (ppm)": 258.7113084,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.852525117
+        },
+        {
+            "Time (yr BP)": 113000,
+            "Carbon dioxide (ppm)": 261.7021436,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.617849925
+        },
+        {
+            "Time (yr BP)": 114000,
+            "Carbon dioxide (ppm)": 265.9655061,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.18642083
+        },
+        {
+            "Time (yr BP)": 115000,
+            "Carbon dioxide (ppm)": 273.180718,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.253381846
+        },
+        {
+            "Time (yr BP)": 116000,
+            "Carbon dioxide (ppm)": 274.3468087,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.447501234
+        },
+        {
+            "Time (yr BP)": 117000,
+            "Carbon dioxide (ppm)": 274.1924296,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.130253175
+        },
+        {
+            "Time (yr BP)": 118000,
+            "Carbon dioxide (ppm)": 274.8852767,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.945057004
+        },
+        {
+            "Time (yr BP)": 119000,
+            "Carbon dioxide (ppm)": 272.880401,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.256713214
+        },
+        {
+            "Time (yr BP)": 120000,
+            "Carbon dioxide (ppm)": 272.6160423,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.942562108
+        },
+        {
+            "Time (yr BP)": 121000,
+            "Carbon dioxide (ppm)": 276.372648,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.628575811
+        },
+        {
+            "Time (yr BP)": 122000,
+            "Carbon dioxide (ppm)": 278.1681049,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.286914043
+        },
+        {
+            "Time (yr BP)": 123000,
+            "Carbon dioxide (ppm)": 277.7054035,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.572261714
+        },
+        {
+            "Time (yr BP)": 124000,
+            "Carbon dioxide (ppm)": 277.1790771,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.000521835
+        },
+        {
+            "Time (yr BP)": 125000,
+            "Carbon dioxide (ppm)": 277.0228076,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.827002927
+        },
+        {
+            "Time (yr BP)": 126000,
+            "Carbon dioxide (ppm)": 275.2722975,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.371208375
+        },
+        {
+            "Time (yr BP)": 127000,
+            "Carbon dioxide (ppm)": 275.6035243,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.766759821
+        },
+        {
+            "Time (yr BP)": 128000,
+            "Carbon dioxide (ppm)": 277.3401774,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.736758468
+        },
+        {
+            "Time (yr BP)": 129000,
+            "Carbon dioxide (ppm)": 272.3433744,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.236541114
+        },
+        {
+            "Time (yr BP)": 130000,
+            "Carbon dioxide (ppm)": 259.6922141,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.63249704
+        },
+        {
+            "Time (yr BP)": 131000,
+            "Carbon dioxide (ppm)": 247.4633172,
+            "Carbon dioxide uncertainty (1sd, ppm)": 14.66946525
+        },
+        {
+            "Time (yr BP)": 132000,
+            "Carbon dioxide (ppm)": 236.157611,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.40789923
+        },
+        {
+            "Time (yr BP)": 133000,
+            "Carbon dioxide (ppm)": 227.9801152,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.704403489
+        },
+        {
+            "Time (yr BP)": 134000,
+            "Carbon dioxide (ppm)": 222.0028201,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.479075198
+        },
+        {
+            "Time (yr BP)": 135000,
+            "Carbon dioxide (ppm)": 215.5419483,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.01155242
+        },
+        {
+            "Time (yr BP)": 136000,
+            "Carbon dioxide (ppm)": 207.0976499,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.063587633
+        },
+        {
+            "Time (yr BP)": 137000,
+            "Carbon dioxide (ppm)": 201.8258751,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.1948687
+        },
+        {
+            "Time (yr BP)": 138000,
+            "Carbon dioxide (ppm)": 199.2807666,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.290637295
+        },
+        {
+            "Time (yr BP)": 139000,
+            "Carbon dioxide (ppm)": 197.2089469,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.323589779
+        },
+        {
+            "Time (yr BP)": 140000,
+            "Carbon dioxide (ppm)": 195.4721144,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.19165792
+        },
+        {
+            "Time (yr BP)": 141000,
+            "Carbon dioxide (ppm)": 194.9863649,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.73893169
+        },
+        {
+            "Time (yr BP)": 142000,
+            "Carbon dioxide (ppm)": 195.5866783,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.310535696
+        },
+        {
+            "Time (yr BP)": 143000,
+            "Carbon dioxide (ppm)": 195.5507957,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.158937203
+        },
+        {
+            "Time (yr BP)": 144000,
+            "Carbon dioxide (ppm)": 195.3005323,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.142715856
+        },
+        {
+            "Time (yr BP)": 145000,
+            "Carbon dioxide (ppm)": 195.0153404,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.188074926
+        },
+        {
+            "Time (yr BP)": 146000,
+            "Carbon dioxide (ppm)": 194.6733495,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.263510213
+        },
+        {
+            "Time (yr BP)": 147000,
+            "Carbon dioxide (ppm)": 195.2409682,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.689764552
+        },
+        {
+            "Time (yr BP)": 148000,
+            "Carbon dioxide (ppm)": 197.3339463,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.32620579
+        },
+        {
+            "Time (yr BP)": 149000,
+            "Carbon dioxide (ppm)": 199.6553851,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.310232124
+        },
+        {
+            "Time (yr BP)": 150000,
+            "Carbon dioxide (ppm)": 201.3695734,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.692447896
+        },
+        {
+            "Time (yr BP)": 151000,
+            "Carbon dioxide (ppm)": 202.0464086,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.231616092
+        },
+        {
+            "Time (yr BP)": 152000,
+            "Carbon dioxide (ppm)": 201.5642812,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.432354871
+        },
+        {
+            "Time (yr BP)": 153000,
+            "Carbon dioxide (ppm)": 199.4584721,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.856648308
+        },
+        {
+            "Time (yr BP)": 154000,
+            "Carbon dioxide (ppm)": 197.3536828,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.053117393
+        },
+        {
+            "Time (yr BP)": 155000,
+            "Carbon dioxide (ppm)": 195.2345411,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.689008847
+        },
+        {
+            "Time (yr BP)": 156000,
+            "Carbon dioxide (ppm)": 192.5711966,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.824174741
+        },
+        {
+            "Time (yr BP)": 157000,
+            "Carbon dioxide (ppm)": 190.1218653,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.095008019
+        },
+        {
+            "Time (yr BP)": 158000,
+            "Carbon dioxide (ppm)": 188.3691499,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.496183381
+        },
+        {
+            "Time (yr BP)": 159000,
+            "Carbon dioxide (ppm)": 187.4732319,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.373149671
+        },
+        {
+            "Time (yr BP)": 160000,
+            "Carbon dioxide (ppm)": 187.0756493,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.375184746
+        },
+        {
+            "Time (yr BP)": 161000,
+            "Carbon dioxide (ppm)": 187.5820382,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.584529461
+        },
+        {
+            "Time (yr BP)": 162000,
+            "Carbon dioxide (ppm)": 194.031564,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.422111988
+        },
+        {
+            "Time (yr BP)": 163000,
+            "Carbon dioxide (ppm)": 200.1579689,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.868908995
+        },
+        {
+            "Time (yr BP)": 164000,
+            "Carbon dioxide (ppm)": 199.3730027,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.623434441
+        },
+        {
+            "Time (yr BP)": 165000,
+            "Carbon dioxide (ppm)": 196.2053699,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.144360563
+        },
+        {
+            "Time (yr BP)": 166000,
+            "Carbon dioxide (ppm)": 192.0618364,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.286643883
+        },
+        {
+            "Time (yr BP)": 167000,
+            "Carbon dioxide (ppm)": 189.4656976,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.537507762
+        },
+        {
+            "Time (yr BP)": 168000,
+            "Carbon dioxide (ppm)": 188.4430453,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.162307396
+        },
+        {
+            "Time (yr BP)": 169000,
+            "Carbon dioxide (ppm)": 189.3664443,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.299203554
+        },
+        {
+            "Time (yr BP)": 170000,
+            "Carbon dioxide (ppm)": 191.9718398,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.740640763
+        },
+        {
+            "Time (yr BP)": 171000,
+            "Carbon dioxide (ppm)": 195.5494828,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.444961175
+        },
+        {
+            "Time (yr BP)": 172000,
+            "Carbon dioxide (ppm)": 197.4242794,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.542385668
+        },
+        {
+            "Time (yr BP)": 173000,
+            "Carbon dioxide (ppm)": 197.620853,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.097972121
+        },
+        {
+            "Time (yr BP)": 174000,
+            "Carbon dioxide (ppm)": 197.0381183,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.425072111
+        },
+        {
+            "Time (yr BP)": 175000,
+            "Carbon dioxide (ppm)": 195.4956764,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.165299503
+        },
+        {
+            "Time (yr BP)": 176000,
+            "Carbon dioxide (ppm)": 193.1395364,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.493467731
+        },
+        {
+            "Time (yr BP)": 177000,
+            "Carbon dioxide (ppm)": 191.4729434,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.417062794
+        },
+        {
+            "Time (yr BP)": 178000,
+            "Carbon dioxide (ppm)": 192.0986919,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.319970122
+        },
+        {
+            "Time (yr BP)": 179000,
+            "Carbon dioxide (ppm)": 198.1040165,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.949877405
+        },
+        {
+            "Time (yr BP)": 180000,
+            "Carbon dioxide (ppm)": 207.3522544,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.503127752
+        },
+        {
+            "Time (yr BP)": 181000,
+            "Carbon dioxide (ppm)": 211.4568299,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.551577757
+        },
+        {
+            "Time (yr BP)": 182000,
+            "Carbon dioxide (ppm)": 210.6508366,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.272091266
+        },
+        {
+            "Time (yr BP)": 183000,
+            "Carbon dioxide (ppm)": 206.3337988,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.314787295
+        },
+        {
+            "Time (yr BP)": 184000,
+            "Carbon dioxide (ppm)": 202.1767372,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.345536945
+        },
+        {
+            "Time (yr BP)": 185000,
+            "Carbon dioxide (ppm)": 201.139996,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.83227116
+        },
+        {
+            "Time (yr BP)": 186000,
+            "Carbon dioxide (ppm)": 202.9403144,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.564661163
+        },
+        {
+            "Time (yr BP)": 187000,
+            "Carbon dioxide (ppm)": 206.5614774,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.848257328
+        },
+        {
+            "Time (yr BP)": 188000,
+            "Carbon dioxide (ppm)": 212.9444066,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.02033455
+        },
+        {
+            "Time (yr BP)": 189000,
+            "Carbon dioxide (ppm)": 220.4956358,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.03562375
+        },
+        {
+            "Time (yr BP)": 190000,
+            "Carbon dioxide (ppm)": 226.054209,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.830584671
+        },
+        {
+            "Time (yr BP)": 191000,
+            "Carbon dioxide (ppm)": 226.4969284,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.979029183
+        },
+        {
+            "Time (yr BP)": 192000,
+            "Carbon dioxide (ppm)": 223.8481047,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.607635868
+        },
+        {
+            "Time (yr BP)": 193000,
+            "Carbon dioxide (ppm)": 221.5326345,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.674087395
+        },
+        {
+            "Time (yr BP)": 194000,
+            "Carbon dioxide (ppm)": 221.7952492,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.060246929
+        },
+        {
+            "Time (yr BP)": 195000,
+            "Carbon dioxide (ppm)": 223.2059978,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.977487077
+        },
+        {
+            "Time (yr BP)": 196000,
+            "Carbon dioxide (ppm)": 224.7725591,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.508902041
+        },
+        {
+            "Time (yr BP)": 197000,
+            "Carbon dioxide (ppm)": 229.6042018,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.955206771
+        },
+        {
+            "Time (yr BP)": 198000,
+            "Carbon dioxide (ppm)": 235.173983,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.733015158
+        },
+        {
+            "Time (yr BP)": 199000,
+            "Carbon dioxide (ppm)": 238.8409271,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.427173407
+        },
+        {
+            "Time (yr BP)": 200000,
+            "Carbon dioxide (ppm)": 242.615465,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.755662778
+        },
+        {
+            "Time (yr BP)": 201000,
+            "Carbon dioxide (ppm)": 246.2812901,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.249061868
+        },
+        {
+            "Time (yr BP)": 202000,
+            "Carbon dioxide (ppm)": 245.6379851,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.307068184
+        },
+        {
+            "Time (yr BP)": 203000,
+            "Carbon dioxide (ppm)": 244.0154548,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.415272296
+        },
+        {
+            "Time (yr BP)": 204000,
+            "Carbon dioxide (ppm)": 241.1484411,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.601304402
+        },
+        {
+            "Time (yr BP)": 205000,
+            "Carbon dioxide (ppm)": 236.461797,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.993904692
+        },
+        {
+            "Time (yr BP)": 206000,
+            "Carbon dioxide (ppm)": 233.0141446,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.706766797
+        },
+        {
+            "Time (yr BP)": 207000,
+            "Carbon dioxide (ppm)": 232.3818848,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.884014748
+        },
+        {
+            "Time (yr BP)": 208000,
+            "Carbon dioxide (ppm)": 234.6334993,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.410365267
+        },
+        {
+            "Time (yr BP)": 209000,
+            "Carbon dioxide (ppm)": 238.4615482,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.930954766
+        },
+        {
+            "Time (yr BP)": 210000,
+            "Carbon dioxide (ppm)": 242.6303677,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.735399422
+        },
+        {
+            "Time (yr BP)": 211000,
+            "Carbon dioxide (ppm)": 245.7782031,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.287107354
+        },
+        {
+            "Time (yr BP)": 212000,
+            "Carbon dioxide (ppm)": 247.2637269,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.673206253
+        },
+        {
+            "Time (yr BP)": 213000,
+            "Carbon dioxide (ppm)": 247.5690471,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.981281944
+        },
+        {
+            "Time (yr BP)": 214000,
+            "Carbon dioxide (ppm)": 246.5204828,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.483035526
+        },
+        {
+            "Time (yr BP)": 215000,
+            "Carbon dioxide (ppm)": 244.7445222,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.592204492
+        },
+        {
+            "Time (yr BP)": 216000,
+            "Carbon dioxide (ppm)": 244.8673813,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.250398659
+        },
+        {
+            "Time (yr BP)": 217000,
+            "Carbon dioxide (ppm)": 246.3588661,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.286135573
+        },
+        {
+            "Time (yr BP)": 218000,
+            "Carbon dioxide (ppm)": 246.5066752,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.145236157
+        },
+        {
+            "Time (yr BP)": 219000,
+            "Carbon dioxide (ppm)": 242.4575078,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.76620609
+        },
+        {
+            "Time (yr BP)": 220000,
+            "Carbon dioxide (ppm)": 229.4685462,
+            "Carbon dioxide uncertainty (1sd, ppm)": 15.52985693
+        },
+        {
+            "Time (yr BP)": 221000,
+            "Carbon dioxide (ppm)": 216.6656048,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.56014889
+        },
+        {
+            "Time (yr BP)": 222000,
+            "Carbon dioxide (ppm)": 211.8308443,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.160081086
+        },
+        {
+            "Time (yr BP)": 223000,
+            "Carbon dioxide (ppm)": 209.3345275,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.827988323
+        },
+        {
+            "Time (yr BP)": 224000,
+            "Carbon dioxide (ppm)": 207.6515078,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.490681885
+        },
+        {
+            "Time (yr BP)": 225000,
+            "Carbon dioxide (ppm)": 208.1206096,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.423685282
+        },
+        {
+            "Time (yr BP)": 226000,
+            "Carbon dioxide (ppm)": 213.4919527,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.11580156
+        },
+        {
+            "Time (yr BP)": 227000,
+            "Carbon dioxide (ppm)": 221.4826482,
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.35239024
+        },
+        {
+            "Time (yr BP)": 228000,
+            "Carbon dioxide (ppm)": 228.0563013,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.55022581
+        },
+        {
+            "Time (yr BP)": 229000,
+            "Carbon dioxide (ppm)": 230.3739557,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.104816972
+        },
+        {
+            "Time (yr BP)": 230000,
+            "Carbon dioxide (ppm)": 230.524589,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.683774462
+        },
+        {
+            "Time (yr BP)": 231000,
+            "Carbon dioxide (ppm)": 232.4365861,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.519226006
+        },
+        {
+            "Time (yr BP)": 232000,
+            "Carbon dioxide (ppm)": 235.2872207,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.37393903
+        },
+        {
+            "Time (yr BP)": 233000,
+            "Carbon dioxide (ppm)": 237.5665492,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.353466263
+        },
+        {
+            "Time (yr BP)": 234000,
+            "Carbon dioxide (ppm)": 241.1364377,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.052000818
+        },
+        {
+            "Time (yr BP)": 235000,
+            "Carbon dioxide (ppm)": 245.6850544,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.389367315
+        },
+        {
+            "Time (yr BP)": 236000,
+            "Carbon dioxide (ppm)": 246.0824888,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.082984184
+        },
+        {
+            "Time (yr BP)": 237000,
+            "Carbon dioxide (ppm)": 245.2903156,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.02431877
+        },
+        {
+            "Time (yr BP)": 238000,
+            "Carbon dioxide (ppm)": 244.7753558,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.925368522
+        },
+        {
+            "Time (yr BP)": 239000,
+            "Carbon dioxide (ppm)": 245.9839945,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.700985104
+        },
+        {
+            "Time (yr BP)": 240000,
+            "Carbon dioxide (ppm)": 249.8150583,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.053565775
+        },
+        {
+            "Time (yr BP)": 241000,
+            "Carbon dioxide (ppm)": 257.409832,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.97601257
+        },
+        {
+            "Time (yr BP)": 242000,
+            "Carbon dioxide (ppm)": 265.8713783,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.39730501
+        },
+        {
+            "Time (yr BP)": 243000,
+            "Carbon dioxide (ppm)": 267.604856,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.4888581
+        },
+        {
+            "Time (yr BP)": 244000,
+            "Carbon dioxide (ppm)": 259.8845271,
+            "Carbon dioxide uncertainty (1sd, ppm)": 15.5073181
+        },
+        {
+            "Time (yr BP)": 245000,
+            "Carbon dioxide (ppm)": 248.6422444,
+            "Carbon dioxide uncertainty (1sd, ppm)": 15.72478126
+        },
+        {
+            "Time (yr BP)": 246000,
+            "Carbon dioxide (ppm)": 238.4737597,
+            "Carbon dioxide uncertainty (1sd, ppm)": 14.37947326
+        },
+        {
+            "Time (yr BP)": 247000,
+            "Carbon dioxide (ppm)": 229.8133133,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.29470868
+        },
+        {
+            "Time (yr BP)": 248000,
+            "Carbon dioxide (ppm)": 221.6361977,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.555724039
+        },
+        {
+            "Time (yr BP)": 249000,
+            "Carbon dioxide (ppm)": 214.9398134,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.044278305
+        },
+        {
+            "Time (yr BP)": 250000,
+            "Carbon dioxide (ppm)": 209.3998257,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.930395548
+        },
+        {
+            "Time (yr BP)": 251000,
+            "Carbon dioxide (ppm)": 205.3104922,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.172117213
+        },
+        {
+            "Time (yr BP)": 252000,
+            "Carbon dioxide (ppm)": 203.2483236,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.459784959
+        },
+        {
+            "Time (yr BP)": 253000,
+            "Carbon dioxide (ppm)": 200.4650348,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.986375853
+        },
+        {
+            "Time (yr BP)": 254000,
+            "Carbon dioxide (ppm)": 197.8822434,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.031244344
+        },
+        {
+            "Time (yr BP)": 255000,
+            "Carbon dioxide (ppm)": 197.5051079,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.379290868
+        },
+        {
+            "Time (yr BP)": 256000,
+            "Carbon dioxide (ppm)": 199.4472908,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.114704672
+        },
+        {
+            "Time (yr BP)": 257000,
+            "Carbon dioxide (ppm)": 201.3744397,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.824637841
+        },
+        {
+            "Time (yr BP)": 258000,
+            "Carbon dioxide (ppm)": 202.814182,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.623932782
+        },
+        {
+            "Time (yr BP)": 259000,
+            "Carbon dioxide (ppm)": 204.4200834,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.794262773
+        },
+        {
+            "Time (yr BP)": 260000,
+            "Carbon dioxide (ppm)": 206.4347214,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.104457171
+        },
+        {
+            "Time (yr BP)": 261000,
+            "Carbon dioxide (ppm)": 208.1137138,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.309840679
+        },
+        {
+            "Time (yr BP)": 262000,
+            "Carbon dioxide (ppm)": 209.9150266,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.300196008
+        },
+        {
+            "Time (yr BP)": 263000,
+            "Carbon dioxide (ppm)": 213.3785421,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.614537629
+        },
+        {
+            "Time (yr BP)": 264000,
+            "Carbon dioxide (ppm)": 217.8789671,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.18528326
+        },
+        {
+            "Time (yr BP)": 265000,
+            "Carbon dioxide (ppm)": 215.5109244,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.9494811
+        },
+        {
+            "Time (yr BP)": 266000,
+            "Carbon dioxide (ppm)": 208.2111028,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.38796731
+        },
+        {
+            "Time (yr BP)": 267000,
+            "Carbon dioxide (ppm)": 201.9798868,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.4473306
+        },
+        {
+            "Time (yr BP)": 268000,
+            "Carbon dioxide (ppm)": 195.6218544,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.47651163
+        },
+        {
+            "Time (yr BP)": 269000,
+            "Carbon dioxide (ppm)": 192.151024,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.43850257
+        },
+        {
+            "Time (yr BP)": 270000,
+            "Carbon dioxide (ppm)": 192.6002599,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.998757622
+        },
+        {
+            "Time (yr BP)": 271000,
+            "Carbon dioxide (ppm)": 192.804065,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.376181622
+        },
+        {
+            "Time (yr BP)": 272000,
+            "Carbon dioxide (ppm)": 191.033819,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.362956805
+        },
+        {
+            "Time (yr BP)": 273000,
+            "Carbon dioxide (ppm)": 190.6760917,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.280276887
+        },
+        {
+            "Time (yr BP)": 274000,
+            "Carbon dioxide (ppm)": 192.3946144,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.464809987
+        },
+        {
+            "Time (yr BP)": 275000,
+            "Carbon dioxide (ppm)": 194.3421356,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.003405056
+        },
+        {
+            "Time (yr BP)": 276000,
+            "Carbon dioxide (ppm)": 195.7057855,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.038945013
+        },
+        {
+            "Time (yr BP)": 277000,
+            "Carbon dioxide (ppm)": 196.7732171,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.774383498
+        },
+        {
+            "Time (yr BP)": 278000,
+            "Carbon dioxide (ppm)": 199.2394258,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.93335861
+        },
+        {
+            "Time (yr BP)": 279000,
+            "Carbon dioxide (ppm)": 203.4082775,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.447388325
+        },
+        {
+            "Time (yr BP)": 280000,
+            "Carbon dioxide (ppm)": 208.0214365,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.622831037
+        },
+        {
+            "Time (yr BP)": 281000,
+            "Carbon dioxide (ppm)": 212.6759981,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.899163947
+        },
+        {
+            "Time (yr BP)": 282000,
+            "Carbon dioxide (ppm)": 217.5897056,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.169139352
+        },
+        {
+            "Time (yr BP)": 283000,
+            "Carbon dioxide (ppm)": 223.0628201,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.003725615
+        },
+        {
+            "Time (yr BP)": 284000,
+            "Carbon dioxide (ppm)": 227.7767543,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.387592308
+        },
+        {
+            "Time (yr BP)": 285000,
+            "Carbon dioxide (ppm)": 228.9639911,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.888153996
+        },
+        {
+            "Time (yr BP)": 286000,
+            "Carbon dioxide (ppm)": 228.8262127,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.629119445
+        },
+        {
+            "Time (yr BP)": 287000,
+            "Carbon dioxide (ppm)": 229.4045481,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.650535633
+        },
+        {
+            "Time (yr BP)": 288000,
+            "Carbon dioxide (ppm)": 230.1780116,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.795125879
+        },
+        {
+            "Time (yr BP)": 289000,
+            "Carbon dioxide (ppm)": 230.0219927,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.452140854
+        },
+        {
+            "Time (yr BP)": 290000,
+            "Carbon dioxide (ppm)": 226.9388367,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.258820351
+        },
+        {
+            "Time (yr BP)": 291000,
+            "Carbon dioxide (ppm)": 221.7878674,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.343199393
+        },
+        {
+            "Time (yr BP)": 292000,
+            "Carbon dioxide (ppm)": 215.4351452,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.950273457
+        },
+        {
+            "Time (yr BP)": 293000,
+            "Carbon dioxide (ppm)": 209.9222906,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.481881559
+        },
+        {
+            "Time (yr BP)": 294000,
+            "Carbon dioxide (ppm)": 208.2603716,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.478542217
+        },
+        {
+            "Time (yr BP)": 295000,
+            "Carbon dioxide (ppm)": 209.3781168,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.380405802
+        },
+        {
+            "Time (yr BP)": 296000,
+            "Carbon dioxide (ppm)": 211.5310759,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.353098736
+        },
+        {
+            "Time (yr BP)": 297000,
+            "Carbon dioxide (ppm)": 214.3755829,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.124941318
+        },
+        {
+            "Time (yr BP)": 298000,
+            "Carbon dioxide (ppm)": 218.9599,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.760268314
+        },
+        {
+            "Time (yr BP)": 299000,
+            "Carbon dioxide (ppm)": 223.7653836,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.461513217
+        },
+        {
+            "Time (yr BP)": 300000,
+            "Carbon dioxide (ppm)": 228.4774958,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.564041819
+        },
+        {
+            "Time (yr BP)": 301000,
+            "Carbon dioxide (ppm)": 233.2095243,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.509050147
+        },
+        {
+            "Time (yr BP)": 302000,
+            "Carbon dioxide (ppm)": 236.4908754,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.689964
+        },
+        {
+            "Time (yr BP)": 303000,
+            "Carbon dioxide (ppm)": 238.2054493,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.163242327
+        },
+        {
+            "Time (yr BP)": 304000,
+            "Carbon dioxide (ppm)": 240.3882717,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.104809507
+        },
+        {
+            "Time (yr BP)": 305000,
+            "Carbon dioxide (ppm)": 243.4133272,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.829739135
+        },
+        {
+            "Time (yr BP)": 306000,
+            "Carbon dioxide (ppm)": 245.076801,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.51543437
+        },
+        {
+            "Time (yr BP)": 307000,
+            "Carbon dioxide (ppm)": 242.6472585,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.156232362
+        },
+        {
+            "Time (yr BP)": 308000,
+            "Carbon dioxide (ppm)": 236.1295243,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.46505777
+        },
+        {
+            "Time (yr BP)": 309000,
+            "Carbon dioxide (ppm)": 230.7059035,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.827000986
+        },
+        {
+            "Time (yr BP)": 310000,
+            "Carbon dioxide (ppm)": 230.2441337,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.868140318
+        },
+        {
+            "Time (yr BP)": 311000,
+            "Carbon dioxide (ppm)": 233.3740376,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.238236987
+        },
+        {
+            "Time (yr BP)": 312000,
+            "Carbon dioxide (ppm)": 238.063794,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.691721853
+        },
+        {
+            "Time (yr BP)": 313000,
+            "Carbon dioxide (ppm)": 243.2645692,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.613393444
+        },
+        {
+            "Time (yr BP)": 314000,
+            "Carbon dioxide (ppm)": 248.7415053,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.005113866
+        },
+        {
+            "Time (yr BP)": 315000,
+            "Carbon dioxide (ppm)": 253.1957153,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.750008194
+        },
+        {
+            "Time (yr BP)": 316000,
+            "Carbon dioxide (ppm)": 255.7204685,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.240869377
+        },
+        {
+            "Time (yr BP)": 317000,
+            "Carbon dioxide (ppm)": 256.2915312,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.1406059
+        },
+        {
+            "Time (yr BP)": 318000,
+            "Carbon dioxide (ppm)": 253.0148145,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.10926684
+        },
+        {
+            "Time (yr BP)": 319000,
+            "Carbon dioxide (ppm)": 247.2049625,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.27490933
+        },
+        {
+            "Time (yr BP)": 320000,
+            "Carbon dioxide (ppm)": 245.3194734,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.14358741
+        },
+        {
+            "Time (yr BP)": 321000,
+            "Carbon dioxide (ppm)": 248.3900454,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.223898971
+        },
+        {
+            "Time (yr BP)": 322000,
+            "Carbon dioxide (ppm)": 252.2511895,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.189957957
+        },
+        {
+            "Time (yr BP)": 323000,
+            "Carbon dioxide (ppm)": 256.1582009,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.618829736
+        },
+        {
+            "Time (yr BP)": 324000,
+            "Carbon dioxide (ppm)": 258.9991674,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.299689829
+        },
+        {
+            "Time (yr BP)": 325000,
+            "Carbon dioxide (ppm)": 260.802045,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.945341046
+        },
+        {
+            "Time (yr BP)": 326000,
+            "Carbon dioxide (ppm)": 262.7004447,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.203347564
+        },
+        {
+            "Time (yr BP)": 327000,
+            "Carbon dioxide (ppm)": 264.8888758,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.375151416
+        },
+        {
+            "Time (yr BP)": 328000,
+            "Carbon dioxide (ppm)": 267.2841432,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.647021384
+        },
+        {
+            "Time (yr BP)": 329000,
+            "Carbon dioxide (ppm)": 269.6415706,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.729736231
+        },
+        {
+            "Time (yr BP)": 330000,
+            "Carbon dioxide (ppm)": 270.8342661,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.769192305
+        },
+        {
+            "Time (yr BP)": 331000,
+            "Carbon dioxide (ppm)": 270.7602537,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.315639629
+        },
+        {
+            "Time (yr BP)": 332000,
+            "Carbon dioxide (ppm)": 272.678363,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.950606637
+        },
+        {
+            "Time (yr BP)": 333000,
+            "Carbon dioxide (ppm)": 277.6160162,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.876851192
+        },
+        {
+            "Time (yr BP)": 334000,
+            "Carbon dioxide (ppm)": 282.7744667,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.181918674
+        },
+        {
+            "Time (yr BP)": 335000,
+            "Carbon dioxide (ppm)": 285.1386334,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.893966703
+        },
+        {
+            "Time (yr BP)": 336000,
+            "Carbon dioxide (ppm)": 282.5791595,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.47593364
+        },
+        {
+            "Time (yr BP)": 337000,
+            "Carbon dioxide (ppm)": 274.7897196,
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.87953941
+        },
+        {
+            "Time (yr BP)": 338000,
+            "Carbon dioxide (ppm)": 263.1228573,
+            "Carbon dioxide uncertainty (1sd, ppm)": 16.2935619
+        },
+        {
+            "Time (yr BP)": 339000,
+            "Carbon dioxide (ppm)": 250.6230279,
+            "Carbon dioxide uncertainty (1sd, ppm)": 14.53668691
+        },
+        {
+            "Time (yr BP)": 340000,
+            "Carbon dioxide (ppm)": 242.0645149,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.838120057
+        },
+        {
+            "Time (yr BP)": 341000,
+            "Carbon dioxide (ppm)": 238.7909027,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.922693858
+        },
+        {
+            "Time (yr BP)": 342000,
+            "Carbon dioxide (ppm)": 236.5256543,
+            "Carbon dioxide uncertainty (1sd, ppm)": 16.82719788
+        },
+        {
+            "Time (yr BP)": 343000,
+            "Carbon dioxide (ppm)": 226.8091582,
+            "Carbon dioxide uncertainty (1sd, ppm)": 23.41569134
+        },
+        {
+            "Time (yr BP)": 344000,
+            "Carbon dioxide (ppm)": 214.4093946,
+            "Carbon dioxide uncertainty (1sd, ppm)": 20.58479521
+        },
+        {
+            "Time (yr BP)": 345000,
+            "Carbon dioxide (ppm)": 207.2977469,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.31467495
+        },
+        {
+            "Time (yr BP)": 346000,
+            "Carbon dioxide (ppm)": 206.4687298,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.352740186
+        },
+        {
+            "Time (yr BP)": 347000,
+            "Carbon dioxide (ppm)": 209.0482573,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.827556569
+        },
+        {
+            "Time (yr BP)": 348000,
+            "Carbon dioxide (ppm)": 213.1678531,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.359618353
+        },
+        {
+            "Time (yr BP)": 349000,
+            "Carbon dioxide (ppm)": 217.1795955,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.567772672
+        },
+        {
+            "Time (yr BP)": 350000,
+            "Carbon dioxide (ppm)": 219.6103969,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.086072243
+        },
+        {
+            "Time (yr BP)": 351000,
+            "Carbon dioxide (ppm)": 220.0552526,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.690697082
+        },
+        {
+            "Time (yr BP)": 352000,
+            "Carbon dioxide (ppm)": 218.533491,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.541417135
+        },
+        {
+            "Time (yr BP)": 353000,
+            "Carbon dioxide (ppm)": 215.6812546,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.205054559
+        },
+        {
+            "Time (yr BP)": 354000,
+            "Carbon dioxide (ppm)": 212.5868201,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.942311974
+        },
+        {
+            "Time (yr BP)": 355000,
+            "Carbon dioxide (ppm)": 210.4219989,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.06523797
+        },
+        {
+            "Time (yr BP)": 356000,
+            "Carbon dioxide (ppm)": 209.1122002,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.193552863
+        },
+        {
+            "Time (yr BP)": 357000,
+            "Carbon dioxide (ppm)": 205.0790527,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.820459221
+        },
+        {
+            "Time (yr BP)": 358000,
+            "Carbon dioxide (ppm)": 195.6443483,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.561381051
+        },
+        {
+            "Time (yr BP)": 359000,
+            "Carbon dioxide (ppm)": 191.4804728,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.905280874
+        },
+        {
+            "Time (yr BP)": 360000,
+            "Carbon dioxide (ppm)": 189.0603632,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.601670238
+        },
+        {
+            "Time (yr BP)": 361000,
+            "Carbon dioxide (ppm)": 187.0531003,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.917236199
+        },
+        {
+            "Time (yr BP)": 362000,
+            "Carbon dioxide (ppm)": 186.3500944,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.742810638
+        },
+        {
+            "Time (yr BP)": 363000,
+            "Carbon dioxide (ppm)": 187.9943647,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.109159268
+        },
+        {
+            "Time (yr BP)": 364000,
+            "Carbon dioxide (ppm)": 194.2741198,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.237001734
+        },
+        {
+            "Time (yr BP)": 365000,
+            "Carbon dioxide (ppm)": 199.759248,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.666658654
+        },
+        {
+            "Time (yr BP)": 366000,
+            "Carbon dioxide (ppm)": 202.0562131,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.112343054
+        },
+        {
+            "Time (yr BP)": 367000,
+            "Carbon dioxide (ppm)": 204.6775517,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.859435044
+        },
+        {
+            "Time (yr BP)": 368000,
+            "Carbon dioxide (ppm)": 205.9675307,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.246648747
+        },
+        {
+            "Time (yr BP)": 369000,
+            "Carbon dioxide (ppm)": 205.6199638,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.400226886
+        },
+        {
+            "Time (yr BP)": 370000,
+            "Carbon dioxide (ppm)": 203.3379399,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.670764656
+        },
+        {
+            "Time (yr BP)": 371000,
+            "Carbon dioxide (ppm)": 201.8911611,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.225611206
+        },
+        {
+            "Time (yr BP)": 372000,
+            "Carbon dioxide (ppm)": 201.4571129,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.616217497
+        },
+        {
+            "Time (yr BP)": 373000,
+            "Carbon dioxide (ppm)": 202.1618371,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.57941056
+        },
+        {
+            "Time (yr BP)": 374000,
+            "Carbon dioxide (ppm)": 205.9748131,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.124397482
+        },
+        {
+            "Time (yr BP)": 375000,
+            "Carbon dioxide (ppm)": 212.228964,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.596398752
+        },
+        {
+            "Time (yr BP)": 376000,
+            "Carbon dioxide (ppm)": 218.518175,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.515848826
+        },
+        {
+            "Time (yr BP)": 377000,
+            "Carbon dioxide (ppm)": 223.5652583,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.92974537
+        },
+        {
+            "Time (yr BP)": 378000,
+            "Carbon dioxide (ppm)": 226.7891833,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.564268612
+        },
+        {
+            "Time (yr BP)": 379000,
+            "Carbon dioxide (ppm)": 228.5346092,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.715546498
+        },
+        {
+            "Time (yr BP)": 380000,
+            "Carbon dioxide (ppm)": 229.1245054,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.295770725
+        },
+        {
+            "Time (yr BP)": 381000,
+            "Carbon dioxide (ppm)": 228.253065,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.729247633
+        },
+        {
+            "Time (yr BP)": 382000,
+            "Carbon dioxide (ppm)": 228.5084022,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.061265326
+        },
+        {
+            "Time (yr BP)": 383000,
+            "Carbon dioxide (ppm)": 230.9209496,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.664931845
+        },
+        {
+            "Time (yr BP)": 384000,
+            "Carbon dioxide (ppm)": 234.9164445,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.976542167
+        },
+        {
+            "Time (yr BP)": 385000,
+            "Carbon dioxide (ppm)": 238.3650118,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.332339343
+        },
+        {
+            "Time (yr BP)": 386000,
+            "Carbon dioxide (ppm)": 240.4547018,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.504754239
+        },
+        {
+            "Time (yr BP)": 387000,
+            "Carbon dioxide (ppm)": 242.8311841,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.82767831
+        },
+        {
+            "Time (yr BP)": 388000,
+            "Carbon dioxide (ppm)": 245.0535728,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.209975101
+        },
+        {
+            "Time (yr BP)": 389000,
+            "Carbon dioxide (ppm)": 246.0613002,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.654711463
+        },
+        {
+            "Time (yr BP)": 390000,
+            "Carbon dioxide (ppm)": 247.8604075,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.546457983
+        },
+        {
+            "Time (yr BP)": 391000,
+            "Carbon dioxide (ppm)": 254.7001985,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.464497427
+        },
+        {
+            "Time (yr BP)": 392000,
+            "Carbon dioxide (ppm)": 259.867996,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.365407825
+        },
+        {
+            "Time (yr BP)": 393000,
+            "Carbon dioxide (ppm)": 262.643942,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.047192801
+        },
+        {
+            "Time (yr BP)": 394000,
+            "Carbon dioxide (ppm)": 264.7424415,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.353165118
+        },
+        {
+            "Time (yr BP)": 395000,
+            "Carbon dioxide (ppm)": 265.1094138,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.080904439
+        },
+        {
+            "Time (yr BP)": 396000,
+            "Carbon dioxide (ppm)": 265.6969301,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.444788784
+        },
+        {
+            "Time (yr BP)": 397000,
+            "Carbon dioxide (ppm)": 272.4900897,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.370678867
+        },
+        {
+            "Time (yr BP)": 398000,
+            "Carbon dioxide (ppm)": 276.4572218,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.150426492
+        },
+        {
+            "Time (yr BP)": 399000,
+            "Carbon dioxide (ppm)": 277.9083324,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.009190883
+        },
+        {
+            "Time (yr BP)": 400000,
+            "Carbon dioxide (ppm)": 279.5342879,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.34464957
+        },
+        {
+            "Time (yr BP)": 401000,
+            "Carbon dioxide (ppm)": 280.6087758,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.387183695
+        },
+        {
+            "Time (yr BP)": 402000,
+            "Carbon dioxide (ppm)": 280.1581492,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.601221314
+        },
+        {
+            "Time (yr BP)": 403000,
+            "Carbon dioxide (ppm)": 278.7841987,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.492397396
+        },
+        {
+            "Time (yr BP)": 404000,
+            "Carbon dioxide (ppm)": 278.2350702,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.003141155
+        },
+        {
+            "Time (yr BP)": 405000,
+            "Carbon dioxide (ppm)": 279.0947605,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.936731626
+        },
+        {
+            "Time (yr BP)": 406000,
+            "Carbon dioxide (ppm)": 280.737683,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.187278101
+        },
+        {
+            "Time (yr BP)": 407000,
+            "Carbon dioxide (ppm)": 282.2339092,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.39353759
+        },
+        {
+            "Time (yr BP)": 408000,
+            "Carbon dioxide (ppm)": 282.356246,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.886140351
+        },
+        {
+            "Time (yr BP)": 409000,
+            "Carbon dioxide (ppm)": 281.1403711,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.320835544
+        },
+        {
+            "Time (yr BP)": 410000,
+            "Carbon dioxide (ppm)": 280.7030674,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.105756666
+        },
+        {
+            "Time (yr BP)": 411000,
+            "Carbon dioxide (ppm)": 281.0179058,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.95173679
+        },
+        {
+            "Time (yr BP)": 412000,
+            "Carbon dioxide (ppm)": 279.0411681,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.416682547
+        },
+        {
+            "Time (yr BP)": 413000,
+            "Carbon dioxide (ppm)": 273.7997437,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.002235958
+        },
+        {
+            "Time (yr BP)": 414000,
+            "Carbon dioxide (ppm)": 271.0422454,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.777936484
+        },
+        {
+            "Time (yr BP)": 415000,
+            "Carbon dioxide (ppm)": 271.4899417,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.050111573
+        },
+        {
+            "Time (yr BP)": 416000,
+            "Carbon dioxide (ppm)": 272.6792761,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.253562148
+        },
+        {
+            "Time (yr BP)": 417000,
+            "Carbon dioxide (ppm)": 273.1120791,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.590689087
+        },
+        {
+            "Time (yr BP)": 418000,
+            "Carbon dioxide (ppm)": 273.1625344,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.319854013
+        },
+        {
+            "Time (yr BP)": 419000,
+            "Carbon dioxide (ppm)": 273.0763463,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.311022793
+        },
+        {
+            "Time (yr BP)": 420000,
+            "Carbon dioxide (ppm)": 272.5293654,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.558130721
+        },
+        {
+            "Time (yr BP)": 421000,
+            "Carbon dioxide (ppm)": 271.2003393,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.997106893
+        },
+        {
+            "Time (yr BP)": 422000,
+            "Carbon dioxide (ppm)": 269.5289267,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.95745331
+        },
+        {
+            "Time (yr BP)": 423000,
+            "Carbon dioxide (ppm)": 268.7629018,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.612002904
+        },
+        {
+            "Time (yr BP)": 424000,
+            "Carbon dioxide (ppm)": 268.5976013,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.631889554
+        },
+        {
+            "Time (yr BP)": 425000,
+            "Carbon dioxide (ppm)": 267.9954797,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.704847183
+        },
+        {
+            "Time (yr BP)": 426000,
+            "Carbon dioxide (ppm)": 265.8472185,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.901859374
+        },
+        {
+            "Time (yr BP)": 427000,
+            "Carbon dioxide (ppm)": 261.1098677,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.091722061
+        },
+        {
+            "Time (yr BP)": 428000,
+            "Carbon dioxide (ppm)": 254.1837849,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.683289404
+        },
+        {
+            "Time (yr BP)": 429000,
+            "Carbon dioxide (ppm)": 247.0790838,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.24907879
+        },
+        {
+            "Time (yr BP)": 430000,
+            "Carbon dioxide (ppm)": 237.9186019,
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.03608063
+        },
+        {
+            "Time (yr BP)": 431000,
+            "Carbon dioxide (ppm)": 227.5587874,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.11687922
+        },
+        {
+            "Time (yr BP)": 432000,
+            "Carbon dioxide (ppm)": 222.2334228,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.325022312
+        },
+        {
+            "Time (yr BP)": 433000,
+            "Carbon dioxide (ppm)": 216.816022,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.738199212
+        },
+        {
+            "Time (yr BP)": 434000,
+            "Carbon dioxide (ppm)": 211.8307149,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.703683855
+        },
+        {
+            "Time (yr BP)": 435000,
+            "Carbon dioxide (ppm)": 209.743298,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.359422806
+        },
+        {
+            "Time (yr BP)": 436000,
+            "Carbon dioxide (ppm)": 208.9295487,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.569513073
+        },
+        {
+            "Time (yr BP)": 437000,
+            "Carbon dioxide (ppm)": 207.5372291,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.117881712
+        },
+        {
+            "Time (yr BP)": 438000,
+            "Carbon dioxide (ppm)": 204.9772619,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.79606569
+        },
+        {
+            "Time (yr BP)": 439000,
+            "Carbon dioxide (ppm)": 202.4437634,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.306760724
+        },
+        {
+            "Time (yr BP)": 440000,
+            "Carbon dioxide (ppm)": 201.4402557,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.409313253
+        },
+        {
+            "Time (yr BP)": 441000,
+            "Carbon dioxide (ppm)": 201.4249017,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.07448997
+        },
+        {
+            "Time (yr BP)": 442000,
+            "Carbon dioxide (ppm)": 201.4795492,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.028389726
+        },
+        {
+            "Time (yr BP)": 443000,
+            "Carbon dioxide (ppm)": 201.4542793,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.090886563
+        },
+        {
+            "Time (yr BP)": 444000,
+            "Carbon dioxide (ppm)": 201.057083,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.249009621
+        },
+        {
+            "Time (yr BP)": 445000,
+            "Carbon dioxide (ppm)": 200.3736059,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.303897415
+        },
+        {
+            "Time (yr BP)": 446000,
+            "Carbon dioxide (ppm)": 200.411651,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.346578377
+        },
+        {
+            "Time (yr BP)": 447000,
+            "Carbon dioxide (ppm)": 201.6381635,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.624438243
+        },
+        {
+            "Time (yr BP)": 448000,
+            "Carbon dioxide (ppm)": 203.266096,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.932743134
+        },
+        {
+            "Time (yr BP)": 449000,
+            "Carbon dioxide (ppm)": 204.4720805,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.097702969
+        },
+        {
+            "Time (yr BP)": 450000,
+            "Carbon dioxide (ppm)": 204.2223013,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.21253223
+        },
+        {
+            "Time (yr BP)": 451000,
+            "Carbon dioxide (ppm)": 203.1094066,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.944373089
+        },
+        {
+            "Time (yr BP)": 452000,
+            "Carbon dioxide (ppm)": 202.6892164,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.618412582
+        },
+        {
+            "Time (yr BP)": 453000,
+            "Carbon dioxide (ppm)": 202.3475656,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.807380188
+        },
+        {
+            "Time (yr BP)": 454000,
+            "Carbon dioxide (ppm)": 200.6669338,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.469019161
+        },
+        {
+            "Time (yr BP)": 455000,
+            "Carbon dioxide (ppm)": 197.8967958,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.828264307
+        },
+        {
+            "Time (yr BP)": 456000,
+            "Carbon dioxide (ppm)": 196.2940825,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.96352617
+        },
+        {
+            "Time (yr BP)": 457000,
+            "Carbon dioxide (ppm)": 197.8690568,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.873612532
+        },
+        {
+            "Time (yr BP)": 458000,
+            "Carbon dioxide (ppm)": 200.8553289,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.935092044
+        },
+        {
+            "Time (yr BP)": 459000,
+            "Carbon dioxide (ppm)": 202.8744611,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.273320011
+        },
+        {
+            "Time (yr BP)": 460000,
+            "Carbon dioxide (ppm)": 202.2689974,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.58816455
+        },
+        {
+            "Time (yr BP)": 461000,
+            "Carbon dioxide (ppm)": 198.612624,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.244195612
+        },
+        {
+            "Time (yr BP)": 462000,
+            "Carbon dioxide (ppm)": 195.1307345,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.381097105
+        },
+        {
+            "Time (yr BP)": 463000,
+            "Carbon dioxide (ppm)": 195.451332,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.700918369
+        },
+        {
+            "Time (yr BP)": 464000,
+            "Carbon dioxide (ppm)": 199.4709237,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.810630986
+        },
+        {
+            "Time (yr BP)": 465000,
+            "Carbon dioxide (ppm)": 203.6213049,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.215407976
+        },
+        {
+            "Time (yr BP)": 466000,
+            "Carbon dioxide (ppm)": 205.9643888,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.928007882
+        },
+        {
+            "Time (yr BP)": 467000,
+            "Carbon dioxide (ppm)": 206.2419923,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.045810005
+        },
+        {
+            "Time (yr BP)": 468000,
+            "Carbon dioxide (ppm)": 205.3221194,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.799409111
+        },
+        {
+            "Time (yr BP)": 469000,
+            "Carbon dioxide (ppm)": 205.8914562,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.089500584
+        },
+        {
+            "Time (yr BP)": 470000,
+            "Carbon dioxide (ppm)": 209.6227967,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.240321192
+        },
+        {
+            "Time (yr BP)": 471000,
+            "Carbon dioxide (ppm)": 216.3166225,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.46254389
+        },
+        {
+            "Time (yr BP)": 472000,
+            "Carbon dioxide (ppm)": 225.3760435,
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.01717253
+        },
+        {
+            "Time (yr BP)": 473000,
+            "Carbon dioxide (ppm)": 234.174658,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.44788543
+        },
+        {
+            "Time (yr BP)": 474000,
+            "Carbon dioxide (ppm)": 239.393869,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.119654621
+        },
+        {
+            "Time (yr BP)": 475000,
+            "Carbon dioxide (ppm)": 239.7499714,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.265693286
+        },
+        {
+            "Time (yr BP)": 476000,
+            "Carbon dioxide (ppm)": 236.8654225,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.593986596
+        },
+        {
+            "Time (yr BP)": 477000,
+            "Carbon dioxide (ppm)": 235.1786162,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.517525604
+        },
+        {
+            "Time (yr BP)": 478000,
+            "Carbon dioxide (ppm)": 234.8606404,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.367108484
+        },
+        {
+            "Time (yr BP)": 479000,
+            "Carbon dioxide (ppm)": 232.6477423,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.429748075
+        },
+        {
+            "Time (yr BP)": 480000,
+            "Carbon dioxide (ppm)": 228.67095,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.245968859
+        },
+        {
+            "Time (yr BP)": 481000,
+            "Carbon dioxide (ppm)": 225.1365062,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.971190903
+        },
+        {
+            "Time (yr BP)": 482000,
+            "Carbon dioxide (ppm)": 224.3498491,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.147988876
+        },
+        {
+            "Time (yr BP)": 483000,
+            "Carbon dioxide (ppm)": 226.4265243,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.766370599
+        },
+        {
+            "Time (yr BP)": 484000,
+            "Carbon dioxide (ppm)": 229.1017764,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.371672021
+        },
+        {
+            "Time (yr BP)": 485000,
+            "Carbon dioxide (ppm)": 230.9539606,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.648122952
+        },
+        {
+            "Time (yr BP)": 486000,
+            "Carbon dioxide (ppm)": 232.0532032,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.452327432
+        },
+        {
+            "Time (yr BP)": 487000,
+            "Carbon dioxide (ppm)": 233.4006663,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.462453464
+        },
+        {
+            "Time (yr BP)": 488000,
+            "Carbon dioxide (ppm)": 236.5671805,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.497173946
+        },
+        {
+            "Time (yr BP)": 489000,
+            "Carbon dioxide (ppm)": 241.1491859,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.175060001
+        },
+        {
+            "Time (yr BP)": 490000,
+            "Carbon dioxide (ppm)": 244.2745352,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.235855554
+        },
+        {
+            "Time (yr BP)": 491000,
+            "Carbon dioxide (ppm)": 245.1735843,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.170360428
+        },
+        {
+            "Time (yr BP)": 492000,
+            "Carbon dioxide (ppm)": 244.4463776,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.520592109
+        },
+        {
+            "Time (yr BP)": 493000,
+            "Carbon dioxide (ppm)": 242.5602558,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.373845394
+        },
+        {
+            "Time (yr BP)": 494000,
+            "Carbon dioxide (ppm)": 240.3811993,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.98258398
+        },
+        {
+            "Time (yr BP)": 495000,
+            "Carbon dioxide (ppm)": 238.8553304,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.421125118
+        },
+        {
+            "Time (yr BP)": 496000,
+            "Carbon dioxide (ppm)": 237.8427521,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.272642883
+        },
+        {
+            "Time (yr BP)": 497000,
+            "Carbon dioxide (ppm)": 236.686836,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.52370663
+        },
+        {
+            "Time (yr BP)": 498000,
+            "Carbon dioxide (ppm)": 234.9594115,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.952517714
+        },
+        {
+            "Time (yr BP)": 499000,
+            "Carbon dioxide (ppm)": 232.8124691,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.024355926
+        },
+        {
+            "Time (yr BP)": 500000,
+            "Carbon dioxide (ppm)": 231.0516205,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.639130319
+        },
+        {
+            "Time (yr BP)": 501000,
+            "Carbon dioxide (ppm)": 230.3231091,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.341375455
+        },
+        {
+            "Time (yr BP)": 502000,
+            "Carbon dioxide (ppm)": 230.6591089,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.287256538
+        },
+        {
+            "Time (yr BP)": 503000,
+            "Carbon dioxide (ppm)": 231.5413131,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.261347724
+        },
+        {
+            "Time (yr BP)": 504000,
+            "Carbon dioxide (ppm)": 232.5377216,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.265898923
+        },
+        {
+            "Time (yr BP)": 505000,
+            "Carbon dioxide (ppm)": 233.5846451,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.294572147
+        },
+        {
+            "Time (yr BP)": 506000,
+            "Carbon dioxide (ppm)": 234.7083258,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.334470904
+        },
+        {
+            "Time (yr BP)": 507000,
+            "Carbon dioxide (ppm)": 235.910109,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.376903002
+        },
+        {
+            "Time (yr BP)": 508000,
+            "Carbon dioxide (ppm)": 236.9704998,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.410888513
+        },
+        {
+            "Time (yr BP)": 509000,
+            "Carbon dioxide (ppm)": 237.4436341,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.634513345
+        },
+        {
+            "Time (yr BP)": 510000,
+            "Carbon dioxide (ppm)": 237.0073485,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.974467049
+        },
+        {
+            "Time (yr BP)": 511000,
+            "Carbon dioxide (ppm)": 236.4124352,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.996370964
+        },
+        {
+            "Time (yr BP)": 512000,
+            "Carbon dioxide (ppm)": 236.9431533,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.113146691
+        },
+        {
+            "Time (yr BP)": 513000,
+            "Carbon dioxide (ppm)": 238.3075819,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.126167532
+        },
+        {
+            "Time (yr BP)": 514000,
+            "Carbon dioxide (ppm)": 239.4435452,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.820060755
+        },
+        {
+            "Time (yr BP)": 515000,
+            "Carbon dioxide (ppm)": 240.6850515,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.885889739
+        },
+        {
+            "Time (yr BP)": 516000,
+            "Carbon dioxide (ppm)": 242.6492606,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.142591129
+        },
+        {
+            "Time (yr BP)": 517000,
+            "Carbon dioxide (ppm)": 244.612794,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.872782768
+        },
+        {
+            "Time (yr BP)": 518000,
+            "Carbon dioxide (ppm)": 245.6507746,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.375654794
+        },
+        {
+            "Time (yr BP)": 519000,
+            "Carbon dioxide (ppm)": 245.9292321,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.198323547
+        },
+        {
+            "Time (yr BP)": 520000,
+            "Carbon dioxide (ppm)": 245.8667295,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.269738746
+        },
+        {
+            "Time (yr BP)": 521000,
+            "Carbon dioxide (ppm)": 245.3400729,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.420626426
+        },
+        {
+            "Time (yr BP)": 522000,
+            "Carbon dioxide (ppm)": 244.0262821,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.81033259
+        },
+        {
+            "Time (yr BP)": 523000,
+            "Carbon dioxide (ppm)": 241.170874,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.439163236
+        },
+        {
+            "Time (yr BP)": 524000,
+            "Carbon dioxide (ppm)": 238.4323957,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.478369595
+        },
+        {
+            "Time (yr BP)": 525000,
+            "Carbon dioxide (ppm)": 236.1280504,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.541494735
+        },
+        {
+            "Time (yr BP)": 526000,
+            "Carbon dioxide (ppm)": 233.4319907,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.757981093
+        },
+        {
+            "Time (yr BP)": 527000,
+            "Carbon dioxide (ppm)": 230.2874637,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.914543343
+        },
+        {
+            "Time (yr BP)": 528000,
+            "Carbon dioxide (ppm)": 227.0870392,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.729848218
+        },
+        {
+            "Time (yr BP)": 529000,
+            "Carbon dioxide (ppm)": 224.2590823,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.273727777
+        },
+        {
+            "Time (yr BP)": 530000,
+            "Carbon dioxide (ppm)": 221.8811645,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.156330928
+        },
+        {
+            "Time (yr BP)": 531000,
+            "Carbon dioxide (ppm)": 219.1215668,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.527850542
+        },
+        {
+            "Time (yr BP)": 532000,
+            "Carbon dioxide (ppm)": 214.8244465,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.78421661
+        },
+        {
+            "Time (yr BP)": 533000,
+            "Carbon dioxide (ppm)": 209.0044012,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.257014728
+        },
+        {
+            "Time (yr BP)": 534000,
+            "Carbon dioxide (ppm)": 202.5462338,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.949112655
+        },
+        {
+            "Time (yr BP)": 535000,
+            "Carbon dioxide (ppm)": 197.7278321,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.911684032
+        },
+        {
+            "Time (yr BP)": 536000,
+            "Carbon dioxide (ppm)": 196.4842026,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.514002911
+        },
+        {
+            "Time (yr BP)": 537000,
+            "Carbon dioxide (ppm)": 198.5308695,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.579291765
+        },
+        {
+            "Time (yr BP)": 538000,
+            "Carbon dioxide (ppm)": 202.2620896,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.427985813
+        },
+        {
+            "Time (yr BP)": 539000,
+            "Carbon dioxide (ppm)": 205.8329667,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.059498979
+        },
+        {
+            "Time (yr BP)": 540000,
+            "Carbon dioxide (ppm)": 208.6878872,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.735121533
+        },
+        {
+            "Time (yr BP)": 541000,
+            "Carbon dioxide (ppm)": 209.8512285,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.408129733
+        },
+        {
+            "Time (yr BP)": 542000,
+            "Carbon dioxide (ppm)": 208.5543071,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.635798672
+        },
+        {
+            "Time (yr BP)": 543000,
+            "Carbon dioxide (ppm)": 206.5502978,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.325647264
+        },
+        {
+            "Time (yr BP)": 544000,
+            "Carbon dioxide (ppm)": 206.3091924,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.002902903
+        },
+        {
+            "Time (yr BP)": 545000,
+            "Carbon dioxide (ppm)": 207.7537999,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.914291273
+        },
+        {
+            "Time (yr BP)": 546000,
+            "Carbon dioxide (ppm)": 209.0041576,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.504526219
+        },
+        {
+            "Time (yr BP)": 547000,
+            "Carbon dioxide (ppm)": 208.9449914,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.597876679
+        },
+        {
+            "Time (yr BP)": 548000,
+            "Carbon dioxide (ppm)": 207.7637366,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.237052143
+        },
+        {
+            "Time (yr BP)": 549000,
+            "Carbon dioxide (ppm)": 207.3678354,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.085560546
+        },
+        {
+            "Time (yr BP)": 550000,
+            "Carbon dioxide (ppm)": 209.5296634,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.345618762
+        },
+        {
+            "Time (yr BP)": 551000,
+            "Carbon dioxide (ppm)": 214.0191022,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.063859566
+        },
+        {
+            "Time (yr BP)": 552000,
+            "Carbon dioxide (ppm)": 218.97503940000001,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.034850904
+        },
+        {
+            "Time (yr BP)": 553000,
+            "Carbon dioxide (ppm)": 221.7363025,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.530537256
+        },
+        {
+            "Time (yr BP)": 554000,
+            "Carbon dioxide (ppm)": 223.3184905,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.810585809
+        },
+        {
+            "Time (yr BP)": 555000,
+            "Carbon dioxide (ppm)": 227.1596195,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.97372863
+        },
+        {
+            "Time (yr BP)": 556000,
+            "Carbon dioxide (ppm)": 234.820362,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.911085856
+        },
+        {
+            "Time (yr BP)": 557000,
+            "Carbon dioxide (ppm)": 240.5185232,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.207666135
+        },
+        {
+            "Time (yr BP)": 558000,
+            "Carbon dioxide (ppm)": 241.3708948,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.19390414
+        },
+        {
+            "Time (yr BP)": 559000,
+            "Carbon dioxide (ppm)": 238.1097141,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.601919521
+        },
+        {
+            "Time (yr BP)": 560000,
+            "Carbon dioxide (ppm)": 233.7330417,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.363944396
+        },
+        {
+            "Time (yr BP)": 561000,
+            "Carbon dioxide (ppm)": 232.2813009,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.909589603
+        },
+        {
+            "Time (yr BP)": 562000,
+            "Carbon dioxide (ppm)": 234.554945,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.918050479
+        },
+        {
+            "Time (yr BP)": 563000,
+            "Carbon dioxide (ppm)": 239.0960365,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.021842206
+        },
+        {
+            "Time (yr BP)": 564000,
+            "Carbon dioxide (ppm)": 244.3425169,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.829772213
+        },
+        {
+            "Time (yr BP)": 565000,
+            "Carbon dioxide (ppm)": 248.8493479,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.604118956
+        },
+        {
+            "Time (yr BP)": 566000,
+            "Carbon dioxide (ppm)": 251.741554,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.213415428
+        },
+        {
+            "Time (yr BP)": 567000,
+            "Carbon dioxide (ppm)": 253.0070751,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.411725567
+        },
+        {
+            "Time (yr BP)": 568000,
+            "Carbon dioxide (ppm)": 253.0283726,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.277476326
+        },
+        {
+            "Time (yr BP)": 569000,
+            "Carbon dioxide (ppm)": 252.2583689,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.343638963
+        },
+        {
+            "Time (yr BP)": 570000,
+            "Carbon dioxide (ppm)": 251.406728,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.291027255
+        },
+        {
+            "Time (yr BP)": 571000,
+            "Carbon dioxide (ppm)": 250.7498827,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.347030941
+        },
+        {
+            "Time (yr BP)": 572000,
+            "Carbon dioxide (ppm)": 249.9996375,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.507543968
+        },
+        {
+            "Time (yr BP)": 573000,
+            "Carbon dioxide (ppm)": 249.5265161,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.539969715
+        },
+        {
+            "Time (yr BP)": 574000,
+            "Carbon dioxide (ppm)": 249.9545283,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.547581628
+        },
+        {
+            "Time (yr BP)": 575000,
+            "Carbon dioxide (ppm)": 250.8118116,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.462087899
+        },
+        {
+            "Time (yr BP)": 576000,
+            "Carbon dioxide (ppm)": 251.3489326,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.34132278
+        },
+        {
+            "Time (yr BP)": 577000,
+            "Carbon dioxide (ppm)": 251.3755945,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.368959649
+        },
+        {
+            "Time (yr BP)": 578000,
+            "Carbon dioxide (ppm)": 250.566483,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.367879232
+        },
+        {
+            "Time (yr BP)": 579000,
+            "Carbon dioxide (ppm)": 247.8495203,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.362947274
+        },
+        {
+            "Time (yr BP)": 580000,
+            "Carbon dioxide (ppm)": 242.1248361,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.90617883
+        },
+        {
+            "Time (yr BP)": 581000,
+            "Carbon dioxide (ppm)": 233.7689715,
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.09535355
+        },
+        {
+            "Time (yr BP)": 582000,
+            "Carbon dioxide (ppm)": 224.1602332,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.77840012
+        },
+        {
+            "Time (yr BP)": 583000,
+            "Carbon dioxide (ppm)": 216.1228492,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.884972597
+        },
+        {
+            "Time (yr BP)": 584000,
+            "Carbon dioxide (ppm)": 212.044256,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.872829321
+        },
+        {
+            "Time (yr BP)": 585000,
+            "Carbon dioxide (ppm)": 214.5925727,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.672593061
+        },
+        {
+            "Time (yr BP)": 586000,
+            "Carbon dioxide (ppm)": 224.9638137,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.257327531
+        },
+        {
+            "Time (yr BP)": 587000,
+            "Carbon dioxide (ppm)": 231.2313233,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.770074764
+        },
+        {
+            "Time (yr BP)": 588000,
+            "Carbon dioxide (ppm)": 236.8961476,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.319264935
+        },
+        {
+            "Time (yr BP)": 589000,
+            "Carbon dioxide (ppm)": 242.0930893,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.017403637
+        },
+        {
+            "Time (yr BP)": 590000,
+            "Carbon dioxide (ppm)": 243.5696305,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.925984244
+        },
+        {
+            "Time (yr BP)": 591000,
+            "Carbon dioxide (ppm)": 240.093034,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.349014824
+        },
+        {
+            "Time (yr BP)": 592000,
+            "Carbon dioxide (ppm)": 234.2702339,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.925320911
+        },
+        {
+            "Time (yr BP)": 593000,
+            "Carbon dioxide (ppm)": 232.4435042,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.034231038
+        },
+        {
+            "Time (yr BP)": 594000,
+            "Carbon dioxide (ppm)": 233.3239754,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.953800496
+        },
+        {
+            "Time (yr BP)": 595000,
+            "Carbon dioxide (ppm)": 231.6722472,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.8494092
+        },
+        {
+            "Time (yr BP)": 596000,
+            "Carbon dioxide (ppm)": 226.3217218,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.080628588
+        },
+        {
+            "Time (yr BP)": 597000,
+            "Carbon dioxide (ppm)": 221.3113299,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.284262257
+        },
+        {
+            "Time (yr BP)": 598000,
+            "Carbon dioxide (ppm)": 220.5187641,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.847040571
+        },
+        {
+            "Time (yr BP)": 599000,
+            "Carbon dioxide (ppm)": 223.3002021,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.177886592
+        },
+        {
+            "Time (yr BP)": 600000,
+            "Carbon dioxide (ppm)": 227.1829568,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.952598465
+        },
+        {
+            "Time (yr BP)": 601000,
+            "Carbon dioxide (ppm)": 231.2680688,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.410943217
+        },
+        {
+            "Time (yr BP)": 602000,
+            "Carbon dioxide (ppm)": 234.9879692,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.820105127
+        },
+        {
+            "Time (yr BP)": 603000,
+            "Carbon dioxide (ppm)": 237.8184401,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.312703233
+        },
+        {
+            "Time (yr BP)": 604000,
+            "Carbon dioxide (ppm)": 240.3507747,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.48200859
+        },
+        {
+            "Time (yr BP)": 605000,
+            "Carbon dioxide (ppm)": 243.3550668,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.908642997
+        },
+        {
+            "Time (yr BP)": 606000,
+            "Carbon dioxide (ppm)": 246.7596237,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.152682485
+        },
+        {
+            "Time (yr BP)": 607000,
+            "Carbon dioxide (ppm)": 250.4846322,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.43500667
+        },
+        {
+            "Time (yr BP)": 608000,
+            "Carbon dioxide (ppm)": 254.2566773,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.151606788
+        },
+        {
+            "Time (yr BP)": 609000,
+            "Carbon dioxide (ppm)": 257.0009009,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.149613915
+        },
+        {
+            "Time (yr BP)": 610000,
+            "Carbon dioxide (ppm)": 258.1466819,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.353951801
+        },
+        {
+            "Time (yr BP)": 611000,
+            "Carbon dioxide (ppm)": 258.3861243,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.156522687
+        },
+        {
+            "Time (yr BP)": 612000,
+            "Carbon dioxide (ppm)": 258.2559575,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.20162079
+        },
+        {
+            "Time (yr BP)": 613000,
+            "Carbon dioxide (ppm)": 257.4546313,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.471189377
+        },
+        {
+            "Time (yr BP)": 614000,
+            "Carbon dioxide (ppm)": 255.6886551,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.757964881
+        },
+        {
+            "Time (yr BP)": 615000,
+            "Carbon dioxide (ppm)": 253.8805336,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.509418008
+        },
+        {
+            "Time (yr BP)": 616000,
+            "Carbon dioxide (ppm)": 252.9736659,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.191896953
+        },
+        {
+            "Time (yr BP)": 617000,
+            "Carbon dioxide (ppm)": 252.3957385,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.301096612
+        },
+        {
+            "Time (yr BP)": 618000,
+            "Carbon dioxide (ppm)": 251.0736592,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.831469524
+        },
+        {
+            "Time (yr BP)": 619000,
+            "Carbon dioxide (ppm)": 248.7804171,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.064289326
+        },
+        {
+            "Time (yr BP)": 620000,
+            "Carbon dioxide (ppm)": 246.5024682,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.862938545
+        },
+        {
+            "Time (yr BP)": 621000,
+            "Carbon dioxide (ppm)": 244.4551276,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.813552908
+        },
+        {
+            "Time (yr BP)": 622000,
+            "Carbon dioxide (ppm)": 242.6839234,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.927547274
+        },
+        {
+            "Time (yr BP)": 623000,
+            "Carbon dioxide (ppm)": 241.0415409,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.384721453
+        },
+        {
+            "Time (yr BP)": 624000,
+            "Carbon dioxide (ppm)": 238.2980655,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.761125091
+        },
+        {
+            "Time (yr BP)": 625000,
+            "Carbon dioxide (ppm)": 233.5254968,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.166017461
+        },
+        {
+            "Time (yr BP)": 626000,
+            "Carbon dioxide (ppm)": 226.755959,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.9038099
+        },
+        {
+            "Time (yr BP)": 627000,
+            "Carbon dioxide (ppm)": 217.8368742,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.03793741
+        },
+        {
+            "Time (yr BP)": 628000,
+            "Carbon dioxide (ppm)": 208.7698775,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.806655315
+        },
+        {
+            "Time (yr BP)": 629000,
+            "Carbon dioxide (ppm)": 203.6224166,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.037444457
+        },
+        {
+            "Time (yr BP)": 630000,
+            "Carbon dioxide (ppm)": 201.9871573,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.316255175
+        },
+        {
+            "Time (yr BP)": 631000,
+            "Carbon dioxide (ppm)": 200.6565203,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.16514208
+        },
+        {
+            "Time (yr BP)": 632000,
+            "Carbon dioxide (ppm)": 198.5446305,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.227033133
+        },
+        {
+            "Time (yr BP)": 633000,
+            "Carbon dioxide (ppm)": 196.2393971,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.988927121
+        },
+        {
+            "Time (yr BP)": 634000,
+            "Carbon dioxide (ppm)": 194.9343139,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.443356857
+        },
+        {
+            "Time (yr BP)": 635000,
+            "Carbon dioxide (ppm)": 194.753735,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.212523279
+        },
+        {
+            "Time (yr BP)": 636000,
+            "Carbon dioxide (ppm)": 194.7008476,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.159101698
+        },
+        {
+            "Time (yr BP)": 637000,
+            "Carbon dioxide (ppm)": 194.414239,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.360364725
+        },
+        {
+            "Time (yr BP)": 638000,
+            "Carbon dioxide (ppm)": 193.2417288,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.034218366
+        },
+        {
+            "Time (yr BP)": 639000,
+            "Carbon dioxide (ppm)": 191.1389697,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.059273439
+        },
+        {
+            "Time (yr BP)": 640000,
+            "Carbon dioxide (ppm)": 190.1641501,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.423506038
+        },
+        {
+            "Time (yr BP)": 641000,
+            "Carbon dioxide (ppm)": 190.5612067,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.2124629
+        },
+        {
+            "Time (yr BP)": 642000,
+            "Carbon dioxide (ppm)": 191.4444835,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.260690671
+        },
+        {
+            "Time (yr BP)": 643000,
+            "Carbon dioxide (ppm)": 192.5463266,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.524418214
+        },
+        {
+            "Time (yr BP)": 644000,
+            "Carbon dioxide (ppm)": 193.8428809,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.65829244
+        },
+        {
+            "Time (yr BP)": 645000,
+            "Carbon dioxide (ppm)": 193.970861,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.824714317
+        },
+        {
+            "Time (yr BP)": 646000,
+            "Carbon dioxide (ppm)": 192.7968143,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.943889398
+        },
+        {
+            "Time (yr BP)": 647000,
+            "Carbon dioxide (ppm)": 192.2175139,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.684629548
+        },
+        {
+            "Time (yr BP)": 648000,
+            "Carbon dioxide (ppm)": 192.9444335,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.689626017
+        },
+        {
+            "Time (yr BP)": 649000,
+            "Carbon dioxide (ppm)": 193.2926639,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.903818929
+        },
+        {
+            "Time (yr BP)": 650000,
+            "Carbon dioxide (ppm)": 192.3344826,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.233464916
+        },
+        {
+            "Time (yr BP)": 651000,
+            "Carbon dioxide (ppm)": 190.7519211,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.330800402
+        },
+        {
+            "Time (yr BP)": 652000,
+            "Carbon dioxide (ppm)": 189.6141997,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.312071687
+        },
+        {
+            "Time (yr BP)": 653000,
+            "Carbon dioxide (ppm)": 190.4315493,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.79857676
+        },
+        {
+            "Time (yr BP)": 654000,
+            "Carbon dioxide (ppm)": 193.2872064,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.269993068
+        },
+        {
+            "Time (yr BP)": 655000,
+            "Carbon dioxide (ppm)": 196.0762278,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.029016941
+        },
+        {
+            "Time (yr BP)": 656000,
+            "Carbon dioxide (ppm)": 195.9183943,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.446450773
+        },
+        {
+            "Time (yr BP)": 657000,
+            "Carbon dioxide (ppm)": 192.8340641,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.852456099
+        },
+        {
+            "Time (yr BP)": 658000,
+            "Carbon dioxide (ppm)": 189.6373603,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.161246794
+        },
+        {
+            "Time (yr BP)": 659000,
+            "Carbon dioxide (ppm)": 187.9838854,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.363354697
+        },
+        {
+            "Time (yr BP)": 660000,
+            "Carbon dioxide (ppm)": 188.6302995,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.316672723
+        },
+        {
+            "Time (yr BP)": 661000,
+            "Carbon dioxide (ppm)": 190.3686244,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.128257751
+        },
+        {
+            "Time (yr BP)": 662000,
+            "Carbon dioxide (ppm)": 191.2441541,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.751289338
+        },
+        {
+            "Time (yr BP)": 663000,
+            "Carbon dioxide (ppm)": 190.888488,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.12693476
+        },
+        {
+            "Time (yr BP)": 664000,
+            "Carbon dioxide (ppm)": 189.1262856,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.462986108
+        },
+        {
+            "Time (yr BP)": 665000,
+            "Carbon dioxide (ppm)": 185.5814185,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.806233336
+        },
+        {
+            "Time (yr BP)": 666000,
+            "Carbon dioxide (ppm)": 180.8797401,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.679779656
+        },
+        {
+            "Time (yr BP)": 667000,
+            "Carbon dioxide (ppm)": 177.7290231,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.296496141
+        },
+        {
+            "Time (yr BP)": 668000,
+            "Carbon dioxide (ppm)": 178.6762333,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.868669153
+        },
+        {
+            "Time (yr BP)": 669000,
+            "Carbon dioxide (ppm)": 183.1473571,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.358280851
+        },
+        {
+            "Time (yr BP)": 670000,
+            "Carbon dioxide (ppm)": 188.7044526,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.180746874
+        },
+        {
+            "Time (yr BP)": 671000,
+            "Carbon dioxide (ppm)": 193.0489531,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.661427663
+        },
+        {
+            "Time (yr BP)": 672000,
+            "Carbon dioxide (ppm)": 196.0053452,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.948215447
+        },
+        {
+            "Time (yr BP)": 673000,
+            "Carbon dioxide (ppm)": 199.5485338,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.285647566
+        },
+        {
+            "Time (yr BP)": 674000,
+            "Carbon dioxide (ppm)": 204.8430113,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.800568711
+        },
+        {
+            "Time (yr BP)": 675000,
+            "Carbon dioxide (ppm)": 210.7811335,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.014737252
+        },
+        {
+            "Time (yr BP)": 676000,
+            "Carbon dioxide (ppm)": 216.0570483,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.699831689
+        },
+        {
+            "Time (yr BP)": 677000,
+            "Carbon dioxide (ppm)": 219.0776041,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.220557871
+        },
+        {
+            "Time (yr BP)": 678000,
+            "Carbon dioxide (ppm)": 221.3977785,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.137342142
+        },
+        {
+            "Time (yr BP)": 679000,
+            "Carbon dioxide (ppm)": 225.2830347,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.134079804
+        },
+        {
+            "Time (yr BP)": 680000,
+            "Carbon dioxide (ppm)": 228.446114,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.242557473
+        },
+        {
+            "Time (yr BP)": 681000,
+            "Carbon dioxide (ppm)": 228.1109289,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.809462739
+        },
+        {
+            "Time (yr BP)": 682000,
+            "Carbon dioxide (ppm)": 225.1263098,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.710663524
+        },
+        {
+            "Time (yr BP)": 683000,
+            "Carbon dioxide (ppm)": 222.8382005,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.570572579
+        },
+        {
+            "Time (yr BP)": 684000,
+            "Carbon dioxide (ppm)": 222.5351127,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.815102081
+        },
+        {
+            "Time (yr BP)": 685000,
+            "Carbon dioxide (ppm)": 222.5687083,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.573778616
+        },
+        {
+            "Time (yr BP)": 686000,
+            "Carbon dioxide (ppm)": 222.6048304,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.613934248
+        },
+        {
+            "Time (yr BP)": 687000,
+            "Carbon dioxide (ppm)": 223.7963955,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.182695411
+        },
+        {
+            "Time (yr BP)": 688000,
+            "Carbon dioxide (ppm)": 226.3861029,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.874743949
+        },
+        {
+            "Time (yr BP)": 689000,
+            "Carbon dioxide (ppm)": 229.8081258,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.278125587
+        },
+        {
+            "Time (yr BP)": 690000,
+            "Carbon dioxide (ppm)": 233.4852746,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.311289367
+        },
+        {
+            "Time (yr BP)": 691000,
+            "Carbon dioxide (ppm)": 236.7705473,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.858681118
+        },
+        {
+            "Time (yr BP)": 692000,
+            "Carbon dioxide (ppm)": 239.0012079,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.172588339
+        },
+        {
+            "Time (yr BP)": 693000,
+            "Carbon dioxide (ppm)": 239.8553583,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.759375989
+        },
+        {
+            "Time (yr BP)": 694000,
+            "Carbon dioxide (ppm)": 239.7329571,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.575753143
+        },
+        {
+            "Time (yr BP)": 695000,
+            "Carbon dioxide (ppm)": 239.2278612,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.391872308
+        },
+        {
+            "Time (yr BP)": 696000,
+            "Carbon dioxide (ppm)": 238.8854216,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.251636075
+        },
+        {
+            "Time (yr BP)": 697000,
+            "Carbon dioxide (ppm)": 239.1314834,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.252415266
+        },
+        {
+            "Time (yr BP)": 698000,
+            "Carbon dioxide (ppm)": 239.5706456,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.312075391
+        },
+        {
+            "Time (yr BP)": 699000,
+            "Carbon dioxide (ppm)": 239.2242317,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.56449837
+        },
+        {
+            "Time (yr BP)": 700000,
+            "Carbon dioxide (ppm)": 237.717208,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.03795372
+        },
+        {
+            "Time (yr BP)": 701000,
+            "Carbon dioxide (ppm)": 235.4734798,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.266983444
+        },
+        {
+            "Time (yr BP)": 702000,
+            "Carbon dioxide (ppm)": 233.4635776,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.887469508
+        },
+        {
+            "Time (yr BP)": 703000,
+            "Carbon dioxide (ppm)": 232.7010274,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.432577139
+        },
+        {
+            "Time (yr BP)": 704000,
+            "Carbon dioxide (ppm)": 233.2897719,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.460948244
+        },
+        {
+            "Time (yr BP)": 705000,
+            "Carbon dioxide (ppm)": 234.5704595,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.580317098
+        },
+        {
+            "Time (yr BP)": 706000,
+            "Carbon dioxide (ppm)": 235.6089851,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.528003337
+        },
+        {
+            "Time (yr BP)": 707000,
+            "Carbon dioxide (ppm)": 235.6008886,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.640576207
+        },
+        {
+            "Time (yr BP)": 708000,
+            "Carbon dioxide (ppm)": 234.4406961,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.95821446
+        },
+        {
+            "Time (yr BP)": 709000,
+            "Carbon dioxide (ppm)": 232.428184,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.431623506
+        },
+        {
+            "Time (yr BP)": 710000,
+            "Carbon dioxide (ppm)": 229.621911,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.795814737
+        },
+        {
+            "Time (yr BP)": 711000,
+            "Carbon dioxide (ppm)": 226.8747777,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.335222322
+        },
+        {
+            "Time (yr BP)": 712000,
+            "Carbon dioxide (ppm)": 225.314268,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.600348338
+        },
+        {
+            "Time (yr BP)": 713000,
+            "Carbon dioxide (ppm)": 225.0731638,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.572233077
+        },
+        {
+            "Time (yr BP)": 714000,
+            "Carbon dioxide (ppm)": 224.9154463,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.878353593
+        },
+        {
+            "Time (yr BP)": 715000,
+            "Carbon dioxide (ppm)": 222.3565129,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.121681219
+        },
+        {
+            "Time (yr BP)": 716000,
+            "Carbon dioxide (ppm)": 215.9628301,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.65147948
+        },
+        {
+            "Time (yr BP)": 717000,
+            "Carbon dioxide (ppm)": 207.0677934,
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.5655706
+        },
+        {
+            "Time (yr BP)": 718000,
+            "Carbon dioxide (ppm)": 200.5857542,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.32825108
+        },
+        {
+            "Time (yr BP)": 719000,
+            "Carbon dioxide (ppm)": 201.8439222,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.16017623
+        },
+        {
+            "Time (yr BP)": 720000,
+            "Carbon dioxide (ppm)": 208.7190952,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.25394719
+        },
+        {
+            "Time (yr BP)": 721000,
+            "Carbon dioxide (ppm)": 214.4102607,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.295182497
+        },
+        {
+            "Time (yr BP)": 722000,
+            "Carbon dioxide (ppm)": 215.8193168,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.793849262
+        },
+        {
+            "Time (yr BP)": 723000,
+            "Carbon dioxide (ppm)": 214.5265135,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.129520346
+        },
+        {
+            "Time (yr BP)": 724000,
+            "Carbon dioxide (ppm)": 212.9659184,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.661896378
+        },
+        {
+            "Time (yr BP)": 725000,
+            "Carbon dioxide (ppm)": 211.9258259,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.330431299
+        },
+        {
+            "Time (yr BP)": 726000,
+            "Carbon dioxide (ppm)": 211.3342707,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.142494334
+        },
+        {
+            "Time (yr BP)": 727000,
+            "Carbon dioxide (ppm)": 210.9346937,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.076098811
+        },
+        {
+            "Time (yr BP)": 728000,
+            "Carbon dioxide (ppm)": 210.6509864,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.064818521
+        },
+        {
+            "Time (yr BP)": 729000,
+            "Carbon dioxide (ppm)": 210.6785029,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.09102148
+        },
+        {
+            "Time (yr BP)": 730000,
+            "Carbon dioxide (ppm)": 210.8589477,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.154043297
+        },
+        {
+            "Time (yr BP)": 731000,
+            "Carbon dioxide (ppm)": 210.9963791,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.307862755
+        },
+        {
+            "Time (yr BP)": 732000,
+            "Carbon dioxide (ppm)": 210.9331498,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.655911884
+        },
+        {
+            "Time (yr BP)": 733000,
+            "Carbon dioxide (ppm)": 211.0489886,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.189683585
+        },
+        {
+            "Time (yr BP)": 734000,
+            "Carbon dioxide (ppm)": 212.366507,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.694407941
+        },
+        {
+            "Time (yr BP)": 735000,
+            "Carbon dioxide (ppm)": 213.9483886,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.77958923
+        },
+        {
+            "Time (yr BP)": 736000,
+            "Carbon dioxide (ppm)": 213.1686748,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.189972709
+        },
+        {
+            "Time (yr BP)": 737000,
+            "Carbon dioxide (ppm)": 208.5516813,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.211254217
+        },
+        {
+            "Time (yr BP)": 738000,
+            "Carbon dioxide (ppm)": 200.462455,
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.19749453
+        },
+        {
+            "Time (yr BP)": 739000,
+            "Carbon dioxide (ppm)": 191.8625074,
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.596674461
+        },
+        {
+            "Time (yr BP)": 740000,
+            "Carbon dioxide (ppm)": 186.9994656,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.902776286
+        },
+        {
+            "Time (yr BP)": 741000,
+            "Carbon dioxide (ppm)": 186.1871523,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.013400445
+        },
+        {
+            "Time (yr BP)": 742000,
+            "Carbon dioxide (ppm)": 187.0912814,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.633165088
+        },
+        {
+            "Time (yr BP)": 743000,
+            "Carbon dioxide (ppm)": 187.8689381,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.303823792
+        },
+        {
+            "Time (yr BP)": 744000,
+            "Carbon dioxide (ppm)": 188.1911684,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.132088786
+        },
+        {
+            "Time (yr BP)": 745000,
+            "Carbon dioxide (ppm)": 188.3355195,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.146919539
+        },
+        {
+            "Time (yr BP)": 746000,
+            "Carbon dioxide (ppm)": 188.4548502,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.20840032
+        },
+        {
+            "Time (yr BP)": 747000,
+            "Carbon dioxide (ppm)": 188.4352608,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.196189679
+        },
+        {
+            "Time (yr BP)": 748000,
+            "Carbon dioxide (ppm)": 188.445498,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.195949531
+        },
+        {
+            "Time (yr BP)": 749000,
+            "Carbon dioxide (ppm)": 189.073882,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.372345812
+        },
+        {
+            "Time (yr BP)": 750000,
+            "Carbon dioxide (ppm)": 190.4409578,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.625760902
+        },
+        {
+            "Time (yr BP)": 751000,
+            "Carbon dioxide (ppm)": 192.2148538,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.992547205
+        },
+        {
+            "Time (yr BP)": 752000,
+            "Carbon dioxide (ppm)": 194.4870429,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.586719797
+        },
+        {
+            "Time (yr BP)": 753000,
+            "Carbon dioxide (ppm)": 197.1161781,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.022315441
+        },
+        {
+            "Time (yr BP)": 754000,
+            "Carbon dioxide (ppm)": 199.6415111,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.14555082
+        },
+        {
+            "Time (yr BP)": 755000,
+            "Carbon dioxide (ppm)": 202.3544792,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.452770857
+        },
+        {
+            "Time (yr BP)": 756000,
+            "Carbon dioxide (ppm)": 205.9755039,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.194034983
+        },
+        {
+            "Time (yr BP)": 757000,
+            "Carbon dioxide (ppm)": 210.7896536,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.071013373
+        },
+        {
+            "Time (yr BP)": 758000,
+            "Carbon dioxide (ppm)": 216.7152712,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.339600475
+        },
+        {
+            "Time (yr BP)": 759000,
+            "Carbon dioxide (ppm)": 221.4774434,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.885605379
+        },
+        {
+            "Time (yr BP)": 760000,
+            "Carbon dioxide (ppm)": 223.0801209,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.704081282
+        },
+        {
+            "Time (yr BP)": 761000,
+            "Carbon dioxide (ppm)": 221.8223279,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.188016503
+        },
+        {
+            "Time (yr BP)": 762000,
+            "Carbon dioxide (ppm)": 219.0369517,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.381962106
+        },
+        {
+            "Time (yr BP)": 763000,
+            "Carbon dioxide (ppm)": 218.4579376,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.541019777
+        },
+        {
+            "Time (yr BP)": 764000,
+            "Carbon dioxide (ppm)": 222.0368898,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.742585793
+        },
+        {
+            "Time (yr BP)": 765000,
+            "Carbon dioxide (ppm)": 226.2936923,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.335818663
+        },
+        {
+            "Time (yr BP)": 766000,
+            "Carbon dioxide (ppm)": 228.4410837,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.305922792
+        },
+        {
+            "Time (yr BP)": 767000,
+            "Carbon dioxide (ppm)": 228.0780814,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.916575764
+        },
+        {
+            "Time (yr BP)": 768000,
+            "Carbon dioxide (ppm)": 226.099464,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.673841786
+        },
+        {
+            "Time (yr BP)": 769000,
+            "Carbon dioxide (ppm)": 225.8787345,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.010595955
+        },
+        {
+            "Time (yr BP)": 770000,
+            "Carbon dioxide (ppm)": 229.3864255,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.659133017
+        },
+        {
+            "Time (yr BP)": 771000,
+            "Carbon dioxide (ppm)": 234.5374303,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.244760659
+        },
+        {
+            "Time (yr BP)": 772000,
+            "Carbon dioxide (ppm)": 238.7256514,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.631812919
+        },
+        {
+            "Time (yr BP)": 773000,
+            "Carbon dioxide (ppm)": 240.9846961,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.528137161
+        },
+        {
+            "Time (yr BP)": 774000,
+            "Carbon dioxide (ppm)": 241.3730923,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.772810798
+        },
+        {
+            "Time (yr BP)": 775000,
+            "Carbon dioxide (ppm)": 241.7397825,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.714089369
+        },
+        {
+            "Time (yr BP)": 776000,
+            "Carbon dioxide (ppm)": 244.1132222,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.196886309
+        },
+        {
+            "Time (yr BP)": 777000,
+            "Carbon dioxide (ppm)": 247.4476732,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.182990156
+        },
+        {
+            "Time (yr BP)": 778000,
+            "Carbon dioxide (ppm)": 250.6254474,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.834355862
+        },
+        {
+            "Time (yr BP)": 779000,
+            "Carbon dioxide (ppm)": 252.9280986,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.106299104
+        },
+        {
+            "Time (yr BP)": 780000,
+            "Carbon dioxide (ppm)": 253.9435609,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.590630564
+        },
+        {
+            "Time (yr BP)": 781000,
+            "Carbon dioxide (ppm)": 254.35435,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.709867456
+        },
+        {
+            "Time (yr BP)": 782000,
+            "Carbon dioxide (ppm)": 255.0079072,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.980167798
+        },
+        {
+            "Time (yr BP)": 783000,
+            "Carbon dioxide (ppm)": 256.2017273,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.162893428
+        },
+        {
+            "Time (yr BP)": 784000,
+            "Carbon dioxide (ppm)": 257.8727842,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.288509005
+        },
+        {
+            "Time (yr BP)": 785000,
+            "Carbon dioxide (ppm)": 259.7104383,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.584015885
+        },
+        {
+            "Time (yr BP)": 786000,
+            "Carbon dioxide (ppm)": 261.7269065,
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.151375954
+        },
+        {
+            "Time (yr BP)": 787000,
+            "Carbon dioxide (ppm)": 262.3980558,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.866958863
+        },
+        {
+            "Time (yr BP)": 788000,
+            "Carbon dioxide (ppm)": 258.5269174,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.96880598
+        },
+        {
+            "Time (yr BP)": 789000,
+            "Carbon dioxide (ppm)": 249.5843383,
+            "Carbon dioxide uncertainty (1sd, ppm)": 14.04023121
+        },
+        {
+            "Time (yr BP)": 790000,
+            "Carbon dioxide (ppm)": 238.9904221,
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.06378972
+        },
+        {
+            "Time (yr BP)": 791000,
+            "Carbon dioxide (ppm)": 230.3050314,
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.17059028
+        },
+        {
+            "Time (yr BP)": 792000,
+            "Carbon dioxide (ppm)": 223.3135763,
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.532819446
+        },
+        {
+            "Time (yr BP)": 793000,
+            "Carbon dioxide (ppm)": 217.9819952,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.047700894
+        },
+        {
+            "Time (yr BP)": 794000,
+            "Carbon dioxide (ppm)": 213.9809699,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.5558292
+        },
+        {
+            "Time (yr BP)": 795000,
+            "Carbon dioxide (ppm)": 209.2557424,
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.01918888
+        },
+        {
+            "Time (yr BP)": 796000,
+            "Carbon dioxide (ppm)": 204.2444086,
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.423954662
+        },
+        {
+            "Time (yr BP)": 797000,
+            "Carbon dioxide (ppm)": 200.8146991,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.920668011
+        },
+        {
+            "Time (yr BP)": 798000,
+            "Carbon dioxide (ppm)": 199.5895997,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.708426803
+        },
+        {
+            "Time (yr BP)": 799000,
+            "Carbon dioxide (ppm)": 199.620448,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.272006435
+        },
+        {
+            "Time (yr BP)": 800000,
+            "Carbon dioxide (ppm)": 199.4462183,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.188922185
+        },
+        {
+            "Time (yr BP)": 801000,
+            "Carbon dioxide (ppm)": 199.386654,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.481310125
+        },
+        {
+            "Time (yr BP)": 802000,
+            "Carbon dioxide (ppm)": 200.7505923,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.185578832
+        },
+        {
+            "Time (yr BP)": 803000,
+            "Carbon dioxide (ppm)": 202.5350006,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.310340771
+        },
+        {
+            "Time (yr BP)": 804000,
+            "Carbon dioxide (ppm)": 203.6901819,
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.045657457
+        },
+        {
+            "Time (yr BP)": 805000,
+            "Carbon dioxide (ppm)": 204.3633739,
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.850024805
+        }
+    ]
+}

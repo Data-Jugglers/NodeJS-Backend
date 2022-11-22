@@ -1,7 +1,9 @@
 const router = require("express").Router();
 const graphDataV1 = require("../models/v1_data_model");
-const graphDataV2 = require("../models/v2_data_models");
-const graphDataV3 = require("../models/v3_data_model");
+
+const graphDataV2 = require("../models/v2_data_model");
+const graphDataV5 = require("../models/v5_data_model");
+
 
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
@@ -18,6 +20,14 @@ router.get("/v1", async (req, res, next) => {
 router.get("/v2", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV2.getV2Data());
+  } catch (error) {
+    next(error);
+  }
+});
+// v5
+router.get("/v5", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV5.getV5Data());
   } catch (error) {
     next(error);
   }
@@ -46,6 +56,14 @@ router.post("/v1", async (req, res, next) => {
 router.post("/v2", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV2.setV2());
+  } catch (error) {
+    next(error);
+  }
+});
+// v5
+router.post("/v5", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV5.setV5());
   } catch (error) {
     next(error);
   }
