@@ -66,8 +66,8 @@ def text_to_json(data_start, data_end, keys_start, keys_end, name):
 text_to_json(22, 54, 18, 20, "first")
 text_to_json(59, 70, 55, 57, "second")
 text_to_json(75, 116, 71, 73, "third")
-# text_to_json(121, 268, 117, 119, "first")
-# text_to_json(273, 467, 269, 271, "second")
+text_to_json(121, 268, 117, 119, "fourth")
+text_to_json(273, 467, 269, 271, "fifth")
 
 file = open("files_output/V4/V4.json", 'a+')
 with open("files_output/V4/V4.json", 'w', encoding='utf-8') as jsonf:
