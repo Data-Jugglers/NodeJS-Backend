@@ -1,2182 +1,2182 @@
 {
-    "data": [
-        {
-            "Depth (m)": "149.1",
-            "Age of the ice (yr BP)": "5679",
-            "Mean age of the air (yr BP)": "2342",
-            "CO2 concentraition (ppmv)": "284.7"
-        },
-        {
-            "Depth (m)": "173.1",
-            "Age of the ice (yr BP)": "6828",
-            "Mean age of the air (yr BP)": "3634",
-            "CO2 concentraition (ppmv)": "272.8"
-        },
-        {
-            "Depth (m)": "177.4",
-            "Age of the ice (yr BP)": "7043",
-            "Mean age of the air (yr BP)": "3833",
-            "CO2 concentraition (ppmv)": "268.1"
-        },
-        {
-            "Depth (m)": "228.6",
-            "Age of the ice (yr BP)": "9523",
-            "Mean age of the air (yr BP)": "6220",
-            "CO2 concentraition (ppmv)": "262.2"
-        },
-        {
-            "Depth (m)": "250.3",
-            "Age of the ice (yr BP)": "10579",
-            "Mean age of the air (yr BP)": "7327",
-            "CO2 concentraition (ppmv)": "254.6"
-        },
-        {
-            "Depth (m)": "266",
-            "Age of the ice (yr BP)": "11334",
-            "Mean age of the air (yr BP)": "8113",
-            "CO2 concentraition (ppmv)": "259.6"
-        },
-        {
-            "Depth (m)": "302.6",
-            "Age of the ice (yr BP)": "13449",
-            "Mean age of the air (yr BP)": "10123",
-            "CO2 concentraition (ppmv)": "261.6"
-        },
-        {
-            "Depth (m)": "321.2",
-            "Age of the ice (yr BP)": "14538",
-            "Mean age of the air (yr BP)": "11013",
-            "CO2 concentraition (ppmv)": "263.7"
-        },
-        {
-            "Depth (m)": "331.6",
-            "Age of the ice (yr BP)": "15208",
-            "Mean age of the air (yr BP)": "11326",
-            "CO2 concentraition (ppmv)": "244.8"
-        },
-        {
-            "Depth (m)": "342.1",
-            "Age of the ice (yr BP)": "15922",
-            "Mean age of the air (yr BP)": "11719",
-            "CO2 concentraition (ppmv)": "238.3"
-        },
-        {
-            "Depth (m)": "365.5",
-            "Age of the ice (yr BP)": "17747",
-            "Mean age of the air (yr BP)": "13405",
-            "CO2 concentraition (ppmv)": "236.2"
-        },
-        {
-            "Depth (m)": "375.6",
-            "Age of the ice (yr BP)": "18580",
-            "Mean age of the air (yr BP)": "13989",
-            "CO2 concentraition (ppmv)": "225.3"
-        },
-        {
-            "Depth (m)": "443.5",
-            "Age of the ice (yr BP)": "24315",
-            "Mean age of the air (yr BP)": "17695",
-            "CO2 concentraition (ppmv)": "182.2"
-        },
-        {
-            "Depth (m)": "470.8",
-            "Age of the ice (yr BP)": "26578",
-            "Mean age of the air (yr BP)": "19988",
-            "CO2 concentraition (ppmv)": "189.2"
-        },
-        {
-            "Depth (m)": "506.4",
-            "Age of the ice (yr BP)": "29630",
-            "Mean age of the air (yr BP)": "22977",
-            "CO2 concentraition (ppmv)": "191.6"
-        },
-        {
-            "Depth (m)": "544.7",
-            "Age of the ice (yr BP)": "32844",
-            "Mean age of the air (yr BP)": "26303",
-            "CO2 concentraition (ppmv)": "188.5"
-        },
-        {
-            "Depth (m)": "554.2",
-            "Age of the ice (yr BP)": "33645",
-            "Mean age of the air (yr BP)": "27062",
-            "CO2 concentraition (ppmv)": "191.7"
-        },
-        {
-            "Depth (m)": "602.3",
-            "Age of the ice (yr BP)": "37421",
-            "Mean age of the air (yr BP)": "31447",
-            "CO2 concentraition (ppmv)": "205.4"
-        },
-        {
-            "Depth (m)": "625.6",
-            "Age of the ice (yr BP)": "39310",
-            "Mean age of the air (yr BP)": "33884",
-            "CO2 concentraition (ppmv)": "209.1"
-        },
-        {
-            "Depth (m)": "700.2",
-            "Age of the ice (yr BP)": "45242",
-            "Mean age of the air (yr BP)": "39880",
-            "CO2 concentraition (ppmv)": "209.1"
-        },
-        {
-            "Depth (m)": "765",
-            "Age of the ice (yr BP)": "50610",
-            "Mean age of the air (yr BP)": "44766",
-            "CO2 concentraition (ppmv)": "189.3"
-        },
-        {
-            "Depth (m)": "788.2",
-            "Age of the ice (yr BP)": "52446",
-            "Mean age of the air (yr BP)": "47024",
-            "CO2 concentraition (ppmv)": "188.4"
-        },
-        {
-            "Depth (m)": "800",
-            "Age of the ice (yr BP)": "53436",
-            "Mean age of the air (yr BP)": "48229",
-            "CO2 concentraition (ppmv)": "210.1"
-        },
-        {
-            "Depth (m)": "812.2",
-            "Age of the ice (yr BP)": "54474",
-            "Mean age of the air (yr BP)": "49414",
-            "CO2 concentraition (ppmv)": "215.7"
-        },
-        {
-            "Depth (m)": "834.8",
-            "Age of the ice (yr BP)": "56300",
-            "Mean age of the air (yr BP)": "51174",
-            "CO2 concentraition (ppmv)": "190.4"
-        },
-        {
-            "Depth (m)": "902.2",
-            "Age of the ice (yr BP)": "61783",
-            "Mean age of the air (yr BP)": "57068",
-            "CO2 concentraition (ppmv)": "221.8"
-        },
-        {
-            "Depth (m)": "912",
-            "Age of the ice (yr BP)": "62689",
-            "Mean age of the air (yr BP)": "57799",
-            "CO2 concentraition (ppmv)": "210.4"
-        },
-        {
-            "Depth (m)": "986.2",
-            "Age of the ice (yr BP)": "69618",
-            "Mean age of the air (yr BP)": "63687",
-            "CO2 concentraition (ppmv)": "195.4"
-        },
-        {
-            "Depth (m)": "1011.3",
-            "Age of the ice (yr BP)": "71767",
-            "Mean age of the air (yr BP)": "65701",
-            "CO2 concentraition (ppmv)": "191.4"
-        },
-        {
-            "Depth (m)": "1023.5",
-            "Age of the ice (yr BP)": "72797",
-            "Mean age of the air (yr BP)": "66883",
-            "CO2 concentraition (ppmv)": "195"
-        },
-        {
-            "Depth (m)": "1087.2",
-            "Age of the ice (yr BP)": "78042",
-            "Mean age of the air (yr BP)": "72849",
-            "CO2 concentraition (ppmv)": "227.4"
-        },
-        {
-            "Depth (m)": "1112.5",
-            "Age of the ice (yr BP)": "80057",
-            "Mean age of the air (yr BP)": "75360",
-            "CO2 concentraition (ppmv)": "229.2"
-        },
-        {
-            "Depth (m)": "1162.1",
-            "Age of the ice (yr BP)": "83615",
-            "Mean age of the air (yr BP)": "78995",
-            "CO2 concentraition (ppmv)": "217.1"
-        },
-        {
-            "Depth (m)": "1175",
-            "Age of the ice (yr BP)": "84515",
-            "Mean age of the air (yr BP)": "80059",
-            "CO2 concentraition (ppmv)": "221.8"
-        },
-        {
-            "Depth (m)": "1209.9",
-            "Age of the ice (yr BP)": "86840",
-            "Mean age of the air (yr BP)": "82858",
-            "CO2 concentraition (ppmv)": "231"
-        },
-        {
-            "Depth (m)": "1237.2",
-            "Age of the ice (yr BP)": "88808",
-            "Mean age of the air (yr BP)": "84929",
-            "CO2 concentraition (ppmv)": "241.1"
-        },
-        {
-            "Depth (m)": "1251.5",
-            "Age of the ice (yr BP)": "89864",
-            "Mean age of the air (yr BP)": "85727",
-            "CO2 concentraition (ppmv)": "236.4"
-        },
-        {
-            "Depth (m)": "1261.2",
-            "Age of the ice (yr BP)": "90609",
-            "Mean age of the air (yr BP)": "86323",
-            "CO2 concentraition (ppmv)": "228.1"
-        },
-        {
-            "Depth (m)": "1274.2",
-            "Age of the ice (yr BP)": "91560",
-            "Mean age of the air (yr BP)": "87180",
-            "CO2 concentraition (ppmv)": "214.2"
-        },
-        {
-            "Depth (m)": "1289.2",
-            "Age of the ice (yr BP)": "92632",
-            "Mean age of the air (yr BP)": "88051",
-            "CO2 concentraition (ppmv)": "217"
-        },
-        {
-            "Depth (m)": "1309.2",
-            "Age of the ice (yr BP)": "94039",
-            "Mean age of the air (yr BP)": "89363",
-            "CO2 concentraition (ppmv)": "208"
-        },
-        {
-            "Depth (m)": "1338.2",
-            "Age of the ice (yr BP)": "96047",
-            "Mean age of the air (yr BP)": "91691",
-            "CO2 concentraition (ppmv)": "224.3"
-        },
-        {
-            "Depth (m)": "1349",
-            "Age of the ice (yr BP)": "96791",
-            "Mean age of the air (yr BP)": "92460",
-            "CO2 concentraition (ppmv)": "228.4"
-        },
-        {
-            "Depth (m)": "1387.2",
-            "Age of the ice (yr BP)": "99498",
-            "Mean age of the air (yr BP)": "95349",
-            "CO2 concentraition (ppmv)": "232.1"
-        },
-        {
-            "Depth (m)": "1451.5",
-            "Age of the ice (yr BP)": "103733",
-            "Mean age of the air (yr BP)": "99842",
-            "CO2 concentraition (ppmv)": "225.9"
-        },
-        {
-            "Depth (m)": "1463.2",
-            "Age of the ice (yr BP)": "104566",
-            "Mean age of the air (yr BP)": "100833",
-            "CO2 concentraition (ppmv)": "230.9"
-        },
-        {
-            "Depth (m)": "1476.1",
-            "Age of the ice (yr BP)": "105492",
-            "Mean age of the air (yr BP)": "101829",
-            "CO2 concentraition (ppmv)": "236.9"
-        },
-        {
-            "Depth (m)": "1505",
-            "Age of the ice (yr BP)": "107599",
-            "Mean age of the air (yr BP)": "103372",
-            "CO2 concentraition (ppmv)": "228.2"
-        },
-        {
-            "Depth (m)": "1526.3",
-            "Age of the ice (yr BP)": "109404",
-            "Mean age of the air (yr BP)": "105213",
-            "CO2 concentraition (ppmv)": "236.9"
-        },
-        {
-            "Depth (m)": "1542.1",
-            "Age of the ice (yr BP)": "110674",
-            "Mean age of the air (yr BP)": "106203",
-            "CO2 concentraition (ppmv)": "230.7"
-        },
-        {
-            "Depth (m)": "1575.2",
-            "Age of the ice (yr BP)": "113363",
-            "Mean age of the air (yr BP)": "108308",
-            "CO2 concentraition (ppmv)": "238.2"
-        },
-        {
-            "Depth (m)": "1582.8",
-            "Age of the ice (yr BP)": "113952",
-            "Mean age of the air (yr BP)": "108994",
-            "CO2 concentraition (ppmv)": "245.7"
-        },
-        {
-            "Depth (m)": "1598",
-            "Age of the ice (yr BP)": "115077",
-            "Mean age of the air (yr BP)": "110253",
-            "CO2 concentraition (ppmv)": "251.3"
-        },
-        {
-            "Depth (m)": "1615",
-            "Age of the ice (yr BP)": "116228",
-            "Mean age of the air (yr BP)": "111456",
-            "CO2 concentraition (ppmv)": "256.8"
-        },
-        {
-            "Depth (m)": "1627.9",
-            "Age of the ice (yr BP)": "117072",
-            "Mean age of the air (yr BP)": "112577",
-            "CO2 concentraition (ppmv)": "266.3"
-        },
-        {
-            "Depth (m)": "1637.6",
-            "Age of the ice (yr BP)": "117671",
-            "Mean age of the air (yr BP)": "113472",
-            "CO2 concentraition (ppmv)": "261.4"
-        },
-        {
-            "Depth (m)": "1644",
-            "Age of the ice (yr BP)": "118074",
-            "Mean age of the air (yr BP)": "114082",
-            "CO2 concentraition (ppmv)": "274.6"
-        },
-        {
-            "Depth (m)": "1651",
-            "Age of the ice (yr BP)": "118499",
-            "Mean age of the air (yr BP)": "114738",
-            "CO2 concentraition (ppmv)": "273.3"
-        },
-        {
-            "Depth (m)": "1669.2",
-            "Age of the ice (yr BP)": "119601",
-            "Mean age of the air (yr BP)": "116175",
-            "CO2 concentraition (ppmv)": "262.5"
-        },
-        {
-            "Depth (m)": "1687.2",
-            "Age of the ice (yr BP)": "120680",
-            "Mean age of the air (yr BP)": "117519",
-            "CO2 concentraition (ppmv)": "267.6"
-        },
-        {
-            "Depth (m)": "1700.9",
-            "Age of the ice (yr BP)": "121485",
-            "Mean age of the air (yr BP)": "118396",
-            "CO2 concentraition (ppmv)": "273.8"
-        },
-        {
-            "Depth (m)": "1716",
-            "Age of the ice (yr BP)": "122345",
-            "Mean age of the air (yr BP)": "119273",
-            "CO2 concentraition (ppmv)": "272"
-        },
-        {
-            "Depth (m)": "1726.8",
-            "Age of the ice (yr BP)": "122965",
-            "Mean age of the air (yr BP)": "120002",
-            "CO2 concentraition (ppmv)": "265.2"
-        },
-        {
-            "Depth (m)": "1736.8",
-            "Age of the ice (yr BP)": "123535",
-            "Mean age of the air (yr BP)": "120652",
-            "CO2 concentraition (ppmv)": "277.7"
-        },
-        {
-            "Depth (m)": "1758.2",
-            "Age of the ice (yr BP)": "124721",
-            "Mean age of the air (yr BP)": "121961",
-            "CO2 concentraition (ppmv)": "272.2"
-        },
-        {
-            "Depth (m)": "1770",
-            "Age of the ice (yr BP)": "125380",
-            "Mean age of the air (yr BP)": "122606",
-            "CO2 concentraition (ppmv)": "276.5"
-        },
-        {
-            "Depth (m)": "1789.2",
-            "Age of the ice (yr BP)": "126447",
-            "Mean age of the air (yr BP)": "123815",
-            "CO2 concentraition (ppmv)": "268.7"
-        },
-        {
-            "Depth (m)": "1790",
-            "Age of the ice (yr BP)": "126491",
-            "Mean age of the air (yr BP)": "123858",
-            "CO2 concentraition (ppmv)": "266.6"
-        },
-        {
-            "Depth (m)": "1799",
-            "Age of the ice (yr BP)": "126955",
-            "Mean age of the air (yr BP)": "124306",
-            "CO2 concentraition (ppmv)": "266.3"
-        },
-        {
-            "Depth (m)": "1804",
-            "Age of the ice (yr BP)": "127210",
-            "Mean age of the air (yr BP)": "124571",
-            "CO2 concentraition (ppmv)": "279.8"
-        },
-        {
-            "Depth (m)": "1807",
-            "Age of the ice (yr BP)": "127360",
-            "Mean age of the air (yr BP)": "124723",
-            "CO2 concentraition (ppmv)": "273"
-        },
-        {
-            "Depth (m)": "1810",
-            "Age of the ice (yr BP)": "127510",
-            "Mean age of the air (yr BP)": "124876",
-            "CO2 concentraition (ppmv)": "277.2"
-        },
-        {
-            "Depth (m)": "1825.7",
-            "Age of the ice (yr BP)": "128293",
-            "Mean age of the air (yr BP)": "125746",
-            "CO2 concentraition (ppmv)": "273.8"
-        },
-        {
-            "Depth (m)": "1830",
-            "Age of the ice (yr BP)": "128501",
-            "Mean age of the air (yr BP)": "126023",
-            "CO2 concentraition (ppmv)": "267.1"
-        },
-        {
-            "Depth (m)": "1836",
-            "Age of the ice (yr BP)": "128804",
-            "Mean age of the air (yr BP)": "126475",
-            "CO2 concentraition (ppmv)": "262.5"
-        },
-        {
-            "Depth (m)": "1841.6",
-            "Age of the ice (yr BP)": "129097",
-            "Mean age of the air (yr BP)": "126809",
-            "CO2 concentraition (ppmv)": "262.6"
-        },
-        {
-            "Depth (m)": "1852.4",
-            "Age of the ice (yr BP)": "129674",
-            "Mean age of the air (yr BP)": "127445",
-            "CO2 concentraition (ppmv)": "275.4"
-        },
-        {
-            "Depth (m)": "1859",
-            "Age of the ice (yr BP)": "130026",
-            "Mean age of the air (yr BP)": "127808",
-            "CO2 concentraition (ppmv)": "275.6"
-        },
-        {
-            "Depth (m)": "1869.3",
-            "Age of the ice (yr BP)": "130599",
-            "Mean age of the air (yr BP)": "128300",
-            "CO2 concentraition (ppmv)": "274.1"
-        },
-        {
-            "Depth (m)": "1870.2",
-            "Age of the ice (yr BP)": "130653",
-            "Mean age of the air (yr BP)": "128399",
-            "CO2 concentraition (ppmv)": "287.1"
-        },
-        {
-            "Depth (m)": "1875.9",
-            "Age of the ice (yr BP)": "130998",
-            "Mean age of the air (yr BP)": "128652",
-            "CO2 concentraition (ppmv)": "286.8"
-        },
-        {
-            "Depth (m)": "1882.5",
-            "Age of the ice (yr BP)": "131406",
-            "Mean age of the air (yr BP)": "129007",
-            "CO2 concentraition (ppmv)": "282.7"
-        },
-        {
-            "Depth (m)": "1890",
-            "Age of the ice (yr BP)": "131908",
-            "Mean age of the air (yr BP)": "129411",
-            "CO2 concentraition (ppmv)": "264.1"
-        },
-        {
-            "Depth (m)": "1895",
-            "Age of the ice (yr BP)": "132264",
-            "Mean age of the air (yr BP)": "129755",
-            "CO2 concentraition (ppmv)": "263.4"
-        },
-        {
-            "Depth (m)": "1902",
-            "Age of the ice (yr BP)": "132763",
-            "Mean age of the air (yr BP)": "130106",
-            "CO2 concentraition (ppmv)": "257.9"
-        },
-        {
-            "Depth (m)": "1903.5",
-            "Age of the ice (yr BP)": "132873",
-            "Mean age of the air (yr BP)": "130167",
-            "CO2 concentraition (ppmv)": "259"
-        },
-        {
-            "Depth (m)": "1919",
-            "Age of the ice (yr BP)": "134091",
-            "Mean age of the air (yr BP)": "130992",
-            "CO2 concentraition (ppmv)": "264.6"
-        },
-        {
-            "Depth (m)": "1930",
-            "Age of the ice (yr BP)": "135107",
-            "Mean age of the air (yr BP)": "131661",
-            "CO2 concentraition (ppmv)": "245"
-        },
-        {
-            "Depth (m)": "1932",
-            "Age of the ice (yr BP)": "135308",
-            "Mean age of the air (yr BP)": "131789",
-            "CO2 concentraition (ppmv)": "240.4"
-        },
-        {
-            "Depth (m)": "1936",
-            "Age of the ice (yr BP)": "135702",
-            "Mean age of the air (yr BP)": "132067",
-            "CO2 concentraition (ppmv)": "228.9"
-        },
-        {
-            "Depth (m)": "1947",
-            "Age of the ice (yr BP)": "136819",
-            "Mean age of the air (yr BP)": "132818",
-            "CO2 concentraition (ppmv)": "223.5"
-        },
-        {
-            "Depth (m)": "1954.5",
-            "Age of the ice (yr BP)": "137601",
-            "Mean age of the air (yr BP)": "133334",
-            "CO2 concentraition (ppmv)": "224"
-        },
-        {
-            "Depth (m)": "1955",
-            "Age of the ice (yr BP)": "137651",
-            "Mean age of the air (yr BP)": "133366",
-            "CO2 concentraition (ppmv)": "220.3"
-        },
-        {
-            "Depth (m)": "1960",
-            "Age of the ice (yr BP)": "138193",
-            "Mean age of the air (yr BP)": "133636",
-            "CO2 concentraition (ppmv)": "210.6"
-        },
-        {
-            "Depth (m)": "1969.8",
-            "Age of the ice (yr BP)": "139285",
-            "Mean age of the air (yr BP)": "134205",
-            "CO2 concentraition (ppmv)": "208.9"
-        },
-        {
-            "Depth (m)": "1972",
-            "Age of the ice (yr BP)": "139530",
-            "Mean age of the air (yr BP)": "134362",
-            "CO2 concentraition (ppmv)": "203.7"
-        },
-        {
-            "Depth (m)": "1980.2",
-            "Age of the ice (yr BP)": "140452",
-            "Mean age of the air (yr BP)": "135003",
-            "CO2 concentraition (ppmv)": "204.6"
-        },
-        {
-            "Depth (m)": "1982",
-            "Age of the ice (yr BP)": "140655",
-            "Mean age of the air (yr BP)": "135172",
-            "CO2 concentraition (ppmv)": "200.4"
-        },
-        {
-            "Depth (m)": "1983",
-            "Age of the ice (yr BP)": "140766",
-            "Mean age of the air (yr BP)": "135271",
-            "CO2 concentraition (ppmv)": "198"
-        },
-        {
-            "Depth (m)": "1987.4",
-            "Age of the ice (yr BP)": "141257",
-            "Mean age of the air (yr BP)": "135683",
-            "CO2 concentraition (ppmv)": "198.1"
-        },
-        {
-            "Depth (m)": "1990.6",
-            "Age of the ice (yr BP)": "141615",
-            "Mean age of the air (yr BP)": "135976",
-            "CO2 concentraition (ppmv)": "201.8"
-        },
-        {
-            "Depth (m)": "1992",
-            "Age of the ice (yr BP)": "141773",
-            "Mean age of the air (yr BP)": "136099",
-            "CO2 concentraition (ppmv)": "200.7"
-        },
-        {
-            "Depth (m)": "1994.6",
-            "Age of the ice (yr BP)": "142064",
-            "Mean age of the air (yr BP)": "136359",
-            "CO2 concentraition (ppmv)": "202.5"
-        },
-        {
-            "Depth (m)": "1998",
-            "Age of the ice (yr BP)": "142440",
-            "Mean age of the air (yr BP)": "136659",
-            "CO2 concentraition (ppmv)": "195.9"
-        },
-        {
-            "Depth (m)": "1999",
-            "Age of the ice (yr BP)": "142551",
-            "Mean age of the air (yr BP)": "136743",
-            "CO2 concentraition (ppmv)": "201.1"
-        },
-        {
-            "Depth (m)": "2005.8",
-            "Age of the ice (yr BP)": "143315",
-            "Mean age of the air (yr BP)": "137383",
-            "CO2 concentraition (ppmv)": "194.4"
-        },
-        {
-            "Depth (m)": "2009.5",
-            "Age of the ice (yr BP)": "143732",
-            "Mean age of the air (yr BP)": "137694",
-            "CO2 concentraition (ppmv)": "193.4"
-        },
-        {
-            "Depth (m)": "2013",
-            "Age of the ice (yr BP)": "144126",
-            "Mean age of the air (yr BP)": "137986",
-            "CO2 concentraition (ppmv)": "194.2"
-        },
-        {
-            "Depth (m)": "2015",
-            "Age of the ice (yr BP)": "144346",
-            "Mean age of the air (yr BP)": "138226",
-            "CO2 concentraition (ppmv)": "190.2"
-        },
-        {
-            "Depth (m)": "2025.7",
-            "Age of the ice (yr BP)": "145527",
-            "Mean age of the air (yr BP)": "139445",
-            "CO2 concentraition (ppmv)": "192.3"
-        },
-        {
-            "Depth (m)": "2029",
-            "Age of the ice (yr BP)": "145905",
-            "Mean age of the air (yr BP)": "139851",
-            "CO2 concentraition (ppmv)": "196.5"
-        },
-        {
-            "Depth (m)": "2041",
-            "Age of the ice (yr BP)": "147236",
-            "Mean age of the air (yr BP)": "141256",
-            "CO2 concentraition (ppmv)": "195.6"
-        },
-        {
-            "Depth (m)": "2041.5",
-            "Age of the ice (yr BP)": "147292",
-            "Mean age of the air (yr BP)": "141312",
-            "CO2 concentraition (ppmv)": "196.5"
-        },
-        {
-            "Depth (m)": "2050.3",
-            "Age of the ice (yr BP)": "148287",
-            "Mean age of the air (yr BP)": "142357",
-            "CO2 concentraition (ppmv)": "190.4"
-        },
-        {
-            "Depth (m)": "2077.5",
-            "Age of the ice (yr BP)": "151234",
-            "Mean age of the air (yr BP)": "145435",
-            "CO2 concentraition (ppmv)": "197"
-        },
-        {
-            "Depth (m)": "2107.05",
-            "Age of the ice (yr BP)": "154557",
-            "Mean age of the air (yr BP)": "149157",
-            "CO2 concentraition (ppmv)": "203"
-        },
-        {
-            "Depth (m)": "2116",
-            "Age of the ice (yr BP)": "155625",
-            "Mean age of the air (yr BP)": "150303",
-            "CO2 concentraition (ppmv)": "191.9"
-        },
-        {
-            "Depth (m)": "2117",
-            "Age of the ice (yr BP)": "155743",
-            "Mean age of the air (yr BP)": "150423",
-            "CO2 concentraition (ppmv)": "188.9"
-        },
-        {
-            "Depth (m)": "2131.1",
-            "Age of the ice (yr BP)": "157456",
-            "Mean age of the air (yr BP)": "151854",
-            "CO2 concentraition (ppmv)": "200.6"
-        },
-        {
-            "Depth (m)": "2157",
-            "Age of the ice (yr BP)": "160293",
-            "Mean age of the air (yr BP)": "154471",
-            "CO2 concentraition (ppmv)": "189"
-        },
-        {
-            "Depth (m)": "2164",
-            "Age of the ice (yr BP)": "161077",
-            "Mean age of the air (yr BP)": "155299",
-            "CO2 concentraition (ppmv)": "185.5"
-        },
-        {
-            "Depth (m)": "2167.2",
-            "Age of the ice (yr BP)": "161451",
-            "Mean age of the air (yr BP)": "155707",
-            "CO2 concentraition (ppmv)": "187.5"
-        },
-        {
-            "Depth (m)": "2203",
-            "Age of the ice (yr BP)": "165646",
-            "Mean age of the air (yr BP)": "160494",
-            "CO2 concentraition (ppmv)": "204.4"
-        },
-        {
-            "Depth (m)": "2207.3",
-            "Age of the ice (yr BP)": "166193",
-            "Mean age of the air (yr BP)": "161037",
-            "CO2 concentraition (ppmv)": "196.5"
-        },
-        {
-            "Depth (m)": "2225",
-            "Age of the ice (yr BP)": "168391",
-            "Mean age of the air (yr BP)": "162996",
-            "CO2 concentraition (ppmv)": "191.6"
-        },
-        {
-            "Depth (m)": "2231.1",
-            "Age of the ice (yr BP)": "169094",
-            "Mean age of the air (yr BP)": "163522",
-            "CO2 concentraition (ppmv)": "190.1"
-        },
-        {
-            "Depth (m)": "2240.1",
-            "Age of the ice (yr BP)": "170119",
-            "Mean age of the air (yr BP)": "164341",
-            "CO2 concentraition (ppmv)": "186.7"
-        },
-        {
-            "Depth (m)": "2247",
-            "Age of the ice (yr BP)": "170922",
-            "Mean age of the air (yr BP)": "165278",
-            "CO2 concentraition (ppmv)": "183.8"
-        },
-        {
-            "Depth (m)": "2254.1",
-            "Age of the ice (yr BP)": "171766",
-            "Mean age of the air (yr BP)": "166299",
-            "CO2 concentraition (ppmv)": "196.5"
-        },
-        {
-            "Depth (m)": "2280",
-            "Age of the ice (yr BP)": "174920",
-            "Mean age of the air (yr BP)": "169870",
-            "CO2 concentraition (ppmv)": "197.9"
-        },
-        {
-            "Depth (m)": "2302",
-            "Age of the ice (yr BP)": "177644",
-            "Mean age of the air (yr BP)": "172596",
-            "CO2 concentraition (ppmv)": "197.8"
-        },
-        {
-            "Depth (m)": "2316.1",
-            "Age of the ice (yr BP)": "179474",
-            "Mean age of the air (yr BP)": "174617",
-            "CO2 concentraition (ppmv)": "196"
-        },
-        {
-            "Depth (m)": "2325",
-            "Age of the ice (yr BP)": "180546",
-            "Mean age of the air (yr BP)": "175440",
-            "CO2 concentraition (ppmv)": "190.3"
-        },
-        {
-            "Depth (m)": "2331.1",
-            "Age of the ice (yr BP)": "181265",
-            "Mean age of the air (yr BP)": "176030",
-            "CO2 concentraition (ppmv)": "189.4"
-        },
-        {
-            "Depth (m)": "2333",
-            "Age of the ice (yr BP)": "181502",
-            "Mean age of the air (yr BP)": "176271",
-            "CO2 concentraition (ppmv)": "190.1"
-        },
-        {
-            "Depth (m)": "2348",
-            "Age of the ice (yr BP)": "183525",
-            "Mean age of the air (yr BP)": "178550",
-            "CO2 concentraition (ppmv)": "207.7"
-        },
-        {
-            "Depth (m)": "2363",
-            "Age of the ice (yr BP)": "185640",
-            "Mean age of the air (yr BP)": "180779",
-            "CO2 concentraition (ppmv)": "213.2"
-        },
-        {
-            "Depth (m)": "2372",
-            "Age of the ice (yr BP)": "186927",
-            "Mean age of the air (yr BP)": "181617",
-            "CO2 concentraition (ppmv)": "217.7"
-        },
-        {
-            "Depth (m)": "2379.2",
-            "Age of the ice (yr BP)": "187934",
-            "Mean age of the air (yr BP)": "182447",
-            "CO2 concentraition (ppmv)": "198.1"
-        },
-        {
-            "Depth (m)": "2386",
-            "Age of the ice (yr BP)": "188892",
-            "Mean age of the air (yr BP)": "183355",
-            "CO2 concentraition (ppmv)": "199.8"
-        },
-        {
-            "Depth (m)": "2399",
-            "Age of the ice (yr BP)": "190587",
-            "Mean age of the air (yr BP)": "185063",
-            "CO2 concentraition (ppmv)": "203.5"
-        },
-        {
-            "Depth (m)": "2414",
-            "Age of the ice (yr BP)": "192382",
-            "Mean age of the air (yr BP)": "187199",
-            "CO2 concentraition (ppmv)": "210.7"
-        },
-        {
-            "Depth (m)": "2425",
-            "Age of the ice (yr BP)": "193816",
-            "Mean age of the air (yr BP)": "189335",
-            "CO2 concentraition (ppmv)": "231.4"
-        },
-        {
-            "Depth (m)": "2437",
-            "Age of the ice (yr BP)": "195298",
-            "Mean age of the air (yr BP)": "191057",
-            "CO2 concentraition (ppmv)": "231.5"
-        },
-        {
-            "Depth (m)": "2442.1",
-            "Age of the ice (yr BP)": "195947",
-            "Mean age of the air (yr BP)": "191592",
-            "CO2 concentraition (ppmv)": "220.3"
-        },
-        {
-            "Depth (m)": "2451",
-            "Age of the ice (yr BP)": "197086",
-            "Mean age of the air (yr BP)": "192632",
-            "CO2 concentraition (ppmv)": "218"
-        },
-        {
-            "Depth (m)": "2470.3",
-            "Age of the ice (yr BP)": "199372",
-            "Mean age of the air (yr BP)": "195123",
-            "CO2 concentraition (ppmv)": "226.5"
-        },
-        {
-            "Depth (m)": "2475",
-            "Age of the ice (yr BP)": "199904",
-            "Mean age of the air (yr BP)": "195625",
-            "CO2 concentraition (ppmv)": "220.1"
-        },
-        {
-            "Depth (m)": "2488.1",
-            "Age of the ice (yr BP)": "201324",
-            "Mean age of the air (yr BP)": "197567",
-            "CO2 concentraition (ppmv)": "226.4"
-        },
-        {
-            "Depth (m)": "2494.1",
-            "Age of the ice (yr BP)": "201968",
-            "Mean age of the air (yr BP)": "198442",
-            "CO2 concentraition (ppmv)": "241.2"
-        },
-        {
-            "Depth (m)": "2499",
-            "Age of the ice (yr BP)": "202496",
-            "Mean age of the air (yr BP)": "199025",
-            "CO2 concentraition (ppmv)": "242.6"
-        },
-        {
-            "Depth (m)": "2525",
-            "Age of the ice (yr BP)": "205458",
-            "Mean age of the air (yr BP)": "202212",
-            "CO2 concentraition (ppmv)": "251"
-        },
-        {
-            "Depth (m)": "2533",
-            "Age of the ice (yr BP)": "206496",
-            "Mean age of the air (yr BP)": "203191",
-            "CO2 concentraition (ppmv)": "239.1"
-        },
-        {
-            "Depth (m)": "2543",
-            "Age of the ice (yr BP)": "207803",
-            "Mean age of the air (yr BP)": "204283",
-            "CO2 concentraition (ppmv)": "247.7"
-        },
-        {
-            "Depth (m)": "2552.01",
-            "Age of the ice (yr BP)": "208947",
-            "Mean age of the air (yr BP)": "205148",
-            "CO2 concentraition (ppmv)": "244.4"
-        },
-        {
-            "Depth (m)": "2554.9",
-            "Age of the ice (yr BP)": "209307",
-            "Mean age of the air (yr BP)": "205435",
-            "CO2 concentraition (ppmv)": "231.9"
-        },
-        {
-            "Depth (m)": "2557.71",
-            "Age of the ice (yr BP)": "209648",
-            "Mean age of the air (yr BP)": "205715",
-            "CO2 concentraition (ppmv)": "232.2"
-        },
-        {
-            "Depth (m)": "2560.91",
-            "Age of the ice (yr BP)": "210053",
-            "Mean age of the air (yr BP)": "206119",
-            "CO2 concentraition (ppmv)": "228.7"
-        },
-        {
-            "Depth (m)": "2564.9",
-            "Age of the ice (yr BP)": "210525",
-            "Mean age of the air (yr BP)": "206672",
-            "CO2 concentraition (ppmv)": "226.3"
-        },
-        {
-            "Depth (m)": "2567.5",
-            "Age of the ice (yr BP)": "210837",
-            "Mean age of the air (yr BP)": "207029",
-            "CO2 concentraition (ppmv)": "229.4"
-        },
-        {
-            "Depth (m)": "2570.4",
-            "Age of the ice (yr BP)": "211175",
-            "Mean age of the air (yr BP)": "207412",
-            "CO2 concentraition (ppmv)": "231.4"
-        },
-        {
-            "Depth (m)": "2574.21",
-            "Age of the ice (yr BP)": "211628",
-            "Mean age of the air (yr BP)": "207991",
-            "CO2 concentraition (ppmv)": "238.2"
-        },
-        {
-            "Depth (m)": "2575.5",
-            "Age of the ice (yr BP)": "211781",
-            "Mean age of the air (yr BP)": "208177",
-            "CO2 concentraition (ppmv)": "237.2"
-        },
-        {
-            "Depth (m)": "2579.9",
-            "Age of the ice (yr BP)": "212295",
-            "Mean age of the air (yr BP)": "208794",
-            "CO2 concentraition (ppmv)": "230"
-        },
-        {
-            "Depth (m)": "2581.9",
-            "Age of the ice (yr BP)": "212528",
-            "Mean age of the air (yr BP)": "209073",
-            "CO2 concentraition (ppmv)": "240.5"
-        },
-        {
-            "Depth (m)": "2584.71",
-            "Age of the ice (yr BP)": "212846",
-            "Mean age of the air (yr BP)": "209414",
-            "CO2 concentraition (ppmv)": "242.2"
-        },
-        {
-            "Depth (m)": "2588.81",
-            "Age of the ice (yr BP)": "213315",
-            "Mean age of the air (yr BP)": "210022",
-            "CO2 concentraition (ppmv)": "244.6"
-        },
-        {
-            "Depth (m)": "2590.4",
-            "Age of the ice (yr BP)": "213500",
-            "Mean age of the air (yr BP)": "210232",
-            "CO2 concentraition (ppmv)": "243.9"
-        },
-        {
-            "Depth (m)": "2595.11",
-            "Age of the ice (yr BP)": "214036",
-            "Mean age of the air (yr BP)": "210830",
-            "CO2 concentraition (ppmv)": "247.3"
-        },
-        {
-            "Depth (m)": "2596.71",
-            "Age of the ice (yr BP)": "214219",
-            "Mean age of the air (yr BP)": "211005",
-            "CO2 concentraition (ppmv)": "252"
-        },
-        {
-            "Depth (m)": "2600.4",
-            "Age of the ice (yr BP)": "214639",
-            "Mean age of the air (yr BP)": "211476",
-            "CO2 concentraition (ppmv)": "246.9"
-        },
-        {
-            "Depth (m)": "2603.7",
-            "Age of the ice (yr BP)": "215012",
-            "Mean age of the air (yr BP)": "211929",
-            "CO2 concentraition (ppmv)": "239.5"
-        },
-        {
-            "Depth (m)": "2606.61",
-            "Age of the ice (yr BP)": "215343",
-            "Mean age of the air (yr BP)": "212281",
-            "CO2 concentraition (ppmv)": "257.4"
-        },
-        {
-            "Depth (m)": "2612.5",
-            "Age of the ice (yr BP)": "216014",
-            "Mean age of the air (yr BP)": "213005",
-            "CO2 concentraition (ppmv)": "243.4"
-        },
-        {
-            "Depth (m)": "2621.71",
-            "Age of the ice (yr BP)": "217099",
-            "Mean age of the air (yr BP)": "214153",
-            "CO2 concentraition (ppmv)": "251.2"
-        },
-        {
-            "Depth (m)": "2629.41",
-            "Age of the ice (yr BP)": "217989",
-            "Mean age of the air (yr BP)": "215041",
-            "CO2 concentraition (ppmv)": "241.4"
-        },
-        {
-            "Depth (m)": "2634.41",
-            "Age of the ice (yr BP)": "218602",
-            "Mean age of the air (yr BP)": "215593",
-            "CO2 concentraition (ppmv)": "240.3"
-        },
-        {
-            "Depth (m)": "2636.71",
-            "Age of the ice (yr BP)": "218908",
-            "Mean age of the air (yr BP)": "215879",
-            "CO2 concentraition (ppmv)": "242.7"
-        },
-        {
-            "Depth (m)": "2640.41",
-            "Age of the ice (yr BP)": "219393",
-            "Mean age of the air (yr BP)": "216459",
-            "CO2 concentraition (ppmv)": "247.5"
-        },
-        {
-            "Depth (m)": "2644.41",
-            "Age of the ice (yr BP)": "219935",
-            "Mean age of the air (yr BP)": "217009",
-            "CO2 concentraition (ppmv)": "251.7"
-        },
-        {
-            "Depth (m)": "2646.61",
-            "Age of the ice (yr BP)": "220255",
-            "Mean age of the air (yr BP)": "217271",
-            "CO2 concentraition (ppmv)": "251.2"
-        },
-        {
-            "Depth (m)": "2649.4",
-            "Age of the ice (yr BP)": "220680",
-            "Mean age of the air (yr BP)": "217574",
-            "CO2 concentraition (ppmv)": "245.3"
-        },
-        {
-            "Depth (m)": "2650.41",
-            "Age of the ice (yr BP)": "220822",
-            "Mean age of the air (yr BP)": "217676",
-            "CO2 concentraition (ppmv)": "245.4"
-        },
-        {
-            "Depth (m)": "2656.21",
-            "Age of the ice (yr BP)": "221718",
-            "Mean age of the air (yr BP)": "218342",
-            "CO2 concentraition (ppmv)": "240.5"
-        },
-        {
-            "Depth (m)": "2666.7",
-            "Age of the ice (yr BP)": "223548",
-            "Mean age of the air (yr BP)": "219679",
-            "CO2 concentraition (ppmv)": "214.1"
-        },
-        {
-            "Depth (m)": "2666.71",
-            "Age of the ice (yr BP)": "223548",
-            "Mean age of the air (yr BP)": "219680",
-            "CO2 concentraition (ppmv)": "212.2"
-        },
-        {
-            "Depth (m)": "2669.4",
-            "Age of the ice (yr BP)": "224102",
-            "Mean age of the air (yr BP)": "220042",
-            "CO2 concentraition (ppmv)": "216.1"
-        },
-        {
-            "Depth (m)": "2670.41",
-            "Age of the ice (yr BP)": "224240",
-            "Mean age of the air (yr BP)": "220182",
-            "CO2 concentraition (ppmv)": "216.2"
-        },
-        {
-            "Depth (m)": "2674.6",
-            "Age of the ice (yr BP)": "224993",
-            "Mean age of the air (yr BP)": "220758",
-            "CO2 concentraition (ppmv)": "203.7"
-        },
-        {
-            "Depth (m)": "2674.61",
-            "Age of the ice (yr BP)": "224993",
-            "Mean age of the air (yr BP)": "220760",
-            "CO2 concentraition (ppmv)": "207.2"
-        },
-        {
-            "Depth (m)": "2677.41",
-            "Age of the ice (yr BP)": "225469",
-            "Mean age of the air (yr BP)": "221054",
-            "CO2 concentraition (ppmv)": "208.9"
-        },
-        {
-            "Depth (m)": "2682.61",
-            "Age of the ice (yr BP)": "226339",
-            "Mean age of the air (yr BP)": "221612",
-            "CO2 concentraition (ppmv)": "205.7"
-        },
-        {
-            "Depth (m)": "2691.01",
-            "Age of the ice (yr BP)": "227885",
-            "Mean age of the air (yr BP)": "222958",
-            "CO2 concentraition (ppmv)": "203.4"
-        },
-        {
-            "Depth (m)": "2693.61",
-            "Age of the ice (yr BP)": "228349",
-            "Mean age of the air (yr BP)": "223446",
-            "CO2 concentraition (ppmv)": "215.7"
-        },
-        {
-            "Depth (m)": "2698.01",
-            "Age of the ice (yr BP)": "229167",
-            "Mean age of the air (yr BP)": "224630",
-            "CO2 concentraition (ppmv)": "236.9"
-        },
-        {
-            "Depth (m)": "2701.41",
-            "Age of the ice (yr BP)": "229802",
-            "Mean age of the air (yr BP)": "225299",
-            "CO2 concentraition (ppmv)": "234.5"
-        },
-        {
-            "Depth (m)": "2702.71",
-            "Age of the ice (yr BP)": "230039",
-            "Mean age of the air (yr BP)": "225509",
-            "CO2 concentraition (ppmv)": "233.1"
-        },
-        {
-            "Depth (m)": "2705.61",
-            "Age of the ice (yr BP)": "230547",
-            "Mean age of the air (yr BP)": "225888",
-            "CO2 concentraition (ppmv)": "224.5"
-        },
-        {
-            "Depth (m)": "2711.71",
-            "Age of the ice (yr BP)": "231601",
-            "Mean age of the air (yr BP)": "226710",
-            "CO2 concentraition (ppmv)": "232.4"
-        },
-        {
-            "Depth (m)": "2715.41",
-            "Age of the ice (yr BP)": "232206",
-            "Mean age of the air (yr BP)": "227384",
-            "CO2 concentraition (ppmv)": "233.9"
-        },
-        {
-            "Depth (m)": "2717.71",
-            "Age of the ice (yr BP)": "232571",
-            "Mean age of the air (yr BP)": "227840",
-            "CO2 concentraition (ppmv)": "241.7"
-        },
-        {
-            "Depth (m)": "2732.71",
-            "Age of the ice (yr BP)": "234795",
-            "Mean age of the air (yr BP)": "230703",
-            "CO2 concentraition (ppmv)": "245.2"
-        },
-        {
-            "Depth (m)": "2735.71",
-            "Age of the ice (yr BP)": "235232",
-            "Mean age of the air (yr BP)": "231382",
-            "CO2 concentraition (ppmv)": "252.1"
-        },
-        {
-            "Depth (m)": "2738.71",
-            "Age of the ice (yr BP)": "235652",
-            "Mean age of the air (yr BP)": "231990",
-            "CO2 concentraition (ppmv)": "241.4"
-        },
-        {
-            "Depth (m)": "2741.71",
-            "Age of the ice (yr BP)": "236077",
-            "Mean age of the air (yr BP)": "232570",
-            "CO2 concentraition (ppmv)": "247.4"
-        },
-        {
-            "Depth (m)": "2744.61",
-            "Age of the ice (yr BP)": "236467",
-            "Mean age of the air (yr BP)": "233102",
-            "CO2 concentraition (ppmv)": "243.1"
-        },
-        {
-            "Depth (m)": "2747.61",
-            "Age of the ice (yr BP)": "236866",
-            "Mean age of the air (yr BP)": "233646",
-            "CO2 concentraition (ppmv)": "239.2"
-        },
-        {
-            "Depth (m)": "2751.11",
-            "Age of the ice (yr BP)": "237301",
-            "Mean age of the air (yr BP)": "234126",
-            "CO2 concentraition (ppmv)": "245.7"
-        },
-        {
-            "Depth (m)": "2753.61",
-            "Age of the ice (yr BP)": "237602",
-            "Mean age of the air (yr BP)": "234470",
-            "CO2 concentraition (ppmv)": "245.9"
-        },
-        {
-            "Depth (m)": "2756.21",
-            "Age of the ice (yr BP)": "237889",
-            "Mean age of the air (yr BP)": "234781",
-            "CO2 concentraition (ppmv)": "247.4"
-        },
-        {
-            "Depth (m)": "2759.11",
-            "Age of the ice (yr BP)": "238206",
-            "Mean age of the air (yr BP)": "235213",
-            "CO2 concentraition (ppmv)": "252.9"
-        },
-        {
-            "Depth (m)": "2765.21",
-            "Age of the ice (yr BP)": "238908",
-            "Mean age of the air (yr BP)": "236236",
-            "CO2 concentraition (ppmv)": "259.8"
-        },
-        {
-            "Depth (m)": "2768.2",
-            "Age of the ice (yr BP)": "239273",
-            "Mean age of the air (yr BP)": "236851",
-            "CO2 concentraition (ppmv)": "263.2"
-        },
-        {
-            "Depth (m)": "2773.51",
-            "Age of the ice (yr BP)": "240006",
-            "Mean age of the air (yr BP)": "237831",
-            "CO2 concentraition (ppmv)": "279"
-        },
-        {
-            "Depth (m)": "2776.5",
-            "Age of the ice (yr BP)": "240467",
-            "Mean age of the air (yr BP)": "238199",
-            "CO2 concentraition (ppmv)": "280.3"
-        },
-        {
-            "Depth (m)": "2782.71",
-            "Age of the ice (yr BP)": "241535",
-            "Mean age of the air (yr BP)": "238935",
-            "CO2 concentraition (ppmv)": "263.8"
-        },
-        {
-            "Depth (m)": "2785.51",
-            "Age of the ice (yr BP)": "242092",
-            "Mean age of the air (yr BP)": "239250",
-            "CO2 concentraition (ppmv)": "252.4"
-        },
-        {
-            "Depth (m)": "2788.51",
-            "Age of the ice (yr BP)": "242675",
-            "Mean age of the air (yr BP)": "239545",
-            "CO2 concentraition (ppmv)": "249.9"
-        },
-        {
-            "Depth (m)": "2791.5",
-            "Age of the ice (yr BP)": "243237",
-            "Mean age of the air (yr BP)": "239866",
-            "CO2 concentraition (ppmv)": "236.7"
-        },
-        {
-            "Depth (m)": "2794.51",
-            "Age of the ice (yr BP)": "243813",
-            "Mean age of the air (yr BP)": "240201",
-            "CO2 concentraition (ppmv)": "230.4"
-        },
-        {
-            "Depth (m)": "2797.51",
-            "Age of the ice (yr BP)": "244446",
-            "Mean age of the air (yr BP)": "240577",
-            "CO2 concentraition (ppmv)": "219.4"
-        },
-        {
-            "Depth (m)": "2806.51",
-            "Age of the ice (yr BP)": "246379",
-            "Mean age of the air (yr BP)": "242068",
-            "CO2 concentraition (ppmv)": "214.7"
-        },
-        {
-            "Depth (m)": "2815.61",
-            "Age of the ice (yr BP)": "248364",
-            "Mean age of the air (yr BP)": "243653",
-            "CO2 concentraition (ppmv)": "200.2"
-        },
-        {
-            "Depth (m)": "2818.61",
-            "Age of the ice (yr BP)": "249046",
-            "Mean age of the air (yr BP)": "244215",
-            "CO2 concentraition (ppmv)": "213.9"
-        },
-        {
-            "Depth (m)": "2821.51",
-            "Age of the ice (yr BP)": "249670",
-            "Mean age of the air (yr BP)": "244863",
-            "CO2 concentraition (ppmv)": "195.4"
-        },
-        {
-            "Depth (m)": "2824.51",
-            "Age of the ice (yr BP)": "250309",
-            "Mean age of the air (yr BP)": "245483",
-            "CO2 concentraition (ppmv)": "196.7"
-        },
-        {
-            "Depth (m)": "2827.5",
-            "Age of the ice (yr BP)": "250920",
-            "Mean age of the air (yr BP)": "246090",
-            "CO2 concentraition (ppmv)": "195.4"
-        },
-        {
-            "Depth (m)": "2833.81",
-            "Age of the ice (yr BP)": "252279",
-            "Mean age of the air (yr BP)": "247447",
-            "CO2 concentraition (ppmv)": "199"
-        },
-        {
-            "Depth (m)": "2836.51",
-            "Age of the ice (yr BP)": "252879",
-            "Mean age of the air (yr BP)": "248087",
-            "CO2 concentraition (ppmv)": "201.9"
-        },
-        {
-            "Depth (m)": "2839.51",
-            "Age of the ice (yr BP)": "253559",
-            "Mean age of the air (yr BP)": "248980",
-            "CO2 concentraition (ppmv)": "204"
-        },
-        {
-            "Depth (m)": "2845.51",
-            "Age of the ice (yr BP)": "254873",
-            "Mean age of the air (yr BP)": "250461",
-            "CO2 concentraition (ppmv)": "203.9"
-        },
-        {
-            "Depth (m)": "2851.51",
-            "Age of the ice (yr BP)": "256182",
-            "Mean age of the air (yr BP)": "251521",
-            "CO2 concentraition (ppmv)": "209.7"
-        },
-        {
-            "Depth (m)": "2854.4",
-            "Age of the ice (yr BP)": "256858",
-            "Mean age of the air (yr BP)": "252174",
-            "CO2 concentraition (ppmv)": "205.7"
-        },
-        {
-            "Depth (m)": "2857.51",
-            "Age of the ice (yr BP)": "257604",
-            "Mean age of the air (yr BP)": "252959",
-            "CO2 concentraition (ppmv)": "208.9"
-        },
-        {
-            "Depth (m)": "2860.51",
-            "Age of the ice (yr BP)": "258351",
-            "Mean age of the air (yr BP)": "253880",
-            "CO2 concentraition (ppmv)": "214.7"
-        },
-        {
-            "Depth (m)": "2866.51",
-            "Age of the ice (yr BP)": "259882",
-            "Mean age of the air (yr BP)": "255233",
-            "CO2 concentraition (ppmv)": "228.2"
-        },
-        {
-            "Depth (m)": "2870.51",
-            "Age of the ice (yr BP)": "260936",
-            "Mean age of the air (yr BP)": "256053",
-            "CO2 concentraition (ppmv)": "199.9"
-        },
-        {
-            "Depth (m)": "2872.71",
-            "Age of the ice (yr BP)": "261526",
-            "Mean age of the air (yr BP)": "256501",
-            "CO2 concentraition (ppmv)": "211.7"
-        },
-        {
-            "Depth (m)": "2876.21",
-            "Age of the ice (yr BP)": "262455",
-            "Mean age of the air (yr BP)": "257247",
-            "CO2 concentraition (ppmv)": "188.7"
-        },
-        {
-            "Depth (m)": "2878.5",
-            "Age of the ice (yr BP)": "263067",
-            "Mean age of the air (yr BP)": "257792",
-            "CO2 concentraition (ppmv)": "187.2"
-        },
-        {
-            "Depth (m)": "2881.42",
-            "Age of the ice (yr BP)": "263844",
-            "Mean age of the air (yr BP)": "258477",
-            "CO2 concentraition (ppmv)": "194.2"
-        },
-        {
-            "Depth (m)": "2884.51",
-            "Age of the ice (yr BP)": "264666",
-            "Mean age of the air (yr BP)": "259228",
-            "CO2 concentraition (ppmv)": "198.9"
-        },
-        {
-            "Depth (m)": "2887.51",
-            "Age of the ice (yr BP)": "265457",
-            "Mean age of the air (yr BP)": "259958",
-            "CO2 concentraition (ppmv)": "184.7"
-        },
-        {
-            "Depth (m)": "2890.51",
-            "Age of the ice (yr BP)": "266255",
-            "Mean age of the air (yr BP)": "260754",
-            "CO2 concentraition (ppmv)": "190.4"
-        },
-        {
-            "Depth (m)": "2893.51",
-            "Age of the ice (yr BP)": "267039",
-            "Mean age of the air (yr BP)": "261595",
-            "CO2 concentraition (ppmv)": "193.9"
-        },
-        {
-            "Depth (m)": "2896.51",
-            "Age of the ice (yr BP)": "267825",
-            "Mean age of the air (yr BP)": "262411",
-            "CO2 concentraition (ppmv)": "194.2"
-        },
-        {
-            "Depth (m)": "2899.51",
-            "Age of the ice (yr BP)": "268558",
-            "Mean age of the air (yr BP)": "263207",
-            "CO2 concentraition (ppmv)": "198.4"
-        },
-        {
-            "Depth (m)": "2902.51",
-            "Age of the ice (yr BP)": "269307",
-            "Mean age of the air (yr BP)": "264046",
-            "CO2 concentraition (ppmv)": "193.2"
-        },
-        {
-            "Depth (m)": "2905.51",
-            "Age of the ice (yr BP)": "270052",
-            "Mean age of the air (yr BP)": "264834",
-            "CO2 concentraition (ppmv)": "202.2"
-        },
-        {
-            "Depth (m)": "2908.5",
-            "Age of the ice (yr BP)": "270770",
-            "Mean age of the air (yr BP)": "265703",
-            "CO2 concentraition (ppmv)": "204.5"
-        },
-        {
-            "Depth (m)": "2911.46",
-            "Age of the ice (yr BP)": "271454",
-            "Mean age of the air (yr BP)": "266492",
-            "CO2 concentraition (ppmv)": "211"
-        },
-        {
-            "Depth (m)": "2914.51",
-            "Age of the ice (yr BP)": "272171",
-            "Mean age of the air (yr BP)": "267434",
-            "CO2 concentraition (ppmv)": "215.4"
-        },
-        {
-            "Depth (m)": "2919.41",
-            "Age of the ice (yr BP)": "273256",
-            "Mean age of the air (yr BP)": "268679",
-            "CO2 concentraition (ppmv)": "223.7"
-        },
-        {
-            "Depth (m)": "2926.51",
-            "Age of the ice (yr BP)": "274802",
-            "Mean age of the air (yr BP)": "270680",
-            "CO2 concentraition (ppmv)": "231.4"
-        },
-        {
-            "Depth (m)": "2932.5",
-            "Age of the ice (yr BP)": "276091",
-            "Mean age of the air (yr BP)": "272275",
-            "CO2 concentraition (ppmv)": "228"
-        },
-        {
-            "Depth (m)": "2935.51",
-            "Age of the ice (yr BP)": "276731",
-            "Mean age of the air (yr BP)": "273012",
-            "CO2 concentraition (ppmv)": "226.4"
-        },
-        {
-            "Depth (m)": "2939.3",
-            "Age of the ice (yr BP)": "277526",
-            "Mean age of the air (yr BP)": "273910",
-            "CO2 concentraition (ppmv)": "231.4"
-        },
-        {
-            "Depth (m)": "2941.51",
-            "Age of the ice (yr BP)": "278017",
-            "Mean age of the air (yr BP)": "274445",
-            "CO2 concentraition (ppmv)": "230.4"
-        },
-        {
-            "Depth (m)": "2944.51",
-            "Age of the ice (yr BP)": "278711",
-            "Mean age of the air (yr BP)": "275218",
-            "CO2 concentraition (ppmv)": "231"
-        },
-        {
-            "Depth (m)": "2953.5",
-            "Age of the ice (yr BP)": "280944",
-            "Mean age of the air (yr BP)": "277298",
-            "CO2 concentraition (ppmv)": "234.9"
-        },
-        {
-            "Depth (m)": "2956.51",
-            "Age of the ice (yr BP)": "281740",
-            "Mean age of the air (yr BP)": "277925",
-            "CO2 concentraition (ppmv)": "220.4"
-        },
-        {
-            "Depth (m)": "2959.51",
-            "Age of the ice (yr BP)": "282539",
-            "Mean age of the air (yr BP)": "278602",
-            "CO2 concentraition (ppmv)": "217.2"
-        },
-        {
-            "Depth (m)": "2964.51",
-            "Age of the ice (yr BP)": "283810",
-            "Mean age of the air (yr BP)": "279543",
-            "CO2 concentraition (ppmv)": "207.7"
-        },
-        {
-            "Depth (m)": "2967.5",
-            "Age of the ice (yr BP)": "284656",
-            "Mean age of the air (yr BP)": "280361",
-            "CO2 concentraition (ppmv)": "206"
-        },
-        {
-            "Depth (m)": "2970.5",
-            "Age of the ice (yr BP)": "285549",
-            "Mean age of the air (yr BP)": "281200",
-            "CO2 concentraition (ppmv)": "206.7"
-        },
-        {
-            "Depth (m)": "2973.81",
-            "Age of the ice (yr BP)": "286475",
-            "Mean age of the air (yr BP)": "282301",
-            "CO2 concentraition (ppmv)": "212.7"
-        },
-        {
-            "Depth (m)": "2979.51",
-            "Age of the ice (yr BP)": "288013",
-            "Mean age of the air (yr BP)": "283492",
-            "CO2 concentraition (ppmv)": "213.2"
-        },
-        {
-            "Depth (m)": "2986",
-            "Age of the ice (yr BP)": "289826",
-            "Mean age of the air (yr BP)": "285301",
-            "CO2 concentraition (ppmv)": "217.1"
-        },
-        {
-            "Depth (m)": "2988.61",
-            "Age of the ice (yr BP)": "290554",
-            "Mean age of the air (yr BP)": "286217",
-            "CO2 concentraition (ppmv)": "224.4"
-        },
-        {
-            "Depth (m)": "2991.5",
-            "Age of the ice (yr BP)": "291328",
-            "Mean age of the air (yr BP)": "287102",
-            "CO2 concentraition (ppmv)": "231"
-        },
-        {
-            "Depth (m)": "2994.51",
-            "Age of the ice (yr BP)": "292121",
-            "Mean age of the air (yr BP)": "287846",
-            "CO2 concentraition (ppmv)": "236.2"
-        },
-        {
-            "Depth (m)": "2997.5",
-            "Age of the ice (yr BP)": "292855",
-            "Mean age of the air (yr BP)": "288492",
-            "CO2 concentraition (ppmv)": "239"
-        },
-        {
-            "Depth (m)": "3000.4",
-            "Age of the ice (yr BP)": "293610",
-            "Mean age of the air (yr BP)": "289433",
-            "CO2 concentraition (ppmv)": "236"
-        },
-        {
-            "Depth (m)": "3003.51",
-            "Age of the ice (yr BP)": "294495",
-            "Mean age of the air (yr BP)": "290571",
-            "CO2 concentraition (ppmv)": "240.2"
-        },
-        {
-            "Depth (m)": "3007.01",
-            "Age of the ice (yr BP)": "295477",
-            "Mean age of the air (yr BP)": "291769",
-            "CO2 concentraition (ppmv)": "240.7"
-        },
-        {
-            "Depth (m)": "3009.51",
-            "Age of the ice (yr BP)": "296158",
-            "Mean age of the air (yr BP)": "292474",
-            "CO2 concentraition (ppmv)": "250.2"
-        },
-        {
-            "Depth (m)": "3012.5",
-            "Age of the ice (yr BP)": "296982",
-            "Mean age of the air (yr BP)": "293002",
-            "CO2 concentraition (ppmv)": "248.6"
-        },
-        {
-            "Depth (m)": "3015.51",
-            "Age of the ice (yr BP)": "297810",
-            "Mean age of the air (yr BP)": "293676",
-            "CO2 concentraition (ppmv)": "244.9"
-        },
-        {
-            "Depth (m)": "3018.51",
-            "Age of the ice (yr BP)": "298623",
-            "Mean age of the air (yr BP)": "294615",
-            "CO2 concentraition (ppmv)": "225.9"
-        },
-        {
-            "Depth (m)": "3022.71",
-            "Age of the ice (yr BP)": "299716",
-            "Mean age of the air (yr BP)": "295849",
-            "CO2 concentraition (ppmv)": "227.9"
-        },
-        {
-            "Depth (m)": "3024.9",
-            "Age of the ice (yr BP)": "300267",
-            "Mean age of the air (yr BP)": "296380",
-            "CO2 concentraition (ppmv)": "226.2"
-        },
-        {
-            "Depth (m)": "3027.51",
-            "Age of the ice (yr BP)": "300928",
-            "Mean age of the air (yr BP)": "297131",
-            "CO2 concentraition (ppmv)": "233.2"
-        },
-        {
-            "Depth (m)": "3030.41",
-            "Age of the ice (yr BP)": "301665",
-            "Mean age of the air (yr BP)": "298051",
-            "CO2 concentraition (ppmv)": "237.9"
-        },
-        {
-            "Depth (m)": "3033.51",
-            "Age of the ice (yr BP)": "302452",
-            "Mean age of the air (yr BP)": "299020",
-            "CO2 concentraition (ppmv)": "239"
-        },
-        {
-            "Depth (m)": "3036.51",
-            "Age of the ice (yr BP)": "303201",
-            "Mean age of the air (yr BP)": "299877",
-            "CO2 concentraition (ppmv)": "241.9"
-        },
-        {
-            "Depth (m)": "3039.51",
-            "Age of the ice (yr BP)": "303939",
-            "Mean age of the air (yr BP)": "300646",
-            "CO2 concentraition (ppmv)": "251.7"
-        },
-        {
-            "Depth (m)": "3042.51",
-            "Age of the ice (yr BP)": "304745",
-            "Mean age of the air (yr BP)": "301496",
-            "CO2 concentraition (ppmv)": "256.8"
-        },
-        {
-            "Depth (m)": "3045.51",
-            "Age of the ice (yr BP)": "305612",
-            "Mean age of the air (yr BP)": "302456",
-            "CO2 concentraition (ppmv)": "257.2"
-        },
-        {
-            "Depth (m)": "3048.56",
-            "Age of the ice (yr BP)": "306561",
-            "Mean age of the air (yr BP)": "303334",
-            "CO2 concentraition (ppmv)": "246.9"
-        },
-        {
-            "Depth (m)": "3051.51",
-            "Age of the ice (yr BP)": "307464",
-            "Mean age of the air (yr BP)": "303953",
-            "CO2 concentraition (ppmv)": "272.7"
-        },
-        {
-            "Depth (m)": "3054.51",
-            "Age of the ice (yr BP)": "308358",
-            "Mean age of the air (yr BP)": "304590",
-            "CO2 concentraition (ppmv)": "251.7"
-        },
-        {
-            "Depth (m)": "3057.7",
-            "Age of the ice (yr BP)": "309281",
-            "Mean age of the air (yr BP)": "305304",
-            "CO2 concentraition (ppmv)": "245.2"
-        },
-        {
-            "Depth (m)": "3057.71",
-            "Age of the ice (yr BP)": "309281",
-            "Mean age of the air (yr BP)": "305306",
-            "CO2 concentraition (ppmv)": "244.7"
-        },
-        {
-            "Depth (m)": "3063.51",
-            "Age of the ice (yr BP)": "310905",
-            "Mean age of the air (yr BP)": "307131",
-            "CO2 concentraition (ppmv)": "255.9"
-        },
-        {
-            "Depth (m)": "3066.51",
-            "Age of the ice (yr BP)": "311704",
-            "Mean age of the air (yr BP)": "308101",
-            "CO2 concentraition (ppmv)": "249.2"
-        },
-        {
-            "Depth (m)": "3072.5",
-            "Age of the ice (yr BP)": "313292",
-            "Mean age of the air (yr BP)": "310035",
-            "CO2 concentraition (ppmv)": "257.2"
-        },
-        {
-            "Depth (m)": "3072.51",
-            "Age of the ice (yr BP)": "313292",
-            "Mean age of the air (yr BP)": "310039",
-            "CO2 concentraition (ppmv)": "256.3"
-        },
-        {
-            "Depth (m)": "3075.41",
-            "Age of the ice (yr BP)": "314032",
-            "Mean age of the air (yr BP)": "310930",
-            "CO2 concentraition (ppmv)": "260.4"
-        },
-        {
-            "Depth (m)": "3078.51",
-            "Age of the ice (yr BP)": "314822",
-            "Mean age of the air (yr BP)": "311774",
-            "CO2 concentraition (ppmv)": "260.3"
-        },
-        {
-            "Depth (m)": "3081.6",
-            "Age of the ice (yr BP)": "315592",
-            "Mean age of the air (yr BP)": "312669",
-            "CO2 concentraition (ppmv)": "260.6"
-        },
-        {
-            "Depth (m)": "3084.51",
-            "Age of the ice (yr BP)": "316304",
-            "Mean age of the air (yr BP)": "313493",
-            "CO2 concentraition (ppmv)": "266.3"
-        },
-        {
-            "Depth (m)": "3087.8",
-            "Age of the ice (yr BP)": "317108",
-            "Mean age of the air (yr BP)": "314374",
-            "CO2 concentraition (ppmv)": "264"
-        },
-        {
-            "Depth (m)": "3090.51",
-            "Age of the ice (yr BP)": "317775",
-            "Mean age of the air (yr BP)": "315143",
-            "CO2 concentraition (ppmv)": "266.2"
-        },
-        {
-            "Depth (m)": "3093.51",
-            "Age of the ice (yr BP)": "318509",
-            "Mean age of the air (yr BP)": "315940",
-            "CO2 concentraition (ppmv)": "270.2"
-        },
-        {
-            "Depth (m)": "3096.46",
-            "Age of the ice (yr BP)": "319231",
-            "Mean age of the air (yr BP)": "316681",
-            "CO2 concentraition (ppmv)": "271.9"
-        },
-        {
-            "Depth (m)": "3099.51",
-            "Age of the ice (yr BP)": "319978",
-            "Mean age of the air (yr BP)": "317445",
-            "CO2 concentraition (ppmv)": "275.2"
-        },
-        {
-            "Depth (m)": "3105.51",
-            "Age of the ice (yr BP)": "321448",
-            "Mean age of the air (yr BP)": "318980",
-            "CO2 concentraition (ppmv)": "265"
-        },
-        {
-            "Depth (m)": "3109.01",
-            "Age of the ice (yr BP)": "322216",
-            "Mean age of the air (yr BP)": "319754",
-            "CO2 concentraition (ppmv)": "271.8"
-        },
-        {
-            "Depth (m)": "3111.51",
-            "Age of the ice (yr BP)": "322746",
-            "Mean age of the air (yr BP)": "320378",
-            "CO2 concentraition (ppmv)": "272.7"
-        },
-        {
-            "Depth (m)": "3114.81",
-            "Age of the ice (yr BP)": "323441",
-            "Mean age of the air (yr BP)": "321386",
-            "CO2 concentraition (ppmv)": "273.2"
-        },
-        {
-            "Depth (m)": "3117.51",
-            "Age of the ice (yr BP)": "324021",
-            "Mean age of the air (yr BP)": "322111",
-            "CO2 concentraition (ppmv)": "282.4"
-        },
-        {
-            "Depth (m)": "3119.51",
-            "Age of the ice (yr BP)": "324461",
-            "Mean age of the air (yr BP)": "322582",
-            "CO2 concentraition (ppmv)": "289.2"
-        },
-        {
-            "Depth (m)": "3120.61",
-            "Age of the ice (yr BP)": "324711",
-            "Mean age of the air (yr BP)": "322827",
-            "CO2 concentraition (ppmv)": "288.4"
-        },
-        {
-            "Depth (m)": "3123.51",
-            "Age of the ice (yr BP)": "325400",
-            "Mean age of the air (yr BP)": "323485",
-            "CO2 concentraition (ppmv)": "298.7"
-        },
-        {
-            "Depth (m)": "3126.51",
-            "Age of the ice (yr BP)": "326200",
-            "Mean age of the air (yr BP)": "324189",
-            "CO2 concentraition (ppmv)": "278.2"
-        },
-        {
-            "Depth (m)": "3129.91",
-            "Age of the ice (yr BP)": "327237",
-            "Mean age of the air (yr BP)": "324991",
-            "CO2 concentraition (ppmv)": "285.8"
-        },
-        {
-            "Depth (m)": "3132.41",
-            "Age of the ice (yr BP)": "328058",
-            "Mean age of the air (yr BP)": "325527",
-            "CO2 concentraition (ppmv)": "278.7"
-        },
-        {
-            "Depth (m)": "3135.51",
-            "Age of the ice (yr BP)": "329135",
-            "Mean age of the air (yr BP)": "326239",
-            "CO2 concentraition (ppmv)": "270.5"
-        },
-        {
-            "Depth (m)": "3138.51",
-            "Age of the ice (yr BP)": "330278",
-            "Mean age of the air (yr BP)": "327114",
-            "CO2 concentraition (ppmv)": "255.7"
-        },
-        {
-            "Depth (m)": "3141.51",
-            "Age of the ice (yr BP)": "331513",
-            "Mean age of the air (yr BP)": "328097",
-            "CO2 concentraition (ppmv)": "241.9"
-        },
-        {
-            "Depth (m)": "3145.01",
-            "Age of the ice (yr BP)": "333111",
-            "Mean age of the air (yr BP)": "329267",
-            "CO2 concentraition (ppmv)": "239.7"
-        },
-        {
-            "Depth (m)": "3147.51",
-            "Age of the ice (yr BP)": "334356",
-            "Mean age of the air (yr BP)": "330208",
-            "CO2 concentraition (ppmv)": "234.2"
-        },
-        {
-            "Depth (m)": "3153.51",
-            "Age of the ice (yr BP)": "337304",
-            "Mean age of the air (yr BP)": "332293",
-            "CO2 concentraition (ppmv)": "250.2"
-        },
-        {
-            "Depth (m)": "3156.51",
-            "Age of the ice (yr BP)": "338770",
-            "Mean age of the air (yr BP)": "333627",
-            "CO2 concentraition (ppmv)": "200.7"
-        },
-        {
-            "Depth (m)": "3159.51",
-            "Age of the ice (yr BP)": "340242",
-            "Mean age of the air (yr BP)": "335290",
-            "CO2 concentraition (ppmv)": "205.2"
-        },
-        {
-            "Depth (m)": "3162.81",
-            "Age of the ice (yr BP)": "341849",
-            "Mean age of the air (yr BP)": "336972",
-            "CO2 concentraition (ppmv)": "204.9"
-        },
-        {
-            "Depth (m)": "3165.5",
-            "Age of the ice (yr BP)": "343123",
-            "Mean age of the air (yr BP)": "338282",
-            "CO2 concentraition (ppmv)": "211.9"
-        },
-        {
-            "Depth (m)": "3169.01",
-            "Age of the ice (yr BP)": "344844",
-            "Mean age of the air (yr BP)": "340165",
-            "CO2 concentraition (ppmv)": "220.4"
-        },
-        {
-            "Depth (m)": "3174.51",
-            "Age of the ice (yr BP)": "347589",
-            "Mean age of the air (yr BP)": "342998",
-            "CO2 concentraition (ppmv)": "221.2"
-        },
-        {
-            "Depth (m)": "3177.81",
-            "Age of the ice (yr BP)": "349298",
-            "Mean age of the air (yr BP)": "344735",
-            "CO2 concentraition (ppmv)": "216.2"
-        },
-        {
-            "Depth (m)": "3180.5",
-            "Age of the ice (yr BP)": "350773",
-            "Mean age of the air (yr BP)": "346105",
-            "CO2 concentraition (ppmv)": "209.5"
-        },
-        {
-            "Depth (m)": "3183.41",
-            "Age of the ice (yr BP)": "352377",
-            "Mean age of the air (yr BP)": "347610",
-            "CO2 concentraition (ppmv)": "209.2"
-        },
-        {
-            "Depth (m)": "3189.51",
-            "Age of the ice (yr BP)": "355795",
-            "Mean age of the air (yr BP)": "350765",
-            "CO2 concentraition (ppmv)": "193"
-        },
-        {
-            "Depth (m)": "3192.51",
-            "Age of the ice (yr BP)": "357450",
-            "Mean age of the air (yr BP)": "352412",
-            "CO2 concentraition (ppmv)": "186.2"
-        },
-        {
-            "Depth (m)": "3195.81",
-            "Age of the ice (yr BP)": "359223",
-            "Mean age of the air (yr BP)": "354372",
-            "CO2 concentraition (ppmv)": "185.8"
-        },
-        {
-            "Depth (m)": "3200.01",
-            "Age of the ice (yr BP)": "361445",
-            "Mean age of the air (yr BP)": "356838",
-            "CO2 concentraition (ppmv)": "201.2"
-        },
-        {
-            "Depth (m)": "3204.71",
-            "Age of the ice (yr BP)": "363962",
-            "Mean age of the air (yr BP)": "359688",
-            "CO2 concentraition (ppmv)": "206.4"
-        },
-        {
-            "Depth (m)": "3210.51",
-            "Age of the ice (yr BP)": "367048",
-            "Mean age of the air (yr BP)": "362766",
-            "CO2 concentraition (ppmv)": "201.9"
-        },
-        {
-            "Depth (m)": "3213.7",
-            "Age of the ice (yr BP)": "368693",
-            "Mean age of the air (yr BP)": "364499",
-            "CO2 concentraition (ppmv)": "200"
-        },
-        {
-            "Depth (m)": "3216.45",
-            "Age of the ice (yr BP)": "370095",
-            "Mean age of the air (yr BP)": "366221",
-            "CO2 concentraition (ppmv)": "214.7"
-        },
-        {
-            "Depth (m)": "3219.5",
-            "Age of the ice (yr BP)": "371843",
-            "Mean age of the air (yr BP)": "368117",
-            "CO2 concentraition (ppmv)": "224.6"
-        },
-        {
-            "Depth (m)": "3222.51",
-            "Age of the ice (yr BP)": "373629",
-            "Mean age of the air (yr BP)": "369563",
-            "CO2 concentraition (ppmv)": "229.7"
-        },
-        {
-            "Depth (m)": "3228.91",
-            "Age of the ice (yr BP)": "377177",
-            "Mean age of the air (yr BP)": "373014",
-            "CO2 concentraition (ppmv)": "227"
-        },
-        {
-            "Depth (m)": "3231.51",
-            "Age of the ice (yr BP)": "378469",
-            "Mean age of the air (yr BP)": "374561",
-            "CO2 concentraition (ppmv)": "240"
-        },
-        {
-            "Depth (m)": "3234.5",
-            "Age of the ice (yr BP)": "380153",
-            "Mean age of the air (yr BP)": "376758",
-            "CO2 concentraition (ppmv)": "239.1"
-        },
-        {
-            "Depth (m)": "3237.51",
-            "Age of the ice (yr BP)": "381834",
-            "Mean age of the air (yr BP)": "378194",
-            "CO2 concentraition (ppmv)": "246.9"
-        },
-        {
-            "Depth (m)": "3240.51",
-            "Age of the ice (yr BP)": "383395",
-            "Mean age of the air (yr BP)": "379633",
-            "CO2 concentraition (ppmv)": "245.9"
-        },
-        {
-            "Depth (m)": "3246.41",
-            "Age of the ice (yr BP)": "386788",
-            "Mean age of the air (yr BP)": "383504",
-            "CO2 concentraition (ppmv)": "258.1"
-        },
-        {
-            "Depth (m)": "3249.51",
-            "Age of the ice (yr BP)": "388757",
-            "Mean age of the air (yr BP)": "384909",
-            "CO2 concentraition (ppmv)": "264.7"
-        },
-        {
-            "Depth (m)": "3252.45",
-            "Age of the ice (yr BP)": "390641",
-            "Mean age of the air (yr BP)": "386579",
-            "CO2 concentraition (ppmv)": "259.3"
-        },
-        {
-            "Depth (m)": "3258.51",
-            "Age of the ice (yr BP)": "394634",
-            "Mean age of the air (yr BP)": "390589",
-            "CO2 concentraition (ppmv)": "255.2"
-        },
-        {
-            "Depth (m)": "3261.51",
-            "Age of the ice (yr BP)": "396423",
-            "Mean age of the air (yr BP)": "392451",
-            "CO2 concentraition (ppmv)": "250.2"
-        },
-        {
-            "Depth (m)": "3264.51",
-            "Age of the ice (yr BP)": "398091",
-            "Mean age of the air (yr BP)": "394628",
-            "CO2 concentraition (ppmv)": "266.3"
-        },
-        {
-            "Depth (m)": "3267.51",
-            "Age of the ice (yr BP)": "399733",
-            "Mean age of the air (yr BP)": "396713",
-            "CO2 concentraition (ppmv)": "274.7"
-        },
-        {
-            "Depth (m)": "3270.6",
-            "Age of the ice (yr BP)": "401423",
-            "Mean age of the air (yr BP)": "398554",
-            "CO2 concentraition (ppmv)": "277.1"
-        },
-        {
-            "Depth (m)": "3273.81",
-            "Age of the ice (yr BP)": "403173",
-            "Mean age of the air (yr BP)": "400390",
-            "CO2 concentraition (ppmv)": "278"
-        },
-        {
-            "Depth (m)": "3283.51",
-            "Age of the ice (yr BP)": "408236",
-            "Mean age of the air (yr BP)": "405844",
-            "CO2 concentraition (ppmv)": "279.7"
-        },
-        {
-            "Depth (m)": "3289.45",
-            "Age of the ice (yr BP)": "411202",
-            "Mean age of the air (yr BP)": "409022",
-            "CO2 concentraition (ppmv)": "281.2"
-        },
-        {
-            "Depth (m)": "3289.45",
-            "Age of the ice (yr BP)": "411202",
-            "Mean age of the air (yr BP)": "409022",
-            "CO2 concentraition (ppmv)": "283.7"
-        },
-        {
-            "Depth (m)": "3292.91",
-            "Age of the ice (yr BP)": "413010",
-            "Mean age of the air (yr BP)": "410831",
-            "CO2 concentraition (ppmv)": "276.3"
-        },
-        {
-            "Depth (m)": "3299.01",
-            "Age of the ice (yr BP)": "416332",
-            "Mean age of the air (yr BP)": "414085",
-            "CO2 concentraition (ppmv)": "285.5"
-        },
-        {
-            "Depth (m)": "3301.4",
-            "Age of the ice (yr BP)": "417638",
-            "Mean age of the air (yr BP)": "415434",
-            "CO2 concentraition (ppmv)": "286.9"
-        },
-        {
-            "Depth (m)": "3304.4",
-            "Age of the ice (yr BP)": "419328",
-            "Mean age of the air (yr BP)": "417160",
-            "CO2 concentraition (ppmv)": "277.6"
-        }
-    ]
+  "data": [
+    {
+      "Depth (m)": "149.1",
+      "Age of the ice (yr BP)": "5679",
+      "YearBP": "2342",
+      "CO2": "284.7"
+    },
+    {
+      "Depth (m)": "173.1",
+      "Age of the ice (yr BP)": "6828",
+      "YearBP": "3634",
+      "CO2": "272.8"
+    },
+    {
+      "Depth (m)": "177.4",
+      "Age of the ice (yr BP)": "7043",
+      "YearBP": "3833",
+      "CO2": "268.1"
+    },
+    {
+      "Depth (m)": "228.6",
+      "Age of the ice (yr BP)": "9523",
+      "YearBP": "6220",
+      "CO2": "262.2"
+    },
+    {
+      "Depth (m)": "250.3",
+      "Age of the ice (yr BP)": "10579",
+      "YearBP": "7327",
+      "CO2": "254.6"
+    },
+    {
+      "Depth (m)": "266",
+      "Age of the ice (yr BP)": "11334",
+      "YearBP": "8113",
+      "CO2": "259.6"
+    },
+    {
+      "Depth (m)": "302.6",
+      "Age of the ice (yr BP)": "13449",
+      "YearBP": "10123",
+      "CO2": "261.6"
+    },
+    {
+      "Depth (m)": "321.2",
+      "Age of the ice (yr BP)": "14538",
+      "YearBP": "11013",
+      "CO2": "263.7"
+    },
+    {
+      "Depth (m)": "331.6",
+      "Age of the ice (yr BP)": "15208",
+      "YearBP": "11326",
+      "CO2": "244.8"
+    },
+    {
+      "Depth (m)": "342.1",
+      "Age of the ice (yr BP)": "15922",
+      "YearBP": "11719",
+      "CO2": "238.3"
+    },
+    {
+      "Depth (m)": "365.5",
+      "Age of the ice (yr BP)": "17747",
+      "YearBP": "13405",
+      "CO2": "236.2"
+    },
+    {
+      "Depth (m)": "375.6",
+      "Age of the ice (yr BP)": "18580",
+      "YearBP": "13989",
+      "CO2": "225.3"
+    },
+    {
+      "Depth (m)": "443.5",
+      "Age of the ice (yr BP)": "24315",
+      "YearBP": "17695",
+      "CO2": "182.2"
+    },
+    {
+      "Depth (m)": "470.8",
+      "Age of the ice (yr BP)": "26578",
+      "YearBP": "19988",
+      "CO2": "189.2"
+    },
+    {
+      "Depth (m)": "506.4",
+      "Age of the ice (yr BP)": "29630",
+      "YearBP": "22977",
+      "CO2": "191.6"
+    },
+    {
+      "Depth (m)": "544.7",
+      "Age of the ice (yr BP)": "32844",
+      "YearBP": "26303",
+      "CO2": "188.5"
+    },
+    {
+      "Depth (m)": "554.2",
+      "Age of the ice (yr BP)": "33645",
+      "YearBP": "27062",
+      "CO2": "191.7"
+    },
+    {
+      "Depth (m)": "602.3",
+      "Age of the ice (yr BP)": "37421",
+      "YearBP": "31447",
+      "CO2": "205.4"
+    },
+    {
+      "Depth (m)": "625.6",
+      "Age of the ice (yr BP)": "39310",
+      "YearBP": "33884",
+      "CO2": "209.1"
+    },
+    {
+      "Depth (m)": "700.2",
+      "Age of the ice (yr BP)": "45242",
+      "YearBP": "39880",
+      "CO2": "209.1"
+    },
+    {
+      "Depth (m)": "765",
+      "Age of the ice (yr BP)": "50610",
+      "YearBP": "44766",
+      "CO2": "189.3"
+    },
+    {
+      "Depth (m)": "788.2",
+      "Age of the ice (yr BP)": "52446",
+      "YearBP": "47024",
+      "CO2": "188.4"
+    },
+    {
+      "Depth (m)": "800",
+      "Age of the ice (yr BP)": "53436",
+      "YearBP": "48229",
+      "CO2": "210.1"
+    },
+    {
+      "Depth (m)": "812.2",
+      "Age of the ice (yr BP)": "54474",
+      "YearBP": "49414",
+      "CO2": "215.7"
+    },
+    {
+      "Depth (m)": "834.8",
+      "Age of the ice (yr BP)": "56300",
+      "YearBP": "51174",
+      "CO2": "190.4"
+    },
+    {
+      "Depth (m)": "902.2",
+      "Age of the ice (yr BP)": "61783",
+      "YearBP": "57068",
+      "CO2": "221.8"
+    },
+    {
+      "Depth (m)": "912",
+      "Age of the ice (yr BP)": "62689",
+      "YearBP": "57799",
+      "CO2": "210.4"
+    },
+    {
+      "Depth (m)": "986.2",
+      "Age of the ice (yr BP)": "69618",
+      "YearBP": "63687",
+      "CO2": "195.4"
+    },
+    {
+      "Depth (m)": "1011.3",
+      "Age of the ice (yr BP)": "71767",
+      "YearBP": "65701",
+      "CO2": "191.4"
+    },
+    {
+      "Depth (m)": "1023.5",
+      "Age of the ice (yr BP)": "72797",
+      "YearBP": "66883",
+      "CO2": "195"
+    },
+    {
+      "Depth (m)": "1087.2",
+      "Age of the ice (yr BP)": "78042",
+      "YearBP": "72849",
+      "CO2": "227.4"
+    },
+    {
+      "Depth (m)": "1112.5",
+      "Age of the ice (yr BP)": "80057",
+      "YearBP": "75360",
+      "CO2": "229.2"
+    },
+    {
+      "Depth (m)": "1162.1",
+      "Age of the ice (yr BP)": "83615",
+      "YearBP": "78995",
+      "CO2": "217.1"
+    },
+    {
+      "Depth (m)": "1175",
+      "Age of the ice (yr BP)": "84515",
+      "YearBP": "80059",
+      "CO2": "221.8"
+    },
+    {
+      "Depth (m)": "1209.9",
+      "Age of the ice (yr BP)": "86840",
+      "YearBP": "82858",
+      "CO2": "231"
+    },
+    {
+      "Depth (m)": "1237.2",
+      "Age of the ice (yr BP)": "88808",
+      "YearBP": "84929",
+      "CO2": "241.1"
+    },
+    {
+      "Depth (m)": "1251.5",
+      "Age of the ice (yr BP)": "89864",
+      "YearBP": "85727",
+      "CO2": "236.4"
+    },
+    {
+      "Depth (m)": "1261.2",
+      "Age of the ice (yr BP)": "90609",
+      "YearBP": "86323",
+      "CO2": "228.1"
+    },
+    {
+      "Depth (m)": "1274.2",
+      "Age of the ice (yr BP)": "91560",
+      "YearBP": "87180",
+      "CO2": "214.2"
+    },
+    {
+      "Depth (m)": "1289.2",
+      "Age of the ice (yr BP)": "92632",
+      "YearBP": "88051",
+      "CO2": "217"
+    },
+    {
+      "Depth (m)": "1309.2",
+      "Age of the ice (yr BP)": "94039",
+      "YearBP": "89363",
+      "CO2": "208"
+    },
+    {
+      "Depth (m)": "1338.2",
+      "Age of the ice (yr BP)": "96047",
+      "YearBP": "91691",
+      "CO2": "224.3"
+    },
+    {
+      "Depth (m)": "1349",
+      "Age of the ice (yr BP)": "96791",
+      "YearBP": "92460",
+      "CO2": "228.4"
+    },
+    {
+      "Depth (m)": "1387.2",
+      "Age of the ice (yr BP)": "99498",
+      "YearBP": "95349",
+      "CO2": "232.1"
+    },
+    {
+      "Depth (m)": "1451.5",
+      "Age of the ice (yr BP)": "103733",
+      "YearBP": "99842",
+      "CO2": "225.9"
+    },
+    {
+      "Depth (m)": "1463.2",
+      "Age of the ice (yr BP)": "104566",
+      "YearBP": "100833",
+      "CO2": "230.9"
+    },
+    {
+      "Depth (m)": "1476.1",
+      "Age of the ice (yr BP)": "105492",
+      "YearBP": "101829",
+      "CO2": "236.9"
+    },
+    {
+      "Depth (m)": "1505",
+      "Age of the ice (yr BP)": "107599",
+      "YearBP": "103372",
+      "CO2": "228.2"
+    },
+    {
+      "Depth (m)": "1526.3",
+      "Age of the ice (yr BP)": "109404",
+      "YearBP": "105213",
+      "CO2": "236.9"
+    },
+    {
+      "Depth (m)": "1542.1",
+      "Age of the ice (yr BP)": "110674",
+      "YearBP": "106203",
+      "CO2": "230.7"
+    },
+    {
+      "Depth (m)": "1575.2",
+      "Age of the ice (yr BP)": "113363",
+      "YearBP": "108308",
+      "CO2": "238.2"
+    },
+    {
+      "Depth (m)": "1582.8",
+      "Age of the ice (yr BP)": "113952",
+      "YearBP": "108994",
+      "CO2": "245.7"
+    },
+    {
+      "Depth (m)": "1598",
+      "Age of the ice (yr BP)": "115077",
+      "YearBP": "110253",
+      "CO2": "251.3"
+    },
+    {
+      "Depth (m)": "1615",
+      "Age of the ice (yr BP)": "116228",
+      "YearBP": "111456",
+      "CO2": "256.8"
+    },
+    {
+      "Depth (m)": "1627.9",
+      "Age of the ice (yr BP)": "117072",
+      "YearBP": "112577",
+      "CO2": "266.3"
+    },
+    {
+      "Depth (m)": "1637.6",
+      "Age of the ice (yr BP)": "117671",
+      "YearBP": "113472",
+      "CO2": "261.4"
+    },
+    {
+      "Depth (m)": "1644",
+      "Age of the ice (yr BP)": "118074",
+      "YearBP": "114082",
+      "CO2": "274.6"
+    },
+    {
+      "Depth (m)": "1651",
+      "Age of the ice (yr BP)": "118499",
+      "YearBP": "114738",
+      "CO2": "273.3"
+    },
+    {
+      "Depth (m)": "1669.2",
+      "Age of the ice (yr BP)": "119601",
+      "YearBP": "116175",
+      "CO2": "262.5"
+    },
+    {
+      "Depth (m)": "1687.2",
+      "Age of the ice (yr BP)": "120680",
+      "YearBP": "117519",
+      "CO2": "267.6"
+    },
+    {
+      "Depth (m)": "1700.9",
+      "Age of the ice (yr BP)": "121485",
+      "YearBP": "118396",
+      "CO2": "273.8"
+    },
+    {
+      "Depth (m)": "1716",
+      "Age of the ice (yr BP)": "122345",
+      "YearBP": "119273",
+      "CO2": "272"
+    },
+    {
+      "Depth (m)": "1726.8",
+      "Age of the ice (yr BP)": "122965",
+      "YearBP": "120002",
+      "CO2": "265.2"
+    },
+    {
+      "Depth (m)": "1736.8",
+      "Age of the ice (yr BP)": "123535",
+      "YearBP": "120652",
+      "CO2": "277.7"
+    },
+    {
+      "Depth (m)": "1758.2",
+      "Age of the ice (yr BP)": "124721",
+      "YearBP": "121961",
+      "CO2": "272.2"
+    },
+    {
+      "Depth (m)": "1770",
+      "Age of the ice (yr BP)": "125380",
+      "YearBP": "122606",
+      "CO2": "276.5"
+    },
+    {
+      "Depth (m)": "1789.2",
+      "Age of the ice (yr BP)": "126447",
+      "YearBP": "123815",
+      "CO2": "268.7"
+    },
+    {
+      "Depth (m)": "1790",
+      "Age of the ice (yr BP)": "126491",
+      "YearBP": "123858",
+      "CO2": "266.6"
+    },
+    {
+      "Depth (m)": "1799",
+      "Age of the ice (yr BP)": "126955",
+      "YearBP": "124306",
+      "CO2": "266.3"
+    },
+    {
+      "Depth (m)": "1804",
+      "Age of the ice (yr BP)": "127210",
+      "YearBP": "124571",
+      "CO2": "279.8"
+    },
+    {
+      "Depth (m)": "1807",
+      "Age of the ice (yr BP)": "127360",
+      "YearBP": "124723",
+      "CO2": "273"
+    },
+    {
+      "Depth (m)": "1810",
+      "Age of the ice (yr BP)": "127510",
+      "YearBP": "124876",
+      "CO2": "277.2"
+    },
+    {
+      "Depth (m)": "1825.7",
+      "Age of the ice (yr BP)": "128293",
+      "YearBP": "125746",
+      "CO2": "273.8"
+    },
+    {
+      "Depth (m)": "1830",
+      "Age of the ice (yr BP)": "128501",
+      "YearBP": "126023",
+      "CO2": "267.1"
+    },
+    {
+      "Depth (m)": "1836",
+      "Age of the ice (yr BP)": "128804",
+      "YearBP": "126475",
+      "CO2": "262.5"
+    },
+    {
+      "Depth (m)": "1841.6",
+      "Age of the ice (yr BP)": "129097",
+      "YearBP": "126809",
+      "CO2": "262.6"
+    },
+    {
+      "Depth (m)": "1852.4",
+      "Age of the ice (yr BP)": "129674",
+      "YearBP": "127445",
+      "CO2": "275.4"
+    },
+    {
+      "Depth (m)": "1859",
+      "Age of the ice (yr BP)": "130026",
+      "YearBP": "127808",
+      "CO2": "275.6"
+    },
+    {
+      "Depth (m)": "1869.3",
+      "Age of the ice (yr BP)": "130599",
+      "YearBP": "128300",
+      "CO2": "274.1"
+    },
+    {
+      "Depth (m)": "1870.2",
+      "Age of the ice (yr BP)": "130653",
+      "YearBP": "128399",
+      "CO2": "287.1"
+    },
+    {
+      "Depth (m)": "1875.9",
+      "Age of the ice (yr BP)": "130998",
+      "YearBP": "128652",
+      "CO2": "286.8"
+    },
+    {
+      "Depth (m)": "1882.5",
+      "Age of the ice (yr BP)": "131406",
+      "YearBP": "129007",
+      "CO2": "282.7"
+    },
+    {
+      "Depth (m)": "1890",
+      "Age of the ice (yr BP)": "131908",
+      "YearBP": "129411",
+      "CO2": "264.1"
+    },
+    {
+      "Depth (m)": "1895",
+      "Age of the ice (yr BP)": "132264",
+      "YearBP": "129755",
+      "CO2": "263.4"
+    },
+    {
+      "Depth (m)": "1902",
+      "Age of the ice (yr BP)": "132763",
+      "YearBP": "130106",
+      "CO2": "257.9"
+    },
+    {
+      "Depth (m)": "1903.5",
+      "Age of the ice (yr BP)": "132873",
+      "YearBP": "130167",
+      "CO2": "259"
+    },
+    {
+      "Depth (m)": "1919",
+      "Age of the ice (yr BP)": "134091",
+      "YearBP": "130992",
+      "CO2": "264.6"
+    },
+    {
+      "Depth (m)": "1930",
+      "Age of the ice (yr BP)": "135107",
+      "YearBP": "131661",
+      "CO2": "245"
+    },
+    {
+      "Depth (m)": "1932",
+      "Age of the ice (yr BP)": "135308",
+      "YearBP": "131789",
+      "CO2": "240.4"
+    },
+    {
+      "Depth (m)": "1936",
+      "Age of the ice (yr BP)": "135702",
+      "YearBP": "132067",
+      "CO2": "228.9"
+    },
+    {
+      "Depth (m)": "1947",
+      "Age of the ice (yr BP)": "136819",
+      "YearBP": "132818",
+      "CO2": "223.5"
+    },
+    {
+      "Depth (m)": "1954.5",
+      "Age of the ice (yr BP)": "137601",
+      "YearBP": "133334",
+      "CO2": "224"
+    },
+    {
+      "Depth (m)": "1955",
+      "Age of the ice (yr BP)": "137651",
+      "YearBP": "133366",
+      "CO2": "220.3"
+    },
+    {
+      "Depth (m)": "1960",
+      "Age of the ice (yr BP)": "138193",
+      "YearBP": "133636",
+      "CO2": "210.6"
+    },
+    {
+      "Depth (m)": "1969.8",
+      "Age of the ice (yr BP)": "139285",
+      "YearBP": "134205",
+      "CO2": "208.9"
+    },
+    {
+      "Depth (m)": "1972",
+      "Age of the ice (yr BP)": "139530",
+      "YearBP": "134362",
+      "CO2": "203.7"
+    },
+    {
+      "Depth (m)": "1980.2",
+      "Age of the ice (yr BP)": "140452",
+      "YearBP": "135003",
+      "CO2": "204.6"
+    },
+    {
+      "Depth (m)": "1982",
+      "Age of the ice (yr BP)": "140655",
+      "YearBP": "135172",
+      "CO2": "200.4"
+    },
+    {
+      "Depth (m)": "1983",
+      "Age of the ice (yr BP)": "140766",
+      "YearBP": "135271",
+      "CO2": "198"
+    },
+    {
+      "Depth (m)": "1987.4",
+      "Age of the ice (yr BP)": "141257",
+      "YearBP": "135683",
+      "CO2": "198.1"
+    },
+    {
+      "Depth (m)": "1990.6",
+      "Age of the ice (yr BP)": "141615",
+      "YearBP": "135976",
+      "CO2": "201.8"
+    },
+    {
+      "Depth (m)": "1992",
+      "Age of the ice (yr BP)": "141773",
+      "YearBP": "136099",
+      "CO2": "200.7"
+    },
+    {
+      "Depth (m)": "1994.6",
+      "Age of the ice (yr BP)": "142064",
+      "YearBP": "136359",
+      "CO2": "202.5"
+    },
+    {
+      "Depth (m)": "1998",
+      "Age of the ice (yr BP)": "142440",
+      "YearBP": "136659",
+      "CO2": "195.9"
+    },
+    {
+      "Depth (m)": "1999",
+      "Age of the ice (yr BP)": "142551",
+      "YearBP": "136743",
+      "CO2": "201.1"
+    },
+    {
+      "Depth (m)": "2005.8",
+      "Age of the ice (yr BP)": "143315",
+      "YearBP": "137383",
+      "CO2": "194.4"
+    },
+    {
+      "Depth (m)": "2009.5",
+      "Age of the ice (yr BP)": "143732",
+      "YearBP": "137694",
+      "CO2": "193.4"
+    },
+    {
+      "Depth (m)": "2013",
+      "Age of the ice (yr BP)": "144126",
+      "YearBP": "137986",
+      "CO2": "194.2"
+    },
+    {
+      "Depth (m)": "2015",
+      "Age of the ice (yr BP)": "144346",
+      "YearBP": "138226",
+      "CO2": "190.2"
+    },
+    {
+      "Depth (m)": "2025.7",
+      "Age of the ice (yr BP)": "145527",
+      "YearBP": "139445",
+      "CO2": "192.3"
+    },
+    {
+      "Depth (m)": "2029",
+      "Age of the ice (yr BP)": "145905",
+      "YearBP": "139851",
+      "CO2": "196.5"
+    },
+    {
+      "Depth (m)": "2041",
+      "Age of the ice (yr BP)": "147236",
+      "YearBP": "141256",
+      "CO2": "195.6"
+    },
+    {
+      "Depth (m)": "2041.5",
+      "Age of the ice (yr BP)": "147292",
+      "YearBP": "141312",
+      "CO2": "196.5"
+    },
+    {
+      "Depth (m)": "2050.3",
+      "Age of the ice (yr BP)": "148287",
+      "YearBP": "142357",
+      "CO2": "190.4"
+    },
+    {
+      "Depth (m)": "2077.5",
+      "Age of the ice (yr BP)": "151234",
+      "YearBP": "145435",
+      "CO2": "197"
+    },
+    {
+      "Depth (m)": "2107.05",
+      "Age of the ice (yr BP)": "154557",
+      "YearBP": "149157",
+      "CO2": "203"
+    },
+    {
+      "Depth (m)": "2116",
+      "Age of the ice (yr BP)": "155625",
+      "YearBP": "150303",
+      "CO2": "191.9"
+    },
+    {
+      "Depth (m)": "2117",
+      "Age of the ice (yr BP)": "155743",
+      "YearBP": "150423",
+      "CO2": "188.9"
+    },
+    {
+      "Depth (m)": "2131.1",
+      "Age of the ice (yr BP)": "157456",
+      "YearBP": "151854",
+      "CO2": "200.6"
+    },
+    {
+      "Depth (m)": "2157",
+      "Age of the ice (yr BP)": "160293",
+      "YearBP": "154471",
+      "CO2": "189"
+    },
+    {
+      "Depth (m)": "2164",
+      "Age of the ice (yr BP)": "161077",
+      "YearBP": "155299",
+      "CO2": "185.5"
+    },
+    {
+      "Depth (m)": "2167.2",
+      "Age of the ice (yr BP)": "161451",
+      "YearBP": "155707",
+      "CO2": "187.5"
+    },
+    {
+      "Depth (m)": "2203",
+      "Age of the ice (yr BP)": "165646",
+      "YearBP": "160494",
+      "CO2": "204.4"
+    },
+    {
+      "Depth (m)": "2207.3",
+      "Age of the ice (yr BP)": "166193",
+      "YearBP": "161037",
+      "CO2": "196.5"
+    },
+    {
+      "Depth (m)": "2225",
+      "Age of the ice (yr BP)": "168391",
+      "YearBP": "162996",
+      "CO2": "191.6"
+    },
+    {
+      "Depth (m)": "2231.1",
+      "Age of the ice (yr BP)": "169094",
+      "YearBP": "163522",
+      "CO2": "190.1"
+    },
+    {
+      "Depth (m)": "2240.1",
+      "Age of the ice (yr BP)": "170119",
+      "YearBP": "164341",
+      "CO2": "186.7"
+    },
+    {
+      "Depth (m)": "2247",
+      "Age of the ice (yr BP)": "170922",
+      "YearBP": "165278",
+      "CO2": "183.8"
+    },
+    {
+      "Depth (m)": "2254.1",
+      "Age of the ice (yr BP)": "171766",
+      "YearBP": "166299",
+      "CO2": "196.5"
+    },
+    {
+      "Depth (m)": "2280",
+      "Age of the ice (yr BP)": "174920",
+      "YearBP": "169870",
+      "CO2": "197.9"
+    },
+    {
+      "Depth (m)": "2302",
+      "Age of the ice (yr BP)": "177644",
+      "YearBP": "172596",
+      "CO2": "197.8"
+    },
+    {
+      "Depth (m)": "2316.1",
+      "Age of the ice (yr BP)": "179474",
+      "YearBP": "174617",
+      "CO2": "196"
+    },
+    {
+      "Depth (m)": "2325",
+      "Age of the ice (yr BP)": "180546",
+      "YearBP": "175440",
+      "CO2": "190.3"
+    },
+    {
+      "Depth (m)": "2331.1",
+      "Age of the ice (yr BP)": "181265",
+      "YearBP": "176030",
+      "CO2": "189.4"
+    },
+    {
+      "Depth (m)": "2333",
+      "Age of the ice (yr BP)": "181502",
+      "YearBP": "176271",
+      "CO2": "190.1"
+    },
+    {
+      "Depth (m)": "2348",
+      "Age of the ice (yr BP)": "183525",
+      "YearBP": "178550",
+      "CO2": "207.7"
+    },
+    {
+      "Depth (m)": "2363",
+      "Age of the ice (yr BP)": "185640",
+      "YearBP": "180779",
+      "CO2": "213.2"
+    },
+    {
+      "Depth (m)": "2372",
+      "Age of the ice (yr BP)": "186927",
+      "YearBP": "181617",
+      "CO2": "217.7"
+    },
+    {
+      "Depth (m)": "2379.2",
+      "Age of the ice (yr BP)": "187934",
+      "YearBP": "182447",
+      "CO2": "198.1"
+    },
+    {
+      "Depth (m)": "2386",
+      "Age of the ice (yr BP)": "188892",
+      "YearBP": "183355",
+      "CO2": "199.8"
+    },
+    {
+      "Depth (m)": "2399",
+      "Age of the ice (yr BP)": "190587",
+      "YearBP": "185063",
+      "CO2": "203.5"
+    },
+    {
+      "Depth (m)": "2414",
+      "Age of the ice (yr BP)": "192382",
+      "YearBP": "187199",
+      "CO2": "210.7"
+    },
+    {
+      "Depth (m)": "2425",
+      "Age of the ice (yr BP)": "193816",
+      "YearBP": "189335",
+      "CO2": "231.4"
+    },
+    {
+      "Depth (m)": "2437",
+      "Age of the ice (yr BP)": "195298",
+      "YearBP": "191057",
+      "CO2": "231.5"
+    },
+    {
+      "Depth (m)": "2442.1",
+      "Age of the ice (yr BP)": "195947",
+      "YearBP": "191592",
+      "CO2": "220.3"
+    },
+    {
+      "Depth (m)": "2451",
+      "Age of the ice (yr BP)": "197086",
+      "YearBP": "192632",
+      "CO2": "218"
+    },
+    {
+      "Depth (m)": "2470.3",
+      "Age of the ice (yr BP)": "199372",
+      "YearBP": "195123",
+      "CO2": "226.5"
+    },
+    {
+      "Depth (m)": "2475",
+      "Age of the ice (yr BP)": "199904",
+      "YearBP": "195625",
+      "CO2": "220.1"
+    },
+    {
+      "Depth (m)": "2488.1",
+      "Age of the ice (yr BP)": "201324",
+      "YearBP": "197567",
+      "CO2": "226.4"
+    },
+    {
+      "Depth (m)": "2494.1",
+      "Age of the ice (yr BP)": "201968",
+      "YearBP": "198442",
+      "CO2": "241.2"
+    },
+    {
+      "Depth (m)": "2499",
+      "Age of the ice (yr BP)": "202496",
+      "YearBP": "199025",
+      "CO2": "242.6"
+    },
+    {
+      "Depth (m)": "2525",
+      "Age of the ice (yr BP)": "205458",
+      "YearBP": "202212",
+      "CO2": "251"
+    },
+    {
+      "Depth (m)": "2533",
+      "Age of the ice (yr BP)": "206496",
+      "YearBP": "203191",
+      "CO2": "239.1"
+    },
+    {
+      "Depth (m)": "2543",
+      "Age of the ice (yr BP)": "207803",
+      "YearBP": "204283",
+      "CO2": "247.7"
+    },
+    {
+      "Depth (m)": "2552.01",
+      "Age of the ice (yr BP)": "208947",
+      "YearBP": "205148",
+      "CO2": "244.4"
+    },
+    {
+      "Depth (m)": "2554.9",
+      "Age of the ice (yr BP)": "209307",
+      "YearBP": "205435",
+      "CO2": "231.9"
+    },
+    {
+      "Depth (m)": "2557.71",
+      "Age of the ice (yr BP)": "209648",
+      "YearBP": "205715",
+      "CO2": "232.2"
+    },
+    {
+      "Depth (m)": "2560.91",
+      "Age of the ice (yr BP)": "210053",
+      "YearBP": "206119",
+      "CO2": "228.7"
+    },
+    {
+      "Depth (m)": "2564.9",
+      "Age of the ice (yr BP)": "210525",
+      "YearBP": "206672",
+      "CO2": "226.3"
+    },
+    {
+      "Depth (m)": "2567.5",
+      "Age of the ice (yr BP)": "210837",
+      "YearBP": "207029",
+      "CO2": "229.4"
+    },
+    {
+      "Depth (m)": "2570.4",
+      "Age of the ice (yr BP)": "211175",
+      "YearBP": "207412",
+      "CO2": "231.4"
+    },
+    {
+      "Depth (m)": "2574.21",
+      "Age of the ice (yr BP)": "211628",
+      "YearBP": "207991",
+      "CO2": "238.2"
+    },
+    {
+      "Depth (m)": "2575.5",
+      "Age of the ice (yr BP)": "211781",
+      "YearBP": "208177",
+      "CO2": "237.2"
+    },
+    {
+      "Depth (m)": "2579.9",
+      "Age of the ice (yr BP)": "212295",
+      "YearBP": "208794",
+      "CO2": "230"
+    },
+    {
+      "Depth (m)": "2581.9",
+      "Age of the ice (yr BP)": "212528",
+      "YearBP": "209073",
+      "CO2": "240.5"
+    },
+    {
+      "Depth (m)": "2584.71",
+      "Age of the ice (yr BP)": "212846",
+      "YearBP": "209414",
+      "CO2": "242.2"
+    },
+    {
+      "Depth (m)": "2588.81",
+      "Age of the ice (yr BP)": "213315",
+      "YearBP": "210022",
+      "CO2": "244.6"
+    },
+    {
+      "Depth (m)": "2590.4",
+      "Age of the ice (yr BP)": "213500",
+      "YearBP": "210232",
+      "CO2": "243.9"
+    },
+    {
+      "Depth (m)": "2595.11",
+      "Age of the ice (yr BP)": "214036",
+      "YearBP": "210830",
+      "CO2": "247.3"
+    },
+    {
+      "Depth (m)": "2596.71",
+      "Age of the ice (yr BP)": "214219",
+      "YearBP": "211005",
+      "CO2": "252"
+    },
+    {
+      "Depth (m)": "2600.4",
+      "Age of the ice (yr BP)": "214639",
+      "YearBP": "211476",
+      "CO2": "246.9"
+    },
+    {
+      "Depth (m)": "2603.7",
+      "Age of the ice (yr BP)": "215012",
+      "YearBP": "211929",
+      "CO2": "239.5"
+    },
+    {
+      "Depth (m)": "2606.61",
+      "Age of the ice (yr BP)": "215343",
+      "YearBP": "212281",
+      "CO2": "257.4"
+    },
+    {
+      "Depth (m)": "2612.5",
+      "Age of the ice (yr BP)": "216014",
+      "YearBP": "213005",
+      "CO2": "243.4"
+    },
+    {
+      "Depth (m)": "2621.71",
+      "Age of the ice (yr BP)": "217099",
+      "YearBP": "214153",
+      "CO2": "251.2"
+    },
+    {
+      "Depth (m)": "2629.41",
+      "Age of the ice (yr BP)": "217989",
+      "YearBP": "215041",
+      "CO2": "241.4"
+    },
+    {
+      "Depth (m)": "2634.41",
+      "Age of the ice (yr BP)": "218602",
+      "YearBP": "215593",
+      "CO2": "240.3"
+    },
+    {
+      "Depth (m)": "2636.71",
+      "Age of the ice (yr BP)": "218908",
+      "YearBP": "215879",
+      "CO2": "242.7"
+    },
+    {
+      "Depth (m)": "2640.41",
+      "Age of the ice (yr BP)": "219393",
+      "YearBP": "216459",
+      "CO2": "247.5"
+    },
+    {
+      "Depth (m)": "2644.41",
+      "Age of the ice (yr BP)": "219935",
+      "YearBP": "217009",
+      "CO2": "251.7"
+    },
+    {
+      "Depth (m)": "2646.61",
+      "Age of the ice (yr BP)": "220255",
+      "YearBP": "217271",
+      "CO2": "251.2"
+    },
+    {
+      "Depth (m)": "2649.4",
+      "Age of the ice (yr BP)": "220680",
+      "YearBP": "217574",
+      "CO2": "245.3"
+    },
+    {
+      "Depth (m)": "2650.41",
+      "Age of the ice (yr BP)": "220822",
+      "YearBP": "217676",
+      "CO2": "245.4"
+    },
+    {
+      "Depth (m)": "2656.21",
+      "Age of the ice (yr BP)": "221718",
+      "YearBP": "218342",
+      "CO2": "240.5"
+    },
+    {
+      "Depth (m)": "2666.7",
+      "Age of the ice (yr BP)": "223548",
+      "YearBP": "219679",
+      "CO2": "214.1"
+    },
+    {
+      "Depth (m)": "2666.71",
+      "Age of the ice (yr BP)": "223548",
+      "YearBP": "219680",
+      "CO2": "212.2"
+    },
+    {
+      "Depth (m)": "2669.4",
+      "Age of the ice (yr BP)": "224102",
+      "YearBP": "220042",
+      "CO2": "216.1"
+    },
+    {
+      "Depth (m)": "2670.41",
+      "Age of the ice (yr BP)": "224240",
+      "YearBP": "220182",
+      "CO2": "216.2"
+    },
+    {
+      "Depth (m)": "2674.6",
+      "Age of the ice (yr BP)": "224993",
+      "YearBP": "220758",
+      "CO2": "203.7"
+    },
+    {
+      "Depth (m)": "2674.61",
+      "Age of the ice (yr BP)": "224993",
+      "YearBP": "220760",
+      "CO2": "207.2"
+    },
+    {
+      "Depth (m)": "2677.41",
+      "Age of the ice (yr BP)": "225469",
+      "YearBP": "221054",
+      "CO2": "208.9"
+    },
+    {
+      "Depth (m)": "2682.61",
+      "Age of the ice (yr BP)": "226339",
+      "YearBP": "221612",
+      "CO2": "205.7"
+    },
+    {
+      "Depth (m)": "2691.01",
+      "Age of the ice (yr BP)": "227885",
+      "YearBP": "222958",
+      "CO2": "203.4"
+    },
+    {
+      "Depth (m)": "2693.61",
+      "Age of the ice (yr BP)": "228349",
+      "YearBP": "223446",
+      "CO2": "215.7"
+    },
+    {
+      "Depth (m)": "2698.01",
+      "Age of the ice (yr BP)": "229167",
+      "YearBP": "224630",
+      "CO2": "236.9"
+    },
+    {
+      "Depth (m)": "2701.41",
+      "Age of the ice (yr BP)": "229802",
+      "YearBP": "225299",
+      "CO2": "234.5"
+    },
+    {
+      "Depth (m)": "2702.71",
+      "Age of the ice (yr BP)": "230039",
+      "YearBP": "225509",
+      "CO2": "233.1"
+    },
+    {
+      "Depth (m)": "2705.61",
+      "Age of the ice (yr BP)": "230547",
+      "YearBP": "225888",
+      "CO2": "224.5"
+    },
+    {
+      "Depth (m)": "2711.71",
+      "Age of the ice (yr BP)": "231601",
+      "YearBP": "226710",
+      "CO2": "232.4"
+    },
+    {
+      "Depth (m)": "2715.41",
+      "Age of the ice (yr BP)": "232206",
+      "YearBP": "227384",
+      "CO2": "233.9"
+    },
+    {
+      "Depth (m)": "2717.71",
+      "Age of the ice (yr BP)": "232571",
+      "YearBP": "227840",
+      "CO2": "241.7"
+    },
+    {
+      "Depth (m)": "2732.71",
+      "Age of the ice (yr BP)": "234795",
+      "YearBP": "230703",
+      "CO2": "245.2"
+    },
+    {
+      "Depth (m)": "2735.71",
+      "Age of the ice (yr BP)": "235232",
+      "YearBP": "231382",
+      "CO2": "252.1"
+    },
+    {
+      "Depth (m)": "2738.71",
+      "Age of the ice (yr BP)": "235652",
+      "YearBP": "231990",
+      "CO2": "241.4"
+    },
+    {
+      "Depth (m)": "2741.71",
+      "Age of the ice (yr BP)": "236077",
+      "YearBP": "232570",
+      "CO2": "247.4"
+    },
+    {
+      "Depth (m)": "2744.61",
+      "Age of the ice (yr BP)": "236467",
+      "YearBP": "233102",
+      "CO2": "243.1"
+    },
+    {
+      "Depth (m)": "2747.61",
+      "Age of the ice (yr BP)": "236866",
+      "YearBP": "233646",
+      "CO2": "239.2"
+    },
+    {
+      "Depth (m)": "2751.11",
+      "Age of the ice (yr BP)": "237301",
+      "YearBP": "234126",
+      "CO2": "245.7"
+    },
+    {
+      "Depth (m)": "2753.61",
+      "Age of the ice (yr BP)": "237602",
+      "YearBP": "234470",
+      "CO2": "245.9"
+    },
+    {
+      "Depth (m)": "2756.21",
+      "Age of the ice (yr BP)": "237889",
+      "YearBP": "234781",
+      "CO2": "247.4"
+    },
+    {
+      "Depth (m)": "2759.11",
+      "Age of the ice (yr BP)": "238206",
+      "YearBP": "235213",
+      "CO2": "252.9"
+    },
+    {
+      "Depth (m)": "2765.21",
+      "Age of the ice (yr BP)": "238908",
+      "YearBP": "236236",
+      "CO2": "259.8"
+    },
+    {
+      "Depth (m)": "2768.2",
+      "Age of the ice (yr BP)": "239273",
+      "YearBP": "236851",
+      "CO2": "263.2"
+    },
+    {
+      "Depth (m)": "2773.51",
+      "Age of the ice (yr BP)": "240006",
+      "YearBP": "237831",
+      "CO2": "279"
+    },
+    {
+      "Depth (m)": "2776.5",
+      "Age of the ice (yr BP)": "240467",
+      "YearBP": "238199",
+      "CO2": "280.3"
+    },
+    {
+      "Depth (m)": "2782.71",
+      "Age of the ice (yr BP)": "241535",
+      "YearBP": "238935",
+      "CO2": "263.8"
+    },
+    {
+      "Depth (m)": "2785.51",
+      "Age of the ice (yr BP)": "242092",
+      "YearBP": "239250",
+      "CO2": "252.4"
+    },
+    {
+      "Depth (m)": "2788.51",
+      "Age of the ice (yr BP)": "242675",
+      "YearBP": "239545",
+      "CO2": "249.9"
+    },
+    {
+      "Depth (m)": "2791.5",
+      "Age of the ice (yr BP)": "243237",
+      "YearBP": "239866",
+      "CO2": "236.7"
+    },
+    {
+      "Depth (m)": "2794.51",
+      "Age of the ice (yr BP)": "243813",
+      "YearBP": "240201",
+      "CO2": "230.4"
+    },
+    {
+      "Depth (m)": "2797.51",
+      "Age of the ice (yr BP)": "244446",
+      "YearBP": "240577",
+      "CO2": "219.4"
+    },
+    {
+      "Depth (m)": "2806.51",
+      "Age of the ice (yr BP)": "246379",
+      "YearBP": "242068",
+      "CO2": "214.7"
+    },
+    {
+      "Depth (m)": "2815.61",
+      "Age of the ice (yr BP)": "248364",
+      "YearBP": "243653",
+      "CO2": "200.2"
+    },
+    {
+      "Depth (m)": "2818.61",
+      "Age of the ice (yr BP)": "249046",
+      "YearBP": "244215",
+      "CO2": "213.9"
+    },
+    {
+      "Depth (m)": "2821.51",
+      "Age of the ice (yr BP)": "249670",
+      "YearBP": "244863",
+      "CO2": "195.4"
+    },
+    {
+      "Depth (m)": "2824.51",
+      "Age of the ice (yr BP)": "250309",
+      "YearBP": "245483",
+      "CO2": "196.7"
+    },
+    {
+      "Depth (m)": "2827.5",
+      "Age of the ice (yr BP)": "250920",
+      "YearBP": "246090",
+      "CO2": "195.4"
+    },
+    {
+      "Depth (m)": "2833.81",
+      "Age of the ice (yr BP)": "252279",
+      "YearBP": "247447",
+      "CO2": "199"
+    },
+    {
+      "Depth (m)": "2836.51",
+      "Age of the ice (yr BP)": "252879",
+      "YearBP": "248087",
+      "CO2": "201.9"
+    },
+    {
+      "Depth (m)": "2839.51",
+      "Age of the ice (yr BP)": "253559",
+      "YearBP": "248980",
+      "CO2": "204"
+    },
+    {
+      "Depth (m)": "2845.51",
+      "Age of the ice (yr BP)": "254873",
+      "YearBP": "250461",
+      "CO2": "203.9"
+    },
+    {
+      "Depth (m)": "2851.51",
+      "Age of the ice (yr BP)": "256182",
+      "YearBP": "251521",
+      "CO2": "209.7"
+    },
+    {
+      "Depth (m)": "2854.4",
+      "Age of the ice (yr BP)": "256858",
+      "YearBP": "252174",
+      "CO2": "205.7"
+    },
+    {
+      "Depth (m)": "2857.51",
+      "Age of the ice (yr BP)": "257604",
+      "YearBP": "252959",
+      "CO2": "208.9"
+    },
+    {
+      "Depth (m)": "2860.51",
+      "Age of the ice (yr BP)": "258351",
+      "YearBP": "253880",
+      "CO2": "214.7"
+    },
+    {
+      "Depth (m)": "2866.51",
+      "Age of the ice (yr BP)": "259882",
+      "YearBP": "255233",
+      "CO2": "228.2"
+    },
+    {
+      "Depth (m)": "2870.51",
+      "Age of the ice (yr BP)": "260936",
+      "YearBP": "256053",
+      "CO2": "199.9"
+    },
+    {
+      "Depth (m)": "2872.71",
+      "Age of the ice (yr BP)": "261526",
+      "YearBP": "256501",
+      "CO2": "211.7"
+    },
+    {
+      "Depth (m)": "2876.21",
+      "Age of the ice (yr BP)": "262455",
+      "YearBP": "257247",
+      "CO2": "188.7"
+    },
+    {
+      "Depth (m)": "2878.5",
+      "Age of the ice (yr BP)": "263067",
+      "YearBP": "257792",
+      "CO2": "187.2"
+    },
+    {
+      "Depth (m)": "2881.42",
+      "Age of the ice (yr BP)": "263844",
+      "YearBP": "258477",
+      "CO2": "194.2"
+    },
+    {
+      "Depth (m)": "2884.51",
+      "Age of the ice (yr BP)": "264666",
+      "YearBP": "259228",
+      "CO2": "198.9"
+    },
+    {
+      "Depth (m)": "2887.51",
+      "Age of the ice (yr BP)": "265457",
+      "YearBP": "259958",
+      "CO2": "184.7"
+    },
+    {
+      "Depth (m)": "2890.51",
+      "Age of the ice (yr BP)": "266255",
+      "YearBP": "260754",
+      "CO2": "190.4"
+    },
+    {
+      "Depth (m)": "2893.51",
+      "Age of the ice (yr BP)": "267039",
+      "YearBP": "261595",
+      "CO2": "193.9"
+    },
+    {
+      "Depth (m)": "2896.51",
+      "Age of the ice (yr BP)": "267825",
+      "YearBP": "262411",
+      "CO2": "194.2"
+    },
+    {
+      "Depth (m)": "2899.51",
+      "Age of the ice (yr BP)": "268558",
+      "YearBP": "263207",
+      "CO2": "198.4"
+    },
+    {
+      "Depth (m)": "2902.51",
+      "Age of the ice (yr BP)": "269307",
+      "YearBP": "264046",
+      "CO2": "193.2"
+    },
+    {
+      "Depth (m)": "2905.51",
+      "Age of the ice (yr BP)": "270052",
+      "YearBP": "264834",
+      "CO2": "202.2"
+    },
+    {
+      "Depth (m)": "2908.5",
+      "Age of the ice (yr BP)": "270770",
+      "YearBP": "265703",
+      "CO2": "204.5"
+    },
+    {
+      "Depth (m)": "2911.46",
+      "Age of the ice (yr BP)": "271454",
+      "YearBP": "266492",
+      "CO2": "211"
+    },
+    {
+      "Depth (m)": "2914.51",
+      "Age of the ice (yr BP)": "272171",
+      "YearBP": "267434",
+      "CO2": "215.4"
+    },
+    {
+      "Depth (m)": "2919.41",
+      "Age of the ice (yr BP)": "273256",
+      "YearBP": "268679",
+      "CO2": "223.7"
+    },
+    {
+      "Depth (m)": "2926.51",
+      "Age of the ice (yr BP)": "274802",
+      "YearBP": "270680",
+      "CO2": "231.4"
+    },
+    {
+      "Depth (m)": "2932.5",
+      "Age of the ice (yr BP)": "276091",
+      "YearBP": "272275",
+      "CO2": "228"
+    },
+    {
+      "Depth (m)": "2935.51",
+      "Age of the ice (yr BP)": "276731",
+      "YearBP": "273012",
+      "CO2": "226.4"
+    },
+    {
+      "Depth (m)": "2939.3",
+      "Age of the ice (yr BP)": "277526",
+      "YearBP": "273910",
+      "CO2": "231.4"
+    },
+    {
+      "Depth (m)": "2941.51",
+      "Age of the ice (yr BP)": "278017",
+      "YearBP": "274445",
+      "CO2": "230.4"
+    },
+    {
+      "Depth (m)": "2944.51",
+      "Age of the ice (yr BP)": "278711",
+      "YearBP": "275218",
+      "CO2": "231"
+    },
+    {
+      "Depth (m)": "2953.5",
+      "Age of the ice (yr BP)": "280944",
+      "YearBP": "277298",
+      "CO2": "234.9"
+    },
+    {
+      "Depth (m)": "2956.51",
+      "Age of the ice (yr BP)": "281740",
+      "YearBP": "277925",
+      "CO2": "220.4"
+    },
+    {
+      "Depth (m)": "2959.51",
+      "Age of the ice (yr BP)": "282539",
+      "YearBP": "278602",
+      "CO2": "217.2"
+    },
+    {
+      "Depth (m)": "2964.51",
+      "Age of the ice (yr BP)": "283810",
+      "YearBP": "279543",
+      "CO2": "207.7"
+    },
+    {
+      "Depth (m)": "2967.5",
+      "Age of the ice (yr BP)": "284656",
+      "YearBP": "280361",
+      "CO2": "206"
+    },
+    {
+      "Depth (m)": "2970.5",
+      "Age of the ice (yr BP)": "285549",
+      "YearBP": "281200",
+      "CO2": "206.7"
+    },
+    {
+      "Depth (m)": "2973.81",
+      "Age of the ice (yr BP)": "286475",
+      "YearBP": "282301",
+      "CO2": "212.7"
+    },
+    {
+      "Depth (m)": "2979.51",
+      "Age of the ice (yr BP)": "288013",
+      "YearBP": "283492",
+      "CO2": "213.2"
+    },
+    {
+      "Depth (m)": "2986",
+      "Age of the ice (yr BP)": "289826",
+      "YearBP": "285301",
+      "CO2": "217.1"
+    },
+    {
+      "Depth (m)": "2988.61",
+      "Age of the ice (yr BP)": "290554",
+      "YearBP": "286217",
+      "CO2": "224.4"
+    },
+    {
+      "Depth (m)": "2991.5",
+      "Age of the ice (yr BP)": "291328",
+      "YearBP": "287102",
+      "CO2": "231"
+    },
+    {
+      "Depth (m)": "2994.51",
+      "Age of the ice (yr BP)": "292121",
+      "YearBP": "287846",
+      "CO2": "236.2"
+    },
+    {
+      "Depth (m)": "2997.5",
+      "Age of the ice (yr BP)": "292855",
+      "YearBP": "288492",
+      "CO2": "239"
+    },
+    {
+      "Depth (m)": "3000.4",
+      "Age of the ice (yr BP)": "293610",
+      "YearBP": "289433",
+      "CO2": "236"
+    },
+    {
+      "Depth (m)": "3003.51",
+      "Age of the ice (yr BP)": "294495",
+      "YearBP": "290571",
+      "CO2": "240.2"
+    },
+    {
+      "Depth (m)": "3007.01",
+      "Age of the ice (yr BP)": "295477",
+      "YearBP": "291769",
+      "CO2": "240.7"
+    },
+    {
+      "Depth (m)": "3009.51",
+      "Age of the ice (yr BP)": "296158",
+      "YearBP": "292474",
+      "CO2": "250.2"
+    },
+    {
+      "Depth (m)": "3012.5",
+      "Age of the ice (yr BP)": "296982",
+      "YearBP": "293002",
+      "CO2": "248.6"
+    },
+    {
+      "Depth (m)": "3015.51",
+      "Age of the ice (yr BP)": "297810",
+      "YearBP": "293676",
+      "CO2": "244.9"
+    },
+    {
+      "Depth (m)": "3018.51",
+      "Age of the ice (yr BP)": "298623",
+      "YearBP": "294615",
+      "CO2": "225.9"
+    },
+    {
+      "Depth (m)": "3022.71",
+      "Age of the ice (yr BP)": "299716",
+      "YearBP": "295849",
+      "CO2": "227.9"
+    },
+    {
+      "Depth (m)": "3024.9",
+      "Age of the ice (yr BP)": "300267",
+      "YearBP": "296380",
+      "CO2": "226.2"
+    },
+    {
+      "Depth (m)": "3027.51",
+      "Age of the ice (yr BP)": "300928",
+      "YearBP": "297131",
+      "CO2": "233.2"
+    },
+    {
+      "Depth (m)": "3030.41",
+      "Age of the ice (yr BP)": "301665",
+      "YearBP": "298051",
+      "CO2": "237.9"
+    },
+    {
+      "Depth (m)": "3033.51",
+      "Age of the ice (yr BP)": "302452",
+      "YearBP": "299020",
+      "CO2": "239"
+    },
+    {
+      "Depth (m)": "3036.51",
+      "Age of the ice (yr BP)": "303201",
+      "YearBP": "299877",
+      "CO2": "241.9"
+    },
+    {
+      "Depth (m)": "3039.51",
+      "Age of the ice (yr BP)": "303939",
+      "YearBP": "300646",
+      "CO2": "251.7"
+    },
+    {
+      "Depth (m)": "3042.51",
+      "Age of the ice (yr BP)": "304745",
+      "YearBP": "301496",
+      "CO2": "256.8"
+    },
+    {
+      "Depth (m)": "3045.51",
+      "Age of the ice (yr BP)": "305612",
+      "YearBP": "302456",
+      "CO2": "257.2"
+    },
+    {
+      "Depth (m)": "3048.56",
+      "Age of the ice (yr BP)": "306561",
+      "YearBP": "303334",
+      "CO2": "246.9"
+    },
+    {
+      "Depth (m)": "3051.51",
+      "Age of the ice (yr BP)": "307464",
+      "YearBP": "303953",
+      "CO2": "272.7"
+    },
+    {
+      "Depth (m)": "3054.51",
+      "Age of the ice (yr BP)": "308358",
+      "YearBP": "304590",
+      "CO2": "251.7"
+    },
+    {
+      "Depth (m)": "3057.7",
+      "Age of the ice (yr BP)": "309281",
+      "YearBP": "305304",
+      "CO2": "245.2"
+    },
+    {
+      "Depth (m)": "3057.71",
+      "Age of the ice (yr BP)": "309281",
+      "YearBP": "305306",
+      "CO2": "244.7"
+    },
+    {
+      "Depth (m)": "3063.51",
+      "Age of the ice (yr BP)": "310905",
+      "YearBP": "307131",
+      "CO2": "255.9"
+    },
+    {
+      "Depth (m)": "3066.51",
+      "Age of the ice (yr BP)": "311704",
+      "YearBP": "308101",
+      "CO2": "249.2"
+    },
+    {
+      "Depth (m)": "3072.5",
+      "Age of the ice (yr BP)": "313292",
+      "YearBP": "310035",
+      "CO2": "257.2"
+    },
+    {
+      "Depth (m)": "3072.51",
+      "Age of the ice (yr BP)": "313292",
+      "YearBP": "310039",
+      "CO2": "256.3"
+    },
+    {
+      "Depth (m)": "3075.41",
+      "Age of the ice (yr BP)": "314032",
+      "YearBP": "310930",
+      "CO2": "260.4"
+    },
+    {
+      "Depth (m)": "3078.51",
+      "Age of the ice (yr BP)": "314822",
+      "YearBP": "311774",
+      "CO2": "260.3"
+    },
+    {
+      "Depth (m)": "3081.6",
+      "Age of the ice (yr BP)": "315592",
+      "YearBP": "312669",
+      "CO2": "260.6"
+    },
+    {
+      "Depth (m)": "3084.51",
+      "Age of the ice (yr BP)": "316304",
+      "YearBP": "313493",
+      "CO2": "266.3"
+    },
+    {
+      "Depth (m)": "3087.8",
+      "Age of the ice (yr BP)": "317108",
+      "YearBP": "314374",
+      "CO2": "264"
+    },
+    {
+      "Depth (m)": "3090.51",
+      "Age of the ice (yr BP)": "317775",
+      "YearBP": "315143",
+      "CO2": "266.2"
+    },
+    {
+      "Depth (m)": "3093.51",
+      "Age of the ice (yr BP)": "318509",
+      "YearBP": "315940",
+      "CO2": "270.2"
+    },
+    {
+      "Depth (m)": "3096.46",
+      "Age of the ice (yr BP)": "319231",
+      "YearBP": "316681",
+      "CO2": "271.9"
+    },
+    {
+      "Depth (m)": "3099.51",
+      "Age of the ice (yr BP)": "319978",
+      "YearBP": "317445",
+      "CO2": "275.2"
+    },
+    {
+      "Depth (m)": "3105.51",
+      "Age of the ice (yr BP)": "321448",
+      "YearBP": "318980",
+      "CO2": "265"
+    },
+    {
+      "Depth (m)": "3109.01",
+      "Age of the ice (yr BP)": "322216",
+      "YearBP": "319754",
+      "CO2": "271.8"
+    },
+    {
+      "Depth (m)": "3111.51",
+      "Age of the ice (yr BP)": "322746",
+      "YearBP": "320378",
+      "CO2": "272.7"
+    },
+    {
+      "Depth (m)": "3114.81",
+      "Age of the ice (yr BP)": "323441",
+      "YearBP": "321386",
+      "CO2": "273.2"
+    },
+    {
+      "Depth (m)": "3117.51",
+      "Age of the ice (yr BP)": "324021",
+      "YearBP": "322111",
+      "CO2": "282.4"
+    },
+    {
+      "Depth (m)": "3119.51",
+      "Age of the ice (yr BP)": "324461",
+      "YearBP": "322582",
+      "CO2": "289.2"
+    },
+    {
+      "Depth (m)": "3120.61",
+      "Age of the ice (yr BP)": "324711",
+      "YearBP": "322827",
+      "CO2": "288.4"
+    },
+    {
+      "Depth (m)": "3123.51",
+      "Age of the ice (yr BP)": "325400",
+      "YearBP": "323485",
+      "CO2": "298.7"
+    },
+    {
+      "Depth (m)": "3126.51",
+      "Age of the ice (yr BP)": "326200",
+      "YearBP": "324189",
+      "CO2": "278.2"
+    },
+    {
+      "Depth (m)": "3129.91",
+      "Age of the ice (yr BP)": "327237",
+      "YearBP": "324991",
+      "CO2": "285.8"
+    },
+    {
+      "Depth (m)": "3132.41",
+      "Age of the ice (yr BP)": "328058",
+      "YearBP": "325527",
+      "CO2": "278.7"
+    },
+    {
+      "Depth (m)": "3135.51",
+      "Age of the ice (yr BP)": "329135",
+      "YearBP": "326239",
+      "CO2": "270.5"
+    },
+    {
+      "Depth (m)": "3138.51",
+      "Age of the ice (yr BP)": "330278",
+      "YearBP": "327114",
+      "CO2": "255.7"
+    },
+    {
+      "Depth (m)": "3141.51",
+      "Age of the ice (yr BP)": "331513",
+      "YearBP": "328097",
+      "CO2": "241.9"
+    },
+    {
+      "Depth (m)": "3145.01",
+      "Age of the ice (yr BP)": "333111",
+      "YearBP": "329267",
+      "CO2": "239.7"
+    },
+    {
+      "Depth (m)": "3147.51",
+      "Age of the ice (yr BP)": "334356",
+      "YearBP": "330208",
+      "CO2": "234.2"
+    },
+    {
+      "Depth (m)": "3153.51",
+      "Age of the ice (yr BP)": "337304",
+      "YearBP": "332293",
+      "CO2": "250.2"
+    },
+    {
+      "Depth (m)": "3156.51",
+      "Age of the ice (yr BP)": "338770",
+      "YearBP": "333627",
+      "CO2": "200.7"
+    },
+    {
+      "Depth (m)": "3159.51",
+      "Age of the ice (yr BP)": "340242",
+      "YearBP": "335290",
+      "CO2": "205.2"
+    },
+    {
+      "Depth (m)": "3162.81",
+      "Age of the ice (yr BP)": "341849",
+      "YearBP": "336972",
+      "CO2": "204.9"
+    },
+    {
+      "Depth (m)": "3165.5",
+      "Age of the ice (yr BP)": "343123",
+      "YearBP": "338282",
+      "CO2": "211.9"
+    },
+    {
+      "Depth (m)": "3169.01",
+      "Age of the ice (yr BP)": "344844",
+      "YearBP": "340165",
+      "CO2": "220.4"
+    },
+    {
+      "Depth (m)": "3174.51",
+      "Age of the ice (yr BP)": "347589",
+      "YearBP": "342998",
+      "CO2": "221.2"
+    },
+    {
+      "Depth (m)": "3177.81",
+      "Age of the ice (yr BP)": "349298",
+      "YearBP": "344735",
+      "CO2": "216.2"
+    },
+    {
+      "Depth (m)": "3180.5",
+      "Age of the ice (yr BP)": "350773",
+      "YearBP": "346105",
+      "CO2": "209.5"
+    },
+    {
+      "Depth (m)": "3183.41",
+      "Age of the ice (yr BP)": "352377",
+      "YearBP": "347610",
+      "CO2": "209.2"
+    },
+    {
+      "Depth (m)": "3189.51",
+      "Age of the ice (yr BP)": "355795",
+      "YearBP": "350765",
+      "CO2": "193"
+    },
+    {
+      "Depth (m)": "3192.51",
+      "Age of the ice (yr BP)": "357450",
+      "YearBP": "352412",
+      "CO2": "186.2"
+    },
+    {
+      "Depth (m)": "3195.81",
+      "Age of the ice (yr BP)": "359223",
+      "YearBP": "354372",
+      "CO2": "185.8"
+    },
+    {
+      "Depth (m)": "3200.01",
+      "Age of the ice (yr BP)": "361445",
+      "YearBP": "356838",
+      "CO2": "201.2"
+    },
+    {
+      "Depth (m)": "3204.71",
+      "Age of the ice (yr BP)": "363962",
+      "YearBP": "359688",
+      "CO2": "206.4"
+    },
+    {
+      "Depth (m)": "3210.51",
+      "Age of the ice (yr BP)": "367048",
+      "YearBP": "362766",
+      "CO2": "201.9"
+    },
+    {
+      "Depth (m)": "3213.7",
+      "Age of the ice (yr BP)": "368693",
+      "YearBP": "364499",
+      "CO2": "200"
+    },
+    {
+      "Depth (m)": "3216.45",
+      "Age of the ice (yr BP)": "370095",
+      "YearBP": "366221",
+      "CO2": "214.7"
+    },
+    {
+      "Depth (m)": "3219.5",
+      "Age of the ice (yr BP)": "371843",
+      "YearBP": "368117",
+      "CO2": "224.6"
+    },
+    {
+      "Depth (m)": "3222.51",
+      "Age of the ice (yr BP)": "373629",
+      "YearBP": "369563",
+      "CO2": "229.7"
+    },
+    {
+      "Depth (m)": "3228.91",
+      "Age of the ice (yr BP)": "377177",
+      "YearBP": "373014",
+      "CO2": "227"
+    },
+    {
+      "Depth (m)": "3231.51",
+      "Age of the ice (yr BP)": "378469",
+      "YearBP": "374561",
+      "CO2": "240"
+    },
+    {
+      "Depth (m)": "3234.5",
+      "Age of the ice (yr BP)": "380153",
+      "YearBP": "376758",
+      "CO2": "239.1"
+    },
+    {
+      "Depth (m)": "3237.51",
+      "Age of the ice (yr BP)": "381834",
+      "YearBP": "378194",
+      "CO2": "246.9"
+    },
+    {
+      "Depth (m)": "3240.51",
+      "Age of the ice (yr BP)": "383395",
+      "YearBP": "379633",
+      "CO2": "245.9"
+    },
+    {
+      "Depth (m)": "3246.41",
+      "Age of the ice (yr BP)": "386788",
+      "YearBP": "383504",
+      "CO2": "258.1"
+    },
+    {
+      "Depth (m)": "3249.51",
+      "Age of the ice (yr BP)": "388757",
+      "YearBP": "384909",
+      "CO2": "264.7"
+    },
+    {
+      "Depth (m)": "3252.45",
+      "Age of the ice (yr BP)": "390641",
+      "YearBP": "386579",
+      "CO2": "259.3"
+    },
+    {
+      "Depth (m)": "3258.51",
+      "Age of the ice (yr BP)": "394634",
+      "YearBP": "390589",
+      "CO2": "255.2"
+    },
+    {
+      "Depth (m)": "3261.51",
+      "Age of the ice (yr BP)": "396423",
+      "YearBP": "392451",
+      "CO2": "250.2"
+    },
+    {
+      "Depth (m)": "3264.51",
+      "Age of the ice (yr BP)": "398091",
+      "YearBP": "394628",
+      "CO2": "266.3"
+    },
+    {
+      "Depth (m)": "3267.51",
+      "Age of the ice (yr BP)": "399733",
+      "YearBP": "396713",
+      "CO2": "274.7"
+    },
+    {
+      "Depth (m)": "3270.6",
+      "Age of the ice (yr BP)": "401423",
+      "YearBP": "398554",
+      "CO2": "277.1"
+    },
+    {
+      "Depth (m)": "3273.81",
+      "Age of the ice (yr BP)": "403173",
+      "YearBP": "400390",
+      "CO2": "278"
+    },
+    {
+      "Depth (m)": "3283.51",
+      "Age of the ice (yr BP)": "408236",
+      "YearBP": "405844",
+      "CO2": "279.7"
+    },
+    {
+      "Depth (m)": "3289.45",
+      "Age of the ice (yr BP)": "411202",
+      "YearBP": "409022",
+      "CO2": "281.2"
+    },
+    {
+      "Depth (m)": "3289.45",
+      "Age of the ice (yr BP)": "411202",
+      "YearBP": "409022",
+      "CO2": "283.7"
+    },
+    {
+      "Depth (m)": "3292.91",
+      "Age of the ice (yr BP)": "413010",
+      "YearBP": "410831",
+      "CO2": "276.3"
+    },
+    {
+      "Depth (m)": "3299.01",
+      "Age of the ice (yr BP)": "416332",
+      "YearBP": "414085",
+      "CO2": "285.5"
+    },
+    {
+      "Depth (m)": "3301.4",
+      "Age of the ice (yr BP)": "417638",
+      "YearBP": "415434",
+      "CO2": "286.9"
+    },
+    {
+      "Depth (m)": "3304.4",
+      "Age of the ice (yr BP)": "419328",
+      "YearBP": "417160",
+      "CO2": "277.6"
+    }
+  ]
 }

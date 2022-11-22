@@ -20,8 +20,8 @@ with requests.Session() as s:
 
         JSONstr["Depth (m)"] = row[0]
         JSONstr["Age of the ice (yr BP)"] = row[1]
-        JSONstr["Mean age of the air (yr BP)"] = row[2]
-        JSONstr["CO2 concentraition (ppmv)"] = row[3]
+        JSONstr["Time"] = row[2]
+        JSONstr["CO2"] = row[3]
         data_list.append(JSONstr)
         JSONstr = {}
     # print(data_list)
