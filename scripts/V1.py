@@ -17,7 +17,7 @@ def csv_to_json(URL, fileName):
         data_list = []
         for row in my_list[1::]:
 
-            data_list.append({"Time": row[0], key: row[1],
+            data_list.append({"Time": row[0], "degC": row[1],
                               })
         # print(data_list)
     # with open("v1.csv",encoding='utf-8') as csvf:

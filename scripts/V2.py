@@ -19,7 +19,9 @@ with requests.Session() as s:
         row = row[0].split()
         JSONstr["Time"] = "0"*(4-len(row[0]))+row[0]
         for i in range(1, len(row)):
-
+            # key = keys[i]
+            # match key:
+            #     case ""
             JSONstr[keys[i]] = row[i]
         data_list.append(JSONstr)
         JSONstr = {}
