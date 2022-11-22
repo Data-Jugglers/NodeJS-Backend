@@ -6,7 +6,7 @@ const V4a = require("../files_output/V4/V4a.json");
 const V4b = require("../files_output/V4/V4b.json");
 const V4c = require("../files_output/V4/V4c.json");
 const V4Desc = require("../files_output/V4/V4Desc.json");
-const SET_ID = [10, 11, 12];
+const SET_ID = [22, 23, 24];
 
 // Gett all Graph data for v1. Array of object arrays.
 // index 0 = GlobalMonthly; index 1 = NorthernMonthly; ...; index 6 = SouthernYearly; index 7 = links+description
@@ -29,7 +29,7 @@ const getV4Data = async () => {
 
 // function that loops through all JSON files for v1 and inputs them to the database
 const setV4Components = async () => {
-  const dataArray = [V4b, V4c];
+  const dataArray = [V4a, V4b, V4c];
   for (let i = 0; i < dataArray.length; i++) {
     const element = dataArray[i];
     await db.query(
@@ -44,7 +44,7 @@ const setV4Components = async () => {
     element.data.map(async (set) => {
       await db.query(
         "insert into datasets (set_id, measurement_date, data) values ($1,$2,$3)",
-        [SET_ID[i], set.Time, set.data]
+        [SET_ID[i], set.Time, set.chdata]
       );
     });
   }
