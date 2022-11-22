@@ -39,9 +39,11 @@ def text_to_json(data_start, data_end, keys_start, keys_end, name):
                     case "Mean Air Age, year A.D.":
                         key = "Time"
                     case "CO2, 20 Year Smoothed, ppm":
-                        key = "co2"
+                        key = "CO2"
                     case "CO2, 75 Year Smoothed, ppm":
-                        key = "co2"
+                        key = "CO2"
+                    case "CO2 Mixing Ratio, ppm":
+                        key = "CO2"
 
                 jsonData[key] = dataRow
                 k += 1
@@ -58,15 +60,14 @@ def text_to_json(data_start, data_end, keys_start, keys_end, name):
     # key=rows['Time']
     # data[key]=rows
 
-
     #file = open("files_output/V4.json", 'a+')
     # with open("files_output/V4.json", 'w', encoding='utf-8') as jsonf:
     #jsonf.write(json.dumps(data, indent=4))
-# text_to_json(22, 54, 18, 20, "first")
-# text_to_json(59, 70, 55, 57, "second")
-# text_to_json(75, 116, 71, 73, "third")
-text_to_json(121, 268, 117, 119, "first")
-text_to_json(273, 467, 269, 271, "second")
+text_to_json(22, 54, 18, 20, "first")
+text_to_json(59, 70, 55, 57, "second")
+text_to_json(75, 116, 71, 73, "third")
+# text_to_json(121, 268, 117, 119, "first")
+# text_to_json(273, 467, 269, 271, "second")
 
 file = open("files_output/V4/V4.json", 'a+')
 with open("files_output/V4/V4.json", 'w', encoding='utf-8') as jsonf:
