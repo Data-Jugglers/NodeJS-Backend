@@ -1,1370 +1,1370 @@
 {
     "first": [
         {
-            "Mean Air Age, year A.D.": "1832",
-            "CO2, 20 Year Smoothed, ppm": "284.3"
+            "Time": "1832",
+            "co2": "284.3"
         },
         {
-            "Mean Air Age, year A.D.": "1833",
-            "CO2, 20 Year Smoothed, ppm": "284.1"
+            "Time": "1833",
+            "co2": "284.1"
         },
         {
-            "Mean Air Age, year A.D.": "1834",
-            "CO2, 20 Year Smoothed, ppm": "284.0"
+            "Time": "1834",
+            "co2": "284.0"
         },
         {
-            "Mean Air Age, year A.D.": "1835",
-            "CO2, 20 Year Smoothed, ppm": "283.8"
+            "Time": "1835",
+            "co2": "283.8"
         },
         {
-            "Mean Air Age, year A.D.": "1836",
-            "CO2, 20 Year Smoothed, ppm": "283.7"
+            "Time": "1836",
+            "co2": "283.7"
         },
         {
-            "Mean Air Age, year A.D.": "1837",
-            "CO2, 20 Year Smoothed, ppm": "283.5"
+            "Time": "1837",
+            "co2": "283.5"
         },
         {
-            "Mean Air Age, year A.D.": "1838",
-            "CO2, 20 Year Smoothed, ppm": "283.4"
+            "Time": "1838",
+            "co2": "283.4"
         },
         {
-            "Mean Air Age, year A.D.": "1839",
-            "CO2, 20 Year Smoothed, ppm": "283.4"
+            "Time": "1839",
+            "co2": "283.4"
         },
         {
-            "Mean Air Age, year A.D.": "1840",
-            "CO2, 20 Year Smoothed, ppm": "283.4"
+            "Time": "1840",
+            "co2": "283.4"
         },
         {
-            "Mean Air Age, year A.D.": "1841",
-            "CO2, 20 Year Smoothed, ppm": "283.4"
+            "Time": "1841",
+            "co2": "283.4"
         },
         {
-            "Mean Air Age, year A.D.": "1842",
-            "CO2, 20 Year Smoothed, ppm": "283.5"
+            "Time": "1842",
+            "co2": "283.5"
         },
         {
-            "Mean Air Age, year A.D.": "1843",
-            "CO2, 20 Year Smoothed, ppm": "283.6"
+            "Time": "1843",
+            "co2": "283.6"
         },
         {
-            "Mean Air Age, year A.D.": "1844",
-            "CO2, 20 Year Smoothed, ppm": "283.7"
+            "Time": "1844",
+            "co2": "283.7"
         },
         {
-            "Mean Air Age, year A.D.": "1845",
-            "CO2, 20 Year Smoothed, ppm": "283.9"
+            "Time": "1845",
+            "co2": "283.9"
         },
         {
-            "Mean Air Age, year A.D.": "1846",
-            "CO2, 20 Year Smoothed, ppm": "284.1"
+            "Time": "1846",
+            "co2": "284.1"
         },
         {
-            "Mean Air Age, year A.D.": "1847",
-            "CO2, 20 Year Smoothed, ppm": "284.2"
+            "Time": "1847",
+            "co2": "284.2"
         },
         {
-            "Mean Air Age, year A.D.": "1848",
-            "CO2, 20 Year Smoothed, ppm": "284.4"
+            "Time": "1848",
+            "co2": "284.4"
         },
         {
-            "Mean Air Age, year A.D.": "1849",
-            "CO2, 20 Year Smoothed, ppm": "284.6"
+            "Time": "1849",
+            "co2": "284.6"
         },
         {
-            "Mean Air Age, year A.D.": "1850",
-            "CO2, 20 Year Smoothed, ppm": "284.7"
+            "Time": "1850",
+            "co2": "284.7"
         },
         {
-            "Mean Air Age, year A.D.": "1851",
-            "CO2, 20 Year Smoothed, ppm": "284.9"
+            "Time": "1851",
+            "co2": "284.9"
         },
         {
-            "Mean Air Age, year A.D.": "1852",
-            "CO2, 20 Year Smoothed, ppm": "285.0"
+            "Time": "1852",
+            "co2": "285.0"
         },
         {
-            "Mean Air Age, year A.D.": "1853",
-            "CO2, 20 Year Smoothed, ppm": "285.1"
+            "Time": "1853",
+            "co2": "285.1"
         },
         {
-            "Mean Air Age, year A.D.": "1854",
-            "CO2, 20 Year Smoothed, ppm": "285.3"
+            "Time": "1854",
+            "co2": "285.3"
         },
         {
-            "Mean Air Age, year A.D.": "1855",
-            "CO2, 20 Year Smoothed, ppm": "285.4"
+            "Time": "1855",
+            "co2": "285.4"
         },
         {
-            "Mean Air Age, year A.D.": "1856",
-            "CO2, 20 Year Smoothed, ppm": "285.6"
+            "Time": "1856",
+            "co2": "285.6"
         },
         {
-            "Mean Air Age, year A.D.": "1857",
-            "CO2, 20 Year Smoothed, ppm": "285.7"
+            "Time": "1857",
+            "co2": "285.7"
         },
         {
-            "Mean Air Age, year A.D.": "1858",
-            "CO2, 20 Year Smoothed, ppm": "285.9"
+            "Time": "1858",
+            "co2": "285.9"
         },
         {
-            "Mean Air Age, year A.D.": "1859",
-            "CO2, 20 Year Smoothed, ppm": "286.1"
+            "Time": "1859",
+            "co2": "286.1"
         },
         {
-            "Mean Air Age, year A.D.": "1860",
-            "CO2, 20 Year Smoothed, ppm": "286.2"
+            "Time": "1860",
+            "co2": "286.2"
         },
         {
-            "Mean Air Age, year A.D.": "1861",
-            "CO2, 20 Year Smoothed, ppm": "286.4"
+            "Time": "1861",
+            "co2": "286.4"
         },
         {
-            "Mean Air Age, year A.D.": "1862",
-            "CO2, 20 Year Smoothed, ppm": "286.5"
+            "Time": "1862",
+            "co2": "286.5"
         },
         {
-            "Mean Air Age, year A.D.": "1863",
-            "CO2, 20 Year Smoothed, ppm": "286.6"
+            "Time": "1863",
+            "co2": "286.6"
         },
         {
-            "Mean Air Age, year A.D.": "1864",
-            "CO2, 20 Year Smoothed, ppm": "286.8"
+            "Time": "1864",
+            "co2": "286.8"
         },
         {
-            "Mean Air Age, year A.D.": "1865",
-            "CO2, 20 Year Smoothed, ppm": "286.9"
+            "Time": "1865",
+            "co2": "286.9"
         },
         {
-            "Mean Air Age, year A.D.": "1866",
-            "CO2, 20 Year Smoothed, ppm": "287.0"
+            "Time": "1866",
+            "co2": "287.0"
         },
         {
-            "Mean Air Age, year A.D.": "1867",
-            "CO2, 20 Year Smoothed, ppm": "287.1"
+            "Time": "1867",
+            "co2": "287.1"
         },
         {
-            "Mean Air Age, year A.D.": "1868",
-            "CO2, 20 Year Smoothed, ppm": "287.2"
+            "Time": "1868",
+            "co2": "287.2"
         },
         {
-            "Mean Air Age, year A.D.": "1869",
-            "CO2, 20 Year Smoothed, ppm": "287.4"
+            "Time": "1869",
+            "co2": "287.4"
         },
         {
-            "Mean Air Age, year A.D.": "1870",
-            "CO2, 20 Year Smoothed, ppm": "287.5"
+            "Time": "1870",
+            "co2": "287.5"
         },
         {
-            "Mean Air Age, year A.D.": "1871",
-            "CO2, 20 Year Smoothed, ppm": "287.7"
+            "Time": "1871",
+            "co2": "287.7"
         },
         {
-            "Mean Air Age, year A.D.": "1872",
-            "CO2, 20 Year Smoothed, ppm": "287.9"
+            "Time": "1872",
+            "co2": "287.9"
         },
         {
-            "Mean Air Age, year A.D.": "1873",
-            "CO2, 20 Year Smoothed, ppm": "288.1"
+            "Time": "1873",
+            "co2": "288.1"
         },
         {
-            "Mean Air Age, year A.D.": "1874",
-            "CO2, 20 Year Smoothed, ppm": "288.4"
+            "Time": "1874",
+            "co2": "288.4"
         },
         {
-            "Mean Air Age, year A.D.": "1875",
-            "CO2, 20 Year Smoothed, ppm": "288.7"
+            "Time": "1875",
+            "co2": "288.7"
         },
         {
-            "Mean Air Age, year A.D.": "1876",
-            "CO2, 20 Year Smoothed, ppm": "289.0"
+            "Time": "1876",
+            "co2": "289.0"
         },
         {
-            "Mean Air Age, year A.D.": "1877",
-            "CO2, 20 Year Smoothed, ppm": "289.4"
+            "Time": "1877",
+            "co2": "289.4"
         },
         {
-            "Mean Air Age, year A.D.": "1878",
-            "CO2, 20 Year Smoothed, ppm": "289.8"
+            "Time": "1878",
+            "co2": "289.8"
         },
         {
-            "Mean Air Age, year A.D.": "1879",
-            "CO2, 20 Year Smoothed, ppm": "290.2"
+            "Time": "1879",
+            "co2": "290.2"
         },
         {
-            "Mean Air Age, year A.D.": "1880",
-            "CO2, 20 Year Smoothed, ppm": "290.7"
+            "Time": "1880",
+            "co2": "290.7"
         },
         {
-            "Mean Air Age, year A.D.": "1881",
-            "CO2, 20 Year Smoothed, ppm": "291.2"
+            "Time": "1881",
+            "co2": "291.2"
         },
         {
-            "Mean Air Age, year A.D.": "1882",
-            "CO2, 20 Year Smoothed, ppm": "291.7"
+            "Time": "1882",
+            "co2": "291.7"
         },
         {
-            "Mean Air Age, year A.D.": "1883",
-            "CO2, 20 Year Smoothed, ppm": "292.1"
+            "Time": "1883",
+            "co2": "292.1"
         },
         {
-            "Mean Air Age, year A.D.": "1884",
-            "CO2, 20 Year Smoothed, ppm": "292.6"
+            "Time": "1884",
+            "co2": "292.6"
         },
         {
-            "Mean Air Age, year A.D.": "1885",
-            "CO2, 20 Year Smoothed, ppm": "293.0"
+            "Time": "1885",
+            "co2": "293.0"
         },
         {
-            "Mean Air Age, year A.D.": "1886",
-            "CO2, 20 Year Smoothed, ppm": "293.3"
+            "Time": "1886",
+            "co2": "293.3"
         },
         {
-            "Mean Air Age, year A.D.": "1887",
-            "CO2, 20 Year Smoothed, ppm": "293.6"
+            "Time": "1887",
+            "co2": "293.6"
         },
         {
-            "Mean Air Age, year A.D.": "1888",
-            "CO2, 20 Year Smoothed, ppm": "293.8"
+            "Time": "1888",
+            "co2": "293.8"
         },
         {
-            "Mean Air Age, year A.D.": "1889",
-            "CO2, 20 Year Smoothed, ppm": "294.0"
+            "Time": "1889",
+            "co2": "294.0"
         },
         {
-            "Mean Air Age, year A.D.": "1890",
-            "CO2, 20 Year Smoothed, ppm": "294.2"
+            "Time": "1890",
+            "co2": "294.2"
         },
         {
-            "Mean Air Age, year A.D.": "1891",
-            "CO2, 20 Year Smoothed, ppm": "294.3"
+            "Time": "1891",
+            "co2": "294.3"
         },
         {
-            "Mean Air Age, year A.D.": "1892",
-            "CO2, 20 Year Smoothed, ppm": "294.5"
+            "Time": "1892",
+            "co2": "294.5"
         },
         {
-            "Mean Air Age, year A.D.": "1893",
-            "CO2, 20 Year Smoothed, ppm": "294.6"
+            "Time": "1893",
+            "co2": "294.6"
         },
         {
-            "Mean Air Age, year A.D.": "1894",
-            "CO2, 20 Year Smoothed, ppm": "294.7"
+            "Time": "1894",
+            "co2": "294.7"
         },
         {
-            "Mean Air Age, year A.D.": "1895",
-            "CO2, 20 Year Smoothed, ppm": "294.8"
+            "Time": "1895",
+            "co2": "294.8"
         },
         {
-            "Mean Air Age, year A.D.": "1896",
-            "CO2, 20 Year Smoothed, ppm": "294.9"
+            "Time": "1896",
+            "co2": "294.9"
         },
         {
-            "Mean Air Age, year A.D.": "1897",
-            "CO2, 20 Year Smoothed, ppm": "295.0"
+            "Time": "1897",
+            "co2": "295.0"
         },
         {
-            "Mean Air Age, year A.D.": "1898",
-            "CO2, 20 Year Smoothed, ppm": "295.2"
+            "Time": "1898",
+            "co2": "295.2"
         },
         {
-            "Mean Air Age, year A.D.": "1899",
-            "CO2, 20 Year Smoothed, ppm": "295.5"
+            "Time": "1899",
+            "co2": "295.5"
         },
         {
-            "Mean Air Age, year A.D.": "1900",
-            "CO2, 20 Year Smoothed, ppm": "295.8"
+            "Time": "1900",
+            "co2": "295.8"
         },
         {
-            "Mean Air Age, year A.D.": "1901",
-            "CO2, 20 Year Smoothed, ppm": "296.1"
+            "Time": "1901",
+            "co2": "296.1"
         },
         {
-            "Mean Air Age, year A.D.": "1902",
-            "CO2, 20 Year Smoothed, ppm": "296.5"
+            "Time": "1902",
+            "co2": "296.5"
         },
         {
-            "Mean Air Age, year A.D.": "1903",
-            "CO2, 20 Year Smoothed, ppm": "296.8"
+            "Time": "1903",
+            "co2": "296.8"
         },
         {
-            "Mean Air Age, year A.D.": "1904",
-            "CO2, 20 Year Smoothed, ppm": "297.2"
+            "Time": "1904",
+            "co2": "297.2"
         },
         {
-            "Mean Air Age, year A.D.": "1905",
-            "CO2, 20 Year Smoothed, ppm": "297.6"
+            "Time": "1905",
+            "co2": "297.6"
         },
         {
-            "Mean Air Age, year A.D.": "1906",
-            "CO2, 20 Year Smoothed, ppm": "298.1"
+            "Time": "1906",
+            "co2": "298.1"
         },
         {
-            "Mean Air Age, year A.D.": "1907",
-            "CO2, 20 Year Smoothed, ppm": "298.5"
+            "Time": "1907",
+            "co2": "298.5"
         },
         {
-            "Mean Air Age, year A.D.": "1908",
-            "CO2, 20 Year Smoothed, ppm": "298.9"
+            "Time": "1908",
+            "co2": "298.9"
         },
         {
-            "Mean Air Age, year A.D.": "1909",
-            "CO2, 20 Year Smoothed, ppm": "299.3"
+            "Time": "1909",
+            "co2": "299.3"
         },
         {
-            "Mean Air Age, year A.D.": "1910",
-            "CO2, 20 Year Smoothed, ppm": "299.7"
+            "Time": "1910",
+            "co2": "299.7"
         },
         {
-            "Mean Air Age, year A.D.": "1911",
-            "CO2, 20 Year Smoothed, ppm": "300.1"
+            "Time": "1911",
+            "co2": "300.1"
         },
         {
-            "Mean Air Age, year A.D.": "1912",
-            "CO2, 20 Year Smoothed, ppm": "300.4"
+            "Time": "1912",
+            "co2": "300.4"
         },
         {
-            "Mean Air Age, year A.D.": "1913",
-            "CO2, 20 Year Smoothed, ppm": "300.8"
+            "Time": "1913",
+            "co2": "300.8"
         },
         {
-            "Mean Air Age, year A.D.": "1914",
-            "CO2, 20 Year Smoothed, ppm": "301.1"
+            "Time": "1914",
+            "co2": "301.1"
         },
         {
-            "Mean Air Age, year A.D.": "1915",
-            "CO2, 20 Year Smoothed, ppm": "301.4"
+            "Time": "1915",
+            "co2": "301.4"
         },
         {
-            "Mean Air Age, year A.D.": "1916",
-            "CO2, 20 Year Smoothed, ppm": "301.7"
+            "Time": "1916",
+            "co2": "301.7"
         },
         {
-            "Mean Air Age, year A.D.": "1917",
-            "CO2, 20 Year Smoothed, ppm": "302.1"
+            "Time": "1917",
+            "co2": "302.1"
         },
         {
-            "Mean Air Age, year A.D.": "1918",
-            "CO2, 20 Year Smoothed, ppm": "302.4"
+            "Time": "1918",
+            "co2": "302.4"
         },
         {
-            "Mean Air Age, year A.D.": "1919",
-            "CO2, 20 Year Smoothed, ppm": "302.7"
+            "Time": "1919",
+            "co2": "302.7"
         },
         {
-            "Mean Air Age, year A.D.": "1920",
-            "CO2, 20 Year Smoothed, ppm": "303.0"
+            "Time": "1920",
+            "co2": "303.0"
         },
         {
-            "Mean Air Age, year A.D.": "1921",
-            "CO2, 20 Year Smoothed, ppm": "303.4"
+            "Time": "1921",
+            "co2": "303.4"
         },
         {
-            "Mean Air Age, year A.D.": "1922",
-            "CO2, 20 Year Smoothed, ppm": "303.8"
+            "Time": "1922",
+            "co2": "303.8"
         },
         {
-            "Mean Air Age, year A.D.": "1923",
-            "CO2, 20 Year Smoothed, ppm": "304.1"
+            "Time": "1923",
+            "co2": "304.1"
         },
         {
-            "Mean Air Age, year A.D.": "1924",
-            "CO2, 20 Year Smoothed, ppm": "304.5"
+            "Time": "1924",
+            "co2": "304.5"
         },
         {
-            "Mean Air Age, year A.D.": "1925",
-            "CO2, 20 Year Smoothed, ppm": "305.0"
+            "Time": "1925",
+            "co2": "305.0"
         },
         {
-            "Mean Air Age, year A.D.": "1926",
-            "CO2, 20 Year Smoothed, ppm": "305.4"
+            "Time": "1926",
+            "co2": "305.4"
         },
         {
-            "Mean Air Age, year A.D.": "1927",
-            "CO2, 20 Year Smoothed, ppm": "305.8"
+            "Time": "1927",
+            "co2": "305.8"
         },
         {
-            "Mean Air Age, year A.D.": "1928",
-            "CO2, 20 Year Smoothed, ppm": "306.3"
+            "Time": "1928",
+            "co2": "306.3"
         },
         {
-            "Mean Air Age, year A.D.": "1929",
-            "CO2, 20 Year Smoothed, ppm": "306.8"
+            "Time": "1929",
+            "co2": "306.8"
         },
         {
-            "Mean Air Age, year A.D.": "1930",
-            "CO2, 20 Year Smoothed, ppm": "307.2"
+            "Time": "1930",
+            "co2": "307.2"
         },
         {
-            "Mean Air Age, year A.D.": "1931",
-            "CO2, 20 Year Smoothed, ppm": "307.7"
+            "Time": "1931",
+            "co2": "307.7"
         },
         {
-            "Mean Air Age, year A.D.": "1932",
-            "CO2, 20 Year Smoothed, ppm": "308.2"
+            "Time": "1932",
+            "co2": "308.2"
         },
         {
-            "Mean Air Age, year A.D.": "1933",
-            "CO2, 20 Year Smoothed, ppm": "308.6"
+            "Time": "1933",
+            "co2": "308.6"
         },
         {
-            "Mean Air Age, year A.D.": "1934",
-            "CO2, 20 Year Smoothed, ppm": "309.0"
+            "Time": "1934",
+            "co2": "309.0"
         },
         {
-            "Mean Air Age, year A.D.": "1935",
-            "CO2, 20 Year Smoothed, ppm": "309.4"
+            "Time": "1935",
+            "co2": "309.4"
         },
         {
-            "Mean Air Age, year A.D.": "1936",
-            "CO2, 20 Year Smoothed, ppm": "309.8"
+            "Time": "1936",
+            "co2": "309.8"
         },
         {
-            "Mean Air Age, year A.D.": "1937",
-            "CO2, 20 Year Smoothed, ppm": "310.0"
+            "Time": "1937",
+            "co2": "310.0"
         },
         {
-            "Mean Air Age, year A.D.": "1938",
-            "CO2, 20 Year Smoothed, ppm": "310.2"
+            "Time": "1938",
+            "co2": "310.2"
         },
         {
-            "Mean Air Age, year A.D.": "1939",
-            "CO2, 20 Year Smoothed, ppm": "310.3"
+            "Time": "1939",
+            "co2": "310.3"
         },
         {
-            "Mean Air Age, year A.D.": "1940",
-            "CO2, 20 Year Smoothed, ppm": "310.4"
+            "Time": "1940",
+            "co2": "310.4"
         },
         {
-            "Mean Air Age, year A.D.": "1941",
-            "CO2, 20 Year Smoothed, ppm": "310.4"
+            "Time": "1941",
+            "co2": "310.4"
         },
         {
-            "Mean Air Age, year A.D.": "1942",
-            "CO2, 20 Year Smoothed, ppm": "310.3"
+            "Time": "1942",
+            "co2": "310.3"
         },
         {
-            "Mean Air Age, year A.D.": "1943",
-            "CO2, 20 Year Smoothed, ppm": "310.2"
+            "Time": "1943",
+            "co2": "310.2"
         },
         {
-            "Mean Air Age, year A.D.": "1944",
-            "CO2, 20 Year Smoothed, ppm": "310.1"
+            "Time": "1944",
+            "co2": "310.1"
         },
         {
-            "Mean Air Age, year A.D.": "1945",
-            "CO2, 20 Year Smoothed, ppm": "310.1"
+            "Time": "1945",
+            "co2": "310.1"
         },
         {
-            "Mean Air Age, year A.D.": "1946",
-            "CO2, 20 Year Smoothed, ppm": "310.1"
+            "Time": "1946",
+            "co2": "310.1"
         },
         {
-            "Mean Air Age, year A.D.": "1947",
-            "CO2, 20 Year Smoothed, ppm": "310.2"
+            "Time": "1947",
+            "co2": "310.2"
         },
         {
-            "Mean Air Age, year A.D.": "1948",
-            "CO2, 20 Year Smoothed, ppm": "310.3"
+            "Time": "1948",
+            "co2": "310.3"
         },
         {
-            "Mean Air Age, year A.D.": "1949",
-            "CO2, 20 Year Smoothed, ppm": "310.5"
+            "Time": "1949",
+            "co2": "310.5"
         },
         {
-            "Mean Air Age, year A.D.": "1950",
-            "CO2, 20 Year Smoothed, ppm": "310.7"
+            "Time": "1950",
+            "co2": "310.7"
         },
         {
-            "Mean Air Age, year A.D.": "1951",
-            "CO2, 20 Year Smoothed, ppm": "311.1"
+            "Time": "1951",
+            "co2": "311.1"
         },
         {
-            "Mean Air Age, year A.D.": "1952",
-            "CO2, 20 Year Smoothed, ppm": "311.5"
+            "Time": "1952",
+            "co2": "311.5"
         },
         {
-            "Mean Air Age, year A.D.": "1953",
-            "CO2, 20 Year Smoothed, ppm": "311.9"
+            "Time": "1953",
+            "co2": "311.9"
         },
         {
-            "Mean Air Age, year A.D.": "1954",
-            "CO2, 20 Year Smoothed, ppm": "312.4"
+            "Time": "1954",
+            "co2": "312.4"
         },
         {
-            "Mean Air Age, year A.D.": "1955",
-            "CO2, 20 Year Smoothed, ppm": "313.0"
+            "Time": "1955",
+            "co2": "313.0"
         },
         {
-            "Mean Air Age, year A.D.": "1956",
-            "CO2, 20 Year Smoothed, ppm": "313.6"
+            "Time": "1956",
+            "co2": "313.6"
         },
         {
-            "Mean Air Age, year A.D.": "1957",
-            "CO2, 20 Year Smoothed, ppm": "314.2"
+            "Time": "1957",
+            "co2": "314.2"
         },
         {
-            "Mean Air Age, year A.D.": "1958",
-            "CO2, 20 Year Smoothed, ppm": "314.9"
+            "Time": "1958",
+            "co2": "314.9"
         },
         {
-            "Mean Air Age, year A.D.": "1959",
-            "CO2, 20 Year Smoothed, ppm": "315.6"
+            "Time": "1959",
+            "co2": "315.6"
         },
         {
-            "Mean Air Age, year A.D.": "1960",
-            "CO2, 20 Year Smoothed, ppm": "316.3"
+            "Time": "1960",
+            "co2": "316.3"
         },
         {
-            "Mean Air Age, year A.D.": "1961",
-            "CO2, 20 Year Smoothed, ppm": "317.0"
+            "Time": "1961",
+            "co2": "317.0"
         },
         {
-            "Mean Air Age, year A.D.": "1962",
-            "CO2, 20 Year Smoothed, ppm": "317.7"
+            "Time": "1962",
+            "co2": "317.7"
         },
         {
-            "Mean Air Age, year A.D.": "1963",
-            "CO2, 20 Year Smoothed, ppm": "318.4"
+            "Time": "1963",
+            "co2": "318.4"
         },
         {
-            "Mean Air Age, year A.D.": "1964",
-            "CO2, 20 Year Smoothed, ppm": "319.2"
+            "Time": "1964",
+            "co2": "319.2"
         },
         {
-            "Mean Air Age, year A.D.": "1965",
-            "CO2, 20 Year Smoothed, ppm": "320.0"
+            "Time": "1965",
+            "co2": "320.0"
         },
         {
-            "Mean Air Age, year A.D.": "1966",
-            "CO2, 20 Year Smoothed, ppm": "320.8"
+            "Time": "1966",
+            "co2": "320.8"
         },
         {
-            "Mean Air Age, year A.D.": "1967",
-            "CO2, 20 Year Smoothed, ppm": "321.8"
+            "Time": "1967",
+            "co2": "321.8"
         },
         {
-            "Mean Air Age, year A.D.": "1968",
-            "CO2, 20 Year Smoothed, ppm": "322.8"
+            "Time": "1968",
+            "co2": "322.8"
         },
         {
-            "Mean Air Age, year A.D.": "1969",
-            "CO2, 20 Year Smoothed, ppm": "323.8"
+            "Time": "1969",
+            "co2": "323.8"
         },
         {
-            "Mean Air Age, year A.D.": "1970",
-            "CO2, 20 Year Smoothed, ppm": "324.8"
+            "Time": "1970",
+            "co2": "324.8"
         },
         {
-            "Mean Air Age, year A.D.": "1971",
-            "CO2, 20 Year Smoothed, ppm": "325.8"
+            "Time": "1971",
+            "co2": "325.8"
         },
         {
-            "Mean Air Age, year A.D.": "1972",
-            "CO2, 20 Year Smoothed, ppm": "326.9"
+            "Time": "1972",
+            "co2": "326.9"
         },
         {
-            "Mean Air Age, year A.D.": "1973",
-            "CO2, 20 Year Smoothed, ppm": "328.0"
+            "Time": "1973",
+            "co2": "328.0"
         },
         {
-            "Mean Air Age, year A.D.": "1974",
-            "CO2, 20 Year Smoothed, ppm": "329.2"
+            "Time": "1974",
+            "co2": "329.2"
         },
         {
-            "Mean Air Age, year A.D.": "1975",
-            "CO2, 20 Year Smoothed, ppm": "330.3"
+            "Time": "1975",
+            "co2": "330.3"
         },
         {
-            "Mean Air Age, year A.D.": "1976",
-            "CO2, 20 Year Smoothed, ppm": "331.5"
+            "Time": "1976",
+            "co2": "331.5"
         },
         {
-            "Mean Air Age, year A.D.": "1977",
-            "CO2, 20 Year Smoothed, ppm": "332.6"
+            "Time": "1977",
+            "co2": "332.6"
         },
         {
-            "Mean Air Age, year A.D.": "1978",
-            "CO2, 20 Year Smoothed, ppm": "333.7"
+            "Time": "1978",
+            "co2": "333.7"
         }
     ],
     "second": [
         {
-            "Mean Air Age, year A.D.": "1010",
-            "CO2, 75 Year Smoothed, ppm": "279.5"
+            "Time": "1010",
+            "co2": "279.5"
         },
         {
-            "Mean Air Age, year A.D.": "1015",
-            "CO2, 75 Year Smoothed, ppm": "279.6"
+            "Time": "1015",
+            "co2": "279.6"
         },
         {
-            "Mean Air Age, year A.D.": "1020",
-            "CO2, 75 Year Smoothed, ppm": "279.7"
+            "Time": "1020",
+            "co2": "279.7"
         },
         {
-            "Mean Air Age, year A.D.": "1025",
-            "CO2, 75 Year Smoothed, ppm": "279.8"
+            "Time": "1025",
+            "co2": "279.8"
         },
         {
-            "Mean Air Age, year A.D.": "1030",
-            "CO2, 75 Year Smoothed, ppm": "279.9"
+            "Time": "1030",
+            "co2": "279.9"
         },
         {
-            "Mean Air Age, year A.D.": "1035",
-            "CO2, 75 Year Smoothed, ppm": "280.0"
+            "Time": "1035",
+            "co2": "280.0"
         },
         {
-            "Mean Air Age, year A.D.": "1040",
-            "CO2, 75 Year Smoothed, ppm": "280.2"
+            "Time": "1040",
+            "co2": "280.2"
         },
         {
-            "Mean Air Age, year A.D.": "1045",
-            "CO2, 75 Year Smoothed, ppm": "280.3"
+            "Time": "1045",
+            "co2": "280.3"
         },
         {
-            "Mean Air Age, year A.D.": "1050",
-            "CO2, 75 Year Smoothed, ppm": "280.5"
+            "Time": "1050",
+            "co2": "280.5"
         },
         {
-            "Mean Air Age, year A.D.": "1055",
-            "CO2, 75 Year Smoothed, ppm": "280.7"
+            "Time": "1055",
+            "co2": "280.7"
         },
         {
-            "Mean Air Age, year A.D.": "1060",
-            "CO2, 75 Year Smoothed, ppm": "280.9"
+            "Time": "1060",
+            "co2": "280.9"
         },
         {
-            "Mean Air Age, year A.D.": "1065",
-            "CO2, 75 Year Smoothed, ppm": "281.1"
+            "Time": "1065",
+            "co2": "281.1"
         },
         {
-            "Mean Air Age, year A.D.": "1070",
-            "CO2, 75 Year Smoothed, ppm": "281.3"
+            "Time": "1070",
+            "co2": "281.3"
         },
         {
-            "Mean Air Age, year A.D.": "1075",
-            "CO2, 75 Year Smoothed, ppm": "281.5"
+            "Time": "1075",
+            "co2": "281.5"
         },
         {
-            "Mean Air Age, year A.D.": "1080",
-            "CO2, 75 Year Smoothed, ppm": "281.7"
+            "Time": "1080",
+            "co2": "281.7"
         },
         {
-            "Mean Air Age, year A.D.": "1085",
-            "CO2, 75 Year Smoothed, ppm": "281.9"
+            "Time": "1085",
+            "co2": "281.9"
         },
         {
-            "Mean Air Age, year A.D.": "1090",
-            "CO2, 75 Year Smoothed, ppm": "282.1"
+            "Time": "1090",
+            "co2": "282.1"
         },
         {
-            "Mean Air Age, year A.D.": "1095",
-            "CO2, 75 Year Smoothed, ppm": "282.3"
+            "Time": "1095",
+            "co2": "282.3"
         },
         {
-            "Mean Air Age, year A.D.": "1100",
-            "CO2, 75 Year Smoothed, ppm": "282.5"
+            "Time": "1100",
+            "co2": "282.5"
         },
         {
-            "Mean Air Age, year A.D.": "1105",
-            "CO2, 75 Year Smoothed, ppm": "282.7"
+            "Time": "1105",
+            "co2": "282.7"
         },
         {
-            "Mean Air Age, year A.D.": "1110",
-            "CO2, 75 Year Smoothed, ppm": "282.9"
+            "Time": "1110",
+            "co2": "282.9"
         },
         {
-            "Mean Air Age, year A.D.": "1115",
-            "CO2, 75 Year Smoothed, ppm": "283.0"
+            "Time": "1115",
+            "co2": "283.0"
         },
         {
-            "Mean Air Age, year A.D.": "1120",
-            "CO2, 75 Year Smoothed, ppm": "283.2"
+            "Time": "1120",
+            "co2": "283.2"
         },
         {
-            "Mean Air Age, year A.D.": "1125",
-            "CO2, 75 Year Smoothed, ppm": "283.3"
+            "Time": "1125",
+            "co2": "283.3"
         },
         {
-            "Mean Air Age, year A.D.": "1130",
-            "CO2, 75 Year Smoothed, ppm": "283.5"
+            "Time": "1130",
+            "co2": "283.5"
         },
         {
-            "Mean Air Age, year A.D.": "1135",
-            "CO2, 75 Year Smoothed, ppm": "283.6"
+            "Time": "1135",
+            "co2": "283.6"
         },
         {
-            "Mean Air Age, year A.D.": "1140",
-            "CO2, 75 Year Smoothed, ppm": "283.7"
+            "Time": "1140",
+            "co2": "283.7"
         },
         {
-            "Mean Air Age, year A.D.": "1145",
-            "CO2, 75 Year Smoothed, ppm": "283.8"
+            "Time": "1145",
+            "co2": "283.8"
         },
         {
-            "Mean Air Age, year A.D.": "1150",
-            "CO2, 75 Year Smoothed, ppm": "283.9"
+            "Time": "1150",
+            "co2": "283.9"
         },
         {
-            "Mean Air Age, year A.D.": "1155",
-            "CO2, 75 Year Smoothed, ppm": "284.0"
+            "Time": "1155",
+            "co2": "284.0"
         },
         {
-            "Mean Air Age, year A.D.": "1160",
-            "CO2, 75 Year Smoothed, ppm": "284.0"
+            "Time": "1160",
+            "co2": "284.0"
         },
         {
-            "Mean Air Age, year A.D.": "1165",
-            "CO2, 75 Year Smoothed, ppm": "284.1"
+            "Time": "1165",
+            "co2": "284.1"
         },
         {
-            "Mean Air Age, year A.D.": "1170",
-            "CO2, 75 Year Smoothed, ppm": "284.1"
+            "Time": "1170",
+            "co2": "284.1"
         },
         {
-            "Mean Air Age, year A.D.": "1175",
-            "CO2, 75 Year Smoothed, ppm": "284.1"
+            "Time": "1175",
+            "co2": "284.1"
         },
         {
-            "Mean Air Age, year A.D.": "1180",
-            "CO2, 75 Year Smoothed, ppm": "284.0"
+            "Time": "1180",
+            "co2": "284.0"
         },
         {
-            "Mean Air Age, year A.D.": "1185",
-            "CO2, 75 Year Smoothed, ppm": "284.0"
+            "Time": "1185",
+            "co2": "284.0"
         },
         {
-            "Mean Air Age, year A.D.": "1190",
-            "CO2, 75 Year Smoothed, ppm": "283.9"
+            "Time": "1190",
+            "co2": "283.9"
         },
         {
-            "Mean Air Age, year A.D.": "1195",
-            "CO2, 75 Year Smoothed, ppm": "283.8"
+            "Time": "1195",
+            "co2": "283.8"
         },
         {
-            "Mean Air Age, year A.D.": "1200",
-            "CO2, 75 Year Smoothed, ppm": "283.6"
+            "Time": "1200",
+            "co2": "283.6"
         },
         {
-            "Mean Air Age, year A.D.": "1205",
-            "CO2, 75 Year Smoothed, ppm": "283.4"
+            "Time": "1205",
+            "co2": "283.4"
         },
         {
-            "Mean Air Age, year A.D.": "1210",
-            "CO2, 75 Year Smoothed, ppm": "283.2"
+            "Time": "1210",
+            "co2": "283.2"
         },
         {
-            "Mean Air Age, year A.D.": "1215",
-            "CO2, 75 Year Smoothed, ppm": "283.0"
+            "Time": "1215",
+            "co2": "283.0"
         },
         {
-            "Mean Air Age, year A.D.": "1220",
-            "CO2, 75 Year Smoothed, ppm": "282.8"
+            "Time": "1220",
+            "co2": "282.8"
         },
         {
-            "Mean Air Age, year A.D.": "1225",
-            "CO2, 75 Year Smoothed, ppm": "282.5"
+            "Time": "1225",
+            "co2": "282.5"
         },
         {
-            "Mean Air Age, year A.D.": "1230",
-            "CO2, 75 Year Smoothed, ppm": "282.3"
+            "Time": "1230",
+            "co2": "282.3"
         },
         {
-            "Mean Air Age, year A.D.": "1235",
-            "CO2, 75 Year Smoothed, ppm": "282.2"
+            "Time": "1235",
+            "co2": "282.2"
         },
         {
-            "Mean Air Age, year A.D.": "1240",
-            "CO2, 75 Year Smoothed, ppm": "282.0"
+            "Time": "1240",
+            "co2": "282.0"
         },
         {
-            "Mean Air Age, year A.D.": "1245",
-            "CO2, 75 Year Smoothed, ppm": "281.9"
+            "Time": "1245",
+            "co2": "281.9"
         },
         {
-            "Mean Air Age, year A.D.": "1250",
-            "CO2, 75 Year Smoothed, ppm": "281.9"
+            "Time": "1250",
+            "co2": "281.9"
         },
         {
-            "Mean Air Age, year A.D.": "1255",
-            "CO2, 75 Year Smoothed, ppm": "281.9"
+            "Time": "1255",
+            "co2": "281.9"
         },
         {
-            "Mean Air Age, year A.D.": "1260",
-            "CO2, 75 Year Smoothed, ppm": "282.0"
+            "Time": "1260",
+            "co2": "282.0"
         },
         {
-            "Mean Air Age, year A.D.": "1265",
-            "CO2, 75 Year Smoothed, ppm": "282.1"
+            "Time": "1265",
+            "co2": "282.1"
         },
         {
-            "Mean Air Age, year A.D.": "1270",
-            "CO2, 75 Year Smoothed, ppm": "282.2"
+            "Time": "1270",
+            "co2": "282.2"
         },
         {
-            "Mean Air Age, year A.D.": "1275",
-            "CO2, 75 Year Smoothed, ppm": "282.3"
+            "Time": "1275",
+            "co2": "282.3"
         },
         {
-            "Mean Air Age, year A.D.": "1280",
-            "CO2, 75 Year Smoothed, ppm": "282.5"
+            "Time": "1280",
+            "co2": "282.5"
         },
         {
-            "Mean Air Age, year A.D.": "1285",
-            "CO2, 75 Year Smoothed, ppm": "282.6"
+            "Time": "1285",
+            "co2": "282.6"
         },
         {
-            "Mean Air Age, year A.D.": "1290",
-            "CO2, 75 Year Smoothed, ppm": "282.8"
+            "Time": "1290",
+            "co2": "282.8"
         },
         {
-            "Mean Air Age, year A.D.": "1295",
-            "CO2, 75 Year Smoothed, ppm": "282.9"
+            "Time": "1295",
+            "co2": "282.9"
         },
         {
-            "Mean Air Age, year A.D.": "1300",
-            "CO2, 75 Year Smoothed, ppm": "283.0"
+            "Time": "1300",
+            "co2": "283.0"
         },
         {
-            "Mean Air Age, year A.D.": "1305",
-            "CO2, 75 Year Smoothed, ppm": "283.1"
+            "Time": "1305",
+            "co2": "283.1"
         },
         {
-            "Mean Air Age, year A.D.": "1310",
-            "CO2, 75 Year Smoothed, ppm": "283.2"
+            "Time": "1310",
+            "co2": "283.2"
         },
         {
-            "Mean Air Age, year A.D.": "1315",
-            "CO2, 75 Year Smoothed, ppm": "283.3"
+            "Time": "1315",
+            "co2": "283.3"
         },
         {
-            "Mean Air Age, year A.D.": "1320",
-            "CO2, 75 Year Smoothed, ppm": "283.3"
+            "Time": "1320",
+            "co2": "283.3"
         },
         {
-            "Mean Air Age, year A.D.": "1325",
-            "CO2, 75 Year Smoothed, ppm": "283.2"
+            "Time": "1325",
+            "co2": "283.2"
         },
         {
-            "Mean Air Age, year A.D.": "1330",
-            "CO2, 75 Year Smoothed, ppm": "283.1"
+            "Time": "1330",
+            "co2": "283.1"
         },
         {
-            "Mean Air Age, year A.D.": "1335",
-            "CO2, 75 Year Smoothed, ppm": "282.9"
+            "Time": "1335",
+            "co2": "282.9"
         },
         {
-            "Mean Air Age, year A.D.": "1340",
-            "CO2, 75 Year Smoothed, ppm": "282.7"
+            "Time": "1340",
+            "co2": "282.7"
         },
         {
-            "Mean Air Age, year A.D.": "1345",
-            "CO2, 75 Year Smoothed, ppm": "282.4"
+            "Time": "1345",
+            "co2": "282.4"
         },
         {
-            "Mean Air Age, year A.D.": "1350",
-            "CO2, 75 Year Smoothed, ppm": "282.1"
+            "Time": "1350",
+            "co2": "282.1"
         },
         {
-            "Mean Air Age, year A.D.": "1355",
-            "CO2, 75 Year Smoothed, ppm": "281.8"
+            "Time": "1355",
+            "co2": "281.8"
         },
         {
-            "Mean Air Age, year A.D.": "1360",
-            "CO2, 75 Year Smoothed, ppm": "281.5"
+            "Time": "1360",
+            "co2": "281.5"
         },
         {
-            "Mean Air Age, year A.D.": "1365",
-            "CO2, 75 Year Smoothed, ppm": "281.2"
+            "Time": "1365",
+            "co2": "281.2"
         },
         {
-            "Mean Air Age, year A.D.": "1370",
-            "CO2, 75 Year Smoothed, ppm": "281.0"
+            "Time": "1370",
+            "co2": "281.0"
         },
         {
-            "Mean Air Age, year A.D.": "1375",
-            "CO2, 75 Year Smoothed, ppm": "280.7"
+            "Time": "1375",
+            "co2": "280.7"
         },
         {
-            "Mean Air Age, year A.D.": "1380",
-            "CO2, 75 Year Smoothed, ppm": "280.5"
+            "Time": "1380",
+            "co2": "280.5"
         },
         {
-            "Mean Air Age, year A.D.": "1385",
-            "CO2, 75 Year Smoothed, ppm": "280.4"
+            "Time": "1385",
+            "co2": "280.4"
         },
         {
-            "Mean Air Age, year A.D.": "1390",
-            "CO2, 75 Year Smoothed, ppm": "280.3"
+            "Time": "1390",
+            "co2": "280.3"
         },
         {
-            "Mean Air Age, year A.D.": "1395",
-            "CO2, 75 Year Smoothed, ppm": "280.3"
+            "Time": "1395",
+            "co2": "280.3"
         },
         {
-            "Mean Air Age, year A.D.": "1400",
-            "CO2, 75 Year Smoothed, ppm": "280.3"
+            "Time": "1400",
+            "co2": "280.3"
         },
         {
-            "Mean Air Age, year A.D.": "1405",
-            "CO2, 75 Year Smoothed, ppm": "280.4"
+            "Time": "1405",
+            "co2": "280.4"
         },
         {
-            "Mean Air Age, year A.D.": "1410",
-            "CO2, 75 Year Smoothed, ppm": "280.5"
+            "Time": "1410",
+            "co2": "280.5"
         },
         {
-            "Mean Air Age, year A.D.": "1415",
-            "CO2, 75 Year Smoothed, ppm": "280.6"
+            "Time": "1415",
+            "co2": "280.6"
         },
         {
-            "Mean Air Age, year A.D.": "1420",
-            "CO2, 75 Year Smoothed, ppm": "280.7"
+            "Time": "1420",
+            "co2": "280.7"
         },
         {
-            "Mean Air Age, year A.D.": "1425",
-            "CO2, 75 Year Smoothed, ppm": "280.8"
+            "Time": "1425",
+            "co2": "280.8"
         },
         {
-            "Mean Air Age, year A.D.": "1430",
-            "CO2, 75 Year Smoothed, ppm": "280.9"
+            "Time": "1430",
+            "co2": "280.9"
         },
         {
-            "Mean Air Age, year A.D.": "1435",
-            "CO2, 75 Year Smoothed, ppm": "280.9"
+            "Time": "1435",
+            "co2": "280.9"
         },
         {
-            "Mean Air Age, year A.D.": "1440",
-            "CO2, 75 Year Smoothed, ppm": "280.9"
+            "Time": "1440",
+            "co2": "280.9"
         },
         {
-            "Mean Air Age, year A.D.": "1445",
-            "CO2, 75 Year Smoothed, ppm": "280.9"
+            "Time": "1445",
+            "co2": "280.9"
         },
         {
-            "Mean Air Age, year A.D.": "1450",
-            "CO2, 75 Year Smoothed, ppm": "280.8"
+            "Time": "1450",
+            "co2": "280.8"
         },
         {
-            "Mean Air Age, year A.D.": "1455",
-            "CO2, 75 Year Smoothed, ppm": "280.7"
+            "Time": "1455",
+            "co2": "280.7"
         },
         {
-            "Mean Air Age, year A.D.": "1460",
-            "CO2, 75 Year Smoothed, ppm": "280.6"
+            "Time": "1460",
+            "co2": "280.6"
         },
         {
-            "Mean Air Age, year A.D.": "1465",
-            "CO2, 75 Year Smoothed, ppm": "280.6"
+            "Time": "1465",
+            "co2": "280.6"
         },
         {
-            "Mean Air Age, year A.D.": "1470",
-            "CO2, 75 Year Smoothed, ppm": "280.6"
+            "Time": "1470",
+            "co2": "280.6"
         },
         {
-            "Mean Air Age, year A.D.": "1475",
-            "CO2, 75 Year Smoothed, ppm": "280.8"
+            "Time": "1475",
+            "co2": "280.8"
         },
         {
-            "Mean Air Age, year A.D.": "1480",
-            "CO2, 75 Year Smoothed, ppm": "281.0"
+            "Time": "1480",
+            "co2": "281.0"
         },
         {
-            "Mean Air Age, year A.D.": "1485",
-            "CO2, 75 Year Smoothed, ppm": "281.3"
+            "Time": "1485",
+            "co2": "281.3"
         },
         {
-            "Mean Air Age, year A.D.": "1490",
-            "CO2, 75 Year Smoothed, ppm": "281.6"
+            "Time": "1490",
+            "co2": "281.6"
         },
         {
-            "Mean Air Age, year A.D.": "1495",
-            "CO2, 75 Year Smoothed, ppm": "281.9"
+            "Time": "1495",
+            "co2": "281.9"
         },
         {
-            "Mean Air Age, year A.D.": "1500",
-            "CO2, 75 Year Smoothed, ppm": "282.2"
+            "Time": "1500",
+            "co2": "282.2"
         },
         {
-            "Mean Air Age, year A.D.": "1505",
-            "CO2, 75 Year Smoothed, ppm": "282.5"
+            "Time": "1505",
+            "co2": "282.5"
         },
         {
-            "Mean Air Age, year A.D.": "1510",
-            "CO2, 75 Year Smoothed, ppm": "282.7"
+            "Time": "1510",
+            "co2": "282.7"
         },
         {
-            "Mean Air Age, year A.D.": "1515",
-            "CO2, 75 Year Smoothed, ppm": "282.9"
+            "Time": "1515",
+            "co2": "282.9"
         },
         {
-            "Mean Air Age, year A.D.": "1520",
-            "CO2, 75 Year Smoothed, ppm": "283.1"
+            "Time": "1520",
+            "co2": "283.1"
         },
         {
-            "Mean Air Age, year A.D.": "1525",
-            "CO2, 75 Year Smoothed, ppm": "283.2"
+            "Time": "1525",
+            "co2": "283.2"
         },
         {
-            "Mean Air Age, year A.D.": "1530",
-            "CO2, 75 Year Smoothed, ppm": "283.2"
+            "Time": "1530",
+            "co2": "283.2"
         },
         {
-            "Mean Air Age, year A.D.": "1535",
-            "CO2, 75 Year Smoothed, ppm": "283.2"
+            "Time": "1535",
+            "co2": "283.2"
         },
         {
-            "Mean Air Age, year A.D.": "1540",
-            "CO2, 75 Year Smoothed, ppm": "283.1"
+            "Time": "1540",
+            "co2": "283.1"
         },
         {
-            "Mean Air Age, year A.D.": "1545",
-            "CO2, 75 Year Smoothed, ppm": "283.0"
+            "Time": "1545",
+            "co2": "283.0"
         },
         {
-            "Mean Air Age, year A.D.": "1550",
-            "CO2, 75 Year Smoothed, ppm": "282.8"
+            "Time": "1550",
+            "co2": "282.8"
         },
         {
-            "Mean Air Age, year A.D.": "1555",
-            "CO2, 75 Year Smoothed, ppm": "282.6"
+            "Time": "1555",
+            "co2": "282.6"
         },
         {
-            "Mean Air Age, year A.D.": "1560",
-            "CO2, 75 Year Smoothed, ppm": "282.2"
+            "Time": "1560",
+            "co2": "282.2"
         },
         {
-            "Mean Air Age, year A.D.": "1565",
-            "CO2, 75 Year Smoothed, ppm": "281.8"
+            "Time": "1565",
+            "co2": "281.8"
         },
         {
-            "Mean Air Age, year A.D.": "1570",
-            "CO2, 75 Year Smoothed, ppm": "281.2"
+            "Time": "1570",
+            "co2": "281.2"
         },
         {
-            "Mean Air Age, year A.D.": "1575",
-            "CO2, 75 Year Smoothed, ppm": "280.5"
+            "Time": "1575",
+            "co2": "280.5"
         },
         {
-            "Mean Air Age, year A.D.": "1580",
-            "CO2, 75 Year Smoothed, ppm": "279.7"
+            "Time": "1580",
+            "co2": "279.7"
         },
         {
-            "Mean Air Age, year A.D.": "1585",
-            "CO2, 75 Year Smoothed, ppm": "278.8"
+            "Time": "1585",
+            "co2": "278.8"
         },
         {
-            "Mean Air Age, year A.D.": "1590",
-            "CO2, 75 Year Smoothed, ppm": "278.0"
+            "Time": "1590",
+            "co2": "278.0"
         },
         {
-            "Mean Air Age, year A.D.": "1595",
-            "CO2, 75 Year Smoothed, ppm": "277.1"
+            "Time": "1595",
+            "co2": "277.1"
         },
         {
-            "Mean Air Age, year A.D.": "1600",
-            "CO2, 75 Year Smoothed, ppm": "276.4"
+            "Time": "1600",
+            "co2": "276.4"
         },
         {
-            "Mean Air Age, year A.D.": "1605",
-            "CO2, 75 Year Smoothed, ppm": "275.8"
+            "Time": "1605",
+            "co2": "275.8"
         },
         {
-            "Mean Air Age, year A.D.": "1610",
-            "CO2, 75 Year Smoothed, ppm": "275.5"
+            "Time": "1610",
+            "co2": "275.5"
         },
         {
-            "Mean Air Age, year A.D.": "1615",
-            "CO2, 75 Year Smoothed, ppm": "275.3"
+            "Time": "1615",
+            "co2": "275.3"
         },
         {
-            "Mean Air Age, year A.D.": "1620",
-            "CO2, 75 Year Smoothed, ppm": "275.3"
+            "Time": "1620",
+            "co2": "275.3"
         },
         {
-            "Mean Air Age, year A.D.": "1625",
-            "CO2, 75 Year Smoothed, ppm": "275.4"
+            "Time": "1625",
+            "co2": "275.4"
         },
         {
-            "Mean Air Age, year A.D.": "1630",
-            "CO2, 75 Year Smoothed, ppm": "275.6"
+            "Time": "1630",
+            "co2": "275.6"
         },
         {
-            "Mean Air Age, year A.D.": "1635",
-            "CO2, 75 Year Smoothed, ppm": "275.9"
+            "Time": "1635",
+            "co2": "275.9"
         },
         {
-            "Mean Air Age, year A.D.": "1640",
-            "CO2, 75 Year Smoothed, ppm": "276.1"
+            "Time": "1640",
+            "co2": "276.1"
         },
         {
-            "Mean Air Age, year A.D.": "1645",
-            "CO2, 75 Year Smoothed, ppm": "276.3"
+            "Time": "1645",
+            "co2": "276.3"
         },
         {
-            "Mean Air Age, year A.D.": "1650",
-            "CO2, 75 Year Smoothed, ppm": "276.4"
+            "Time": "1650",
+            "co2": "276.4"
         },
         {
-            "Mean Air Age, year A.D.": "1655",
-            "CO2, 75 Year Smoothed, ppm": "276.5"
+            "Time": "1655",
+            "co2": "276.5"
         },
         {
-            "Mean Air Age, year A.D.": "1660",
-            "CO2, 75 Year Smoothed, ppm": "276.5"
+            "Time": "1660",
+            "co2": "276.5"
         },
         {
-            "Mean Air Age, year A.D.": "1665",
-            "CO2, 75 Year Smoothed, ppm": "276.5"
+            "Time": "1665",
+            "co2": "276.5"
         },
         {
-            "Mean Air Age, year A.D.": "1670",
-            "CO2, 75 Year Smoothed, ppm": "276.4"
+            "Time": "1670",
+            "co2": "276.4"
         },
         {
-            "Mean Air Age, year A.D.": "1675",
-            "CO2, 75 Year Smoothed, ppm": "276.4"
+            "Time": "1675",
+            "co2": "276.4"
         },
         {
-            "Mean Air Age, year A.D.": "1680",
-            "CO2, 75 Year Smoothed, ppm": "276.4"
+            "Time": "1680",
+            "co2": "276.4"
         },
         {
-            "Mean Air Age, year A.D.": "1685",
-            "CO2, 75 Year Smoothed, ppm": "276.4"
+            "Time": "1685",
+            "co2": "276.4"
         },
         {
-            "Mean Air Age, year A.D.": "1690",
-            "CO2, 75 Year Smoothed, ppm": "276.5"
+            "Time": "1690",
+            "co2": "276.5"
         },
         {
-            "Mean Air Age, year A.D.": "1695",
-            "CO2, 75 Year Smoothed, ppm": "276.6"
+            "Time": "1695",
+            "co2": "276.6"
         },
         {
-            "Mean Air Age, year A.D.": "1700",
-            "CO2, 75 Year Smoothed, ppm": "276.7"
+            "Time": "1700",
+            "co2": "276.7"
         },
         {
-            "Mean Air Age, year A.D.": "1705",
-            "CO2, 75 Year Smoothed, ppm": "276.8"
+            "Time": "1705",
+            "co2": "276.8"
         },
         {
-            "Mean Air Age, year A.D.": "1710",
-            "CO2, 75 Year Smoothed, ppm": "276.9"
+            "Time": "1710",
+            "co2": "276.9"
         },
         {
-            "Mean Air Age, year A.D.": "1715",
-            "CO2, 75 Year Smoothed, ppm": "277.0"
+            "Time": "1715",
+            "co2": "277.0"
         },
         {
-            "Mean Air Age, year A.D.": "1720",
-            "CO2, 75 Year Smoothed, ppm": "277.0"
+            "Time": "1720",
+            "co2": "277.0"
         },
         {
-            "Mean Air Age, year A.D.": "1725",
-            "CO2, 75 Year Smoothed, ppm": "277.0"
+            "Time": "1725",
+            "co2": "277.0"
         },
         {
-            "Mean Air Age, year A.D.": "1730",
-            "CO2, 75 Year Smoothed, ppm": "277.0"
+            "Time": "1730",
+            "co2": "277.0"
         },
         {
-            "Mean Air Age, year A.D.": "1735",
-            "CO2, 75 Year Smoothed, ppm": "276.9"
+            "Time": "1735",
+            "co2": "276.9"
         },
         {
-            "Mean Air Age, year A.D.": "1740",
-            "CO2, 75 Year Smoothed, ppm": "276.9"
+            "Time": "1740",
+            "co2": "276.9"
         },
         {
-            "Mean Air Age, year A.D.": "1745",
-            "CO2, 75 Year Smoothed, ppm": "276.9"
+            "Time": "1745",
+            "co2": "276.9"
         },
         {
-            "Mean Air Age, year A.D.": "1750",
-            "CO2, 75 Year Smoothed, ppm": "277.0"
+            "Time": "1750",
+            "co2": "277.0"
         },
         {
-            "Mean Air Age, year A.D.": "1755",
-            "CO2, 75 Year Smoothed, ppm": "277.2"
+            "Time": "1755",
+            "co2": "277.2"
         },
         {
-            "Mean Air Age, year A.D.": "1760",
-            "CO2, 75 Year Smoothed, ppm": "277.6"
+            "Time": "1760",
+            "co2": "277.6"
         },
         {
-            "Mean Air Age, year A.D.": "1765",
-            "CO2, 75 Year Smoothed, ppm": "278.0"
+            "Time": "1765",
+            "co2": "278.0"
         },
         {
-            "Mean Air Age, year A.D.": "1770",
-            "CO2, 75 Year Smoothed, ppm": "278.6"
+            "Time": "1770",
+            "co2": "278.6"
         },
         {
-            "Mean Air Age, year A.D.": "1775",
-            "CO2, 75 Year Smoothed, ppm": "279.3"
+            "Time": "1775",
+            "co2": "279.3"
         },
         {
-            "Mean Air Age, year A.D.": "1780",
-            "CO2, 75 Year Smoothed, ppm": "280.1"
+            "Time": "1780",
+            "co2": "280.1"
         },
         {
-            "Mean Air Age, year A.D.": "1785",
-            "CO2, 75 Year Smoothed, ppm": "280.8"
+            "Time": "1785",
+            "co2": "280.8"
         },
         {
-            "Mean Air Age, year A.D.": "1790",
-            "CO2, 75 Year Smoothed, ppm": "281.6"
+            "Time": "1790",
+            "co2": "281.6"
         },
         {
-            "Mean Air Age, year A.D.": "1795",
-            "CO2, 75 Year Smoothed, ppm": "282.3"
+            "Time": "1795",
+            "co2": "282.3"
         },
         {
-            "Mean Air Age, year A.D.": "1800",
-            "CO2, 75 Year Smoothed, ppm": "282.9"
+            "Time": "1800",
+            "co2": "282.9"
         },
         {
-            "Mean Air Age, year A.D.": "1805",
-            "CO2, 75 Year Smoothed, ppm": "283.4"
+            "Time": "1805",
+            "co2": "283.4"
         },
         {
-            "Mean Air Age, year A.D.": "1810",
-            "CO2, 75 Year Smoothed, ppm": "283.8"
+            "Time": "1810",
+            "co2": "283.8"
         },
         {
-            "Mean Air Age, year A.D.": "1815",
-            "CO2, 75 Year Smoothed, ppm": "284.0"
+            "Time": "1815",
+            "co2": "284.0"
         },
         {
-            "Mean Air Age, year A.D.": "1820",
-            "CO2, 75 Year Smoothed, ppm": "284.2"
+            "Time": "1820",
+            "co2": "284.2"
         },
         {
-            "Mean Air Age, year A.D.": "1825",
-            "CO2, 75 Year Smoothed, ppm": "284.3"
+            "Time": "1825",
+            "co2": "284.3"
         },
         {
-            "Mean Air Age, year A.D.": "1830",
-            "CO2, 75 Year Smoothed, ppm": "284.4"
+            "Time": "1830",
+            "co2": "284.4"
         },
         {
-            "Mean Air Age, year A.D.": "1835",
-            "CO2, 75 Year Smoothed, ppm": "284.5"
+            "Time": "1835",
+            "co2": "284.5"
         },
         {
-            "Mean Air Age, year A.D.": "1840",
-            "CO2, 75 Year Smoothed, ppm": "284.6"
+            "Time": "1840",
+            "co2": "284.6"
         },
         {
-            "Mean Air Age, year A.D.": "1845",
-            "CO2, 75 Year Smoothed, ppm": "284.8"
+            "Time": "1845",
+            "co2": "284.8"
         },
         {
-            "Mean Air Age, year A.D.": "1850",
-            "CO2, 75 Year Smoothed, ppm": "285.2"
+            "Time": "1850",
+            "co2": "285.2"
         },
         {
-            "Mean Air Age, year A.D.": "1855",
-            "CO2, 75 Year Smoothed, ppm": "285.7"
+            "Time": "1855",
+            "co2": "285.7"
         },
         {
-            "Mean Air Age, year A.D.": "1860",
-            "CO2, 75 Year Smoothed, ppm": "286.3"
+            "Time": "1860",
+            "co2": "286.3"
         },
         {
-            "Mean Air Age, year A.D.": "1865",
-            "CO2, 75 Year Smoothed, ppm": "287.2"
+            "Time": "1865",
+            "co2": "287.2"
         },
         {
-            "Mean Air Age, year A.D.": "1870",
-            "CO2, 75 Year Smoothed, ppm": "288.2"
+            "Time": "1870",
+            "co2": "288.2"
         },
         {
-            "Mean Air Age, year A.D.": "1875",
-            "CO2, 75 Year Smoothed, ppm": "289.4"
+            "Time": "1875",
+            "co2": "289.4"
         },
         {
-            "Mean Air Age, year A.D.": "1880",
-            "CO2, 75 Year Smoothed, ppm": "290.8"
+            "Time": "1880",
+            "co2": "290.8"
         },
         {
-            "Mean Air Age, year A.D.": "1885",
-            "CO2, 75 Year Smoothed, ppm": "292.3"
+            "Time": "1885",
+            "co2": "292.3"
         },
         {
-            "Mean Air Age, year A.D.": "1890",
-            "CO2, 75 Year Smoothed, ppm": "293.7"
+            "Time": "1890",
+            "co2": "293.7"
         },
         {
-            "Mean Air Age, year A.D.": "1895",
-            "CO2, 75 Year Smoothed, ppm": "295.2"
+            "Time": "1895",
+            "co2": "295.2"
         },
         {
-            "Mean Air Age, year A.D.": "1900",
-            "CO2, 75 Year Smoothed, ppm": "296.7"
+            "Time": "1900",
+            "co2": "296.7"
         },
         {
-            "Mean Air Age, year A.D.": "1905",
-            "CO2, 75 Year Smoothed, ppm": "298.2"
+            "Time": "1905",
+            "co2": "298.2"
         },
         {
-            "Mean Air Age, year A.D.": "1910",
-            "CO2, 75 Year Smoothed, ppm": "299.9"
+            "Time": "1910",
+            "co2": "299.9"
         },
         {
-            "Mean Air Age, year A.D.": "1915",
-            "CO2, 75 Year Smoothed, ppm": "301.5"
+            "Time": "1915",
+            "co2": "301.5"
         },
         {
-            "Mean Air Age, year A.D.": "1920",
-            "CO2, 75 Year Smoothed, ppm": "303.2"
+            "Time": "1920",
+            "co2": "303.2"
         },
         {
-            "Mean Air Age, year A.D.": "1925",
-            "CO2, 75 Year Smoothed, ppm": "304.9"
+            "Time": "1925",
+            "co2": "304.9"
         },
         {
-            "Mean Air Age, year A.D.": "1930",
-            "CO2, 75 Year Smoothed, ppm": "306.5"
+            "Time": "1930",
+            "co2": "306.5"
         },
         {
-            "Mean Air Age, year A.D.": "1935",
-            "CO2, 75 Year Smoothed, ppm": "308.0"
+            "Time": "1935",
+            "co2": "308.0"
         },
         {
-            "Mean Air Age, year A.D.": "1940",
-            "CO2, 75 Year Smoothed, ppm": "309.3"
+            "Time": "1940",
+            "co2": "309.3"
         },
         {
-            "Mean Air Age, year A.D.": "1945",
-            "CO2, 75 Year Smoothed, ppm": "310.5"
+            "Time": "1945",
+            "co2": "310.5"
         },
         {
-            "Mean Air Age, year A.D.": "1950",
-            "CO2, 75 Year Smoothed, ppm": "312.0"
+            "Time": "1950",
+            "co2": "312.0"
         },
         {
-            "Mean Air Age, year A.D.": "1955",
-            "CO2, 75 Year Smoothed, ppm": "314.1"
+            "Time": "1955",
+            "co2": "314.1"
         },
         {
-            "Mean Air Age, year A.D.": "1960",
-            "CO2, 75 Year Smoothed, ppm": "316.9"
+            "Time": "1960",
+            "co2": "316.9"
         },
         {
-            "Mean Air Age, year A.D.": "1965",
-            "CO2, 75 Year Smoothed, ppm": "320.5"
+            "Time": "1965",
+            "co2": "320.5"
         },
         {
-            "Mean Air Age, year A.D.": "1970",
-            "CO2, 75 Year Smoothed, ppm": "324.7"
+            "Time": "1970",
+            "co2": "324.7"
         },
         {
-            "Mean Air Age, year A.D.": "1975",
-            "CO2, 75 Year Smoothed, ppm": "329.4"
+            "Time": "1975",
+            "co2": "329.4"
         }
     ]
 }

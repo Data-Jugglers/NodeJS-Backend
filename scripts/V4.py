@@ -34,7 +34,16 @@ def text_to_json(data_start, data_end, keys_start, keys_end, name):
             jsonData = {}
             k = 0
             for dataRow in re.split(r'\s{2,}', (my_list[i][0]).lstrip().rstrip()):
-                jsonData[keyList[k]] = dataRow
+                key = keyList[k]
+                match key:
+                    case "Mean Air Age, year A.D.":
+                        key = "Time"
+                    case "CO2, 20 Year Smoothed, ppm":
+                        key = "co2"
+                    case "CO2, 75 Year Smoothed, ppm":
+                        key = "co2"
+
+                jsonData[key] = dataRow
                 k += 1
 
             json_list.append(jsonData)
