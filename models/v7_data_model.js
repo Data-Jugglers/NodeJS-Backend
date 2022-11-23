@@ -10,18 +10,19 @@ const V7Desc = require("../files_output/V7/V7Desc.json");
 const SET_ID = [17, 18, 19, 20];
 const getV7Data = async () => {
   let allResults = [];
+  for (let i = 0; i <= 3; i++) {
+    const result = await db.query(
+      "select * from datasets where set_id=$1 order by data_id asc",
+      [SET_ID[i]]
+    );
+    allResults.push(result.rows);
 
-  const result = await db.query(
-    "select * from datasets where set_id=$1 order by data_id asc",
-    [SET_ID[0]]
-  );
-  allResults.push(result.rows);
-
-  const description = await db.query(
-    "select * from description where set_id=$1",
-    [SET_ID[0]]
-  );
-  allResults.push(description.rows);
+    const description = await db.query(
+      "select * from description where set_id=$1",
+      [SET_ID[i]]
+    );
+    allResults.push(description.rows);
+  }
 
   return helper.emptyOrNot(allResults);
 };
