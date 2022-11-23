@@ -1,7 +1,7 @@
 {
   "description": {
-    "srcLink": "https://cdiac.ess-dive.lbl.gov/ftp/trends/co2/vostok.icecore.co2",
-    "desLink": "https://cdiac.ess-dive.lbl.gov/trends/co2/vostok.htm",
-    "des": "This graph visualizes the CO2 concentration in the air based on ice core drillings in the Antarctic. The samples date back to 417 160 years before present and the youngest records date back 2 342 years."
+    "srcLink": "http://carolynsnyder.com/papers/Snyder_Data_Figures.zip",
+    "desLink": "https://climate.fas.harvard.edu/files/climate/files/snyder_2016.pdf",
+    "des": "Evolution of global temperature over the past two million years"
   }
 }
