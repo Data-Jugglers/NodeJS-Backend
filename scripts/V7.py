@@ -16,17 +16,14 @@ for i in [0, 1, 2, 3]:
     #         0]["Antarctic temperature change (\u00baC)"]
     #     del json_dict["data"][0]["Antarctic temperature change (\u00baC)"]
     if (i == 0):
-        for data_entry in json_dict["data"]:
-
-            data_entry["Time (kyr BP)"] = "0" * \
-                (4-len(str(data_entry["Time (kyr BP)"]))) + \
-                str(data_entry["Time (kyr BP)"])
+        for data_entry in json_dict["data"]:data_entry["Time (kyr BP)"] =int( str(data_entry["Time (kyr BP)"]) + "0" *3)
 
     def replaceKey(initialKey, wantedKey, data):
         if (initialKey in data.keys()):
             data[wantedKey] = data[initialKey]
             del data[initialKey]
     for data_entry in json_dict["data"]:
+        replaceKey(0.5, "Data", data_entry)
         replaceKey("Time (kyr BP)", "Time", data_entry)
         replaceKey("Time (yr BP)", "Time", data_entry)
         replaceKey("Antarctic temperature change (\u00baC)",

@@ -43,7 +43,7 @@ const setV7Components = async () => {
   for (const element of V7Data1.data) {
     await db.query(
       "insert into datasets (set_id, measurement_date, data) values ($1,$2,$3)",
-      [17, element["Time"], element["0.975"]]
+      [17, element["Time"], element["Data"]]
     );
   }
   for (const element of V7Data2.data) {
