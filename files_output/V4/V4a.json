@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "Ice Sample Code": "DSS 004",
+      "Analysis Date": "13-Nov-92",
+      "Mean Ice Depth, m": "78.02",
+      "Ice Age, year A.D.": "1901",
+      "Time": "1959",
+      "chdata": "315.7"
+    },
+    {
+      "Ice Sample Code": "DSS 001",
+      "Analysis Date": "20-Aug-92",
+      "Mean Ice Depth, m": "81.82",
+      "Ice Age, year A.D.": "1896",
+      "Time": "1954",
+      "chdata": "313.6"
+    },
+    {
+      "Ice Sample Code": "DSS 002",
+      "Analysis Date": "21-Aug-92",
+      "Mean Ice Depth, m": "81.82",
+      "Ice Age, year A.D.": "1896",
+      "Time": "1954",
+      "chdata": "314.7"
+    },
+    {
+      "Ice Sample Code": "DSS 003",
+      "Analysis Date": "21-Aug-92",
+      "Mean Ice Depth, m": "81.82",
+      "Ice Age, year A.D.": "1896",
+      "Time": "1954",
+      "chdata": "314.1"
+    },
+    {
+      "Ice Sample Code": "DSS 029",
+      "Analysis Date": "24-Nov-93",
+      "Mean Ice Depth, m": "86.19",
+      "Ice Age, year A.D.": "1890",
+      "Time": "1948",
+      "chdata": "311.4"
+    },
+    {
+      "Ice Sample Code": "DSS 037",
+      "Analysis Date": "7-Jun-95",
+      "Mean Ice Depth, m": "92.86",
+      "Ice Age, year A.D.": "1881",
+      "Time": "1939",
+      "chdata": "309.2"
+    },
+    {
+      "Ice Sample Code": "DSS 027",
+      "Analysis Date": "18-Nov-93",
+      "Mean Ice Depth, m": "94.13",
+      "Ice Age, year A.D.": "1878",
+      "Time": "1936",
+      "chdata": "307.9"
+    },
+    {
+      "Ice Sample Code": "DSS 041",
+      "Analysis Date": "15-Jun-95",
+      "Mean Ice Depth, m": "99.82",
+      "Ice Age, year A.D.": "1871",
+      "Time": "1929",
+      "chdata": "305.2"
+    },
+    {
+      "Ice Sample Code": "DSS 008",
+      "Analysis Date": "13-Aug-93",
+      "Mean Ice Depth, m": "100.32",
+      "Ice Age, year A.D.": "1868",
+      "Time": "1926",
+      "chdata": "305.0"
+    },
+    {
+      "Ice Sample Code": "DSS 033",
+      "Analysis Date": "2-Jun-95",
+      "Mean Ice Depth, m": "114.45",
+      "Ice Age, year A.D.": "1847",
+      "Time": "1905",
+      "chdata": "299.0"
+    },
+    {
+      "Ice Sample Code": "DSS 007",
+      "Analysis Date": "11-Aug-93",
+      "Mean Ice Depth, m": "116.89",
+      "Ice Age, year A.D.": "1841",
+      "Time": "1899",
+      "chdata": "296.5"
+    },
+    {
+      "Ice Sample Code": "DSS 030",
+      "Analysis Date": "24-Nov-93",
+      "Mean Ice Depth, m": "122.82",
+      "Ice Age, year A.D.": "1833",
+      "Time": "1891",
+      "chdata": "294.7"
+    },
+    {
+      "Ice Sample Code": "DSS 009",
+      "Analysis Date": "20-Aug-93",
+      "Mean Ice Depth, m": "151.56",
+      "Ice Age, year A.D.": "1787",
+      "Time": "1845",
+      "chdata": "286.1"
+    },
+    {
+      "Ice Sample Code": "DSS 010",
+      "Analysis Date": "20-Aug-93",
+      "Mean Ice Depth, m": "163.51",
+      "Ice Age, year A.D.": "1767",
+      "Time": "1825",
+      "chdata": "285.1"
+    },
+    {
+      "Ice Sample Code": "DSS 015",
+      "Analysis Date": "8-Oct-93",
+      "Mean Ice Depth, m": "179.97",
+      "Ice Age, year A.D.": "1738",
+      "Time": "1796",
+      "chdata": "283.7"
+    },
+    {
+      "Ice Sample Code": "DSS 016",
+      "Analysis Date": "14-Oct-93",
+      "Mean Ice Depth, m": "181.34",
+      "Ice Age, year A.D.": "1736",
+      "Time": "1794",
+      "chdata": "281.6"
+    },
+    {
+      "Ice Sample Code": "DSS 017",
+      "Analysis Date": "14-Oct-93",
+      "Mean Ice Depth, m": "190.88",
+      "Ice Age, year A.D.": "1719",
+      "Time": "1777",
+      "chdata": "279.5"
+    },
+    {
+      "Ice Sample Code": "DSS 031",
+      "Analysis Date": "2-Jun-95",
+      "Mean Ice Depth, m": "200.64",
+      "Ice Age, year A.D.": "1702",
+      "Time": "1760",
+      "chdata": "276.7"
+    },
+    {
+      "Ice Sample Code": "DSS 014",
+      "Analysis Date": "23-Aug-93",
+      "Mean Ice Depth, m": "206.50",
+      "Ice Age, year A.D.": "1691",
+      "Time": "1749",
+      "chdata": "277.2"
+    },
+    {
+      "Ice Sample Code": "DSS 025",
+      "Analysis Date": "10-Nov-93",
+      "Mean Ice Depth, m": "207.58",
+      "Ice Age, year A.D.": "1689",
+      "Time": "1747",
+      "chdata": "276.9"
+    },
+    {
+      "Ice Sample Code": "DSS 019",
+      "Analysis Date": "21-Oct-93",
+      "Mean Ice Depth, m": "223.01",
+      "Ice Age, year A.D.": "1662",
+      "Time": "1720",
+      "chdata": "277.5"
+    },
+    {
+      "Ice Sample Code": "DSS 011",
+      "Analysis Date": "20-Aug-93",
+      "Mean Ice Depth, m": "238.00",
+      "Ice Age, year A.D.": "1634",
+      "Time": "1692",
+      "chdata": "276.5"
+    },
+    {
+      "Ice Sample Code": "DSS 020",
+      "Analysis Date": "21-Oct-93",
+      "Mean Ice Depth, m": "245.63",
+      "Ice Age, year A.D.": "1621",
+      "Time": "1679",
+      "chdata": "275.9"
+    },
+    {
+      "Ice Sample Code": "DSS 013",
+      "Analysis Date": "23-Aug-93",
+      "Mean Ice Depth, m": "263.35",
+      "Ice Age, year A.D.": "1589",
+      "Time": "1647",
+      "chdata": "277.2"
+    },
+    {
+      "Ice Sample Code": "DSS 012",
+      "Analysis Date": "23-Aug-93",
+      "Mean Ice Depth, m": "285.20",
+      "Ice Age, year A.D.": "1546",
+      "Time": "1604",
+      "chdata": "274.3"
+    },
+    {
+      "Ice Sample Code": "DSS 021",
+      "Analysis Date": "28-Oct-93",
+      "Mean Ice Depth, m": "293.20",
+      "Ice Age, year A.D.": "1531",
+      "Time": "1589",
+      "chdata": "278.7"
+    },
+    {
+      "Ice Sample Code": "DSS 032",
+      "Analysis Date": "2-Jun-95",
+      "Mean Ice Depth, m": "302.14",
+      "Ice Age, year A.D.": "1512",
+      "Time": "1570",
+      "chdata": "281.9"
+    },
+    {
+      "Ice Sample Code": "DSS 018",
+      "Analysis Date": "21-Oct-93",
+      "Mean Ice Depth, m": "313.93",
+      "Ice Age, year A.D.": "1489",
+      "Time": "1547",
+      "chdata": "282.8"
+    },
+    {
+      "Ice Sample Code": "DSS 035",
+      "Analysis Date": "7-Jun-95",
+      "Mean Ice Depth, m": "323.84",
+      "Ice Age, year A.D.": "1469",
+      "Time": "1527",
+      "chdata": "283.2"
+    },
+    {
+      "Ice Sample Code": "DSS 023",
+      "Analysis Date": "10-Nov-93",
+      "Mean Ice Depth, m": "336.73",
+      "Ice Age, year A.D.": "1441",
+      "Time": "1499",
+      "chdata": "282.4"
+    },
+    {
+      "Ice Sample Code": "DSS 044",
+      "Analysis Date": "30-Jun-95",
+      "Mean Ice Depth, m": "351.30",
+      "Ice Age, year A.D.": "1407",
+      "Time": "1465",
+      "chdata": "279.6"
+    },
+    {
+      "Ice Sample Code": "DSS 022",
+      "Analysis Date": "28-Oct-93",
+      "Mean Ice Depth, m": "360.64",
+      "Ice Age, year A.D.": "1388",
+      "Time": "1446",
+      "chdata": "281.7"
+    },
+    {
+      "Ice Sample Code": "DSS 024",
+      "Analysis Date": "10-Nov-93",
+      "Mean Ice Depth, m": "387.13",
+      "Ice Age, year A.D.": "1329",
+      "Time": "1387",
+      "chdata": "280.0"
+    },
+    {
+      "Ice Sample Code": "DSS 026",
+      "Analysis Date": "18-Nov-93",
+      "Mean Ice Depth, m": "387.20",
+      "Ice Age, year A.D.": "1329",
+      "Time": "1387",
+      "chdata": "280.4"
+    },
+    {
+      "Ice Sample Code": "DSS 034",
+      "Analysis Date": "5-Jun-95",
+      "Mean Ice Depth, m": "414.22",
+      "Ice Age, year A.D.": "1269",
+      "Time": "1327",
+      "chdata": "283.4"
+    },
+    {
+      "Ice Sample Code": "DSS 039",
+      "Analysis Date": "14-Jun-95",
+      "Mean Ice Depth, m": "447.34",
+      "Ice Age, year A.D.": "1188",
+      "Time": "1246",
+      "chdata": "281.7"
+    },
+    {
+      "Ice Sample Code": "DSS 036",
+      "Analysis Date": "9-Jun-95",
+      "Mean Ice Depth, m": "467.85",
+      "Ice Age, year A.D.": "1138",
+      "Time": "1196",
+      "chdata": "283.9"
+    },
+    {
+      "Ice Sample Code": "DSS 043",
+      "Analysis Date": "30-Jun-95",
+      "Mean Ice Depth, m": "488.46",
+      "Ice Age, year A.D.": "1088",
+      "Time": "1146",
+      "chdata": "283.8"
+    },
+    {
+      "Ice Sample Code": "DSS 042",
+      "Analysis Date": "15-Jun-95",
+      "Mean Ice Depth, m": "506.03",
+      "Ice Age, year A.D.": "1038",
+      "Time": "1096",
+      "chdata": "282.4"
+    },
+    {
+      "Ice Sample Code": "DSS 040",
+      "Analysis Date": "14-Jun-95",
+      "Mean Ice Depth, m": "523.56",
+      "Ice Age, year A.D.": "988",
+      "Time": "1046",
+      "chdata": "280.3"
+    },
+    {
+      "Ice Sample Code": "DSS 038",
+      "Analysis Date": "12-Jun-95",
+      "Mean Ice Depth, m": "534.27",
+      "Ice Age, year A.D.": "948",
+      "Time": "1006",
+      "chdata": "279.4"
+    }
+  ]
+}
