@@ -2,8 +2,8 @@ const router = require("express").Router();
 const graphDataV1 = require("../models/v1_data_model");
 const graphDataV3 = require("../models/v3_data_model");
 const graphDataV2 = require("../models/v2_data_model");
-const graphDataV5 = require("../models/v5_data_model");
 const graphDataV4 = require("../models/v4_data_model");
+const graphDataV5 = require("../models/v5_data_model");
 
 const graphDataV7 = require("../models/v7_data_model");
 // GET methods to retrieve data for each visualization
