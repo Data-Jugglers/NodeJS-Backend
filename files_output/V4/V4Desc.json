@@ -1,7 +1,7 @@
 {
   "description": {
-    "srcLink": "https://gml.noaa.gov/ccgg/trends/data.html",
-    "desLink": "https://gml.noaa.gov/ccgg/about/co2_measurements.html",
-    "des": "This graph shows the Mauna LOA CO2 concentration measurements from March 1958 and onwards. Data is dispalyed in two formats i.e Global Yearly and Monthly"
+    "srcLink": "https://cdiac.ess-dive.lbl.gov/ftp/trends/co2/lawdome.combined.dat",
+    "desLink": "https://cdiac.ess-dive.lbl.gov/trends/co2/lawdome.html",
+    "des": "This graph shows the Hitsoric Antarctic Ice Core Records of Atmsopheric C02 ratios. Data is displayed in 3 formats i.e CO2 Mixing Ratio overall not smooth, CO2, 20 Years smoothed and CO2, 75 Years smoothed. "
   }
 }

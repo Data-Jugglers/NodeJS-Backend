@@ -6,7 +6,7 @@ const V4a = require("../files_output/V4/V4a.json");
 const V4b = require("../files_output/V4/V4b.json");
 const V4c = require("../files_output/V4/V4c.json");
 const V4Desc = require("../files_output/V4/V4Desc.json");
-const SET_ID = [22, 23, 24];
+const SET_ID = [10, 11, 12];
 
 // Gett all Graph data for v1. Array of object arrays.
 // index 0 = GlobalMonthly; index 1 = NorthernMonthly; ...; index 6 = SouthernYearly; index 7 = links+description
