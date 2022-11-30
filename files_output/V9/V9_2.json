@@ -1,5 +1,5 @@
 {
-    "data": [
+    "Energy": [
         {
             "Sub-sector": "Transport",
             "Share of global greenhouse gas emissions (%)": 16.2
@@ -23,7 +23,9 @@
         {
             "Sub-sector": "Fugitive emissions from energy",
             "Share of global greenhouse gas emissions (%)": 5.8
-        },
+        }
+    ],
+    "Industrial processes": [
         {
             "Sub-sector": "Cement",
             "Share of global greenhouse gas emissions (%)": 3.0
@@ -31,7 +33,9 @@
         {
             "Sub-sector": "Chemical & petrochemical (industrial)",
             "Share of global greenhouse gas emissions (%)": 2.2
-        },
+        }
+    ],
+    "Waste": [
         {
             "Sub-sector": "Livestock & Manure",
             "Share of global greenhouse gas emissions (%)": 5.8
