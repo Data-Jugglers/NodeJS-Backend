@@ -6,7 +6,8 @@
   "scripts": {
     "devStart": "nodemon server.js",
     "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "populate": "curl -X POST http://localhost:3001/v1 http://localhost:3001/v2 http://localhost:3001/v3 http://localhost:3001/v4 http://localhost:3001/v5 http://localhost:3001/v6 http://localhost:3001/v7 http://localhost:3001/v8 http://localhost:3001/v9 http://localhost:3001/v10"
   },
   "author": "Data-Jugglers",
   "license": "ISC",
