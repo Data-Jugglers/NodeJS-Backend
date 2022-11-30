@@ -6,7 +6,7 @@ import requests
 url = 'https://ourworldindata.org/uploads/2020/09/Global-GHG-Emissions-by-sector-based-on-WRI-2020.xlsx'
 r = requests.get(url)
 count = 0
-for i in ["Sub-sector (further breakdown)", "Sub-sector", "Sector"]:
+for i in ["Sector", "Sub-sector", "Sub-sector (further breakdown)"]:
     count += 1
     excel_data_df = pandas.read_excel(
         r.content, sheet_name=i).replace(np.nan, 0, regex=True)
@@ -34,7 +34,8 @@ for i in ["Sub-sector (further breakdown)", "Sub-sector", "Sector"]:
     if (i == "Sub-sector"):
         json_dict["Energy"] = json_str[0:6]
         json_dict["Industrial processes"] = json_str[6:8]
-        json_dict["Waste"] = json_str[8:17]
+        json_dict["Agriculture, Forestry & Land Use (AFOLU)"] = json_str[8:15]
+        json_dict["Waste"] = json_str[15:17]
     if (i == "Sector"):
         json_dict["data"] = json_str
     # if ("Antarctic temperature change (\u00baC)" in json_dict["data"][0].keys()):

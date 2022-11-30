@@ -35,7 +35,7 @@
             "Share of global greenhouse gas emissions (%)": 2.2
         }
     ],
-    "Waste": [
+    "Agriculture, Forestry & Land Use (AFOLU)": [
         {
             "Sub-sector": "Livestock & Manure",
             "Share of global greenhouse gas emissions (%)": 5.8
@@ -63,7 +63,9 @@
         {
             "Sub-sector": "Grassland",
             "Share of global greenhouse gas emissions (%)": 0.1
-        },
+        }
+    ],
+    "Waste": [
         {
             "Sub-sector": "Landfills",
             "Share of global greenhouse gas emissions (%)": 1.9
