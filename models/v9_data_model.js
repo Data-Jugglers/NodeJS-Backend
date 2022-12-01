@@ -51,6 +51,7 @@ const setV9Components = async () => {
       ]
     );
   }
+  let subSectorsCount = 0; //this is how many subsectors we currently have, will be used to link sub sub categories to sub categories
   for (let i = 0; i < 4; i++) {
     const id = (
       await db.query(
@@ -60,6 +61,7 @@ const setV9Components = async () => {
     ).rows[0].data_id;
 
     for (const element of V9Data2[Object.keys(V9Data2)[i]]) {
+      subSectorsCount = subSectorsCount + 1;
       await db.query(
         "insert into sub_datasets (sector_set_id, category, data) values ($1,$2,$3)",
         [
@@ -68,6 +70,16 @@ const setV9Components = async () => {
           element["Share of global greenhouse gas emissions (%)"],
         ]
       );
+      for (const subElement of V9Data3[element["Sub-sector"]]) {
+        await db.query(
+          "insert into sub_sub_datasets (sub_sector_set_id, category, data) values ($1,$2,$3)",
+          [
+            subSectorsCount,
+            subElement["Sub-sector"],
+            subElement["Share of global greenhouse gas emissions (%)"],
+          ]
+        );
+      }
     }
   }
 };
