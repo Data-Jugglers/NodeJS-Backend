@@ -11,22 +11,42 @@ const SET_ID = 240;
 const getV9Data = async () => {
   let allResults = [];
 
-  const sector_data_id = await db.query(
-    "select data_id from datasets where set_id=$1 AND measurement_date=$2",
-    [SET_ID, Object.keys(V9Data2)[0]]
+  const dataJSON = {};
+  const result = await db.query(
+    "select * from datasets where set_id=$1 order by data_id asc",
+    [SET_ID]
   );
-  allResults.push(sector_data_id.rows[0]["data_id"]);
-  //   const result = await db.query(
-  //     "select * from datasets where set_id=$1 order by data_id asc",
-  //     [SET_ID]
-  //   );
-  //   allResults.push(result.rows);
+  for (let i = 0; i < result.rows.length; i++) {
+    let sectorData = [];
+    sectorData = (
+      await db.query(
+        "select * from sub_datasets where sector_set_id=$1 order by data_id asc",
+        [result.rows[i]["data_id"]]
+      )
+    ).rows;
+    // sectorData.unshift(result.rows[i]); //add the info about sector before sub sectors
+    dataJSON[i] = {};
+    dataJSON[i][0] = result.rows[i];
+    dataJSON[i][1] = sectorData;
+    dataJSON[i][2] = {};
+    for (let x = 0; x < dataJSON[i][1].length; x++) {
+      let subSectorData = (
+        await db.query(
+          "select * from sub_sub_datasets where sub_sector_set_id=$1 order by data_id asc",
+          [dataJSON[i][1][x]["data_id"]]
+        )
+      ).rows;
+      dataJSON[i][2][x] = subSectorData;
+    }
+  }
 
-  //   const description = await db.query(
-  //     "select * from description where set_id=$1",
-  //     [SET_ID]
-  //   );
-  //   allResults.push(description.rows);
+  allResults.push(dataJSON);
+
+  const description = await db.query(
+    "select * from description where set_id=$1",
+    [SET_ID]
+  );
+  allResults.push(description.rows);
 
   return helper.emptyOrNot(allResults);
 };
