@@ -26,17 +26,18 @@ const getV9Data = async () => {
     ).rows;
     // sectorData.unshift(result.rows[i]); //add the info about sector before sub sectors
     dataJSON[i] = {};
-    dataJSON[i][0] = result.rows[i];
-    dataJSON[i][1] = sectorData;
-    dataJSON[i][2] = {};
-    for (let x = 0; x < dataJSON[i][1].length; x++) {
+    dataJSON[i]["sector"] = result.rows[i];
+    dataJSON[i]["subSectors"] = sectorData;
+    dataJSON[i]["subSubSectors"] = {};
+    for (let x = 0; x < dataJSON[i]["subSectors"].length; x++) {
       let subSectorData = (
         await db.query(
           "select * from sub_sub_datasets where sub_sector_set_id=$1 order by data_id asc",
-          [dataJSON[i][1][x]["data_id"]]
+          [dataJSON[i]["subSectors"][x]["data_id"]]
         )
       ).rows;
-      dataJSON[i][2][x] = subSectorData;
+      dataJSON[i]["subSubSectors"][dataJSON[i]["subSectors"][x]["category"]] =
+        subSectorData;
     }
   }
 
