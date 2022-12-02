@@ -240,17 +240,30 @@ const COUNTRIES = [
   "Zambia",
   "Zimbabwe",
 ];
-
 const getV8Data = async () => {
   let allResults = [];
-  for (let i = 0; i < SET_ID.length; i++) {
-    const ID = SET_ID[i];
-    const result = await db.query(
-      "select * from datasets where set_id=$1 order by measurement_date asc",
-      [ID]
-    );
-    allResults.push(result.rows);
+  // for (let i = 0; i < SET_ID.length; i++) {
+  // const ID = SET_ID[i];
+  const resultRows = (
+    await db.query(
+      "select * from datasets where set_id between 21 and 239 order by set_id asc ,measurement_date asc"
+    )
+  ).rows;
+  let result = [];
+  let temp = [resultRows[0]];
+
+  for (let i = 1; i < resultRows.length; i++) {
+    if (resultRows[i].set_id == resultRows[i - 1].set_id) {
+      temp.push(resultRows[i]);
+    } else {
+      result.push(temp);
+      temp = [];
+      // console.log(element);
+    }
   }
+  result.push(temp);
+  // }
+  allResults.push(result);
 
   const description = await db.query(
     "select * from description where set_id=$1",
