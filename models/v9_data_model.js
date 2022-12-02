@@ -24,12 +24,11 @@ const getV9Data = async () => {
         [result.rows[i]["data_id"]]
       )
     ).rows;
-    // sectorData.unshift(result.rows[i]); //add the info about sector before sub sectors
     dataJSON[i] = {};
     dataJSON[i]["sector"] = result.rows[i];
     dataJSON[i]["subSectors"] = sectorData;
     dataJSON[i]["subSubSectors"] = {};
-    // for (let x = 0; x < dataJSON[i]["subSectors"].length; x++) {
+
     for (const element of dataJSON[i]["subSectors"]) {
       let subSectorData = (
         await db.query(
@@ -109,13 +108,6 @@ const setV9 = async () => {
   const check = await db.query("select * from datasets where set_id=$1", [
     SET_ID,
   ]);
-  // const checkyyyyy = (
-  //   await db.query(
-  //     "select data_id from datasets where set_id=$1 AND measurement_date=$2",
-  //     [SET_ID, Object.keys(V9Data2)[0]]
-  //   )
-  // ).rows[0].data_id;
-  // if (check.rows[0]) return checkyyyyy;
   if (check.rows[0]) return "V9 is already set";
 
   return setV9Components();

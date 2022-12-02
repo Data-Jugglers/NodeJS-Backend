@@ -38,25 +38,9 @@ for i in ["Sector", "Sub-sector", "Sub-sector (further breakdown)"]:
         json_dict["Waste"] = json_str[15:17]
     if (i == "Sector"):
         json_dict["data"] = json_str
-    # if ("Antarctic temperature change (\u00baC)" in json_dict["data"][0].keys()):
-    #     json_dict["data"][0]["AData"] = json_dict["data"][
-    #         0]["Antarctic temperature change (\u00baC)"]
-    #     del json_dict["data"][0]["Antarctic temperature change (\u00baC)"]
-
-    def replaceKey(initialKey, wantedKey, data):
-        if (initialKey in data.keys()):
-            data[wantedKey] = data[initialKey]
-            del data[initialKey]
-    # print(json_dict.keys())
-    # for x in json_dict.keys():
 
     #     for data_entry in json_dict[x]:
     #         replaceKey("Unnamed: 0", "Time", data_entry)
     with open("files_output/V9/V9_"+str(count)+".json", 'w', encoding='utf-8') as jsonf:
         # jsonf.write(json_dict)
         json.dump(json_dict, jsonf, indent=4)
-
-# print('Excel Sheet to JSON:\n', json_str)
-# with open("files_output/V8/V9.json", 'w', encoding='utf-8') as jsonf:
-#     # jsonf.write(json_dict)
-#     json.dump(json_dict, jsonf, indent=4)
