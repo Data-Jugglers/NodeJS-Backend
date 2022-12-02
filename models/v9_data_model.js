@@ -29,15 +29,15 @@ const getV9Data = async () => {
     dataJSON[i]["sector"] = result.rows[i];
     dataJSON[i]["subSectors"] = sectorData;
     dataJSON[i]["subSubSectors"] = {};
-    for (let x = 0; x < dataJSON[i]["subSectors"].length; x++) {
+    // for (let x = 0; x < dataJSON[i]["subSectors"].length; x++) {
+    for (const element of dataJSON[i]["subSectors"]) {
       let subSectorData = (
         await db.query(
           "select * from sub_sub_datasets where sub_sector_set_id=$1 order by data_id asc",
-          [dataJSON[i]["subSectors"][x]["data_id"]]
+          [element["data_id"]]
         )
       ).rows;
-      dataJSON[i]["subSubSectors"][dataJSON[i]["subSectors"][x]["category"]] =
-        subSectorData;
+      dataJSON[i]["subSubSectors"][element["category"]] = subSectorData;
     }
   }
 
