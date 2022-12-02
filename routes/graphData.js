@@ -4,8 +4,10 @@ const graphDataV3 = require("../models/v3_data_model");
 const graphDataV2 = require("../models/v2_data_model");
 const graphDataV4 = require("../models/v4_data_model");
 const graphDataV5 = require("../models/v5_data_model");
-
 const graphDataV7 = require("../models/v7_data_model");
+const graphDataV8 = require("../models/v8_data_model");
+const e = require("express");
+
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
 // Response[0] = first dataset (GMonthly)  |  [1] = NM  |  [5] = SY  |  [6] = Links + Description
@@ -57,6 +59,14 @@ router.get("/v4", async (req, res, next) => {
     next(error);
   }
 });
+// v8
+router.get("/v8", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV8.getV8Data());
+  } catch (error) {
+    next(error);
+  }
+});
 
 // POST method to insert all datasets required for V1 into the database
 // 6 datasets = 6 set_ids
@@ -104,6 +114,14 @@ router.post("/v3", async (req, res, next) => {
 router.post("/v4", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV4.setV4());
+  } catch (error) {
+    next(error);
+  }
+});
+// v8
+router.post("/v8", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV8.setV8());
   } catch (error) {
     next(error);
   }
