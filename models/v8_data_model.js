@@ -249,21 +249,21 @@ const getV8Data = async () => {
       "select * from datasets where set_id between 21 and 239 order by set_id asc ,measurement_date asc"
     )
   ).rows;
-  let result = [];
+
   let temp = [resultRows[0]];
 
   for (let i = 1; i < resultRows.length; i++) {
     if (resultRows[i].set_id == resultRows[i - 1].set_id) {
       temp.push(resultRows[i]);
     } else {
-      result.push(temp);
+      allResults.push(temp);
       temp = [];
       // console.log(element);
     }
   }
-  result.push(temp);
+
   // }
-  allResults.push(result);
+  allResults.push(temp);
 
   const description = await db.query(
     "select * from description where set_id=$1",
