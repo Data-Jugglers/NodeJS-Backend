@@ -6,7 +6,6 @@ const graphDataV4 = require("../models/v4_data_model");
 const graphDataV5 = require("../models/v5_data_model");
 const graphDataV7 = require("../models/v7_data_model");
 const graphDataV8 = require("../models/v8_data_model");
-const e = require("express");
 
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
