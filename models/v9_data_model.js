@@ -11,7 +11,7 @@ const SET_ID = 240;
 const getV9Data = async () => {
   let allResults = [];
 
-  const dataJSON = {};
+  const dataJSON = [];
   const result = await db.query(
     "select * from datasets where set_id=$1 order by data_id asc",
     [SET_ID]
