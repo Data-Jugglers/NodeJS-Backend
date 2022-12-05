@@ -61,14 +61,18 @@
             "Share of global greenhouse gas emissions (%)": 10.6
         }
     ],
-    "Energy in Agri & Fishing": {
-        "Sub-sector": "Energy in Agri & Fishing",
-        "Share of global greenhouse gas emissions (%)": 1.7
-    },
-    "Unallocated fuel combustion": {
-        "Sub-sector": "Unallocated fuel combustion",
-        "Share of global greenhouse gas emissions (%)": 7.8
-    },
+    "Energy in Agri & Fishing": [
+        {
+            "Sub-sector": "Energy in Agri & Fishing",
+            "Share of global greenhouse gas emissions (%)": 1.7
+        }
+    ],
+    "Unallocated fuel combustion": [
+        {
+            "Sub-sector": "Unallocated fuel combustion",
+            "Share of global greenhouse gas emissions (%)": 7.8
+        }
+    ],
     "Fugitive emissions from energy": [
         {
             "Sub-sector": "Coal",
@@ -79,48 +83,70 @@
             "Share of global greenhouse gas emissions (%)": 3.9
         }
     ],
-    "Cement": {
-        "Sub-sector": "Cement",
-        "Share of global greenhouse gas emissions (%)": 3.0
-    },
-    "Chemical & petrochemical (industrial)": {
-        "Sub-sector": "Chemical & petrochemical (industrial)",
-        "Share of global greenhouse gas emissions (%)": 2.2
-    },
-    "Livestock & Manure": {
-        "Sub-sector": "Livestock & Manure",
-        "Share of global greenhouse gas emissions (%)": 5.8
-    },
-    "Rice Cultivation": {
-        "Sub-sector": "Rice Cultivation",
-        "Share of global greenhouse gas emissions (%)": 1.3
-    },
-    "Agricultural Soils": {
-        "Sub-sector": "Agricultural Soils",
-        "Share of global greenhouse gas emissions (%)": 4.1
-    },
-    "Crop Burning": {
-        "Sub-sector": "Crop Burning",
-        "Share of global greenhouse gas emissions (%)": 3.5
-    },
-    "Forest Land": {
-        "Sub-sector": "Forest Land",
-        "Share of global greenhouse gas emissions (%)": 2.2
-    },
-    "Cropland": {
-        "Sub-sector": "Cropland",
-        "Share of global greenhouse gas emissions (%)": 1.4
-    },
-    "Grassland": {
-        "Sub-sector": "Grassland",
-        "Share of global greenhouse gas emissions (%)": 0.1
-    },
-    "Landfills": {
-        "Sub-sector": "Landfills",
-        "Share of global greenhouse gas emissions (%)": 1.9
-    },
-    "Wastewater": {
-        "Sub-sector": "Wastewater",
-        "Share of global greenhouse gas emissions (%)": 1.3
-    }
+    "Cement": [
+        {
+            "Sub-sector": "Cement",
+            "Share of global greenhouse gas emissions (%)": 3.0
+        }
+    ],
+    "Chemical & petrochemical (industrial)": [
+        {
+            "Sub-sector": "Chemical & petrochemical (industrial)",
+            "Share of global greenhouse gas emissions (%)": 2.2
+        }
+    ],
+    "Livestock & Manure": [
+        {
+            "Sub-sector": "Livestock & Manure",
+            "Share of global greenhouse gas emissions (%)": 5.8
+        }
+    ],
+    "Rice Cultivation": [
+        {
+            "Sub-sector": "Rice Cultivation",
+            "Share of global greenhouse gas emissions (%)": 1.3
+        }
+    ],
+    "Agricultural Soils": [
+        {
+            "Sub-sector": "Agricultural Soils",
+            "Share of global greenhouse gas emissions (%)": 4.1
+        }
+    ],
+    "Crop Burning": [
+        {
+            "Sub-sector": "Crop Burning",
+            "Share of global greenhouse gas emissions (%)": 3.5
+        }
+    ],
+    "Forest Land": [
+        {
+            "Sub-sector": "Forest Land",
+            "Share of global greenhouse gas emissions (%)": 2.2
+        }
+    ],
+    "Cropland": [
+        {
+            "Sub-sector": "Cropland",
+            "Share of global greenhouse gas emissions (%)": 1.4
+        }
+    ],
+    "Grassland": [
+        {
+            "Sub-sector": "Grassland",
+            "Share of global greenhouse gas emissions (%)": 0.1
+        }
+    ],
+    "Landfills": [
+        {
+            "Sub-sector": "Landfills",
+            "Share of global greenhouse gas emissions (%)": 1.9
+        }
+    ],
+    "Wastewater": [
+        {
+            "Sub-sector": "Wastewater",
+            "Share of global greenhouse gas emissions (%)": 1.3
+        }
+    ]
 }
