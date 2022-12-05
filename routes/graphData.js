@@ -4,9 +4,13 @@ const graphDataV3 = require("../models/v3_data_model");
 const graphDataV2 = require("../models/v2_data_model");
 const graphDataV4 = require("../models/v4_data_model");
 const graphDataV5 = require("../models/v5_data_model");
+
+const graphDataV6 = require("../models/v6_data_model");
+
 const graphDataV7 = require("../models/v7_data_model");
 const graphDataV8 = require("../models/v8_data_model");
 const graphDataV9 = require("../models/v9_data_model");
+
 
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
@@ -48,6 +52,15 @@ router.get("/v3", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV3.getV3Data(req.params.id));
   } catch (error) {
+    next(error);
+  }
+});
+
+
+router.get("/v6", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV6.getV6Data(req.params.id));
+      } catch (error) {
     next(error);
   }
 });
@@ -95,6 +108,14 @@ router.post("/v2", async (req, res, next) => {
     next(error);
   }
 });
+// v3
+router.post("/v3", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV3.setV3());
+  } catch (error) {
+    next(error);
+  }
+});
 // v5
 router.post("/v5", async (req, res, next) => {
   try {
@@ -111,9 +132,9 @@ router.post("/v7", async (req, res, next) => {
   }
 });
 
-router.post("/v3", async (req, res, next) => {
+router.post("/v6", async (req, res, next) => {
   try {
-    res.status(200).json(await graphDataV3.setV3());
+    res.status(200).json(await graphDataV6.setV6());
   } catch (error) {
     next(error);
   }

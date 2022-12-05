@@ -17,7 +17,7 @@ with requests.Session() as s:
     for row in my_list[138:2039]:
 
         row = row[0].split()
-        JSONstr["age gas,calBP"] = row[0]
+        JSONstr["gas age"] = row[0]
         JSONstr["co2,ppm"] = row[1]
         JSONstr["co2 1s,ppm"] = row[2]
 
