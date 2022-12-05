@@ -1,0 +1,6259 @@
+{
+    "data": [
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 0,
+            "Data": 3.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1000,
+            "Data": 3.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 2000,
+            "Data": 3.18
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 3000,
+            "Data": 3.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 4000,
+            "Data": 3.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 5000,
+            "Data": 3.26
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 6000,
+            "Data": 3.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 7000,
+            "Data": 3.37
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 8000,
+            "Data": 3.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 9000,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 10000,
+            "Data": 3.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 11000,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 12000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 13000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 14000,
+            "Data": 4.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 15000,
+            "Data": 4.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 16000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 17000,
+            "Data": 4.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 18000,
+            "Data": 5.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 19000,
+            "Data": 4.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 20000,
+            "Data": 4.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 21000,
+            "Data": 4.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 22000,
+            "Data": 4.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 23000,
+            "Data": 4.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 24000,
+            "Data": 4.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.02,
+            "Time": 25000,
+            "Data": 4.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 26000,
+            "Data": 4.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 27000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 28000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 29000,
+            "Data": 4.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 30000,
+            "Data": 4.62
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 31000,
+            "Data": 4.62
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 32000,
+            "Data": 4.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 33000,
+            "Data": 4.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 34000,
+            "Data": 4.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.02,
+            "Time": 35000,
+            "Data": 4.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 36000,
+            "Data": 4.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 37000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 38000,
+            "Data": 4.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 39000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 40000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 41000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 42000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 43000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 44000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 45000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 46000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 47000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 48000,
+            "Data": 4.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 49000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 50000,
+            "Data": 4.34
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 51000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 52000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 53000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 54000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 55000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 56000,
+            "Data": 4.35
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 57000,
+            "Data": 4.43
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 58000,
+            "Data": 4.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 59000,
+            "Data": 4.43
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 60000,
+            "Data": 4.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 61000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 62000,
+            "Data": 4.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 63000,
+            "Data": 4.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 64000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 65000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 66000,
+            "Data": 4.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 67000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 68000,
+            "Data": 4.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 69000,
+            "Data": 4.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 70000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 71000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 72000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 73000,
+            "Data": 4.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 74000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 75000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 76000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 77000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 78000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 79000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 80000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 81000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 82000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 83000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 84000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 85000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 86000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 87000,
+            "Data": 4.18
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 88000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 89000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 90000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 91000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 92000,
+            "Data": 3.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 93000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 94000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 95000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 96000,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 97000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 98000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 99000,
+            "Data": 3.78
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 100000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 101000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 102000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 103000,
+            "Data": 3.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 104000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 105000,
+            "Data": 3.85
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 106000,
+            "Data": 4.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 107000,
+            "Data": 4.04
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 108000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 109000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 110000,
+            "Data": 4.04
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 111000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 112000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 113000,
+            "Data": 3.93
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 114000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 115000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 116000,
+            "Data": 3.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 117000,
+            "Data": 3.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 118000,
+            "Data": 3.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 119000,
+            "Data": 3.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 120000,
+            "Data": 3.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 121000,
+            "Data": 3.26
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 122000,
+            "Data": 3.18
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 123000,
+            "Data": 3.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 124000,
+            "Data": 3.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 125000,
+            "Data": 3.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 126000,
+            "Data": 3.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 127000,
+            "Data": 3.37
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 128000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 129000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 130000,
+            "Data": 3.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 131000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 132000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 133000,
+            "Data": 4.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 134000,
+            "Data": 4.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 135000,
+            "Data": 4.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 136000,
+            "Data": 4.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 137000,
+            "Data": 4.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 138000,
+            "Data": 4.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 139000,
+            "Data": 4.87
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 140000,
+            "Data": 4.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 141000,
+            "Data": 4.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 142000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 143000,
+            "Data": 4.78
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 144000,
+            "Data": 4.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 145000,
+            "Data": 4.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 146000,
+            "Data": 4.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 147000,
+            "Data": 4.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 148000,
+            "Data": 4.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 149000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 150000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 151000,
+            "Data": 4.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 152000,
+            "Data": 4.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 153000,
+            "Data": 4.62
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 154000,
+            "Data": 4.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 155000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 156000,
+            "Data": 4.78
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 157000,
+            "Data": 4.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 158000,
+            "Data": 4.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 159000,
+            "Data": 4.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 160000,
+            "Data": 4.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 161000,
+            "Data": 4.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 162000,
+            "Data": 4.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 163000,
+            "Data": 4.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 164000,
+            "Data": 4.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 165000,
+            "Data": 4.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 166000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 167000,
+            "Data": 4.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 168000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 169000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 170000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 171000,
+            "Data": 4.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 172000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 173000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 174000,
+            "Data": 4.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 175000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 176000,
+            "Data": 4.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 177000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 178000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 179000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 180000,
+            "Data": 4.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 181000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 182000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 183000,
+            "Data": 4.37
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 184000,
+            "Data": 4.4
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 185000,
+            "Data": 4.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 186000,
+            "Data": 4.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 187000,
+            "Data": 4.4
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 188000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 189000,
+            "Data": 4.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 190000,
+            "Data": 4.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 191000,
+            "Data": 4.13
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 192000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 193000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 194000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 195000,
+            "Data": 3.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 196000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 197000,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 198000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 199000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 200000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 201000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 202000,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 203000,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 204000,
+            "Data": 3.78
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 205000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 206000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 207000,
+            "Data": 3.78
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 208000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 209000,
+            "Data": 3.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 210000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 211000,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 212000,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 213000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 214000,
+            "Data": 3.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 215000,
+            "Data": 3.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 216000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 217000,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 218000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 219000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 220000,
+            "Data": 3.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 221000,
+            "Data": 4.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 222000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 223000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 224000,
+            "Data": 4.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 225000,
+            "Data": 4.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 226000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 227000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.12,
+            "Time": 228000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 229000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 230000,
+            "Data": 4.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 231000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 232000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 233000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 234000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 235000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 236000,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 237000,
+            "Data": 3.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 238000,
+            "Data": 3.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 239000,
+            "Data": 3.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 240000,
+            "Data": 3.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 241000,
+            "Data": 3.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 242000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 243000,
+            "Data": 3.78
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 244000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 245000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 246000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 247000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 248000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 249000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 250000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 251000,
+            "Data": 4.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 252000,
+            "Data": 4.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 253000,
+            "Data": 4.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 254000,
+            "Data": 4.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 255000,
+            "Data": 4.37
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 256000,
+            "Data": 4.43
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 257000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 258000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 259000,
+            "Data": 4.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 260000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 261000,
+            "Data": 4.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 262000,
+            "Data": 4.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 263000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 264000,
+            "Data": 4.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 265000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 266000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 267000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 268000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 269000,
+            "Data": 4.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 270000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 271000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 272000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 273000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 274000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 275000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 276000,
+            "Data": 4.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 277000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 278000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 279000,
+            "Data": 4.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 280000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 281000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 282000,
+            "Data": 3.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 283000,
+            "Data": 3.87
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 284000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 285000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 286000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 287000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 288000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 289000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 290000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 291000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 292000,
+            "Data": 4.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 293000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 294000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 295000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 296000,
+            "Data": 4.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 297000,
+            "Data": 4.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 298000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 299000,
+            "Data": 4.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 300000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 301000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 302000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 303000,
+            "Data": 4.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 304000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 305000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 306000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 307000,
+            "Data": 4.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 308000,
+            "Data": 3.85
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 309000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 310000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 311000,
+            "Data": 3.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 312000,
+            "Data": 3.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 313000,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 314000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 315000,
+            "Data": 3.62
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 316000,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 317000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 318000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 319000,
+            "Data": 3.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 320000,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 321000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 322000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 323000,
+            "Data": 3.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 324000,
+            "Data": 3.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 325000,
+            "Data": 3.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 326000,
+            "Data": 3.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 327000,
+            "Data": 3.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 328000,
+            "Data": 3.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 329000,
+            "Data": 3.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 330000,
+            "Data": 3.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 331000,
+            "Data": 3.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 332000,
+            "Data": 3.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 333000,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 334000,
+            "Data": 3.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 335000,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 336000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 337000,
+            "Data": 4.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 338000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 339000,
+            "Data": 4.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 340000,
+            "Data": 4.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 341000,
+            "Data": 4.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 342000,
+            "Data": 4.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 343000,
+            "Data": 4.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 344000,
+            "Data": 4.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 345000,
+            "Data": 4.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 346000,
+            "Data": 4.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 347000,
+            "Data": 4.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 348000,
+            "Data": 4.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 349000,
+            "Data": 4.62
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 350000,
+            "Data": 4.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 351000,
+            "Data": 4.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 352000,
+            "Data": 4.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 353000,
+            "Data": 4.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 354000,
+            "Data": 4.4
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 355000,
+            "Data": 4.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 356000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 357000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 358000,
+            "Data": 4.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 359000,
+            "Data": 4.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 360000,
+            "Data": 4.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 361000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 362000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 363000,
+            "Data": 4.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 364000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 365000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 366000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 367000,
+            "Data": 4.37
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 368000,
+            "Data": 4.4
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 369000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 370000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 371000,
+            "Data": 4.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 372000,
+            "Data": 4.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 373000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 374000,
+            "Data": 4.34
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 375000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 376000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 377000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 378000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 379000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 380000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 381000,
+            "Data": 4.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 382000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 383000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 384000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 385000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 386000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 387000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 388000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 389000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 390000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 391000,
+            "Data": 4.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 392000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 393000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 394000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 395000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 396000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 397000,
+            "Data": 3.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 398000,
+            "Data": 3.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 399000,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 400000,
+            "Data": 3.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 401000,
+            "Data": 3.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 402000,
+            "Data": 3.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 403000,
+            "Data": 3.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 404000,
+            "Data": 3.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 405000,
+            "Data": 3.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 406000,
+            "Data": 3.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 407000,
+            "Data": 3.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 408000,
+            "Data": 3.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 409000,
+            "Data": 3.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 410000,
+            "Data": 3.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 411000,
+            "Data": 3.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 412000,
+            "Data": 3.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 413000,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 414000,
+            "Data": 3.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 415000,
+            "Data": 3.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 416000,
+            "Data": 3.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 417000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 418000,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 419000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 420000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 421000,
+            "Data": 3.85
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 422000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 423000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 424000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.14,
+            "Time": 425000,
+            "Data": 4.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 426000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 427000,
+            "Data": 4.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 428000,
+            "Data": 4.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 429000,
+            "Data": 4.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 430000,
+            "Data": 4.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 431000,
+            "Data": 5.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 432000,
+            "Data": 5.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 433000,
+            "Data": 5.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 434000,
+            "Data": 5.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 435000,
+            "Data": 5.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 436000,
+            "Data": 5.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 437000,
+            "Data": 4.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 438000,
+            "Data": 4.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 439000,
+            "Data": 4.87
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 440000,
+            "Data": 4.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 441000,
+            "Data": 4.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 442000,
+            "Data": 4.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 443000,
+            "Data": 4.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 444000,
+            "Data": 4.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 445000,
+            "Data": 4.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 446000,
+            "Data": 4.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 447000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 448000,
+            "Data": 4.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 449000,
+            "Data": 4.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 450000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 451000,
+            "Data": 4.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 452000,
+            "Data": 4.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 453000,
+            "Data": 4.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 454000,
+            "Data": 4.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 455000,
+            "Data": 4.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 456000,
+            "Data": 4.62
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 457000,
+            "Data": 4.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 458000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 459000,
+            "Data": 4.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 460000,
+            "Data": 4.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 461000,
+            "Data": 4.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 462000,
+            "Data": 4.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 463000,
+            "Data": 4.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 464000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 465000,
+            "Data": 4.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 466000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 467000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 468000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 469000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 470000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 471000,
+            "Data": 4.25
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 472000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 473000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 474000,
+            "Data": 4.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 475000,
+            "Data": 4.35
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 476000,
+            "Data": 4.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 477000,
+            "Data": 4.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 478000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 479000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 480000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 481000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 482000,
+            "Data": 4.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 483000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 484000,
+            "Data": 3.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 485000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 486000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 487000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 488000,
+            "Data": 3.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 489000,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 490000,
+            "Data": 3.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 491000,
+            "Data": 3.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 492000,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 493000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 494000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 495000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 496000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 497000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 498000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 499000,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 500000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 501000,
+            "Data": 3.78
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 502000,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 503000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 504000,
+            "Data": 3.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 505000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 506000,
+            "Data": 4.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 507000,
+            "Data": 3.93
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 508000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 509000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 510000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 511000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 512000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 513000,
+            "Data": 4.25
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 514000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 515000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 516000,
+            "Data": 4.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 517000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 518000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 519000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 520000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 521000,
+            "Data": 3.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 522000,
+            "Data": 3.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 523000,
+            "Data": 3.93
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 524000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 525000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 526000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 527000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 528000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 529000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 530000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 531000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 532000,
+            "Data": 4.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 533000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 534000,
+            "Data": 4.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 535000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 536000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 537000,
+            "Data": 4.43
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 538000,
+            "Data": 4.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 539000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 540000,
+            "Data": 4.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 541000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 542000,
+            "Data": 4.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 543000,
+            "Data": 4.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 544000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 545000,
+            "Data": 4.43
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 546000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 547000,
+            "Data": 4.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 548000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 549000,
+            "Data": 4.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 550000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 551000,
+            "Data": 4.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 552000,
+            "Data": 4.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 553000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 554000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 555000,
+            "Data": 4.25
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 556000,
+            "Data": 4.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 557000,
+            "Data": 4.35
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 558000,
+            "Data": 4.25
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 559000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 560000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 561000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 562000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 563000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 564000,
+            "Data": 4.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 565000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 566000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 567000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 568000,
+            "Data": 4.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 569000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 570000,
+            "Data": 3.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 571000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 572000,
+            "Data": 3.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 573000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 574000,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 575000,
+            "Data": 3.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 576000,
+            "Data": 3.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 577000,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 578000,
+            "Data": 3.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 579000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 580000,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 581000,
+            "Data": 4.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.14,
+            "Time": 582000,
+            "Data": 4.13
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 583000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 584000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 585000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 586000,
+            "Data": 4.18
+        },
+        {
+            "d18O uncertainty (1sd)": 0.13,
+            "Time": 587000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 588000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 589000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 590000,
+            "Data": 4.09
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 591000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 592000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 593000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 594000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 595000,
+            "Data": 3.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 596000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 597000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 598000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 599000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.0,
+            "Time": 600000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 602000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 604000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 606000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 608000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 610000,
+            "Data": 3.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 612000,
+            "Data": 3.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 614000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 616000,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 618000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 620000,
+            "Data": 4.09
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 622000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 624000,
+            "Data": 4.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 626000,
+            "Data": 4.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 628000,
+            "Data": 5.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 630000,
+            "Data": 5.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 632000,
+            "Data": 5.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 634000,
+            "Data": 4.93
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 636000,
+            "Data": 5.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 638000,
+            "Data": 4.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 640000,
+            "Data": 5.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 642000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 644000,
+            "Data": 4.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 646000,
+            "Data": 4.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 648000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 650000,
+            "Data": 4.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 652000,
+            "Data": 4.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 654000,
+            "Data": 4.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 656000,
+            "Data": 4.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 658000,
+            "Data": 4.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 660000,
+            "Data": 4.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 662000,
+            "Data": 4.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 664000,
+            "Data": 4.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 666000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 668000,
+            "Data": 4.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 670000,
+            "Data": 4.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 672000,
+            "Data": 4.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 674000,
+            "Data": 4.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 676000,
+            "Data": 4.4
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 678000,
+            "Data": 4.26
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 680000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 682000,
+            "Data": 4.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 684000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 686000,
+            "Data": 4.13
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 688000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 690000,
+            "Data": 3.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 692000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 694000,
+            "Data": 3.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 696000,
+            "Data": 3.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 698000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 700000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 702000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 704000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 706000,
+            "Data": 3.93
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 708000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 710000,
+            "Data": 3.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 712000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 714000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 716000,
+            "Data": 4.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 718000,
+            "Data": 4.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 720000,
+            "Data": 4.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 722000,
+            "Data": 4.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 724000,
+            "Data": 4.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 726000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 728000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 730000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 732000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 734000,
+            "Data": 4.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 736000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 738000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 740000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 742000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 744000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 746000,
+            "Data": 4.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 748000,
+            "Data": 4.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 750000,
+            "Data": 4.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 752000,
+            "Data": 4.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 754000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 756000,
+            "Data": 4.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 758000,
+            "Data": 4.26
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 760000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 762000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 764000,
+            "Data": 4.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 766000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 768000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 770000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 772000,
+            "Data": 3.87
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 774000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 776000,
+            "Data": 3.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 778000,
+            "Data": 3.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 780000,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 782000,
+            "Data": 3.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 784000,
+            "Data": 3.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 786000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 788000,
+            "Data": 3.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 790000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 792000,
+            "Data": 4.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 794000,
+            "Data": 4.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 796000,
+            "Data": 4.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 798000,
+            "Data": 4.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 800000,
+            "Data": 4.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 802000,
+            "Data": 4.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 804000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 806000,
+            "Data": 4.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 808000,
+            "Data": 4.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 810000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 812000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 814000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 816000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 818000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 820000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 822000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 824000,
+            "Data": 3.92
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 826000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 828000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 830000,
+            "Data": 4.04
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 832000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 834000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 836000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 838000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 840000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 842000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 844000,
+            "Data": 3.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 846000,
+            "Data": 3.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 848000,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 850000,
+            "Data": 3.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 852000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 854000,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 856000,
+            "Data": 3.46
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 858000,
+            "Data": 3.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 860000,
+            "Data": 3.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 862000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 864000,
+            "Data": 3.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 866000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 868000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 870000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 872000,
+            "Data": 4.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 874000,
+            "Data": 4.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 876000,
+            "Data": 4.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 878000,
+            "Data": 4.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 880000,
+            "Data": 4.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 882000,
+            "Data": 4.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 884000,
+            "Data": 4.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 886000,
+            "Data": 4.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 888000,
+            "Data": 4.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 890000,
+            "Data": 4.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 892000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 894000,
+            "Data": 4.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 896000,
+            "Data": 4.4
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 898000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 900000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 902000,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 904000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 906000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 908000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 910000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 912000,
+            "Data": 4.09
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 914000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 916000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 918000,
+            "Data": 4.37
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 920000,
+            "Data": 4.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 922000,
+            "Data": 4.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 924000,
+            "Data": 4.43
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 926000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 928000,
+            "Data": 4.26
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 930000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 932000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 934000,
+            "Data": 3.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 936000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 938000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 940000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 942000,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 944000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 946000,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 948000,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 950000,
+            "Data": 3.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 952000,
+            "Data": 3.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 954000,
+            "Data": 3.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 956000,
+            "Data": 3.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 958000,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 960000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 962000,
+            "Data": 4.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 964000,
+            "Data": 4.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 966000,
+            "Data": 4.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 968000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 970000,
+            "Data": 4.09
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 972000,
+            "Data": 3.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 974000,
+            "Data": 3.87
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 976000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 978000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 980000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 982000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 984000,
+            "Data": 4.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 986000,
+            "Data": 4.24
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 988000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 990000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 992000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 994000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 996000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 998000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1000000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1002000,
+            "Data": 4.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1004000,
+            "Data": 4.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1006000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1008000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1010000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1012000,
+            "Data": 4.13
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1014000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1016000,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1018000,
+            "Data": 3.78
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1020000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1022000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1024000,
+            "Data": 3.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1026000,
+            "Data": 3.87
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1028000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1030000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1032000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1034000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1036000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1038000,
+            "Data": 4.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1040000,
+            "Data": 4.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1042000,
+            "Data": 4.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1044000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1046000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1048000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1050000,
+            "Data": 4.18
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1052000,
+            "Data": 4.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1054000,
+            "Data": 4.25
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1056000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1058000,
+            "Data": 4.23
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1060000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1062000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1064000,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1066000,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1068000,
+            "Data": 3.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1070000,
+            "Data": 3.34
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1072000,
+            "Data": 3.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1074000,
+            "Data": 3.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1076000,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1078000,
+            "Data": 3.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1080000,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1082000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1084000,
+            "Data": 3.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1086000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1088000,
+            "Data": 3.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1090000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1092000,
+            "Data": 4.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1094000,
+            "Data": 4.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1096000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1098000,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1100000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1102000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1104000,
+            "Data": 3.93
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1106000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1108000,
+            "Data": 3.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1110000,
+            "Data": 3.85
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1112000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1114000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1116000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1118000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1120000,
+            "Data": 4.09
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1122000,
+            "Data": 4.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1124000,
+            "Data": 4.34
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 1126000,
+            "Data": 4.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1128000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1130000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1132000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1134000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1136000,
+            "Data": 4.24
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1138000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1140000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1142000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1144000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1146000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1148000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1150000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1152000,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1154000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1156000,
+            "Data": 3.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1158000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1160000,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1162000,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1164000,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1166000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1168000,
+            "Data": 3.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1170000,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1172000,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1174000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1176000,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1178000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1180000,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1182000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1184000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1186000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1188000,
+            "Data": 3.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 1190000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1192000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1194000,
+            "Data": 4.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1196000,
+            "Data": 4.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1198000,
+            "Data": 4.43
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1200000,
+            "Data": 4.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1202000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1204000,
+            "Data": 4.34
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1206000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1208000,
+            "Data": 4.32
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1210000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1212000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1214000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1216000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1218000,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1220000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1222000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1224000,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1226000,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1228000,
+            "Data": 3.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1230000,
+            "Data": 3.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1232000,
+            "Data": 3.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1234000,
+            "Data": 3.34
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1236000,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1238000,
+            "Data": 3.35
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1240000,
+            "Data": 3.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1242000,
+            "Data": 3.47
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1244000,
+            "Data": 3.85
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1246000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 1248000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1250000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1252000,
+            "Data": 4.25
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1254000,
+            "Data": 4.27
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1256000,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1258000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1260000,
+            "Data": 3.87
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1262000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1264000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1266000,
+            "Data": 3.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1268000,
+            "Data": 3.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1270000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1272000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1274000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1276000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1278000,
+            "Data": 3.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1280000,
+            "Data": 3.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1282000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1284000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1286000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1288000,
+            "Data": 4.26
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1290000,
+            "Data": 4.35
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1292000,
+            "Data": 4.14
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1294000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 1296000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1298000,
+            "Data": 4.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 1300000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1302000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1304000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1306000,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1308000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1310000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 1312000,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1314000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1316000,
+            "Data": 3.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1318000,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.03,
+            "Time": 1320000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1322000,
+            "Data": 3.94
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1324000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1326000,
+            "Data": 4.0
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1328000,
+            "Data": 4.09
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1330000,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1332000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1334000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1336000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1338000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1340000,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1342000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1344000,
+            "Data": 3.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1346000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1348000,
+            "Data": 3.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1350000,
+            "Data": 3.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1352000,
+            "Data": 3.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1354000,
+            "Data": 3.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1356000,
+            "Data": 3.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1358000,
+            "Data": 3.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1360000,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1362000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1364000,
+            "Data": 3.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1366000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1368000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1370000,
+            "Data": 4.04
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1372000,
+            "Data": 4.26
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1374000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1376000,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1378000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1380000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1382000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1384000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1386000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1388000,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1390000,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1392000,
+            "Data": 3.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1394000,
+            "Data": 3.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1396000,
+            "Data": 3.54
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1398000,
+            "Data": 3.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1400000,
+            "Data": 3.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1402000,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1404000,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1406000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.12,
+            "Time": 1408000,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1410000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1412000,
+            "Data": 4.4
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1414000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.12,
+            "Time": 1416000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1418000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1420000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1422000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1424000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1426000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1428000,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1430000,
+            "Data": 3.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1432000,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1434000,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1436000,
+            "Data": 3.24
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1438000,
+            "Data": 3.24
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1440000,
+            "Data": 3.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1442000,
+            "Data": 3.34
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1444000,
+            "Data": 3.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1446000,
+            "Data": 3.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1448000,
+            "Data": 3.35
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1450000,
+            "Data": 3.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.13,
+            "Time": 1452000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.13,
+            "Time": 1454000,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1456000,
+            "Data": 4.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1458000,
+            "Data": 4.24
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1460000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1462000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1464000,
+            "Data": 4.22
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1466000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.13,
+            "Time": 1468000,
+            "Data": 3.87
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1470000,
+            "Data": 3.62
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1472000,
+            "Data": 3.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1474000,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1476000,
+            "Data": 3.31
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1478000,
+            "Data": 3.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1480000,
+            "Data": 3.39
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1482000,
+            "Data": 3.44
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1484000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1486000,
+            "Data": 3.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1488000,
+            "Data": 3.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1490000,
+            "Data": 3.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1492000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1494000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1496000,
+            "Data": 4.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1498000,
+            "Data": 4.24
+        },
+        {
+            "d18O uncertainty (1sd)": 0.0,
+            "Time": 1500000,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1502500,
+            "Data": 4.29
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1505000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1507500,
+            "Data": 4.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1510000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1512500,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1515000,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1517500,
+            "Data": 3.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1520000,
+            "Data": 3.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1522500,
+            "Data": 3.67
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1525000,
+            "Data": 3.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1527500,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1530000,
+            "Data": 3.96
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1532500,
+            "Data": 4.2
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1535000,
+            "Data": 4.41
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1537500,
+            "Data": 4.35
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1540000,
+            "Data": 4.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1542500,
+            "Data": 4.3
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1545000,
+            "Data": 4.07
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1547500,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1550000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1552500,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1555000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1557500,
+            "Data": 3.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1560000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1562500,
+            "Data": 3.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1565000,
+            "Data": 3.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1567500,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1570000,
+            "Data": 3.85
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1572500,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1575000,
+            "Data": 4.24
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1577500,
+            "Data": 4.18
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1580000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1582500,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1585000,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1587500,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1590000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1592500,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1595000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1597500,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1600000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1602500,
+            "Data": 3.37
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1605000,
+            "Data": 3.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1607500,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1610000,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1612500,
+            "Data": 3.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1615000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1617500,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1620000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1622500,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1625000,
+            "Data": 3.76
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1627500,
+            "Data": 4.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1630000,
+            "Data": 3.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1632500,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1635000,
+            "Data": 3.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1637500,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1640000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1642500,
+            "Data": 3.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1645000,
+            "Data": 4.05
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1647500,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1650000,
+            "Data": 4.18
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1652500,
+            "Data": 4.25
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1655000,
+            "Data": 4.28
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1657500,
+            "Data": 4.11
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1660000,
+            "Data": 4.13
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1662500,
+            "Data": 4.08
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1665000,
+            "Data": 4.13
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1667500,
+            "Data": 3.91
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1670000,
+            "Data": 3.88
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1672500,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1675000,
+            "Data": 3.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1677500,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1680000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1682500,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1685000,
+            "Data": 3.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1687500,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1690000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1692500,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1695000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1697500,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1700000,
+            "Data": 4.09
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1702500,
+            "Data": 4.15
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1705000,
+            "Data": 4.12
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1707500,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1710000,
+            "Data": 3.93
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1712500,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1715000,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1717500,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1720000,
+            "Data": 3.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1722500,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1725000,
+            "Data": 3.79
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1727500,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1730000,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1732500,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1735000,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1737500,
+            "Data": 3.6
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1740000,
+            "Data": 3.71
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1742500,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1745000,
+            "Data": 4.13
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1747500,
+            "Data": 4.21
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1750000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1752500,
+            "Data": 3.85
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1755000,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1757500,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1760000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1762500,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1765000,
+            "Data": 3.49
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1767500,
+            "Data": 3.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1770000,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1772500,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1775000,
+            "Data": 3.53
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1777500,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1780000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1782500,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1785000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1787500,
+            "Data": 3.85
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1790000,
+            "Data": 3.99
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1792500,
+            "Data": 4.06
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1795000,
+            "Data": 4.09
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1797500,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1800000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1802500,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1805000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1807500,
+            "Data": 3.66
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1810000,
+            "Data": 3.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1812500,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1815000,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1817500,
+            "Data": 3.98
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1820000,
+            "Data": 3.82
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1822500,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1825000,
+            "Data": 3.72
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1827500,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1830000,
+            "Data": 3.42
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1832500,
+            "Data": 3.63
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1835000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1837500,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1840000,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1842500,
+            "Data": 3.57
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1845000,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1847500,
+            "Data": 3.8
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1850000,
+            "Data": 3.62
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1852500,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1855000,
+            "Data": 3.56
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1857500,
+            "Data": 3.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1860000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1862500,
+            "Data": 4.19
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1865000,
+            "Data": 4.16
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1867500,
+            "Data": 3.97
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1870000,
+            "Data": 3.95
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1872500,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1875000,
+            "Data": 3.84
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1877500,
+            "Data": 3.73
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1880000,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1882500,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1885000,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1887500,
+            "Data": 3.59
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1890000,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1892500,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1895000,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1897500,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1900000,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.12,
+            "Time": 1902500,
+            "Data": 3.93
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1905000,
+            "Data": 4.01
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1907500,
+            "Data": 3.83
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1910000,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1912500,
+            "Data": 3.81
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1915000,
+            "Data": 3.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1917500,
+            "Data": 3.64
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1920000,
+            "Data": 3.7
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1922500,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1925000,
+            "Data": 3.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1927500,
+            "Data": 3.48
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1930000,
+            "Data": 3.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1932500,
+            "Data": 3.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1935000,
+            "Data": 3.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1937500,
+            "Data": 3.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1940000,
+            "Data": 3.51
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1942500,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1945000,
+            "Data": 4.03
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1947500,
+            "Data": 4.17
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1950000,
+            "Data": 4.1
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1952500,
+            "Data": 4.02
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1955000,
+            "Data": 3.89
+        },
+        {
+            "d18O uncertainty (1sd)": 0.11,
+            "Time": 1957500,
+            "Data": 3.77
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1960000,
+            "Data": 3.86
+        },
+        {
+            "d18O uncertainty (1sd)": 0.05,
+            "Time": 1962500,
+            "Data": 3.9
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1965000,
+            "Data": 3.74
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1967500,
+            "Data": 3.61
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1970000,
+            "Data": 3.75
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1972500,
+            "Data": 3.5
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 1975000,
+            "Data": 3.55
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1977500,
+            "Data": 3.45
+        },
+        {
+            "d18O uncertainty (1sd)": 0.04,
+            "Time": 1980000,
+            "Data": 3.33
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1982500,
+            "Data": 3.38
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1985000,
+            "Data": 3.36
+        },
+        {
+            "d18O uncertainty (1sd)": 0.07,
+            "Time": 1987500,
+            "Data": 3.52
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1990000,
+            "Data": 3.65
+        },
+        {
+            "d18O uncertainty (1sd)": 0.1,
+            "Time": 1992500,
+            "Data": 3.68
+        },
+        {
+            "d18O uncertainty (1sd)": 0.09,
+            "Time": 1995000,
+            "Data": 3.58
+        },
+        {
+            "d18O uncertainty (1sd)": 0.08,
+            "Time": 1997500,
+            "Data": 3.69
+        },
+        {
+            "d18O uncertainty (1sd)": 0.06,
+            "Time": 2000000,
+            "Data": 3.85
+        }
+    ]
+}

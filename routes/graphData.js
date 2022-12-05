@@ -2,8 +2,15 @@ const router = require("express").Router();
 const graphDataV1 = require("../models/v1_data_model");
 const graphDataV3 = require("../models/v3_data_model");
 const graphDataV2 = require("../models/v2_data_model");
+const graphDataV4 = require("../models/v4_data_model");
 const graphDataV5 = require("../models/v5_data_model");
+
 const graphDataV6 = require("../models/v6_data_model");
+
+const graphDataV7 = require("../models/v7_data_model");
+const graphDataV8 = require("../models/v8_data_model");
+const graphDataV9 = require("../models/v9_data_model");
+
 
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
@@ -32,6 +39,14 @@ router.get("/v5", async (req, res, next) => {
     next(error);
   }
 });
+//v7
+router.get("/v7", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV7.getV7Data());
+  } catch (error) {
+    next(error);
+  }
+});
 
 router.get("/v3", async (req, res, next) => {
   try {
@@ -41,9 +56,34 @@ router.get("/v3", async (req, res, next) => {
   }
 });
 
+
 router.get("/v6", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV6.getV6Data(req.params.id));
+      } catch (error) {
+    next(error);
+  }
+});
+
+router.get("/v4", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV4.getV4Data(req.params.id));
+  } catch (error) {
+    next(error);
+  }
+});
+// v8
+router.get("/v8", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV8.getV8Data());
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.get("/v9", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV9.getV9Data(req.params.id));
   } catch (error) {
     next(error);
   }
@@ -84,10 +124,41 @@ router.post("/v5", async (req, res, next) => {
     next(error);
   }
 });
+router.post("/v7", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV7.setV7());
+  } catch (error) {
+    next(error);
+  }
+});
 
 router.post("/v6", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV6.setV6());
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.post("/v4", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV4.setV4());
+  } catch (error) {
+    next(error);
+  }
+});
+// v8
+router.post("/v8", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV8.setV8());
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.post("/v9", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV9.setV9());
   } catch (error) {
     next(error);
   }

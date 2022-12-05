@@ -1,0 +1,7 @@
+{
+  "description": {
+    "srcLink": "https://cdiac.ess-dive.lbl.gov/ftp/trends/co2/lawdome.combined.dat",
+    "desLink": "https://cdiac.ess-dive.lbl.gov/trends/co2/lawdome.html",
+    "des": "This graph shows the Hitsoric Antarctic Ice Core Records of Atmsopheric C02 ratios. Data is displayed in 3 formats i.e CO2 Mixing Ratio overall not smooth, CO2, 20 Years smoothed and CO2, 75 Years smoothed. "
+  }
+}

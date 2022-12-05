@@ -1,0 +1,4029 @@
+{
+    "data": [
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.11631574,
+            "Time": 1000,
+            "Data": 283.2325031
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.336202959,
+            "Time": 2000,
+            "Data": 278.0458112
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.449038465,
+            "Time": 3000,
+            "Data": 275.4241056
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.464890745,
+            "Time": 4000,
+            "Data": 272.8180045
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.633113033,
+            "Time": 5000,
+            "Data": 269.1344717
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.903912217,
+            "Time": 6000,
+            "Data": 264.3329256
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.629070438,
+            "Time": 7000,
+            "Data": 260.7620629
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.178291078,
+            "Time": 8000,
+            "Data": 259.9483117
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.507055335,
+            "Time": 9000,
+            "Data": 261.4238921
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.436266094,
+            "Time": 10000,
+            "Data": 264.0636036
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.397368461,
+            "Time": 11000,
+            "Data": 264.333924
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.779258727,
+            "Time": 12000,
+            "Data": 253.7131204
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.285290857,
+            "Time": 13000,
+            "Data": 241.7050892
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.886439834,
+            "Time": 14000,
+            "Data": 237.9271011
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.021096541,
+            "Time": 15000,
+            "Data": 231.2741784
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.768077555,
+            "Time": 16000,
+            "Data": 220.3501512
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.09502317,
+            "Time": 17000,
+            "Data": 202.404668
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.155370545,
+            "Time": 18000,
+            "Data": 189.9793894
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.746004605,
+            "Time": 19000,
+            "Data": 190.1074283
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.779483737,
+            "Time": 20000,
+            "Data": 192.169303
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.80758312,
+            "Time": 21000,
+            "Data": 189.7931901
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.653825136,
+            "Time": 22000,
+            "Data": 188.0875268
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.43525526,
+            "Time": 23000,
+            "Data": 189.2418773
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.83951603,
+            "Time": 24000,
+            "Data": 186.4899324
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.605590076,
+            "Time": 25000,
+            "Data": 182.3195471
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.351007652,
+            "Time": 26000,
+            "Data": 184.8476733
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.245863342,
+            "Time": 27000,
+            "Data": 188.7631325
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.417898627,
+            "Time": 28000,
+            "Data": 190.63145
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.495782238,
+            "Time": 29000,
+            "Data": 191.6845971
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.897953942,
+            "Time": 30000,
+            "Data": 189.0434391
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.056205921,
+            "Time": 31000,
+            "Data": 188.1951137
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.653383344,
+            "Time": 32000,
+            "Data": 193.9327499
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.423456545,
+            "Time": 33000,
+            "Data": 196.3005445
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.560672759,
+            "Time": 34000,
+            "Data": 196.5437869
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.993110393,
+            "Time": 35000,
+            "Data": 201.022959
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.564295891,
+            "Time": 36000,
+            "Data": 201.9041835
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.781729208,
+            "Time": 37000,
+            "Data": 206.6676677
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.273770569,
+            "Time": 38000,
+            "Data": 209.8705759
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.493211409,
+            "Time": 39000,
+            "Data": 205.0445293
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.900512528,
+            "Time": 40000,
+            "Data": 197.8397251
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.167240725,
+            "Time": 41000,
+            "Data": 200.8908814
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.727471106,
+            "Time": 42000,
+            "Data": 202.3113073
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.426105951,
+            "Time": 43000,
+            "Data": 203.755657
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.167272332,
+            "Time": 44000,
+            "Data": 204.3948076
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.277817181,
+            "Time": 45000,
+            "Data": 210.885274
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.843447478,
+            "Time": 46000,
+            "Data": 217.9821513
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.639234632,
+            "Time": 47000,
+            "Data": 211.4478347
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.86832452,
+            "Time": 48000,
+            "Data": 204.9041342
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.565475892,
+            "Time": 49000,
+            "Data": 202.3093056
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.612155261,
+            "Time": 50000,
+            "Data": 204.8010855
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.142584101,
+            "Time": 51000,
+            "Data": 209.0480693
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.660817373,
+            "Time": 52000,
+            "Data": 216.0019123
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.732808512,
+            "Time": 53000,
+            "Data": 221.5066284
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.050846029,
+            "Time": 54000,
+            "Data": 219.8526536
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.802711849,
+            "Time": 55000,
+            "Data": 214.2065216
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.105544473,
+            "Time": 56000,
+            "Data": 210.8704457
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.948971966,
+            "Time": 57000,
+            "Data": 215.1594171
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.409870652,
+            "Time": 58000,
+            "Data": 222.3265238
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.833913472,
+            "Time": 59000,
+            "Data": 226.7309836
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.126756273,
+            "Time": 60000,
+            "Data": 218.7183419
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.455142055,
+            "Time": 61000,
+            "Data": 211.8669255
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.614610533,
+            "Time": 62000,
+            "Data": 206.7026764
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.722475532,
+            "Time": 63000,
+            "Data": 200.8946613
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.692468062,
+            "Time": 64000,
+            "Data": 199.1342938
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.434429289,
+            "Time": 65000,
+            "Data": 201.9515994
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.915130214,
+            "Time": 66000,
+            "Data": 202.3906083
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.017329892,
+            "Time": 67000,
+            "Data": 204.1776505
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.559838218,
+            "Time": 68000,
+            "Data": 202.2654138
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.719978423,
+            "Time": 69000,
+            "Data": 205.8512091
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.798012552,
+            "Time": 70000,
+            "Data": 215.6998871
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.556329264,
+            "Time": 71000,
+            "Data": 228.5811725
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.447222891,
+            "Time": 72000,
+            "Data": 236.3131163
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.551194986,
+            "Time": 73000,
+            "Data": 232.4122333
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.086510189,
+            "Time": 74000,
+            "Data": 234.0775942
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.97282154,
+            "Time": 75000,
+            "Data": 243.2147783
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.365688555,
+            "Time": 76000,
+            "Data": 244.6721279
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.213087788,
+            "Time": 77000,
+            "Data": 233.5884789
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.62478517,
+            "Time": 78000,
+            "Data": 225.9935395
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.979360394,
+            "Time": 79000,
+            "Data": 227.5725159
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.864355896,
+            "Time": 80000,
+            "Data": 232.1609449
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.678037404,
+            "Time": 81000,
+            "Data": 232.3623551
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.793152884,
+            "Time": 82000,
+            "Data": 237.3381995
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.45494182,
+            "Time": 83000,
+            "Data": 244.8169069
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.812121918,
+            "Time": 84000,
+            "Data": 246.8458913
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.326340067,
+            "Time": 85000,
+            "Data": 237.7639667
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.400477078,
+            "Time": 86000,
+            "Data": 228.4564452
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.485816414,
+            "Time": 87000,
+            "Data": 222.3637205
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.224204262,
+            "Time": 88000,
+            "Data": 220.9215568
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.216156202,
+            "Time": 89000,
+            "Data": 225.5928394
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.219592211,
+            "Time": 90000,
+            "Data": 229.2298811
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.13924075,
+            "Time": 91000,
+            "Data": 231.2283741
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.207994069,
+            "Time": 92000,
+            "Data": 232.779714
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.577600934,
+            "Time": 93000,
+            "Data": 234.251637
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.014058999,
+            "Time": 94000,
+            "Data": 238.527604
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.258180588,
+            "Time": 95000,
+            "Data": 242.8745184
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.21846479,
+            "Time": 96000,
+            "Data": 245.5452396
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.58585491,
+            "Time": 97000,
+            "Data": 243.4445242
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.365831149,
+            "Time": 98000,
+            "Data": 241.1707004
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.131748864,
+            "Time": 99000,
+            "Data": 243.059311
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.533821562,
+            "Time": 100000,
+            "Data": 245.4469701
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.992305951,
+            "Time": 101000,
+            "Data": 245.0946121
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.284193696,
+            "Time": 102000,
+            "Data": 240.9899198
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.092365672,
+            "Time": 103000,
+            "Data": 239.6988748
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.056902624,
+            "Time": 104000,
+            "Data": 242.5621381
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.078446438,
+            "Time": 105000,
+            "Data": 245.3672633
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.018926683,
+            "Time": 106000,
+            "Data": 247.1910545
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.340062997,
+            "Time": 107000,
+            "Data": 243.7588004
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.688533311,
+            "Time": 108000,
+            "Data": 239.1865575
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.778047822,
+            "Time": 109000,
+            "Data": 241.9663304
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.708959632,
+            "Time": 110000,
+            "Data": 244.943137
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.442078298,
+            "Time": 111000,
+            "Data": 249.9415128
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.852525117,
+            "Time": 112000,
+            "Data": 258.7113084
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.617849925,
+            "Time": 113000,
+            "Data": 261.7021436
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.18642083,
+            "Time": 114000,
+            "Data": 265.9655061
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.253381846,
+            "Time": 115000,
+            "Data": 273.180718
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.447501234,
+            "Time": 116000,
+            "Data": 274.3468087
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.130253175,
+            "Time": 117000,
+            "Data": 274.1924296
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.945057004,
+            "Time": 118000,
+            "Data": 274.8852767
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.256713214,
+            "Time": 119000,
+            "Data": 272.880401
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.942562108,
+            "Time": 120000,
+            "Data": 272.6160423
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.628575811,
+            "Time": 121000,
+            "Data": 276.372648
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.286914043,
+            "Time": 122000,
+            "Data": 278.1681049
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.572261714,
+            "Time": 123000,
+            "Data": 277.7054035
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.000521835,
+            "Time": 124000,
+            "Data": 277.1790771
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.827002927,
+            "Time": 125000,
+            "Data": 277.0228076
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.371208375,
+            "Time": 126000,
+            "Data": 275.2722975
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.766759821,
+            "Time": 127000,
+            "Data": 275.6035243
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.736758468,
+            "Time": 128000,
+            "Data": 277.3401774
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.236541114,
+            "Time": 129000,
+            "Data": 272.3433744
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.63249704,
+            "Time": 130000,
+            "Data": 259.6922141
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 14.66946525,
+            "Time": 131000,
+            "Data": 247.4633172
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.40789923,
+            "Time": 132000,
+            "Data": 236.157611
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.704403489,
+            "Time": 133000,
+            "Data": 227.9801152
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.479075198,
+            "Time": 134000,
+            "Data": 222.0028201
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.01155242,
+            "Time": 135000,
+            "Data": 215.5419483
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.063587633,
+            "Time": 136000,
+            "Data": 207.0976499
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.1948687,
+            "Time": 137000,
+            "Data": 201.8258751
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.290637295,
+            "Time": 138000,
+            "Data": 199.2807666
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.323589779,
+            "Time": 139000,
+            "Data": 197.2089469
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.19165792,
+            "Time": 140000,
+            "Data": 195.4721144
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.73893169,
+            "Time": 141000,
+            "Data": 194.9863649
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.310535696,
+            "Time": 142000,
+            "Data": 195.5866783
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.158937203,
+            "Time": 143000,
+            "Data": 195.5507957
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.142715856,
+            "Time": 144000,
+            "Data": 195.3005323
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.188074926,
+            "Time": 145000,
+            "Data": 195.0153404
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.263510213,
+            "Time": 146000,
+            "Data": 194.6733495
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.689764552,
+            "Time": 147000,
+            "Data": 195.2409682
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.32620579,
+            "Time": 148000,
+            "Data": 197.3339463
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.310232124,
+            "Time": 149000,
+            "Data": 199.6553851
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.692447896,
+            "Time": 150000,
+            "Data": 201.3695734
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.231616092,
+            "Time": 151000,
+            "Data": 202.0464086
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.432354871,
+            "Time": 152000,
+            "Data": 201.5642812
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.856648308,
+            "Time": 153000,
+            "Data": 199.4584721
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.053117393,
+            "Time": 154000,
+            "Data": 197.3536828
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.689008847,
+            "Time": 155000,
+            "Data": 195.2345411
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.824174741,
+            "Time": 156000,
+            "Data": 192.5711966
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.095008019,
+            "Time": 157000,
+            "Data": 190.1218653
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.496183381,
+            "Time": 158000,
+            "Data": 188.3691499
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.373149671,
+            "Time": 159000,
+            "Data": 187.4732319
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.375184746,
+            "Time": 160000,
+            "Data": 187.0756493
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.584529461,
+            "Time": 161000,
+            "Data": 187.5820382
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.422111988,
+            "Time": 162000,
+            "Data": 194.031564
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.868908995,
+            "Time": 163000,
+            "Data": 200.1579689
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.623434441,
+            "Time": 164000,
+            "Data": 199.3730027
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.144360563,
+            "Time": 165000,
+            "Data": 196.2053699
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.286643883,
+            "Time": 166000,
+            "Data": 192.0618364
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.537507762,
+            "Time": 167000,
+            "Data": 189.4656976
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.162307396,
+            "Time": 168000,
+            "Data": 188.4430453
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.299203554,
+            "Time": 169000,
+            "Data": 189.3664443
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.740640763,
+            "Time": 170000,
+            "Data": 191.9718398
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.444961175,
+            "Time": 171000,
+            "Data": 195.5494828
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.542385668,
+            "Time": 172000,
+            "Data": 197.4242794
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.097972121,
+            "Time": 173000,
+            "Data": 197.620853
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.425072111,
+            "Time": 174000,
+            "Data": 197.0381183
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.165299503,
+            "Time": 175000,
+            "Data": 195.4956764
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.493467731,
+            "Time": 176000,
+            "Data": 193.1395364
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.417062794,
+            "Time": 177000,
+            "Data": 191.4729434
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.319970122,
+            "Time": 178000,
+            "Data": 192.0986919
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.949877405,
+            "Time": 179000,
+            "Data": 198.1040165
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.503127752,
+            "Time": 180000,
+            "Data": 207.3522544
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.551577757,
+            "Time": 181000,
+            "Data": 211.4568299
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.272091266,
+            "Time": 182000,
+            "Data": 210.6508366
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.314787295,
+            "Time": 183000,
+            "Data": 206.3337988
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.345536945,
+            "Time": 184000,
+            "Data": 202.1767372
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.83227116,
+            "Time": 185000,
+            "Data": 201.139996
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.564661163,
+            "Time": 186000,
+            "Data": 202.9403144
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.848257328,
+            "Time": 187000,
+            "Data": 206.5614774
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.02033455,
+            "Time": 188000,
+            "Data": 212.9444066
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.03562375,
+            "Time": 189000,
+            "Data": 220.4956358
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.830584671,
+            "Time": 190000,
+            "Data": 226.054209
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.979029183,
+            "Time": 191000,
+            "Data": 226.4969284
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.607635868,
+            "Time": 192000,
+            "Data": 223.8481047
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.674087395,
+            "Time": 193000,
+            "Data": 221.5326345
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.060246929,
+            "Time": 194000,
+            "Data": 221.7952492
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.977487077,
+            "Time": 195000,
+            "Data": 223.2059978
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.508902041,
+            "Time": 196000,
+            "Data": 224.7725591
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.955206771,
+            "Time": 197000,
+            "Data": 229.6042018
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.733015158,
+            "Time": 198000,
+            "Data": 235.173983
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.427173407,
+            "Time": 199000,
+            "Data": 238.8409271
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.755662778,
+            "Time": 200000,
+            "Data": 242.615465
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.249061868,
+            "Time": 201000,
+            "Data": 246.2812901
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.307068184,
+            "Time": 202000,
+            "Data": 245.6379851
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.415272296,
+            "Time": 203000,
+            "Data": 244.0154548
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.601304402,
+            "Time": 204000,
+            "Data": 241.1484411
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.993904692,
+            "Time": 205000,
+            "Data": 236.461797
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.706766797,
+            "Time": 206000,
+            "Data": 233.0141446
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.884014748,
+            "Time": 207000,
+            "Data": 232.3818848
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.410365267,
+            "Time": 208000,
+            "Data": 234.6334993
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.930954766,
+            "Time": 209000,
+            "Data": 238.4615482
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.735399422,
+            "Time": 210000,
+            "Data": 242.6303677
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.287107354,
+            "Time": 211000,
+            "Data": 245.7782031
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.673206253,
+            "Time": 212000,
+            "Data": 247.2637269
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.981281944,
+            "Time": 213000,
+            "Data": 247.5690471
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.483035526,
+            "Time": 214000,
+            "Data": 246.5204828
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.592204492,
+            "Time": 215000,
+            "Data": 244.7445222
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.250398659,
+            "Time": 216000,
+            "Data": 244.8673813
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.286135573,
+            "Time": 217000,
+            "Data": 246.3588661
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.145236157,
+            "Time": 218000,
+            "Data": 246.5066752
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.76620609,
+            "Time": 219000,
+            "Data": 242.4575078
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 15.52985693,
+            "Time": 220000,
+            "Data": 229.4685462
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.56014889,
+            "Time": 221000,
+            "Data": 216.6656048
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.160081086,
+            "Time": 222000,
+            "Data": 211.8308443
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.827988323,
+            "Time": 223000,
+            "Data": 209.3345275
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.490681885,
+            "Time": 224000,
+            "Data": 207.6515078
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.423685282,
+            "Time": 225000,
+            "Data": 208.1206096
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.11580156,
+            "Time": 226000,
+            "Data": 213.4919527
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.35239024,
+            "Time": 227000,
+            "Data": 221.4826482
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.55022581,
+            "Time": 228000,
+            "Data": 228.0563013
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.104816972,
+            "Time": 229000,
+            "Data": 230.3739557
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.683774462,
+            "Time": 230000,
+            "Data": 230.524589
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.519226006,
+            "Time": 231000,
+            "Data": 232.4365861
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.37393903,
+            "Time": 232000,
+            "Data": 235.2872207
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.353466263,
+            "Time": 233000,
+            "Data": 237.5665492
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.052000818,
+            "Time": 234000,
+            "Data": 241.1364377
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.389367315,
+            "Time": 235000,
+            "Data": 245.6850544
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.082984184,
+            "Time": 236000,
+            "Data": 246.0824888
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.02431877,
+            "Time": 237000,
+            "Data": 245.2903156
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.925368522,
+            "Time": 238000,
+            "Data": 244.7753558
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.700985104,
+            "Time": 239000,
+            "Data": 245.9839945
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.053565775,
+            "Time": 240000,
+            "Data": 249.8150583
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.97601257,
+            "Time": 241000,
+            "Data": 257.409832
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.39730501,
+            "Time": 242000,
+            "Data": 265.8713783
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.4888581,
+            "Time": 243000,
+            "Data": 267.604856
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 15.5073181,
+            "Time": 244000,
+            "Data": 259.8845271
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 15.72478126,
+            "Time": 245000,
+            "Data": 248.6422444
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 14.37947326,
+            "Time": 246000,
+            "Data": 238.4737597
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.29470868,
+            "Time": 247000,
+            "Data": 229.8133133
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.555724039,
+            "Time": 248000,
+            "Data": 221.6361977
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.044278305,
+            "Time": 249000,
+            "Data": 214.9398134
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.930395548,
+            "Time": 250000,
+            "Data": 209.3998257
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.172117213,
+            "Time": 251000,
+            "Data": 205.3104922
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.459784959,
+            "Time": 252000,
+            "Data": 203.2483236
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.986375853,
+            "Time": 253000,
+            "Data": 200.4650348
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.031244344,
+            "Time": 254000,
+            "Data": 197.8822434
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.379290868,
+            "Time": 255000,
+            "Data": 197.5051079
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.114704672,
+            "Time": 256000,
+            "Data": 199.4472908
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.824637841,
+            "Time": 257000,
+            "Data": 201.3744397
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.623932782,
+            "Time": 258000,
+            "Data": 202.814182
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.794262773,
+            "Time": 259000,
+            "Data": 204.4200834
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.104457171,
+            "Time": 260000,
+            "Data": 206.4347214
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.309840679,
+            "Time": 261000,
+            "Data": 208.1137138
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.300196008,
+            "Time": 262000,
+            "Data": 209.9150266
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.614537629,
+            "Time": 263000,
+            "Data": 213.3785421
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.18528326,
+            "Time": 264000,
+            "Data": 217.8789671
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.9494811,
+            "Time": 265000,
+            "Data": 215.5109244
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.38796731,
+            "Time": 266000,
+            "Data": 208.2111028
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.4473306,
+            "Time": 267000,
+            "Data": 201.9798868
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.47651163,
+            "Time": 268000,
+            "Data": 195.6218544
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.43850257,
+            "Time": 269000,
+            "Data": 192.151024
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.998757622,
+            "Time": 270000,
+            "Data": 192.6002599
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.376181622,
+            "Time": 271000,
+            "Data": 192.804065
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.362956805,
+            "Time": 272000,
+            "Data": 191.033819
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.280276887,
+            "Time": 273000,
+            "Data": 190.6760917
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.464809987,
+            "Time": 274000,
+            "Data": 192.3946144
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.003405056,
+            "Time": 275000,
+            "Data": 194.3421356
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.038945013,
+            "Time": 276000,
+            "Data": 195.7057855
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.774383498,
+            "Time": 277000,
+            "Data": 196.7732171
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.93335861,
+            "Time": 278000,
+            "Data": 199.2394258
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.447388325,
+            "Time": 279000,
+            "Data": 203.4082775
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.622831037,
+            "Time": 280000,
+            "Data": 208.0214365
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.899163947,
+            "Time": 281000,
+            "Data": 212.6759981
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.169139352,
+            "Time": 282000,
+            "Data": 217.5897056
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.003725615,
+            "Time": 283000,
+            "Data": 223.0628201
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.387592308,
+            "Time": 284000,
+            "Data": 227.7767543
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.888153996,
+            "Time": 285000,
+            "Data": 228.9639911
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.629119445,
+            "Time": 286000,
+            "Data": 228.8262127
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.650535633,
+            "Time": 287000,
+            "Data": 229.4045481
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.795125879,
+            "Time": 288000,
+            "Data": 230.1780116
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.452140854,
+            "Time": 289000,
+            "Data": 230.0219927
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.258820351,
+            "Time": 290000,
+            "Data": 226.9388367
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.343199393,
+            "Time": 291000,
+            "Data": 221.7878674
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.950273457,
+            "Time": 292000,
+            "Data": 215.4351452
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.481881559,
+            "Time": 293000,
+            "Data": 209.9222906
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.478542217,
+            "Time": 294000,
+            "Data": 208.2603716
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.380405802,
+            "Time": 295000,
+            "Data": 209.3781168
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.353098736,
+            "Time": 296000,
+            "Data": 211.5310759
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.124941318,
+            "Time": 297000,
+            "Data": 214.3755829
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.760268314,
+            "Time": 298000,
+            "Data": 218.9599
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.461513217,
+            "Time": 299000,
+            "Data": 223.7653836
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.564041819,
+            "Time": 300000,
+            "Data": 228.4774958
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.509050147,
+            "Time": 301000,
+            "Data": 233.2095243
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.689964,
+            "Time": 302000,
+            "Data": 236.4908754
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.163242327,
+            "Time": 303000,
+            "Data": 238.2054493
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.104809507,
+            "Time": 304000,
+            "Data": 240.3882717
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.829739135,
+            "Time": 305000,
+            "Data": 243.4133272
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.51543437,
+            "Time": 306000,
+            "Data": 245.076801
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.156232362,
+            "Time": 307000,
+            "Data": 242.6472585
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.46505777,
+            "Time": 308000,
+            "Data": 236.1295243
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.827000986,
+            "Time": 309000,
+            "Data": 230.7059035
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.868140318,
+            "Time": 310000,
+            "Data": 230.2441337
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.238236987,
+            "Time": 311000,
+            "Data": 233.3740376
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.691721853,
+            "Time": 312000,
+            "Data": 238.063794
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.613393444,
+            "Time": 313000,
+            "Data": 243.2645692
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.005113866,
+            "Time": 314000,
+            "Data": 248.7415053
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.750008194,
+            "Time": 315000,
+            "Data": 253.1957153
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.240869377,
+            "Time": 316000,
+            "Data": 255.7204685
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.1406059,
+            "Time": 317000,
+            "Data": 256.2915312
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.10926684,
+            "Time": 318000,
+            "Data": 253.0148145
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.27490933,
+            "Time": 319000,
+            "Data": 247.2049625
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.14358741,
+            "Time": 320000,
+            "Data": 245.3194734
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.223898971,
+            "Time": 321000,
+            "Data": 248.3900454
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.189957957,
+            "Time": 322000,
+            "Data": 252.2511895
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.618829736,
+            "Time": 323000,
+            "Data": 256.1582009
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.299689829,
+            "Time": 324000,
+            "Data": 258.9991674
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.945341046,
+            "Time": 325000,
+            "Data": 260.802045
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.203347564,
+            "Time": 326000,
+            "Data": 262.7004447
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.375151416,
+            "Time": 327000,
+            "Data": 264.8888758
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.647021384,
+            "Time": 328000,
+            "Data": 267.2841432
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.729736231,
+            "Time": 329000,
+            "Data": 269.6415706
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.769192305,
+            "Time": 330000,
+            "Data": 270.8342661
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.315639629,
+            "Time": 331000,
+            "Data": 270.7602537
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.950606637,
+            "Time": 332000,
+            "Data": 272.678363
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.876851192,
+            "Time": 333000,
+            "Data": 277.6160162
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.181918674,
+            "Time": 334000,
+            "Data": 282.7744667
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.893966703,
+            "Time": 335000,
+            "Data": 285.1386334
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.47593364,
+            "Time": 336000,
+            "Data": 282.5791595
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.87953941,
+            "Time": 337000,
+            "Data": 274.7897196
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 16.2935619,
+            "Time": 338000,
+            "Data": 263.1228573
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 14.53668691,
+            "Time": 339000,
+            "Data": 250.6230279
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.838120057,
+            "Time": 340000,
+            "Data": 242.0645149
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.922693858,
+            "Time": 341000,
+            "Data": 238.7909027
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 16.82719788,
+            "Time": 342000,
+            "Data": 236.5256543
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 23.41569134,
+            "Time": 343000,
+            "Data": 226.8091582
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 20.58479521,
+            "Time": 344000,
+            "Data": 214.4093946
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.31467495,
+            "Time": 345000,
+            "Data": 207.2977469
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.352740186,
+            "Time": 346000,
+            "Data": 206.4687298
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.827556569,
+            "Time": 347000,
+            "Data": 209.0482573
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.359618353,
+            "Time": 348000,
+            "Data": 213.1678531
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.567772672,
+            "Time": 349000,
+            "Data": 217.1795955
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.086072243,
+            "Time": 350000,
+            "Data": 219.6103969
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.690697082,
+            "Time": 351000,
+            "Data": 220.0552526
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.541417135,
+            "Time": 352000,
+            "Data": 218.533491
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.205054559,
+            "Time": 353000,
+            "Data": 215.6812546
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.942311974,
+            "Time": 354000,
+            "Data": 212.5868201
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.06523797,
+            "Time": 355000,
+            "Data": 210.4219989
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.193552863,
+            "Time": 356000,
+            "Data": 209.1122002
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.820459221,
+            "Time": 357000,
+            "Data": 205.0790527
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.561381051,
+            "Time": 358000,
+            "Data": 195.6443483
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.905280874,
+            "Time": 359000,
+            "Data": 191.4804728
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.601670238,
+            "Time": 360000,
+            "Data": 189.0603632
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.917236199,
+            "Time": 361000,
+            "Data": 187.0531003
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.742810638,
+            "Time": 362000,
+            "Data": 186.3500944
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.109159268,
+            "Time": 363000,
+            "Data": 187.9943647
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.237001734,
+            "Time": 364000,
+            "Data": 194.2741198
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.666658654,
+            "Time": 365000,
+            "Data": 199.759248
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.112343054,
+            "Time": 366000,
+            "Data": 202.0562131
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.859435044,
+            "Time": 367000,
+            "Data": 204.6775517
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.246648747,
+            "Time": 368000,
+            "Data": 205.9675307
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.400226886,
+            "Time": 369000,
+            "Data": 205.6199638
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.670764656,
+            "Time": 370000,
+            "Data": 203.3379399
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.225611206,
+            "Time": 371000,
+            "Data": 201.8911611
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.616217497,
+            "Time": 372000,
+            "Data": 201.4571129
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.57941056,
+            "Time": 373000,
+            "Data": 202.1618371
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.124397482,
+            "Time": 374000,
+            "Data": 205.9748131
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.596398752,
+            "Time": 375000,
+            "Data": 212.228964
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.515848826,
+            "Time": 376000,
+            "Data": 218.518175
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.92974537,
+            "Time": 377000,
+            "Data": 223.5652583
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.564268612,
+            "Time": 378000,
+            "Data": 226.7891833
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.715546498,
+            "Time": 379000,
+            "Data": 228.5346092
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.295770725,
+            "Time": 380000,
+            "Data": 229.1245054
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.729247633,
+            "Time": 381000,
+            "Data": 228.253065
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.061265326,
+            "Time": 382000,
+            "Data": 228.5084022
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.664931845,
+            "Time": 383000,
+            "Data": 230.9209496
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.976542167,
+            "Time": 384000,
+            "Data": 234.9164445
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.332339343,
+            "Time": 385000,
+            "Data": 238.3650118
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.504754239,
+            "Time": 386000,
+            "Data": 240.4547018
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.82767831,
+            "Time": 387000,
+            "Data": 242.8311841
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.209975101,
+            "Time": 388000,
+            "Data": 245.0535728
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.654711463,
+            "Time": 389000,
+            "Data": 246.0613002
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.546457983,
+            "Time": 390000,
+            "Data": 247.8604075
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.464497427,
+            "Time": 391000,
+            "Data": 254.7001985
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.365407825,
+            "Time": 392000,
+            "Data": 259.867996
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.047192801,
+            "Time": 393000,
+            "Data": 262.643942
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.353165118,
+            "Time": 394000,
+            "Data": 264.7424415
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.080904439,
+            "Time": 395000,
+            "Data": 265.1094138
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.444788784,
+            "Time": 396000,
+            "Data": 265.6969301
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.370678867,
+            "Time": 397000,
+            "Data": 272.4900897
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.150426492,
+            "Time": 398000,
+            "Data": 276.4572218
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.009190883,
+            "Time": 399000,
+            "Data": 277.9083324
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.34464957,
+            "Time": 400000,
+            "Data": 279.5342879
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.387183695,
+            "Time": 401000,
+            "Data": 280.6087758
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.601221314,
+            "Time": 402000,
+            "Data": 280.1581492
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.492397396,
+            "Time": 403000,
+            "Data": 278.7841987
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.003141155,
+            "Time": 404000,
+            "Data": 278.2350702
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.936731626,
+            "Time": 405000,
+            "Data": 279.0947605
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.187278101,
+            "Time": 406000,
+            "Data": 280.737683
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.39353759,
+            "Time": 407000,
+            "Data": 282.2339092
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.886140351,
+            "Time": 408000,
+            "Data": 282.356246
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.320835544,
+            "Time": 409000,
+            "Data": 281.1403711
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.105756666,
+            "Time": 410000,
+            "Data": 280.7030674
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.95173679,
+            "Time": 411000,
+            "Data": 281.0179058
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.416682547,
+            "Time": 412000,
+            "Data": 279.0411681
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.002235958,
+            "Time": 413000,
+            "Data": 273.7997437
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.777936484,
+            "Time": 414000,
+            "Data": 271.0422454
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.050111573,
+            "Time": 415000,
+            "Data": 271.4899417
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.253562148,
+            "Time": 416000,
+            "Data": 272.6792761
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.590689087,
+            "Time": 417000,
+            "Data": 273.1120791
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.319854013,
+            "Time": 418000,
+            "Data": 273.1625344
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.311022793,
+            "Time": 419000,
+            "Data": 273.0763463
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.558130721,
+            "Time": 420000,
+            "Data": 272.5293654
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.997106893,
+            "Time": 421000,
+            "Data": 271.2003393
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.95745331,
+            "Time": 422000,
+            "Data": 269.5289267
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.612002904,
+            "Time": 423000,
+            "Data": 268.7629018
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.631889554,
+            "Time": 424000,
+            "Data": 268.5976013
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.704847183,
+            "Time": 425000,
+            "Data": 267.9954797
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.901859374,
+            "Time": 426000,
+            "Data": 265.8472185
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.091722061,
+            "Time": 427000,
+            "Data": 261.1098677
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.683289404,
+            "Time": 428000,
+            "Data": 254.1837849
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.24907879,
+            "Time": 429000,
+            "Data": 247.0790838
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.03608063,
+            "Time": 430000,
+            "Data": 237.9186019
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.11687922,
+            "Time": 431000,
+            "Data": 227.5587874
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.325022312,
+            "Time": 432000,
+            "Data": 222.2334228
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.738199212,
+            "Time": 433000,
+            "Data": 216.816022
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.703683855,
+            "Time": 434000,
+            "Data": 211.8307149
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.359422806,
+            "Time": 435000,
+            "Data": 209.743298
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.569513073,
+            "Time": 436000,
+            "Data": 208.9295487
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.117881712,
+            "Time": 437000,
+            "Data": 207.5372291
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.79606569,
+            "Time": 438000,
+            "Data": 204.9772619
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.306760724,
+            "Time": 439000,
+            "Data": 202.4437634
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.409313253,
+            "Time": 440000,
+            "Data": 201.4402557
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.07448997,
+            "Time": 441000,
+            "Data": 201.4249017
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.028389726,
+            "Time": 442000,
+            "Data": 201.4795492
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.090886563,
+            "Time": 443000,
+            "Data": 201.4542793
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.249009621,
+            "Time": 444000,
+            "Data": 201.057083
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.303897415,
+            "Time": 445000,
+            "Data": 200.3736059
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.346578377,
+            "Time": 446000,
+            "Data": 200.411651
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.624438243,
+            "Time": 447000,
+            "Data": 201.6381635
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.932743134,
+            "Time": 448000,
+            "Data": 203.266096
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.097702969,
+            "Time": 449000,
+            "Data": 204.4720805
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.21253223,
+            "Time": 450000,
+            "Data": 204.2223013
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.944373089,
+            "Time": 451000,
+            "Data": 203.1094066
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.618412582,
+            "Time": 452000,
+            "Data": 202.6892164
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.807380188,
+            "Time": 453000,
+            "Data": 202.3475656
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.469019161,
+            "Time": 454000,
+            "Data": 200.6669338
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.828264307,
+            "Time": 455000,
+            "Data": 197.8967958
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.96352617,
+            "Time": 456000,
+            "Data": 196.2940825
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.873612532,
+            "Time": 457000,
+            "Data": 197.8690568
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.935092044,
+            "Time": 458000,
+            "Data": 200.8553289
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.273320011,
+            "Time": 459000,
+            "Data": 202.8744611
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.58816455,
+            "Time": 460000,
+            "Data": 202.2689974
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.244195612,
+            "Time": 461000,
+            "Data": 198.612624
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.381097105,
+            "Time": 462000,
+            "Data": 195.1307345
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.700918369,
+            "Time": 463000,
+            "Data": 195.451332
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.810630986,
+            "Time": 464000,
+            "Data": 199.4709237
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.215407976,
+            "Time": 465000,
+            "Data": 203.6213049
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.928007882,
+            "Time": 466000,
+            "Data": 205.9643888
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.045810005,
+            "Time": 467000,
+            "Data": 206.2419923
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.799409111,
+            "Time": 468000,
+            "Data": 205.3221194
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.089500584,
+            "Time": 469000,
+            "Data": 205.8914562
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.240321192,
+            "Time": 470000,
+            "Data": 209.6227967
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.46254389,
+            "Time": 471000,
+            "Data": 216.3166225
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.01717253,
+            "Time": 472000,
+            "Data": 225.3760435
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.44788543,
+            "Time": 473000,
+            "Data": 234.174658
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.119654621,
+            "Time": 474000,
+            "Data": 239.393869
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.265693286,
+            "Time": 475000,
+            "Data": 239.7499714
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.593986596,
+            "Time": 476000,
+            "Data": 236.8654225
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.517525604,
+            "Time": 477000,
+            "Data": 235.1786162
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.367108484,
+            "Time": 478000,
+            "Data": 234.8606404
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.429748075,
+            "Time": 479000,
+            "Data": 232.6477423
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.245968859,
+            "Time": 480000,
+            "Data": 228.67095
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.971190903,
+            "Time": 481000,
+            "Data": 225.1365062
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.147988876,
+            "Time": 482000,
+            "Data": 224.3498491
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.766370599,
+            "Time": 483000,
+            "Data": 226.4265243
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.371672021,
+            "Time": 484000,
+            "Data": 229.1017764
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.648122952,
+            "Time": 485000,
+            "Data": 230.9539606
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.452327432,
+            "Time": 486000,
+            "Data": 232.0532032
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.462453464,
+            "Time": 487000,
+            "Data": 233.4006663
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.497173946,
+            "Time": 488000,
+            "Data": 236.5671805
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.175060001,
+            "Time": 489000,
+            "Data": 241.1491859
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.235855554,
+            "Time": 490000,
+            "Data": 244.2745352
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.170360428,
+            "Time": 491000,
+            "Data": 245.1735843
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.520592109,
+            "Time": 492000,
+            "Data": 244.4463776
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.373845394,
+            "Time": 493000,
+            "Data": 242.5602558
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.98258398,
+            "Time": 494000,
+            "Data": 240.3811993
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.421125118,
+            "Time": 495000,
+            "Data": 238.8553304
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.272642883,
+            "Time": 496000,
+            "Data": 237.8427521
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.52370663,
+            "Time": 497000,
+            "Data": 236.686836
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.952517714,
+            "Time": 498000,
+            "Data": 234.9594115
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.024355926,
+            "Time": 499000,
+            "Data": 232.8124691
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.639130319,
+            "Time": 500000,
+            "Data": 231.0516205
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.341375455,
+            "Time": 501000,
+            "Data": 230.3231091
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.287256538,
+            "Time": 502000,
+            "Data": 230.6591089
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.261347724,
+            "Time": 503000,
+            "Data": 231.5413131
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.265898923,
+            "Time": 504000,
+            "Data": 232.5377216
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.294572147,
+            "Time": 505000,
+            "Data": 233.5846451
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.334470904,
+            "Time": 506000,
+            "Data": 234.7083258
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.376903002,
+            "Time": 507000,
+            "Data": 235.910109
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.410888513,
+            "Time": 508000,
+            "Data": 236.9704998
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.634513345,
+            "Time": 509000,
+            "Data": 237.4436341
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.974467049,
+            "Time": 510000,
+            "Data": 237.0073485
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.996370964,
+            "Time": 511000,
+            "Data": 236.4124352
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.113146691,
+            "Time": 512000,
+            "Data": 236.9431533
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.126167532,
+            "Time": 513000,
+            "Data": 238.3075819
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.820060755,
+            "Time": 514000,
+            "Data": 239.4435452
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.885889739,
+            "Time": 515000,
+            "Data": 240.6850515
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.142591129,
+            "Time": 516000,
+            "Data": 242.6492606
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.872782768,
+            "Time": 517000,
+            "Data": 244.612794
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.375654794,
+            "Time": 518000,
+            "Data": 245.6507746
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.198323547,
+            "Time": 519000,
+            "Data": 245.9292321
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.269738746,
+            "Time": 520000,
+            "Data": 245.8667295
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.420626426,
+            "Time": 521000,
+            "Data": 245.3400729
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.81033259,
+            "Time": 522000,
+            "Data": 244.0262821
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.439163236,
+            "Time": 523000,
+            "Data": 241.170874
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.478369595,
+            "Time": 524000,
+            "Data": 238.4323957
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.541494735,
+            "Time": 525000,
+            "Data": 236.1280504
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.757981093,
+            "Time": 526000,
+            "Data": 233.4319907
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.914543343,
+            "Time": 527000,
+            "Data": 230.2874637
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.729848218,
+            "Time": 528000,
+            "Data": 227.0870392
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.273727777,
+            "Time": 529000,
+            "Data": 224.2590823
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.156330928,
+            "Time": 530000,
+            "Data": 221.8811645
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.527850542,
+            "Time": 531000,
+            "Data": 219.1215668
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.78421661,
+            "Time": 532000,
+            "Data": 214.8244465
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.257014728,
+            "Time": 533000,
+            "Data": 209.0044012
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.949112655,
+            "Time": 534000,
+            "Data": 202.5462338
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.911684032,
+            "Time": 535000,
+            "Data": 197.7278321
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.514002911,
+            "Time": 536000,
+            "Data": 196.4842026
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.579291765,
+            "Time": 537000,
+            "Data": 198.5308695
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.427985813,
+            "Time": 538000,
+            "Data": 202.2620896
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.059498979,
+            "Time": 539000,
+            "Data": 205.8329667
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.735121533,
+            "Time": 540000,
+            "Data": 208.6878872
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.408129733,
+            "Time": 541000,
+            "Data": 209.8512285
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.635798672,
+            "Time": 542000,
+            "Data": 208.5543071
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.325647264,
+            "Time": 543000,
+            "Data": 206.5502978
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.002902903,
+            "Time": 544000,
+            "Data": 206.3091924
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.914291273,
+            "Time": 545000,
+            "Data": 207.7537999
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.504526219,
+            "Time": 546000,
+            "Data": 209.0041576
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.597876679,
+            "Time": 547000,
+            "Data": 208.9449914
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.237052143,
+            "Time": 548000,
+            "Data": 207.7637366
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.085560546,
+            "Time": 549000,
+            "Data": 207.3678354
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.345618762,
+            "Time": 550000,
+            "Data": 209.5296634
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.063859566,
+            "Time": 551000,
+            "Data": 214.0191022
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.034850904,
+            "Time": 552000,
+            "Data": 218.97503940000001
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.530537256,
+            "Time": 553000,
+            "Data": 221.7363025
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.810585809,
+            "Time": 554000,
+            "Data": 223.3184905
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.97372863,
+            "Time": 555000,
+            "Data": 227.1596195
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.911085856,
+            "Time": 556000,
+            "Data": 234.820362
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.207666135,
+            "Time": 557000,
+            "Data": 240.5185232
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.19390414,
+            "Time": 558000,
+            "Data": 241.3708948
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.601919521,
+            "Time": 559000,
+            "Data": 238.1097141
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.363944396,
+            "Time": 560000,
+            "Data": 233.7330417
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.909589603,
+            "Time": 561000,
+            "Data": 232.2813009
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.918050479,
+            "Time": 562000,
+            "Data": 234.554945
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.021842206,
+            "Time": 563000,
+            "Data": 239.0960365
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.829772213,
+            "Time": 564000,
+            "Data": 244.3425169
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.604118956,
+            "Time": 565000,
+            "Data": 248.8493479
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.213415428,
+            "Time": 566000,
+            "Data": 251.741554
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.411725567,
+            "Time": 567000,
+            "Data": 253.0070751
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.277476326,
+            "Time": 568000,
+            "Data": 253.0283726
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.343638963,
+            "Time": 569000,
+            "Data": 252.2583689
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.291027255,
+            "Time": 570000,
+            "Data": 251.406728
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.347030941,
+            "Time": 571000,
+            "Data": 250.7498827
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.507543968,
+            "Time": 572000,
+            "Data": 249.9996375
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.539969715,
+            "Time": 573000,
+            "Data": 249.5265161
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.547581628,
+            "Time": 574000,
+            "Data": 249.9545283
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.462087899,
+            "Time": 575000,
+            "Data": 250.8118116
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.34132278,
+            "Time": 576000,
+            "Data": 251.3489326
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.368959649,
+            "Time": 577000,
+            "Data": 251.3755945
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.367879232,
+            "Time": 578000,
+            "Data": 250.566483
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.362947274,
+            "Time": 579000,
+            "Data": 247.8495203
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.90617883,
+            "Time": 580000,
+            "Data": 242.1248361
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.09535355,
+            "Time": 581000,
+            "Data": 233.7689715
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.77840012,
+            "Time": 582000,
+            "Data": 224.1602332
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.884972597,
+            "Time": 583000,
+            "Data": 216.1228492
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.872829321,
+            "Time": 584000,
+            "Data": 212.044256
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.672593061,
+            "Time": 585000,
+            "Data": 214.5925727
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.257327531,
+            "Time": 586000,
+            "Data": 224.9638137
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.770074764,
+            "Time": 587000,
+            "Data": 231.2313233
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.319264935,
+            "Time": 588000,
+            "Data": 236.8961476
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.017403637,
+            "Time": 589000,
+            "Data": 242.0930893
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.925984244,
+            "Time": 590000,
+            "Data": 243.5696305
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.349014824,
+            "Time": 591000,
+            "Data": 240.093034
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.925320911,
+            "Time": 592000,
+            "Data": 234.2702339
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.034231038,
+            "Time": 593000,
+            "Data": 232.4435042
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.953800496,
+            "Time": 594000,
+            "Data": 233.3239754
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.8494092,
+            "Time": 595000,
+            "Data": 231.6722472
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.080628588,
+            "Time": 596000,
+            "Data": 226.3217218
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.284262257,
+            "Time": 597000,
+            "Data": 221.3113299
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.847040571,
+            "Time": 598000,
+            "Data": 220.5187641
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.177886592,
+            "Time": 599000,
+            "Data": 223.3002021
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.952598465,
+            "Time": 600000,
+            "Data": 227.1829568
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.410943217,
+            "Time": 601000,
+            "Data": 231.2680688
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.820105127,
+            "Time": 602000,
+            "Data": 234.9879692
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.312703233,
+            "Time": 603000,
+            "Data": 237.8184401
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.48200859,
+            "Time": 604000,
+            "Data": 240.3507747
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.908642997,
+            "Time": 605000,
+            "Data": 243.3550668
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.152682485,
+            "Time": 606000,
+            "Data": 246.7596237
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.43500667,
+            "Time": 607000,
+            "Data": 250.4846322
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.151606788,
+            "Time": 608000,
+            "Data": 254.2566773
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.149613915,
+            "Time": 609000,
+            "Data": 257.0009009
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.353951801,
+            "Time": 610000,
+            "Data": 258.1466819
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.156522687,
+            "Time": 611000,
+            "Data": 258.3861243
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.20162079,
+            "Time": 612000,
+            "Data": 258.2559575
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.471189377,
+            "Time": 613000,
+            "Data": 257.4546313
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.757964881,
+            "Time": 614000,
+            "Data": 255.6886551
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.509418008,
+            "Time": 615000,
+            "Data": 253.8805336
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.191896953,
+            "Time": 616000,
+            "Data": 252.9736659
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.301096612,
+            "Time": 617000,
+            "Data": 252.3957385
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.831469524,
+            "Time": 618000,
+            "Data": 251.0736592
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.064289326,
+            "Time": 619000,
+            "Data": 248.7804171
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.862938545,
+            "Time": 620000,
+            "Data": 246.5024682
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.813552908,
+            "Time": 621000,
+            "Data": 244.4551276
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.927547274,
+            "Time": 622000,
+            "Data": 242.6839234
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.384721453,
+            "Time": 623000,
+            "Data": 241.0415409
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.761125091,
+            "Time": 624000,
+            "Data": 238.2980655
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.166017461,
+            "Time": 625000,
+            "Data": 233.5254968
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.9038099,
+            "Time": 626000,
+            "Data": 226.755959
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.03793741,
+            "Time": 627000,
+            "Data": 217.8368742
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.806655315,
+            "Time": 628000,
+            "Data": 208.7698775
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.037444457,
+            "Time": 629000,
+            "Data": 203.6224166
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.316255175,
+            "Time": 630000,
+            "Data": 201.9871573
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.16514208,
+            "Time": 631000,
+            "Data": 200.6565203
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.227033133,
+            "Time": 632000,
+            "Data": 198.5446305
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.988927121,
+            "Time": 633000,
+            "Data": 196.2393971
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.443356857,
+            "Time": 634000,
+            "Data": 194.9343139
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.212523279,
+            "Time": 635000,
+            "Data": 194.753735
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.159101698,
+            "Time": 636000,
+            "Data": 194.7008476
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.360364725,
+            "Time": 637000,
+            "Data": 194.414239
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.034218366,
+            "Time": 638000,
+            "Data": 193.2417288
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.059273439,
+            "Time": 639000,
+            "Data": 191.1389697
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.423506038,
+            "Time": 640000,
+            "Data": 190.1641501
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.2124629,
+            "Time": 641000,
+            "Data": 190.5612067
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.260690671,
+            "Time": 642000,
+            "Data": 191.4444835
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.524418214,
+            "Time": 643000,
+            "Data": 192.5463266
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.65829244,
+            "Time": 644000,
+            "Data": 193.8428809
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.824714317,
+            "Time": 645000,
+            "Data": 193.970861
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.943889398,
+            "Time": 646000,
+            "Data": 192.7968143
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.684629548,
+            "Time": 647000,
+            "Data": 192.2175139
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.689626017,
+            "Time": 648000,
+            "Data": 192.9444335
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.903818929,
+            "Time": 649000,
+            "Data": 193.2926639
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.233464916,
+            "Time": 650000,
+            "Data": 192.3344826
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.330800402,
+            "Time": 651000,
+            "Data": 190.7519211
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.312071687,
+            "Time": 652000,
+            "Data": 189.6141997
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.79857676,
+            "Time": 653000,
+            "Data": 190.4315493
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.269993068,
+            "Time": 654000,
+            "Data": 193.2872064
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.029016941,
+            "Time": 655000,
+            "Data": 196.0762278
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.446450773,
+            "Time": 656000,
+            "Data": 195.9183943
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.852456099,
+            "Time": 657000,
+            "Data": 192.8340641
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.161246794,
+            "Time": 658000,
+            "Data": 189.6373603
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.363354697,
+            "Time": 659000,
+            "Data": 187.9838854
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.316672723,
+            "Time": 660000,
+            "Data": 188.6302995
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.128257751,
+            "Time": 661000,
+            "Data": 190.3686244
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.751289338,
+            "Time": 662000,
+            "Data": 191.2441541
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.12693476,
+            "Time": 663000,
+            "Data": 190.888488
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.462986108,
+            "Time": 664000,
+            "Data": 189.1262856
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.806233336,
+            "Time": 665000,
+            "Data": 185.5814185
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.679779656,
+            "Time": 666000,
+            "Data": 180.8797401
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.296496141,
+            "Time": 667000,
+            "Data": 177.7290231
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.868669153,
+            "Time": 668000,
+            "Data": 178.6762333
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.358280851,
+            "Time": 669000,
+            "Data": 183.1473571
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.180746874,
+            "Time": 670000,
+            "Data": 188.7044526
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.661427663,
+            "Time": 671000,
+            "Data": 193.0489531
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.948215447,
+            "Time": 672000,
+            "Data": 196.0053452
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.285647566,
+            "Time": 673000,
+            "Data": 199.5485338
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.800568711,
+            "Time": 674000,
+            "Data": 204.8430113
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.014737252,
+            "Time": 675000,
+            "Data": 210.7811335
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.699831689,
+            "Time": 676000,
+            "Data": 216.0570483
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.220557871,
+            "Time": 677000,
+            "Data": 219.0776041
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.137342142,
+            "Time": 678000,
+            "Data": 221.3977785
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.134079804,
+            "Time": 679000,
+            "Data": 225.2830347
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.242557473,
+            "Time": 680000,
+            "Data": 228.446114
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.809462739,
+            "Time": 681000,
+            "Data": 228.1109289
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.710663524,
+            "Time": 682000,
+            "Data": 225.1263098
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.570572579,
+            "Time": 683000,
+            "Data": 222.8382005
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.815102081,
+            "Time": 684000,
+            "Data": 222.5351127
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.573778616,
+            "Time": 685000,
+            "Data": 222.5687083
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.613934248,
+            "Time": 686000,
+            "Data": 222.6048304
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.182695411,
+            "Time": 687000,
+            "Data": 223.7963955
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.874743949,
+            "Time": 688000,
+            "Data": 226.3861029
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.278125587,
+            "Time": 689000,
+            "Data": 229.8081258
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.311289367,
+            "Time": 690000,
+            "Data": 233.4852746
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.858681118,
+            "Time": 691000,
+            "Data": 236.7705473
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.172588339,
+            "Time": 692000,
+            "Data": 239.0012079
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.759375989,
+            "Time": 693000,
+            "Data": 239.8553583
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.575753143,
+            "Time": 694000,
+            "Data": 239.7329571
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.391872308,
+            "Time": 695000,
+            "Data": 239.2278612
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.251636075,
+            "Time": 696000,
+            "Data": 238.8854216
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.252415266,
+            "Time": 697000,
+            "Data": 239.1314834
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.312075391,
+            "Time": 698000,
+            "Data": 239.5706456
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.56449837,
+            "Time": 699000,
+            "Data": 239.2242317
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.03795372,
+            "Time": 700000,
+            "Data": 237.717208
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.266983444,
+            "Time": 701000,
+            "Data": 235.4734798
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.887469508,
+            "Time": 702000,
+            "Data": 233.4635776
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.432577139,
+            "Time": 703000,
+            "Data": 232.7010274
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.460948244,
+            "Time": 704000,
+            "Data": 233.2897719
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.580317098,
+            "Time": 705000,
+            "Data": 234.5704595
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.528003337,
+            "Time": 706000,
+            "Data": 235.6089851
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.640576207,
+            "Time": 707000,
+            "Data": 235.6008886
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.95821446,
+            "Time": 708000,
+            "Data": 234.4406961
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.431623506,
+            "Time": 709000,
+            "Data": 232.428184
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.795814737,
+            "Time": 710000,
+            "Data": 229.621911
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.335222322,
+            "Time": 711000,
+            "Data": 226.8747777
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.600348338,
+            "Time": 712000,
+            "Data": 225.314268
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.572233077,
+            "Time": 713000,
+            "Data": 225.0731638
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.878353593,
+            "Time": 714000,
+            "Data": 224.9154463
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.121681219,
+            "Time": 715000,
+            "Data": 222.3565129
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.65147948,
+            "Time": 716000,
+            "Data": 215.9628301
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 12.5655706,
+            "Time": 717000,
+            "Data": 207.0677934
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.32825108,
+            "Time": 718000,
+            "Data": 200.5857542
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.16017623,
+            "Time": 719000,
+            "Data": 201.8439222
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.25394719,
+            "Time": 720000,
+            "Data": 208.7190952
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.295182497,
+            "Time": 721000,
+            "Data": 214.4102607
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.793849262,
+            "Time": 722000,
+            "Data": 215.8193168
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.129520346,
+            "Time": 723000,
+            "Data": 214.5265135
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.661896378,
+            "Time": 724000,
+            "Data": 212.9659184
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.330431299,
+            "Time": 725000,
+            "Data": 211.9258259
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.142494334,
+            "Time": 726000,
+            "Data": 211.3342707
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.076098811,
+            "Time": 727000,
+            "Data": 210.9346937
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.064818521,
+            "Time": 728000,
+            "Data": 210.6509864
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.09102148,
+            "Time": 729000,
+            "Data": 210.6785029
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.154043297,
+            "Time": 730000,
+            "Data": 210.8589477
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.307862755,
+            "Time": 731000,
+            "Data": 210.9963791
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.655911884,
+            "Time": 732000,
+            "Data": 210.9331498
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.189683585,
+            "Time": 733000,
+            "Data": 211.0489886
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.694407941,
+            "Time": 734000,
+            "Data": 212.366507
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.77958923,
+            "Time": 735000,
+            "Data": 213.9483886
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.189972709,
+            "Time": 736000,
+            "Data": 213.1686748
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.211254217,
+            "Time": 737000,
+            "Data": 208.5516813
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 11.19749453,
+            "Time": 738000,
+            "Data": 200.462455
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 9.596674461,
+            "Time": 739000,
+            "Data": 191.8625074
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.902776286,
+            "Time": 740000,
+            "Data": 186.9994656
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.013400445,
+            "Time": 741000,
+            "Data": 186.1871523
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.633165088,
+            "Time": 742000,
+            "Data": 187.0912814
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.303823792,
+            "Time": 743000,
+            "Data": 187.8689381
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.132088786,
+            "Time": 744000,
+            "Data": 188.1911684
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.146919539,
+            "Time": 745000,
+            "Data": 188.3355195
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.20840032,
+            "Time": 746000,
+            "Data": 188.4548502
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.196189679,
+            "Time": 747000,
+            "Data": 188.4352608
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.195949531,
+            "Time": 748000,
+            "Data": 188.445498
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.372345812,
+            "Time": 749000,
+            "Data": 189.073882
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.625760902,
+            "Time": 750000,
+            "Data": 190.4409578
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.992547205,
+            "Time": 751000,
+            "Data": 192.2148538
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.586719797,
+            "Time": 752000,
+            "Data": 194.4870429
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.022315441,
+            "Time": 753000,
+            "Data": 197.1161781
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.14555082,
+            "Time": 754000,
+            "Data": 199.6415111
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.452770857,
+            "Time": 755000,
+            "Data": 202.3544792
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.194034983,
+            "Time": 756000,
+            "Data": 205.9755039
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.071013373,
+            "Time": 757000,
+            "Data": 210.7896536
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.339600475,
+            "Time": 758000,
+            "Data": 216.7152712
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.885605379,
+            "Time": 759000,
+            "Data": 221.4774434
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.704081282,
+            "Time": 760000,
+            "Data": 223.0801209
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.188016503,
+            "Time": 761000,
+            "Data": 221.8223279
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.381962106,
+            "Time": 762000,
+            "Data": 219.0369517
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.541019777,
+            "Time": 763000,
+            "Data": 218.4579376
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.742585793,
+            "Time": 764000,
+            "Data": 222.0368898
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.335818663,
+            "Time": 765000,
+            "Data": 226.2936923
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.305922792,
+            "Time": 766000,
+            "Data": 228.4410837
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.916575764,
+            "Time": 767000,
+            "Data": 228.0780814
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.673841786,
+            "Time": 768000,
+            "Data": 226.099464
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.010595955,
+            "Time": 769000,
+            "Data": 225.8787345
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.659133017,
+            "Time": 770000,
+            "Data": 229.3864255
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.244760659,
+            "Time": 771000,
+            "Data": 234.5374303
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.631812919,
+            "Time": 772000,
+            "Data": 238.7256514
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.528137161,
+            "Time": 773000,
+            "Data": 240.9846961
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.772810798,
+            "Time": 774000,
+            "Data": 241.3730923
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.714089369,
+            "Time": 775000,
+            "Data": 241.7397825
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.196886309,
+            "Time": 776000,
+            "Data": 244.1132222
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.182990156,
+            "Time": 777000,
+            "Data": 247.4476732
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.834355862,
+            "Time": 778000,
+            "Data": 250.6254474
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.106299104,
+            "Time": 779000,
+            "Data": 252.9280986
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.590630564,
+            "Time": 780000,
+            "Data": 253.9435609
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.709867456,
+            "Time": 781000,
+            "Data": 254.35435
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.980167798,
+            "Time": 782000,
+            "Data": 255.0079072
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.162893428,
+            "Time": 783000,
+            "Data": 256.2017273
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.288509005,
+            "Time": 784000,
+            "Data": 257.8727842
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.584015885,
+            "Time": 785000,
+            "Data": 259.7104383
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 5.151375954,
+            "Time": 786000,
+            "Data": 261.7269065
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.866958863,
+            "Time": 787000,
+            "Data": 262.3980558
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.96880598,
+            "Time": 788000,
+            "Data": 258.5269174
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 14.04023121,
+            "Time": 789000,
+            "Data": 249.5843383
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 13.06378972,
+            "Time": 790000,
+            "Data": 238.9904221
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 10.17059028,
+            "Time": 791000,
+            "Data": 230.3050314
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 8.532819446,
+            "Time": 792000,
+            "Data": 223.3135763
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.047700894,
+            "Time": 793000,
+            "Data": 217.9819952
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.5558292,
+            "Time": 794000,
+            "Data": 213.9809699
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 7.01918888,
+            "Time": 795000,
+            "Data": 209.2557424
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 6.423954662,
+            "Time": 796000,
+            "Data": 204.2444086
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.920668011,
+            "Time": 797000,
+            "Data": 200.8146991
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.708426803,
+            "Time": 798000,
+            "Data": 199.5895997
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.272006435,
+            "Time": 799000,
+            "Data": 199.620448
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.188922185,
+            "Time": 800000,
+            "Data": 199.4462183
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.481310125,
+            "Time": 801000,
+            "Data": 199.386654
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.185578832,
+            "Time": 802000,
+            "Data": 200.7505923
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.310340771,
+            "Time": 803000,
+            "Data": 202.5350006
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 4.045657457,
+            "Time": 804000,
+            "Data": 203.6901819
+        },
+        {
+            "Carbon dioxide uncertainty (1sd, ppm)": 3.850024805,
+            "Time": 805000,
+            "Data": 204.3633739
+        }
+    ]
+}
