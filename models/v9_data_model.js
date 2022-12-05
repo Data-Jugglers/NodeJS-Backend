@@ -26,6 +26,10 @@ const getV9Data = async () => {
     ).rows;
     dataJSON[i] = {};
     dataJSON[i]["sector"] = result.rows[i];
+
+    dataJSON[i]["sector"]["category"] =
+      dataJSON[i]["sector"]["measurement_date"];
+
     dataJSON[i]["subSectors"] = sectorData;
     dataJSON[i]["subSubSectors"] = {};
 
