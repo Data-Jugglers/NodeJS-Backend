@@ -6,7 +6,7 @@ const graphDataV4 = require("../models/v4_data_model");
 const graphDataV5 = require("../models/v5_data_model");
 const graphDataV7 = require("../models/v7_data_model");
 const graphDataV8 = require("../models/v8_data_model");
-const e = require("express");
+const graphDataV9 = require("../models/v9_data_model");
 
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
@@ -68,6 +68,14 @@ router.get("/v8", async (req, res, next) => {
   }
 });
 
+router.get("/v9", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV9.getV9Data(req.params.id));
+  } catch (error) {
+    next(error);
+  }
+});
+
 // POST method to insert all datasets required for V1 into the database
 // 6 datasets = 6 set_ids
 // 1=Global m, 2=Northern m, 3=Southern m, ..., 6=Southern y
@@ -122,6 +130,14 @@ router.post("/v4", async (req, res, next) => {
 router.post("/v8", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV8.setV8());
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.post("/v9", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV9.setV9());
   } catch (error) {
     next(error);
   }
