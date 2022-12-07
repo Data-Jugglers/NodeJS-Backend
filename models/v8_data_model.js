@@ -258,6 +258,7 @@ const getV8Data = async () => {
     } else {
       allResults.push(temp);
       temp = [];
+      temp.push(resultRows[i]);
       // console.log(element);
     }
   }
