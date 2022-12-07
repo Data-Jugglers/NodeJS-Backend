@@ -246,7 +246,7 @@ const getV8Data = async () => {
   // const ID = SET_ID[i];
   const resultRows = (
     await db.query(
-      "select * from datasets where set_id between 21 and 239 order by set_id asc ,measurement_date asc"
+      "select * from datasets where set_id between $1 and $2 order by set_id asc ,measurement_date asc",[SET_ID[0],SET_ID[SET_ID.length()-1]]
     )
   ).rows;
 
