@@ -270,6 +270,7 @@ const getV8Data = async () => {
     [SET_ID[0]]
   );
   allResults.push(description.rows);
+  allResults.push(COUNTRIES);
 
   return helper.emptyOrNot(allResults);
 };
