@@ -10,6 +10,7 @@ const graphDataV6 = require("../models/v6_data_model");
 const graphDataV7 = require("../models/v7_data_model");
 const graphDataV8 = require("../models/v8_data_model");
 const graphDataV9 = require("../models/v9_data_model");
+const graphDataV10 = require("../models/v10_data_model");
 
 
 // GET methods to retrieve data for each visualization
@@ -88,6 +89,14 @@ router.get("/v9", async (req, res, next) => {
     next(error);
   }
 });
+// v10
+router.get("/v10", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV10.getV10Data());
+  } catch (error) {
+    next(error);
+  }
+});
 
 // POST method to insert all datasets required for V1 into the database
 // 6 datasets = 6 set_ids
@@ -159,6 +168,14 @@ router.post("/v8", async (req, res, next) => {
 router.post("/v9", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV9.setV9());
+  } catch (error) {
+    next(error);
+  }
+});
+// v10
+router.post("/v10", async (req, res, next) => {
+  try {
+    res.status(200).json(await graphDataV10.setV10());
   } catch (error) {
     next(error);
   }

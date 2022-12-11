@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "YearsBP": "1500000",
+      "Event": "earliest control of fire, by Homo erectus (Koobi Fora, Kenya): uniquely human capability → extending the day with firelight; improving nutrient uptake with cooked food by 780,000 years ago; widespread use of fire by 400,000 years ago"
+    },
+    {
+      "YearsBP": "500000",
+      "Event": "earliest use of stone-tipped spears, by Homo heidelbergensis (South Africa) for hunting large game"
+    },
+    {
+      "YearsBP": "125000",
+      "Event": "prelude to Earth's Last Glacial Period: global average temperature never again as high until CE 2021, during intensifying anthropogenic warming"
+    },
+    {
+      "YearsBP": "54000",
+      "Event": "modern humans, Homo sapiens, settling briefly in western Europe (Grotte Mandrin, France)? - preceded by and preceding Neanderthal settlements"
+    },
+    {
+      "YearsBP": "50000",
+      "Event": "Neanderthal fire-lighting technology (France): striking flint axes with mineral pyrite → wood the predominant fuel for cooking and heating until the CE 19ᵗʰ century"
+    },
+    {
+      "YearsBP": "41500",
+      "Event": "most recent reversal of Earth's magnetic poles, lasting 500 years, decreasing stratospheric ozone, driving global climate shifts and extinction events"
+    },
+    {
+      "YearsBP": "12800",
+      "Event": "climate shift contributing to megafaunal extinctions and human cultural changes (Younger Dryas): triggered by a comet airburst over North America and Europe?"
+    },
+    {
+      "YearsBP": "10100",
+      "Event": "global population of humans passes 5 million; annual energy use per person averages 1,700 kWh, 2.4x the resting metabolism"
+    },
+    {
+      "YearsBP": "4800",
+      "Event": "global population of humans passes 50 million; annual energy use per person averages 2,100 kWh, 3x the resting metabolism"
+    },
+    {
+      "YearsBP": "4000",
+      "Event": "earliest use of coal as fuel (Inner Mongolia and Shanxi, China), for smelting copper, cooking, heating → peak global coal production of 8.2 billion tonnes/year in CE 2013?"
+    },
+    {
+      "YearsBP": "1500",
+      "Event": "crop failures across the northern hemisphere caused by volcanic eruptions in Iceland; then bubonic plague (536-547) → century of economic stagnation"
+    }
+  ]
+}
