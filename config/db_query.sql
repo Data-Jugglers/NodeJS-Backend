@@ -13,6 +13,7 @@ CREATE TABLE datasets(
     primary key (data_id),
 	measurement_date varchar(256) not null,
     data decimal not null,
+	string varchar(512),
 	foreign key (set_id) references description (set_id)
 		on delete cascade
 );
