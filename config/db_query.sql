@@ -37,5 +37,5 @@ CREATE TABLE users(
 	user_id serial not null unique,
 	primary key (user_id),
 	username varchar(256) not null,
-	password varchar(256) not null,
+	password varchar(256) not null
 );
