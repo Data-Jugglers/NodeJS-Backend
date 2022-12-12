@@ -86,7 +86,7 @@ app.get("/login", async (req, res) => {
     res.status(500).send();
   }
 });
-app.delete("/users/:id", async (req, res) => {
+app.delete("/users/:id", authentificateToken, async (req, res) => {
   await db.query("DELETE FROM users WHERE user_id = $1", [req.params.id]);
   res.send("User deleted");
 });
