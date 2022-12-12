@@ -27,18 +27,10 @@ app.use((err, req, res, next) => {
   return;
 });
 
-// here we get all the users in db, should be deleted later
-//when there are no users in db the [] is returned
-app.get("/users", async (req, res) => {
-  const users = (await db.query("SELECT * FROM users")).rows;
-  if (users == []) return res.status(400).send("Cannot find users");
-  res.send(users);
-});
 
 app.post("/signup", async (req, res) => {
   try {
     const hashedPassword = await bcrypt.hash(req.body.password, 10);
-    console.log(hashedPassword);
 
     // const user = { username: req.body.username, password: hashedPassword };
     // users.push(user);
@@ -65,7 +57,6 @@ app.post("/signup", async (req, res) => {
 app.post("/login", async (req, res) => {
   const users = (await db.query("SELECT * FROM users")).rows;
   const user = users.find((user) => user.username === req.body.username);
-  console.log(user, " ", req.body)
   if (user == null) {
     return res.status(400).send("Cannot find user");
   }
