@@ -62,9 +62,10 @@ app.post("/signup", async (req, res) => {
   }
 });
 //for checking the login
-app.get("/login", async (req, res) => {
+app.post("/login", async (req, res) => {
   const users = (await db.query("SELECT * FROM users")).rows;
   const user = users.find((user) => user.username === req.body.username);
+  console.log(user, " ", req.body)
   if (user == null) {
     return res.status(400).send("Cannot find user");
   }
@@ -80,14 +81,14 @@ app.get("/login", async (req, res) => {
         id: user.user_id,
       });
     } else {
-      res.send("Not Allowed");
+      res.status(403).send("Not Allowed");
     }
   } catch {
     res.status(500).send();
   }
 });
-app.delete("/users/:id", authentificateToken, async (req, res) => {
-  await db.query("DELETE FROM users WHERE user_id = $1", [req.params.id]);
+app.delete("/user", async (req, res) => {
+  await db.query("DELETE FROM users WHERE user_id = $1", [req.body.id]);
   res.send("User deleted");
 });
 
