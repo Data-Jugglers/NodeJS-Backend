@@ -66,13 +66,13 @@ app.post("/login", async (req, res) => {
         { name: req.body.username },
         process.env.ACCESS_TOKEN_SECRET
       );
-      res.json({
+      res.status(200).json({
         userName: req.body.username,
         accessToken: accessToken,
         id: user.user_id,
       });
     } else {
-      res.status(403).send("Not Allowed");
+      res.status(403).send("Wrong password");
     }
   } catch {
     res.status(500).send();
