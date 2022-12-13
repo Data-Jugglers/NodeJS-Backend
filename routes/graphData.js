@@ -11,7 +11,7 @@ const graphDataV7 = require("../models/v7_data_model");
 const graphDataV8 = require("../models/v8_data_model");
 const graphDataV9 = require("../models/v9_data_model");
 const graphDataV10 = require("../models/v10_data_model");
-
+const viewModel = require("../models/view_model");
 
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
@@ -57,11 +57,10 @@ router.get("/v3", async (req, res, next) => {
   }
 });
 
-
 router.get("/v6", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV6.getV6Data(req.params.id));
-      } catch (error) {
+  } catch (error) {
     next(error);
   }
 });
@@ -176,6 +175,38 @@ router.post("/v9", async (req, res, next) => {
 router.post("/v10", async (req, res, next) => {
   try {
     res.status(200).json(await graphDataV10.setV10());
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.post("/view", async (req, res, next) => {
+  try {
+    res.status(200).json(await viewModel.addView(req.body));
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.get("/view", async (req, res, next) => {
+  try {
+    res.status(200).json(await viewModel.getViews());
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.get("/view/:id", async (req, res, next) => {
+  try {
+    res.status(200).json(await viewModel.getCreatedView(req.params.id));
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.delete("/view/:id", async (req, res, next) => {
+  try {
+    res.status(200).json(await viewModel.deleteView(req.params.id));
   } catch (error) {
     next(error);
   }
