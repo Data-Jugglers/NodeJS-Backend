@@ -1,7 +1,7 @@
 const db = require("../config/db");
 const helper = require("../config/helper");
 
-const addView = async (body) => {
+const addView = async (body, id) => {
   let exists = true;
   let viewID;
   let counter = 0;
@@ -26,7 +26,7 @@ const addView = async (body) => {
   }
   const result = await db.query(
     "insert into views (view_id, viewJson, user_id) values ($1,$2,$3)",
-    [viewID, body, /*Add User ID here*/]
+    [viewID, body, id]
   );
 };
 

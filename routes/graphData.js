@@ -180,9 +180,9 @@ router.post("/v10", async (req, res, next) => {
   }
 });
 
-router.post("/view", async (req, res, next) => {
+router.post("/view/:id", async (req, res, next) => {
   try {
-    res.status(200).json(await viewModel.addView(req.body));
+    res.status(200).json(await viewModel.addView(req.body, req.params.id));
   } catch (error) {
     next(error);
   }
