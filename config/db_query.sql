@@ -1,4 +1,4 @@
-drop table if exists datasets, description, sub_datasets, sub_sub_datasets, users;
+drop table if exists datasets, description, sub_datasets, sub_sub_datasets, users, views;
 
 CREATE TABLE description(
 	set_id serial not null unique,
@@ -39,4 +39,12 @@ CREATE TABLE users(
 	primary key (user_id),
 	username varchar(256) not null,
 	password varchar(256) not null
+);
+CREATE TABLE views(
+	view_id int not null unique,
+	primary key (view_id),
+	viewJson json,
+	user_id int,
+	foreign key (user_id) references users (user_id)
+		on delete cascade
 );
