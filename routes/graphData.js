@@ -12,7 +12,7 @@ const graphDataV8 = require("../models/v8_data_model");
 const graphDataV9 = require("../models/v9_data_model");
 const graphDataV10 = require("../models/v10_data_model");
 const viewModel = require("../models/view_model");
-
+const auth = require("../models/auth");
 // GET methods to retrieve data for each visualization
 // Returns Array that contains arrays of objects.
 // Response[0] = first dataset (GMonthly)  |  [1] = NM  |  [5] = SY  |  [6] = Links + Description
@@ -180,7 +180,7 @@ router.post("/v10", async (req, res, next) => {
   }
 });
 
-router.post("/view/:id", async (req, res, next) => {
+router.post("/view/:id", auth.authentificateToken, async (req, res, next) => {
   try {
     res.status(200).json(await viewModel.addView(req.body, req.params.id));
   } catch (error) {
@@ -204,9 +204,30 @@ router.get("/view/:id", async (req, res, next) => {
   }
 });
 
-router.delete("/view/:id", async (req, res, next) => {
+router.delete("/view/:id", auth.authentificateToken, async (req, res, next) => {
   try {
     res.status(200).json(await viewModel.deleteView(req.params.id));
+  } catch (error) {
+    next(error);
+  }
+});
+router.delete("/user", auth.authentificateToken, async (req, res, next) => {
+  try {
+    res.status(200).send(await auth.deleteUser(req, res));
+  } catch (error) {
+    next(error);
+  }
+});
+router.post("/login", async (req, res, next) => {
+  try {
+    res.status(200).send(await auth.login(req, res));
+  } catch (error) {
+    next(error);
+  }
+});
+router.post("/signup", async (req, res) => {
+  try {
+    res.status(200).send(await auth.signup(req, res));
   } catch (error) {
     next(error);
   }
