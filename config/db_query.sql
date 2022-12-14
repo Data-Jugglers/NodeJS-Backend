@@ -44,7 +44,7 @@ CREATE TABLE views(
 	view_id int not null unique,
 	primary key (view_id),
 	viewJson json,
-	user_id int,
+	user_id int not null,
 	foreign key (user_id) references users (user_id)
 		on delete cascade
 );
